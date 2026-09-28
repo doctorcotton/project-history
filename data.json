@@ -42559,7 +42559,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 243.7,
+        "duration_minutes": 250.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42585,10 +42585,12 @@
           "2026-09-28T11:15",
           "2026-09-28T11:20",
           "2026-09-28T11:25",
-          "2026-09-28T11:30"
+          "2026-09-28T11:30",
+          "2026-09-28T11:35",
+          "2026-09-28T11:40"
         ],
-        "input_events": 164,
-        "output_events": 164
+        "input_events": 178,
+        "output_events": 178
       },
       {
         "day": "2026-09-28",
@@ -42599,7 +42601,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 247.1,
+        "duration_minutes": 250.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42625,10 +42627,11 @@
           "2026-09-28T11:20",
           "2026-09-28T11:25",
           "2026-09-28T11:30",
-          "2026-09-28T11:35"
+          "2026-09-28T11:35",
+          "2026-09-28T11:40"
         ],
         "input_events": 0,
-        "output_events": 162
+        "output_events": 175
       },
       {
         "day": "2026-09-28",
@@ -42795,17 +42798,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.3,
+        "duration_minutes": 9.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-09-28T11:30",
-          "2026-09-28T11:35"
+          "2026-09-28T11:35",
+          "2026-09-28T11:40"
         ],
         "input_events": 0,
-        "output_events": 6
+        "output_events": 14
       },
       {
         "day": "2026-09-28",
@@ -42816,17 +42820,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.5,
+        "duration_minutes": 9.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-09-28T11:30",
-          "2026-09-28T11:35"
+          "2026-09-28T11:35",
+          "2026-09-28T11:40"
         ],
         "input_events": 0,
-        "output_events": 7
+        "output_events": 15
       },
       {
         "day": "2026-09-28",
@@ -61075,7 +61080,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 83635.0,
+    "duration_minutes": 83658.5,
     "tokens": 3127798655,
     "additions": 543836,
     "deletions": 202290,
@@ -63274,12 +63279,13 @@
       "2026-09-28T11:20",
       "2026-09-28T11:25",
       "2026-09-28T11:30",
-      "2026-09-28T11:35"
+      "2026-09-28T11:35",
+      "2026-09-28T11:40"
     ],
-    "input_events": 1691,
-    "output_events": 16176,
-    "active_minutes": 10970,
-    "active_slice_count": 2194
+    "input_events": 1705,
+    "output_events": 16219,
+    "active_minutes": 10975,
+    "active_slice_count": 2195
   },
   {
     "name": "track-insight-miniapp",
