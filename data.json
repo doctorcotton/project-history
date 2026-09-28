@@ -42679,12 +42679,12 @@
         "day": "2026-09-28",
         "kind": "session",
         "title": "本机 ZCode 会话 · a3aaf3d6",
-        "summary": "9月的都补一下",
+        "summary": "Macmini可以不管了 ，只维护github",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_21f2c3cd-160c-403d-a324-4a79a3aaf3d6.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 254.1,
+        "duration_minutes": 267.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42712,10 +42712,12 @@
           "2026-09-28T11:25",
           "2026-09-28T11:30",
           "2026-09-28T11:35",
-          "2026-09-28T11:40"
+          "2026-09-28T11:40",
+          "2026-09-28T11:45",
+          "2026-09-28T11:55"
         ],
-        "input_events": 183,
-        "output_events": 183
+        "input_events": 189,
+        "output_events": 189
       },
       {
         "day": "2026-09-28",
@@ -42726,7 +42728,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 254.3,
+        "duration_minutes": 267.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42753,10 +42755,12 @@
           "2026-09-28T11:25",
           "2026-09-28T11:30",
           "2026-09-28T11:35",
-          "2026-09-28T11:40"
+          "2026-09-28T11:40",
+          "2026-09-28T11:45",
+          "2026-09-28T11:55"
         ],
         "input_events": 0,
-        "output_events": 180
+        "output_events": 186
       },
       {
         "day": "2026-09-28",
@@ -42918,12 +42922,12 @@
         "day": "2026-09-28",
         "kind": "session",
         "title": "本机 ZCode 会话 · 0186c0e2",
-        "summary": "当天有 ZCode 会话活动。",
+        "summary": "EasyConnect [Image: source: /Users/cottondog/.zcode/cli/image-cache/sess_c0be837f-46cb-4daf-8fd5-56b70186c0e2/image-b22ba8e155c2dc8896caac2b641cbd1e.png]",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_c0be837f-46cb-4daf-8fd5-56b70186c0e2.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 12.2,
+        "duration_minutes": 26.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42932,10 +42936,13 @@
           "2026-09-28T11:30",
           "2026-09-28T11:35",
           "2026-09-28T11:40",
-          "2026-09-28T11:45"
+          "2026-09-28T11:45",
+          "2026-09-28T11:50",
+          "2026-09-28T11:55",
+          "2026-09-28T12:00"
         ],
-        "input_events": 0,
-        "output_events": 18
+        "input_events": 8,
+        "output_events": 37
       },
       {
         "day": "2026-09-28",
@@ -42946,7 +42953,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 12.5,
+        "duration_minutes": 26.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42955,10 +42962,13 @@
           "2026-09-28T11:30",
           "2026-09-28T11:35",
           "2026-09-28T11:40",
-          "2026-09-28T11:45"
+          "2026-09-28T11:45",
+          "2026-09-28T11:50",
+          "2026-09-28T11:55",
+          "2026-09-28T12:00"
         ],
         "input_events": 0,
-        "output_events": 19
+        "output_events": 38
       },
       {
         "day": "2026-09-28",
@@ -61324,7 +61334,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 83672.9,
+    "duration_minutes": 83727.7,
     "tokens": 3127798655,
     "additions": 543836,
     "deletions": 202290,
@@ -63572,12 +63582,15 @@
       "2026-09-28T11:30",
       "2026-09-28T11:35",
       "2026-09-28T11:40",
-      "2026-09-28T11:45"
+      "2026-09-28T11:45",
+      "2026-09-28T11:50",
+      "2026-09-28T11:55",
+      "2026-09-28T12:00"
     ],
-    "input_events": 1710,
-    "output_events": 18304,
-    "active_minutes": 11215,
-    "active_slice_count": 2243
+    "input_events": 1724,
+    "output_events": 18354,
+    "active_minutes": 11230,
+    "active_slice_count": 2246
   },
   {
     "name": "track-insight-miniapp",
