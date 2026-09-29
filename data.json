@@ -13,16 +13,36 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 6.3,
-        "tokens": 777672,
+        "duration_minutes": 9.9,
+        "tokens": 22473188,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-09-29T10:55"
+          "2026-09-29T10:55",
+          "2026-09-29T11:05",
+          "2026-09-29T11:15"
         ],
         "input_events": 2,
-        "output_events": 2
+        "output_events": 4
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "git",
+        "title": "fix(合规): 精确绑定法规依据并隔离审核项引用",
+        "summary": "提交 15171522：fix(合规): 精确绑定法规依据并隔离审核项引用",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 136187,
+        "deletions": 282,
+        "files_changed": 224,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-09-28",
@@ -10472,11 +10492,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 33893.4,
-    "tokens": 3960957654,
-    "additions": 17443783,
-    "deletions": 14550472,
-    "files_changed": 22231,
+    "duration_minutes": 33897.0,
+    "tokens": 3982653170,
+    "additions": 17579970,
+    "deletions": 14550754,
+    "files_changed": 22455,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -12621,12 +12641,14 @@
       "2026-09-28T23:40",
       "2026-09-28T23:45",
       "2026-09-28T23:50",
-      "2026-09-29T10:55"
+      "2026-09-29T10:55",
+      "2026-09-29T11:05",
+      "2026-09-29T11:15"
     ],
     "input_events": 1002,
-    "output_events": 9824,
-    "active_minutes": 10720,
-    "active_slice_count": 2144
+    "output_events": 9826,
+    "active_minutes": 10730,
+    "active_slice_count": 2146
   },
   {
     "name": "QMS标准",
@@ -42930,7 +42952,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 19.5,
+        "duration_minutes": 20.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42942,8 +42964,8 @@
           "2026-09-29T11:15",
           "2026-09-29T11:20"
         ],
-        "input_events": 68,
-        "output_events": 68
+        "input_events": 70,
+        "output_events": 70
       },
       {
         "day": "2026-09-29",
@@ -42969,6 +42991,28 @@
         ],
         "input_events": 0,
         "output_events": 70
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 215e279b",
+        "summary": "’ [Image: source: /Users/cottondog/.zcode/cli/image-cache/sess_2d71a88d-7ca0-4cf0-956d-1a11215e279b/image-a3e88e1b9ad9107367c71694f25a2258.png]",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_2d71a88d-7ca0-4cf0-956d-1a11215e279b.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 11.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T11:00",
+          "2026-09-29T11:05",
+          "2026-09-29T11:10"
+        ],
+        "input_events": 22,
+        "output_events": 32
       },
       {
         "day": "2026-09-29",
@@ -43029,8 +43073,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 9.3,
-        "tokens": 1482097,
+        "duration_minutes": 10.5,
+        "tokens": 1592355,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -62605,8 +62649,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87131.4,
-    "tokens": 3257117507,
+    "duration_minutes": 87144.1,
+    "tokens": 3257227765,
     "additions": 552082,
     "deletions": 202978,
     "files_changed": 6710,
@@ -64918,8 +64962,8 @@
       "2026-09-29T11:15",
       "2026-09-29T11:20"
     ],
-    "input_events": 3176,
-    "output_events": 20961,
+    "input_events": 3200,
+    "output_events": 20995,
     "active_minutes": 11530,
     "active_slice_count": 2306
   },
