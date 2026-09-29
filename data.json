@@ -7,6 +7,52 @@
       {
         "day": "2026-09-29",
         "kind": "session",
+        "title": "本机 ZCode 会话 · e9e53426",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_9c7d42d3-4db2-459b-b394-4a34e9e53426.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 12.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T20:55",
+          "2026-09-29T21:00",
+          "2026-09-29T21:05",
+          "2026-09-29T21:10"
+        ],
+        "input_events": 0,
+        "output_events": 9
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · e9e53426",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 15.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T20:55",
+          "2026-09-29T21:00",
+          "2026-09-29T21:05",
+          "2026-09-29T21:10"
+        ],
+        "input_events": 0,
+        "output_events": 14
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 89a5ebc4",
         "summary": "「2 个模式同 pod」指的是哪两个部署单元放进同一个 Pod？ 未提供回答 同一个 Pod 内用什么容器形态？ 未提供回答 对外流量入口怎么设计？ 未提供回答 部署资产以什么形式落地到仓库？ 未提供回答 你再问问呢",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_1d5571c7-c5a0-4e57-bc6e-c6bb89a5ebc4.jsonl",
@@ -10659,7 +10705,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 34304.0,
+    "duration_minutes": 34331.5,
     "tokens": 3994036295,
     "additions": 17581448,
     "deletions": 14550758,
@@ -12827,12 +12873,16 @@
       "2026-09-29T19:05",
       "2026-09-29T19:20",
       "2026-09-29T19:40",
-      "2026-09-29T19:45"
+      "2026-09-29T19:45",
+      "2026-09-29T20:55",
+      "2026-09-29T21:00",
+      "2026-09-29T21:05",
+      "2026-09-29T21:10"
     ],
     "input_events": 1008,
-    "output_events": 9966,
-    "active_minutes": 10815,
-    "active_slice_count": 2163
+    "output_events": 9989,
+    "active_minutes": 10835,
+    "active_slice_count": 2167
   },
   {
     "name": "QMS标准",
