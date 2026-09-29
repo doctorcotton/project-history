@@ -8,12 +8,12 @@
         "day": "2026-09-29",
         "kind": "session",
         "title": "本机 ZCode 会话 · e9e53426",
-        "summary": "当天有 ZCode 会话活动。",
+        "summary": "审查结论：**当前不建议直接交运维平台应用**。两笔提交本地工作树干净，但发现至少两处会让 proof 容器启动失败的 P1 问题。 - **P1：proof 的 Redis Stream 配置必然启动失败。** [configmap.example.yaml:181](/Users/cottondog/Work-p…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_9c7d42d3-4db2-459b-b394-4a34e9e53426.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 12.2,
+        "duration_minutes": 22.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22,10 +22,12 @@
           "2026-09-29T20:55",
           "2026-09-29T21:00",
           "2026-09-29T21:05",
-          "2026-09-29T21:10"
+          "2026-09-29T21:10",
+          "2026-09-29T21:15",
+          "2026-09-29T21:20"
         ],
-        "input_events": 0,
-        "output_events": 9
+        "input_events": 1,
+        "output_events": 30
       },
       {
         "day": "2026-09-29",
@@ -36,7 +38,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 15.3,
+        "duration_minutes": 22.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -45,10 +47,12 @@
           "2026-09-29T20:55",
           "2026-09-29T21:00",
           "2026-09-29T21:05",
-          "2026-09-29T21:10"
+          "2026-09-29T21:10",
+          "2026-09-29T21:15",
+          "2026-09-29T21:20"
         ],
         "input_events": 0,
-        "output_events": 14
+        "output_events": 29
       },
       {
         "day": "2026-09-29",
@@ -10705,7 +10709,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 34331.5,
+    "duration_minutes": 34348.8,
     "tokens": 3994036295,
     "additions": 17581448,
     "deletions": 14550758,
@@ -12877,12 +12881,14 @@
       "2026-09-29T20:55",
       "2026-09-29T21:00",
       "2026-09-29T21:05",
-      "2026-09-29T21:10"
+      "2026-09-29T21:10",
+      "2026-09-29T21:15",
+      "2026-09-29T21:20"
     ],
-    "input_events": 1008,
-    "output_events": 9989,
-    "active_minutes": 10835,
-    "active_slice_count": 2167
+    "input_events": 1009,
+    "output_events": 10025,
+    "active_minutes": 10845,
+    "active_slice_count": 2169
   },
   {
     "name": "QMS标准",
@@ -44577,8 +44583,8 @@
           "前端加载、预加载、缓存与性能基线调查",
           "后端 API 聚合、批量接口和预计算计划"
         ],
-        "duration_minutes": 1333.9,
-        "tokens": 10125199,
+        "duration_minutes": 1461.2,
+        "tokens": 10830654,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44600,10 +44606,11 @@
           "2026-09-29T18:35",
           "2026-09-29T18:40",
           "2026-09-29T19:15",
-          "2026-09-29T19:20"
+          "2026-09-29T19:20",
+          "2026-09-29T21:25"
         ],
-        "input_events": 10,
-        "output_events": 37
+        "input_events": 11,
+        "output_events": 41
       },
       {
         "day": "2026-09-28",
@@ -63208,8 +63215,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 98627.8,
-    "tokens": 3301472983,
+    "duration_minutes": 98755.1,
+    "tokens": 3302178438,
     "additions": 552872,
     "deletions": 203135,
     "files_changed": 6736,
@@ -65553,12 +65560,13 @@
       "2026-09-29T19:25",
       "2026-09-29T19:30",
       "2026-09-29T19:35",
-      "2026-09-29T19:40"
+      "2026-09-29T19:40",
+      "2026-09-29T21:25"
     ],
-    "input_events": 3391,
-    "output_events": 21493,
-    "active_minutes": 11700,
-    "active_slice_count": 2340
+    "input_events": 3392,
+    "output_events": 21497,
+    "active_minutes": 11705,
+    "active_slice_count": 2341
   },
   {
     "name": "track-insight-miniapp",
