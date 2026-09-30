@@ -8,12 +8,12 @@
         "day": "2026-09-30",
         "kind": "session",
         "title": "本机 ZCode 会话 · 58d0386c",
-        "summary": "当天有 ZCode 会话活动。",
+        "summary": "这份 2026 业务审核指引纳入内部规则库到什么深度？（zip 内无批准人/生效日等元数据，脚本当前设计停在待审候选区） 未提供回答 再问",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b3f688f4-bfaf-4726-9453-d1f158d0386c.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.1,
+        "duration_minutes": 62.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -21,10 +21,12 @@
         "active_bucket_keys": [
           "2026-09-30T17:50",
           "2026-09-30T17:55",
-          "2026-09-30T18:05"
+          "2026-09-30T18:05",
+          "2026-09-30T18:45",
+          "2026-09-30T18:50"
         ],
-        "input_events": 0,
-        "output_events": 9
+        "input_events": 6,
+        "output_events": 15
       },
       {
         "day": "2026-09-30",
@@ -35,7 +37,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.0,
+        "duration_minutes": 62.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43,10 +45,12 @@
         "active_bucket_keys": [
           "2026-09-30T17:50",
           "2026-09-30T17:55",
-          "2026-09-30T18:00"
+          "2026-09-30T18:00",
+          "2026-09-30T18:45",
+          "2026-09-30T18:50"
         ],
         "input_events": 0,
-        "output_events": 9
+        "output_events": 15
       },
       {
         "day": "2026-09-30",
@@ -10757,7 +10761,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 33915.7,
+    "duration_minutes": 34013.9,
     "tokens": 4020246825,
     "additions": 17582610,
     "deletions": 14550792,
@@ -12904,12 +12908,14 @@
       "2026-09-30T17:50",
       "2026-09-30T17:55",
       "2026-09-30T18:00",
-      "2026-09-30T18:05"
+      "2026-09-30T18:05",
+      "2026-09-30T18:45",
+      "2026-09-30T18:50"
     ],
-    "input_events": 1019,
-    "output_events": 9523,
-    "active_minutes": 10710,
-    "active_slice_count": 2142
+    "input_events": 1025,
+    "output_events": 9535,
+    "active_minutes": 10720,
+    "active_slice_count": 2144
   },
   {
     "name": "QMS标准",
@@ -43265,7 +43271,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 177.0,
+        "duration_minutes": 207.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43281,10 +43287,16 @@
           "2026-09-30T17:55",
           "2026-09-30T18:00",
           "2026-09-30T18:05",
-          "2026-09-30T18:10"
+          "2026-09-30T18:10",
+          "2026-09-30T18:15",
+          "2026-09-30T18:20",
+          "2026-09-30T18:25",
+          "2026-09-30T18:30",
+          "2026-09-30T18:35",
+          "2026-09-30T18:40"
         ],
-        "input_events": 98,
-        "output_events": 108
+        "input_events": 247,
+        "output_events": 257
       },
       {
         "day": "2026-09-30",
@@ -43295,7 +43307,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 177.4,
+        "duration_minutes": 207.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43310,10 +43322,16 @@
           "2026-09-30T17:55",
           "2026-09-30T18:00",
           "2026-09-30T18:05",
-          "2026-09-30T18:10"
+          "2026-09-30T18:10",
+          "2026-09-30T18:15",
+          "2026-09-30T18:20",
+          "2026-09-30T18:25",
+          "2026-09-30T18:30",
+          "2026-09-30T18:35",
+          "2026-09-30T18:40"
         ],
         "input_events": 0,
-        "output_events": 108
+        "output_events": 256
       },
       {
         "day": "2026-09-30",
@@ -43820,7 +43838,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 17.6,
-        "tokens": 3414600,
+        "tokens": 11214712,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -43828,10 +43846,13 @@
           "2026-09-30T17:25",
           "2026-09-30T17:30",
           "2026-09-30T17:40",
-          "2026-09-30T17:50"
+          "2026-09-30T17:50",
+          "2026-09-30T18:45",
+          "2026-09-30T18:50",
+          "2026-09-30T18:55"
         ],
-        "input_events": 0,
-        "output_events": 5
+        "input_events": 2,
+        "output_events": 8
       },
       {
         "day": "2026-09-30",
@@ -43929,6 +43950,42 @@
         "additions": 7,
         "deletions": 6,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "refactor(实时): websocket 插件注册上提组合根唯一一次",
+        "summary": "提交 96b55cf：refactor(实时): websocket 插件注册上提组合根唯一一次",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 3,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "refactor(实时): RealtimeHub 泛化为平台枢纽并迁至 realtime 模块，评论频道双协议扇出",
+        "summary": "提交 fd01dde：refactor(实时): RealtimeHub 泛化为平台枢纽并迁至 realtime 模块，评论频道双协议扇出",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 824,
+        "deletions": 425,
+        "files_changed": 7,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -44152,6 +44209,42 @@
       {
         "day": "2026-09-30",
         "kind": "git",
+        "title": "fix(实时): 补全探针就绪超时诊断",
+        "summary": "提交 53e1917：fix(实时): 补全探针就绪超时诊断",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1,
+        "deletions": 1,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "fix(实时): 修复探针 Promise 参数 lint 门禁",
+        "summary": "提交 6ce28c2：fix(实时): 修复探针 Promise 参数 lint 门禁",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 3,
+        "deletions": 2,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
         "title": "fix(外部客户端): 韧性四件套——有界队列/流式限长/幂等重试/连续失败熔断",
         "summary": "提交 1329e3e：fix(外部客户端): 韧性四件套——有界队列/流式限长/幂等重试/连续失败熔断",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -44296,6 +44389,24 @@
       {
         "day": "2026-09-30",
         "kind": "git",
+        "title": "feat(部署): nginx 与本地 dev 的 /api/realtime 通道",
+        "summary": "提交 98e7127：feat(部署): nginx 与本地 dev 的 /api/realtime 通道",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 49,
+        "deletions": 0,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
         "title": "feat(记录域): 审批中允许暂存并支持重新提交内审撤回上一轮",
         "summary": "提交 a78b24c：feat(记录域): 审批中允许暂存并支持重新提交内审撤回上一轮",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -44343,6 +44454,78 @@
         "additions": 2272,
         "deletions": 488,
         "files_changed": 28,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "feat(实时契约): realtime-contracts 包与平台实时 OpenAPI 登记",
+        "summary": "提交 1311c01：feat(实时契约): realtime-contracts 包与平台实时 OpenAPI 登记",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 851,
+        "deletions": 0,
+        "files_changed": 11,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "feat(实时前端): comment-ui 新协议切换 flag，双传输与降级计时器模块化",
+        "summary": "提交 125d489：feat(实时前端): comment-ui 新协议切换 flag，双传输与降级计时器模块化",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 543,
+        "deletions": 84,
+        "files_changed": 11,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "feat(实时): 平台 v1 会话状态机与网关探针健康路由，组合根装配与指标",
+        "summary": "提交 3a8e984：feat(实时): 平台 v1 会话状态机与网关探针健康路由，组合根装配与指标",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1089,
+        "deletions": 30,
+        "files_changed": 8,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "git",
+        "title": "feat(可观测): realtime 探针脚本与网关验证运维清单",
+        "summary": "提交 29f83fc：feat(可观测): realtime 探针脚本与网关验证运维清单",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 245,
+        "deletions": 0,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -64562,11 +64745,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 100835.4,
-    "tokens": 3336116842,
-    "additions": 562232,
-    "deletions": 204182,
-    "files_changed": 6985,
+    "duration_minutes": 100895.4,
+    "tokens": 3343916954,
+    "additions": 565844,
+    "deletions": 204727,
+    "files_changed": 7031,
     "active_bucket_keys": [
       "2026-08-14T05:55",
       "2026-08-14T06:00",
@@ -66930,12 +67113,21 @@
       "2026-09-30T17:55",
       "2026-09-30T18:00",
       "2026-09-30T18:05",
-      "2026-09-30T18:10"
+      "2026-09-30T18:10",
+      "2026-09-30T18:15",
+      "2026-09-30T18:20",
+      "2026-09-30T18:25",
+      "2026-09-30T18:30",
+      "2026-09-30T18:35",
+      "2026-09-30T18:40",
+      "2026-09-30T18:45",
+      "2026-09-30T18:50",
+      "2026-09-30T18:55"
     ],
-    "input_events": 4060,
-    "output_events": 24092,
-    "active_minutes": 11815,
-    "active_slice_count": 2363
+    "input_events": 4211,
+    "output_events": 24392,
+    "active_minutes": 11860,
+    "active_slice_count": 2372
   },
   {
     "name": "track-insight-miniapp",
