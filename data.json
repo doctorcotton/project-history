@@ -42927,7 +42927,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 18.2,
+        "duration_minutes": 21.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42936,10 +42936,11 @@
           "2026-09-30T07:00",
           "2026-09-30T07:05",
           "2026-09-30T07:10",
-          "2026-09-30T07:15"
+          "2026-09-30T07:15",
+          "2026-09-30T07:20"
         ],
         "input_events": 0,
-        "output_events": 34
+        "output_events": 42
       },
       {
         "day": "2026-09-30",
@@ -42950,7 +42951,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 18.4,
+        "duration_minutes": 21.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42959,10 +42960,11 @@
           "2026-09-30T07:00",
           "2026-09-30T07:05",
           "2026-09-30T07:10",
-          "2026-09-30T07:15"
+          "2026-09-30T07:15",
+          "2026-09-30T07:20"
         ],
         "input_events": 0,
-        "output_events": 34
+        "output_events": 42
       },
       {
         "day": "2026-09-29",
@@ -63029,7 +63031,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 98438.6,
+    "duration_minutes": 98444.2,
     "tokens": 3302178438,
     "additions": 552872,
     "deletions": 203135,
@@ -65328,12 +65330,13 @@
       "2026-09-30T07:00",
       "2026-09-30T07:05",
       "2026-09-30T07:10",
-      "2026-09-30T07:15"
+      "2026-09-30T07:15",
+      "2026-09-30T07:20"
     ],
     "input_events": 3394,
-    "output_events": 21053,
-    "active_minutes": 11470,
-    "active_slice_count": 2294
+    "output_events": 21069,
+    "active_minutes": 11475,
+    "active_slice_count": 2295
   },
   {
     "name": "track-insight-miniapp",
