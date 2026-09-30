@@ -7,6 +7,73 @@
       {
         "day": "2026-09-30",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 58d0386c",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b3f688f4-bfaf-4726-9453-d1f158d0386c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-30T17:50",
+          "2026-09-30T17:55",
+          "2026-09-30T18:05"
+        ],
+        "input_events": 0,
+        "output_events": 9
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 58d0386c",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-30T17:50",
+          "2026-09-30T17:55",
+          "2026-09-30T18:00"
+        ],
+        "input_events": 0,
+        "output_events": 9
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · e271aced",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/09/30/rollout-2026-09-30T17-26-16-01a0f1a2-d71d-7f22-9994-bbbae271aced.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 24.4,
+        "tokens": 3273947,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-30T17:25",
+          "2026-09-30T17:30",
+          "2026-09-30T17:45",
+          "2026-09-30T17:50"
+        ],
+        "input_events": 3,
+        "output_events": 8
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · bb141b07",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/09/30/rollout-2026-09-30T11-42-27-01a0f068-13b0-7ef3-a5a9-f0a2bb141b07.jsonl",
@@ -224,28 +291,6 @@
       {
         "day": "2026-09-29",
         "kind": "session",
-        "title": "本机 Codex 会话补录 · 4e70301e",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T19-20-40-01a0ece5-3a8e-7c42-9742-6d3d4e70301e.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 28.2,
-        "tokens": 6453798,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-29T19:20",
-          "2026-09-29T19:40",
-          "2026-09-29T19:45"
-        ],
-        "input_events": 2,
-        "output_events": 5
-      },
-      {
-        "day": "2026-09-29",
-        "kind": "session",
         "title": "本机 Codex 会话补录 · 3c6392f8",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-09-29T18-53-50-01a0eccc-a7d8-7583-b2d2-05703c6392f8.jsonl",
@@ -284,6 +329,30 @@
           "2026-09-29T18:55",
           "2026-09-29T19:00",
           "2026-09-29T19:20"
+        ],
+        "input_events": 2,
+        "output_events": 5
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "rollout",
+        "title": "审查 tds-review 两笔本地部署提交并识别阻断问题",
+        "summary": "success；任务：审查部署资产、合同与本地提交",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-29T11-20-40-3Hgq-review_tds_review_same_pod_deployment_blockers.md",
+        "status": "已推进",
+        "branch": "main",
+        "tasks": [
+          "审查部署资产、合同与本地提交"
+        ],
+        "duration_minutes": 28.2,
+        "tokens": 6453798,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T19:20",
+          "2026-09-29T19:40",
+          "2026-09-29T19:45"
         ],
         "input_events": 2,
         "output_events": 5
@@ -10688,8 +10757,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 33865.2,
-    "tokens": 4016972878,
+    "duration_minutes": 33915.7,
+    "tokens": 4020246825,
     "additions": 17582610,
     "deletions": 14550792,
     "files_changed": 22488,
@@ -12828,12 +12897,19 @@
       "2026-09-30T11:30",
       "2026-09-30T11:40",
       "2026-09-30T11:45",
-      "2026-09-30T11:50"
+      "2026-09-30T11:50",
+      "2026-09-30T17:25",
+      "2026-09-30T17:30",
+      "2026-09-30T17:45",
+      "2026-09-30T17:50",
+      "2026-09-30T17:55",
+      "2026-09-30T18:00",
+      "2026-09-30T18:05"
     ],
-    "input_events": 1016,
-    "output_events": 9497,
-    "active_minutes": 10675,
-    "active_slice_count": 2135
+    "input_events": 1019,
+    "output_events": 9523,
+    "active_minutes": 10710,
+    "active_slice_count": 2142
   },
   {
     "name": "QMS标准",
@@ -14363,6 +14439,35 @@
       {
         "day": "2026-08-24",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · b03a3cc5",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/08/24/rollout-2026-08-24T11-05-00-01a02413-ff60-7593-ab1b-2e1db03a3cc5_01a031ba-7b6c-7060-83a3-a0ba9b094efd.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 67.6,
+        "tokens": 8160646,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-08-24T11:05",
+          "2026-08-24T11:10",
+          "2026-08-24T11:20",
+          "2026-08-24T11:30",
+          "2026-08-24T11:35",
+          "2026-08-24T11:45",
+          "2026-08-24T11:50",
+          "2026-08-24T12:00",
+          "2026-08-24T12:05",
+          "2026-08-24T12:10"
+        ],
+        "input_events": 1,
+        "output_events": 15
+      },
+      {
+        "day": "2026-08-24",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 9fd4707f",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/08/24/rollout-2026-08-24T16-56-33-01a032fc-573f-7490-8a94-a3fb9fd4707f.jsonl",
@@ -14736,37 +14841,6 @@
         ],
         "input_events": 4,
         "output_events": 4
-      },
-      {
-        "day": "2026-08-21",
-        "kind": "rollout",
-        "title": "修复飞书原料标准读取的瞬态网络失败与并发退避",
-        "summary": "success；任务：修复飞书 GET 非 JSON 响应与原料读取并发策略",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-08-21T11-28-05-5Csd-fix_feishu_raw_material_read_retries_and_throttling.md",
-        "status": "已推进",
-        "branch": "main",
-        "tasks": [
-          "修复飞书 GET 非 JSON 响应与原料读取并发策略"
-        ],
-        "duration_minutes": 67.6,
-        "tokens": 8160646,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-08-24T11:05",
-          "2026-08-24T11:10",
-          "2026-08-24T11:20",
-          "2026-08-24T11:30",
-          "2026-08-24T11:35",
-          "2026-08-24T11:45",
-          "2026-08-24T11:50",
-          "2026-08-24T12:00",
-          "2026-08-24T12:05",
-          "2026-08-24T12:10"
-        ],
-        "input_events": 1,
-        "output_events": 15
       },
       {
         "day": "2026-08-21",
@@ -24596,6 +24670,35 @@
       {
         "day": "2026-08-17",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · b6da6a49",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/08/17/rollout-2026-08-17T21-59-02-01a01004-c377-7f71-86c6-bfc6b6da6a49.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 54.3,
+        "tokens": 33194022,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-08-17T21:55",
+          "2026-08-17T22:00",
+          "2026-08-17T22:05",
+          "2026-08-17T22:20",
+          "2026-08-17T22:25",
+          "2026-08-17T22:30",
+          "2026-08-17T22:35",
+          "2026-08-17T22:40",
+          "2026-08-17T22:45",
+          "2026-08-17T22:50"
+        ],
+        "input_events": 4,
+        "output_events": 29
+      },
+      {
+        "day": "2026-08-17",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 8baf04ee",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/08/17/rollout-2026-08-17T20-45-49-01a00fc1-b978-74e3-8770-0a358baf04ee.jsonl",
@@ -24735,39 +24838,6 @@
         ],
         "input_events": 5,
         "output_events": 34
-      },
-      {
-        "day": "2026-08-17",
-        "kind": "rollout",
-        "title": "三角检验定位为研发口味平台中的大型业务模块，并完成架构与鉴权收口",
-        "summary": "success；任务：三角检验模块架构审查；企业内单租户身份、组织同步和 RBAC；复用飞书项目多维表同步器应用凭证",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-08-17T13-59-02-C2qR-triangle_test_module_architecture_feishu_syncer_auth.md",
-        "status": "已推进",
-        "branch": "dev",
-        "tasks": [
-          "三角检验模块架构审查",
-          "企业内单租户身份、组织同步和 RBAC",
-          "复用飞书项目多维表同步器应用凭证"
-        ],
-        "duration_minutes": 54.3,
-        "tokens": 33194022,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-08-17T21:55",
-          "2026-08-17T22:00",
-          "2026-08-17T22:05",
-          "2026-08-17T22:20",
-          "2026-08-17T22:25",
-          "2026-08-17T22:30",
-          "2026-08-17T22:35",
-          "2026-08-17T22:40",
-          "2026-08-17T22:45",
-          "2026-08-17T22:50"
-        ],
-        "input_events": 4,
-        "output_events": 29
       },
       {
         "day": "2026-08-17",
@@ -35399,6 +35469,27 @@
       {
         "day": "2026-08-05",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · 7aba3507",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-08-05T19-21-50-019fd1a8-85d4-7053-861f-da917aba3507.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.3,
+        "tokens": 1713446,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-08-05T19:20",
+          "2026-08-05T19:25"
+        ],
+        "input_events": 2,
+        "output_events": 8
+      },
+      {
+        "day": "2026-08-05",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 5a8b06e2",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-08-05T18-45-01-019fd186-d369-7720-bbd3-dd1c5a8b06e2.jsonl",
@@ -35421,29 +35512,6 @@
         ],
         "input_events": 10,
         "output_events": 35
-      },
-      {
-        "day": "2026-08-05",
-        "kind": "rollout",
-        "title": "审计配置页字段映射改动并提交",
-        "summary": "success；任务：审计、验证并提交配置页改动",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-08-05T11-21-50-ls6r-project_iframe_config_mapping_audit_commit.md",
-        "status": "已推进",
-        "branch": "main",
-        "tasks": [
-          "审计、验证并提交配置页改动"
-        ],
-        "duration_minutes": 3.3,
-        "tokens": 1713446,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-08-05T19:20",
-          "2026-08-05T19:25"
-        ],
-        "input_events": 2,
-        "output_events": 8
       },
       {
         "day": "2026-08-05",
@@ -35834,6 +35902,29 @@
       {
         "day": "2026-07-31",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · d74e4a3a",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-07-31T18-53-11-019fb7ce-80b7-72b0-8648-79f0d74e4a3a.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 4.1,
+        "tokens": 6749897,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-07-31T18:50",
+          "2026-07-31T18:55",
+          "2026-07-31T19:00",
+          "2026-07-31T19:05"
+        ],
+        "input_events": 3,
+        "output_events": 14
+      },
+      {
+        "day": "2026-07-31",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · a74f20d7",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-07-31T15-49-22-019fb726-3721-7622-9411-476ba74f20d7.jsonl",
@@ -35898,32 +35989,6 @@
         ],
         "input_events": 2,
         "output_events": 6
-      },
-      {
-        "day": "2026-07-31",
-        "kind": "rollout",
-        "title": "审查并提交同步/插件改动，随后尝试通过 npm 脚本推送 CodeUp/发布插件",
-        "summary": "success；partial；任务：全量审查、验证并本地提交；使用 npm 脚本同步 CodeUp 并发布插件",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-07-31T10-53-11-syCu-project_iframe_review_commit_codeup_plugin_push.md",
-        "status": "部分完成 / 待验证",
-        "branch": "main",
-        "tasks": [
-          "全量审查、验证并本地提交",
-          "使用 npm 脚本同步 CodeUp 并发布插件"
-        ],
-        "duration_minutes": 4.1,
-        "tokens": 6749897,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-07-31T18:50",
-          "2026-07-31T18:55",
-          "2026-07-31T19:00",
-          "2026-07-31T19:05"
-        ],
-        "input_events": 3,
-        "output_events": 14
       },
       {
         "day": "2026-07-31",
@@ -40046,6 +40111,47 @@
       {
         "day": "2026-07-06",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · 9645c0be",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-07-06T15-06-34-019f3640-0a9d-7451-a23b-83b69645c0be.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 105.8,
+        "tokens": 29863532,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-07-06T15:05",
+          "2026-07-06T15:10",
+          "2026-07-06T15:15",
+          "2026-07-06T15:20",
+          "2026-07-06T15:25",
+          "2026-07-06T15:30",
+          "2026-07-06T15:35",
+          "2026-07-06T15:40",
+          "2026-07-06T15:45",
+          "2026-07-06T15:50",
+          "2026-07-06T15:55",
+          "2026-07-06T16:00",
+          "2026-07-06T16:05",
+          "2026-07-06T16:10",
+          "2026-07-06T16:15",
+          "2026-07-06T16:20",
+          "2026-07-06T16:25",
+          "2026-07-06T16:30",
+          "2026-07-06T16:35",
+          "2026-07-06T16:40",
+          "2026-07-06T16:45",
+          "2026-07-06T16:50"
+        ],
+        "input_events": 16,
+        "output_events": 140
+      },
+      {
+        "day": "2026-07-06",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 893ae5ed",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/archived_sessions/rollout-2026-07-06T13-14-50-019f35d9-bec6-7503-9621-8613893ae5ed.jsonl",
@@ -40158,51 +40264,6 @@
         ],
         "input_events": 2,
         "output_events": 15
-      },
-      {
-        "day": "2026-07-06",
-        "kind": "rollout",
-        "title": "Analyzed sync-server readiness failures and implemented protective changes plus config/work-progress sync improvements",
-        "summary": "success；任务：Diagnose the Bitable / readyz failure chain；Implement service protection and keep readiness from being hostage to transient upstreams；Add relation/work-progress sync configuration and align tests/contracts",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-07-06T07-06-34-CvfM-sync_server_readiness_protection_and_work_progress_sync.md",
-        "status": "已推进",
-        "branch": "main",
-        "tasks": [
-          "Diagnose the Bitable / readyz failure chain",
-          "Implement service protection and keep readiness from being hostage to transient upstreams",
-          "Add relation/work-progress sync configuration and align tests/contracts"
-        ],
-        "duration_minutes": 105.8,
-        "tokens": 29863532,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-07-06T15:05",
-          "2026-07-06T15:10",
-          "2026-07-06T15:15",
-          "2026-07-06T15:20",
-          "2026-07-06T15:25",
-          "2026-07-06T15:30",
-          "2026-07-06T15:35",
-          "2026-07-06T15:40",
-          "2026-07-06T15:45",
-          "2026-07-06T15:50",
-          "2026-07-06T15:55",
-          "2026-07-06T16:00",
-          "2026-07-06T16:05",
-          "2026-07-06T16:10",
-          "2026-07-06T16:15",
-          "2026-07-06T16:20",
-          "2026-07-06T16:25",
-          "2026-07-06T16:30",
-          "2026-07-06T16:35",
-          "2026-07-06T16:40",
-          "2026-07-06T16:45",
-          "2026-07-06T16:50"
-        ],
-        "input_events": 16,
-        "output_events": 140
       },
       {
         "day": "2026-07-06",
@@ -43199,12 +43260,12 @@
         "day": "2026-09-30",
         "kind": "session",
         "title": "本机 ZCode 会话 · bca869c8",
-        "summary": "本次实施范围做到哪一步？（你定的优先级是：统一契约 + Gateway 握手探针 + 评论兼容迁移） 未提供回答 评论旧链路（旧端点 + 现有 RealtimeHub）本期怎么处理？ 未提供回答 comment-ui 前端（use-comment-realtime 消费方）本期是否提供切到新协议的能力？ 未提供回答",
+        "summary": "# 平台级实时通道第一、二阶段最终方案 本批只完成“统一契约、平台级新端点、评论事件迁移、前端可切换、部署与探针验证”。待办、提醒、审批的产生侧和 outbox 泛化放到第三阶段。 核心裁定如下： - 现有 `RealtimeHub` 直接重构为平台级枢纽，并迁移到 `modules/realtime`。 - 评论旧…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_e7d828fc-d545-47c3-b4a2-ae04bca869c8.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 40.5,
+        "duration_minutes": 177.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43215,10 +43276,15 @@
           "2026-09-30T15:40",
           "2026-09-30T15:45",
           "2026-09-30T15:50",
-          "2026-09-30T15:55"
+          "2026-09-30T15:55",
+          "2026-09-30T17:50",
+          "2026-09-30T17:55",
+          "2026-09-30T18:00",
+          "2026-09-30T18:05",
+          "2026-09-30T18:10"
         ],
-        "input_events": 6,
-        "output_events": 16
+        "input_events": 98,
+        "output_events": 108
       },
       {
         "day": "2026-09-30",
@@ -43229,7 +43295,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 39.2,
+        "duration_minutes": 177.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43239,21 +43305,26 @@
           "2026-09-30T15:25",
           "2026-09-30T15:35",
           "2026-09-30T15:45",
-          "2026-09-30T15:50"
+          "2026-09-30T15:50",
+          "2026-09-30T17:50",
+          "2026-09-30T17:55",
+          "2026-09-30T18:00",
+          "2026-09-30T18:05",
+          "2026-09-30T18:10"
         ],
         "input_events": 0,
-        "output_events": 15
+        "output_events": 108
       },
       {
         "day": "2026-09-30",
         "kind": "session",
         "title": "本机 ZCode 会话 · adacfe59",
-        "summary": "探索确认现状已接近目标布局，本轮工作范围做到哪一步？ 未提供回答 左侧字段目录的数字徽标统一成什么口径？（现状=仅必填待补全数；设计稿示例中待补全/我的责任/错误三种含义混用，需定一条单一规则） 未提供回答 字段保存冲突（409 version_conflict）时差异面板提供哪些动作？设计稿裁定\"不提供强制覆盖\"，…",
+        "summary": "你说得对。字段编辑区不应该把“来源、状态、权限、操作”做成固定列。更合适的原则是： > 默认只展示字段名和字段值；用户靠悬停、聚焦、选中、编辑和异常状态逐层获得更多信息。 ### 字段行改成四种交互状态 默认态： ```text 净含量 * 500mL 保质期 * 9个月 日期提示语 暂无 ``` 只显示字段名和完整…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_d82ed8cd-0730-44e2-8244-66bbadacfe59.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 52.0,
+        "duration_minutes": 118.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43264,10 +43335,11 @@
           "2026-09-30T15:35",
           "2026-09-30T15:45",
           "2026-09-30T15:55",
-          "2026-09-30T16:05"
+          "2026-09-30T16:05",
+          "2026-09-30T17:10"
         ],
-        "input_events": 5,
-        "output_events": 14
+        "input_events": 6,
+        "output_events": 15
       },
       {
         "day": "2026-09-30",
@@ -43724,16 +43796,42 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3.0,
-        "tokens": 47223,
+        "duration_minutes": 119.4,
+        "tokens": 161543,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-09-30T15:20"
+          "2026-09-30T15:20",
+          "2026-09-30T17:15",
+          "2026-09-30T17:20",
+          "2026-09-30T17:25"
         ],
-        "input_events": 2,
-        "output_events": 3
+        "input_events": 6,
+        "output_events": 8
+      },
+      {
+        "day": "2026-09-30",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · b866c820",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/09/30/rollout-2026-09-30T17-25-49-01a0f131-058e-7ed0-a316-ab15b866c820_01a0f1a2-6f80-79b1-8c85-12d811f1d59e.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 17.6,
+        "tokens": 3414600,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-30T17:25",
+          "2026-09-30T17:30",
+          "2026-09-30T17:40",
+          "2026-09-30T17:50"
+        ],
+        "input_events": 0,
+        "output_events": 5
       },
       {
         "day": "2026-09-30",
@@ -44806,79 +44904,6 @@
       {
         "day": "2026-09-29",
         "kind": "session",
-        "title": "本机 Codex 会话补录 · de3995c3",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T18-50-34-01a0ecc9-a87a-7193-8350-e37fde3995c3.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 46.7,
-        "tokens": 5878564,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-29T18:50",
-          "2026-09-29T18:55",
-          "2026-09-29T19:15",
-          "2026-09-29T19:25",
-          "2026-09-29T19:35"
-        ],
-        "input_events": 2,
-        "output_events": 10
-      },
-      {
-        "day": "2026-09-29",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · d4822caf",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T15-03-35-01a0ebf9-dc41-77b1-bff0-60e4d4822caf.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 21.2,
-        "tokens": 4548026,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-29T15:00",
-          "2026-09-29T15:05",
-          "2026-09-29T15:10",
-          "2026-09-29T15:15",
-          "2026-09-29T15:20",
-          "2026-09-29T15:35",
-          "2026-09-29T15:45"
-        ],
-        "input_events": 2,
-        "output_events": 14
-      },
-      {
-        "day": "2026-09-29",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · 82d8df8e",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T15-03-22-01a0ebf9-a945-7173-b35d-851382d8df8e.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 129.9,
-        "tokens": 26783747,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-29T15:00",
-          "2026-09-29T15:25",
-          "2026-09-29T17:05",
-          "2026-09-29T17:10"
-        ],
-        "input_events": 2,
-        "output_events": 6
-      },
-      {
-        "day": "2026-09-29",
-        "kind": "session",
         "title": "本机 Codex 会话补录 · 34c81399",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T09-48-30-01a0ead9-6214-7662-a1bf-f5f034c81399.jsonl",
@@ -44897,29 +44922,6 @@
         ],
         "input_events": 2,
         "output_events": 6
-      },
-      {
-        "day": "2026-09-29",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · 1d33efb9",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/09/29/rollout-2026-09-29T18-39-00-01a0ecbf-1451-7850-9be8-9a1c1d33efb9.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 15.3,
-        "tokens": 2879360,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-29T18:35",
-          "2026-09-29T18:40",
-          "2026-09-29T18:45",
-          "2026-09-29T18:50"
-        ],
-        "input_events": 2,
-        "output_events": 7
       },
       {
         "day": "2026-09-29",
@@ -44943,6 +44945,82 @@
         ],
         "input_events": 3,
         "output_events": 1
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "rollout",
+        "title": "执行标准—工厂许可矩阵未提交改动收口完成",
+        "summary": "success；任务：执行标准与工厂许可矩阵契约收口",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-29T07-03-22-z35A-execution_standard_factory_permission_matrix_contract_closeo.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "执行标准与工厂许可矩阵契约收口"
+        ],
+        "duration_minutes": 129.9,
+        "tokens": 26783747,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T15:00",
+          "2026-09-29T15:25",
+          "2026-09-29T17:05",
+          "2026-09-29T17:10"
+        ],
+        "input_events": 2,
+        "output_events": 6
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "rollout",
+        "title": "执行标准 list/matrix 批量权限读取改造完成",
+        "summary": "success；任务：消除执行标准 list/matrix 的 N+1 查询",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-29T10-39-00-9KxX-execution_standard_batch_permission_reads.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "消除执行标准 list/matrix 的 N+1 查询"
+        ],
+        "duration_minutes": 15.3,
+        "tokens": 2879360,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T18:35",
+          "2026-09-29T18:40",
+          "2026-09-29T18:45",
+          "2026-09-29T18:50"
+        ],
+        "input_events": 2,
+        "output_events": 7
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "rollout",
+        "title": "修复执行标准列表与详情返回的异步竞态",
+        "summary": "success；任务：执行标准列表/详情竞态修复",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-29T10-50-33-jDgv-fix_execution_standard_list_race.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "执行标准列表/详情竞态修复"
+        ],
+        "duration_minutes": 46.7,
+        "tokens": 5878564,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T18:50",
+          "2026-09-29T18:55",
+          "2026-09-29T19:15",
+          "2026-09-29T19:25",
+          "2026-09-29T19:35"
+        ],
+        "input_events": 2,
+        "output_events": 10
       },
       {
         "day": "2026-09-29",
@@ -44974,6 +45052,35 @@
         ],
         "input_events": 6,
         "output_events": 17
+      },
+      {
+        "day": "2026-09-29",
+        "kind": "rollout",
+        "title": "BatchTag 确认链路、受控 CORS 与部署配置完成本地核对并修复契约缺口",
+        "summary": "success（本地实现与定向验证通过；真实 UAT/设备仍未验证）；partial（代码/模板核对完成；部署实例和 UAT 端到端状态未确认）；任务：BatchTag 确认页与设备会话链路；CORS、统一错误信封与部署配置核对",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-29T07-03-35-hDDp-batchtag_confirm_chain_cors_uat_audit.md",
+        "status": "部分完成 / 待验证",
+        "branch": "dev",
+        "tasks": [
+          "BatchTag 确认页与设备会话链路",
+          "CORS、统一错误信封与部署配置核对"
+        ],
+        "duration_minutes": 21.2,
+        "tokens": 4548026,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-29T15:00",
+          "2026-09-29T15:05",
+          "2026-09-29T15:10",
+          "2026-09-29T15:15",
+          "2026-09-29T15:20",
+          "2026-09-29T15:35",
+          "2026-09-29T15:45"
+        ],
+        "input_events": 2,
+        "output_events": 14
       },
       {
         "day": "2026-09-29",
@@ -45907,14 +46014,14 @@
       {
         "day": "2026-09-28",
         "kind": "rollout",
-        "title": "标签工作台填写体验、字段契约与配方归属修复",
-        "summary": "success；partial；任务：需求与契约审查；工作台与配方关系实现修复",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-28T08-47-46-gnVq-tds_studio_label_workbench_recipe_contract_ux_fixes.md",
-        "status": "部分完成 / 待验证",
+        "title": "标签工作台填写体验、配方归属与字段契约修复",
+        "summary": "success；任务：分析填写页与契约冲突；实施填写页 UX 与配方归属修复",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-28T08-47-46-gnVq-tds_studio_label_workbench_ux_recipe_contract_fixes.md",
+        "status": "已推进",
         "branch": "dev",
         "tasks": [
-          "需求与契约审查",
-          "工作台与配方关系实现修复"
+          "分析填写页与契约冲突",
+          "实施填写页 UX 与配方归属修复"
         ],
         "duration_minutes": 368.2,
         "tokens": 11932664,
@@ -45929,6 +46036,46 @@
         ],
         "input_events": 3,
         "output_events": 7
+      },
+      {
+        "day": "2026-09-28",
+        "kind": "rollout",
+        "title": "性能优化调查推进至真实 Postgres 基线前",
+        "summary": "partial；任务：前后端性能现状调查",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-28T13-07-16-k0Sz-tds_studio_performance_backend_baseline_preparation.md",
+        "status": "部分完成 / 待验证",
+        "branch": "dev",
+        "tasks": [
+          "前后端性能现状调查"
+        ],
+        "duration_minutes": 1461.2,
+        "tokens": 10830654,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-28T21:05",
+          "2026-09-28T21:10",
+          "2026-09-28T21:15",
+          "2026-09-28T21:25",
+          "2026-09-28T21:35",
+          "2026-09-29T10:45",
+          "2026-09-29T10:50",
+          "2026-09-29T10:55",
+          "2026-09-29T15:20",
+          "2026-09-29T15:25",
+          "2026-09-29T15:35",
+          "2026-09-29T15:40",
+          "2026-09-29T15:45",
+          "2026-09-29T17:05",
+          "2026-09-29T18:35",
+          "2026-09-29T18:40",
+          "2026-09-29T19:15",
+          "2026-09-29T19:20",
+          "2026-09-29T21:25"
+        ],
+        "input_events": 11,
+        "output_events": 41
       },
       {
         "day": "2026-09-28",
@@ -45980,47 +46127,6 @@
         ],
         "input_events": 6,
         "output_events": 21
-      },
-      {
-        "day": "2026-09-28",
-        "kind": "rollout",
-        "title": "TDS Studio 全链路性能与 API 聚合优化调查及计划",
-        "summary": "partial；任务：前端加载、预加载、缓存与性能基线调查；后端 API 聚合、批量接口和预计算计划",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-28T13-07-16-k0Sz-tds_studio_performance_api_aggregation_plan.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "前端加载、预加载、缓存与性能基线调查",
-          "后端 API 聚合、批量接口和预计算计划"
-        ],
-        "duration_minutes": 1461.2,
-        "tokens": 10830654,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-28T21:05",
-          "2026-09-28T21:10",
-          "2026-09-28T21:15",
-          "2026-09-28T21:25",
-          "2026-09-28T21:35",
-          "2026-09-29T10:45",
-          "2026-09-29T10:50",
-          "2026-09-29T10:55",
-          "2026-09-29T15:20",
-          "2026-09-29T15:25",
-          "2026-09-29T15:35",
-          "2026-09-29T15:40",
-          "2026-09-29T15:45",
-          "2026-09-29T17:05",
-          "2026-09-29T18:35",
-          "2026-09-29T18:40",
-          "2026-09-29T19:15",
-          "2026-09-29T19:20",
-          "2026-09-29T21:25"
-        ],
-        "input_events": 11,
-        "output_events": 41
       },
       {
         "day": "2026-09-28",
@@ -57947,14 +58053,14 @@
       {
         "day": "2026-09-16",
         "kind": "rollout",
-        "title": "全局升级并设置 codebase-memory-mcp 周检",
-        "summary": "success；任务：检查并升级全局 codebase-memory-mcp；设置每周版本检查自动化",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-16T00-23-21-Gt4p-upgrade_codebase_memory_and_weekly_update_check.md",
+        "title": "codebase-memory-mcp 全局升级并建立每周版本检查",
+        "summary": "success；任务：检查并升级全局 codebase-memory-mcp；建立每周版本检查自动化",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-16T00-23-21-Gt4p-upgrade_codebase_memory_mcp_and_weekly_check.md",
         "status": "已推进",
         "branch": "dev",
         "tasks": [
           "检查并升级全局 codebase-memory-mcp",
-          "设置每周版本检查自动化"
+          "建立每周版本检查自动化"
         ],
         "duration_minutes": 19245.2,
         "tokens": 966261,
@@ -58333,6 +58439,34 @@
       {
         "day": "2026-09-15",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · d576f836",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/09/15/rollout-2026-09-15T23-34-42-01a0a5b4-c513-7453-bfa0-35c0d576f836.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 45.9,
+        "tokens": 20483804,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-09-15T23:30",
+          "2026-09-15T23:35",
+          "2026-09-15T23:40",
+          "2026-09-15T23:45",
+          "2026-09-15T23:55",
+          "2026-09-16T00:00",
+          "2026-09-16T00:10",
+          "2026-09-16T00:15",
+          "2026-09-16T00:20"
+        ],
+        "input_events": 4,
+        "output_events": 17
+      },
+      {
+        "day": "2026-09-15",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · ab062859",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/09/15/rollout-2026-09-15T22-38-22-01a0a581-324c-72c3-96d4-05ffab062859.jsonl",
@@ -58469,40 +58603,6 @@
           "2026-09-16T06:45"
         ],
         "input_events": 5,
-        "output_events": 17
-      },
-      {
-        "day": "2026-09-15",
-        "kind": "rollout",
-        "title": "分批修复并提交 tds-studio 未提交改动，最终保留安全门禁阻断",
-        "summary": "success；partial；任务：数字标签服务；评论协作；SVG 编辑器；文档与部署契约",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-15T15-34-42-mX7E-tds_studio_batched_review_fix_local_commits.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "数字标签服务",
-          "评论协作",
-          "SVG 编辑器",
-          "文档与部署契约",
-          "全局收尾与安全门禁"
-        ],
-        "duration_minutes": 45.9,
-        "tokens": 20483804,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-15T23:30",
-          "2026-09-15T23:35",
-          "2026-09-15T23:40",
-          "2026-09-15T23:45",
-          "2026-09-15T23:55",
-          "2026-09-16T00:00",
-          "2026-09-16T00:10",
-          "2026-09-16T00:15",
-          "2026-09-16T00:20"
-        ],
-        "input_events": 4,
         "output_events": 17
       },
       {
@@ -64462,8 +64562,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 100360.0,
-    "tokens": 3332587922,
+    "duration_minutes": 100835.4,
+    "tokens": 3336116842,
     "additions": 562232,
     "deletions": 204182,
     "files_changed": 6985,
@@ -66819,12 +66919,23 @@
       "2026-09-30T16:15",
       "2026-09-30T16:55",
       "2026-09-30T17:00",
-      "2026-09-30T17:05"
+      "2026-09-30T17:05",
+      "2026-09-30T17:10",
+      "2026-09-30T17:15",
+      "2026-09-30T17:20",
+      "2026-09-30T17:25",
+      "2026-09-30T17:30",
+      "2026-09-30T17:40",
+      "2026-09-30T17:50",
+      "2026-09-30T17:55",
+      "2026-09-30T18:00",
+      "2026-09-30T18:05",
+      "2026-09-30T18:10"
     ],
-    "input_events": 3963,
-    "output_events": 23896,
-    "active_minutes": 11760,
-    "active_slice_count": 2352
+    "input_events": 4060,
+    "output_events": 24092,
+    "active_minutes": 11815,
+    "active_slice_count": 2363
   },
   {
     "name": "track-insight-miniapp",
@@ -91328,6 +91439,30 @@
       {
         "day": "2026-07-31",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · 97a52953",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/07/31/rollout-2026-07-31T18-29-42-019fb7b9-00c0-76b2-97d7-361497a52953.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 22.4,
+        "tokens": 15272108,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-07-31T18:30",
+          "2026-07-31T18:35",
+          "2026-07-31T18:40",
+          "2026-07-31T18:45",
+          "2026-07-31T18:50"
+        ],
+        "input_events": 4,
+        "output_events": 24
+      },
+      {
+        "day": "2026-07-31",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 55da8880",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/07/31/rollout-2026-07-31T18-29-14-019fb7b8-9162-7111-ac2f-fae855da8880.jsonl",
@@ -91397,32 +91532,6 @@
         ],
         "input_events": 3,
         "output_events": 12
-      },
-      {
-        "day": "2026-07-31",
-        "kind": "rollout",
-        "title": "为 ShapeType 接入飞书项目 SKU 级人员角色来源，并判断是否需要单独插件",
-        "summary": "partial；任务：评估并实现 SKU 人员角色同步链路",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-07-31T10-29-42-b8nV-shapetype_feishu_project_sku_role_sync.md",
-        "status": "部分完成 / 待验证",
-        "branch": "main",
-        "tasks": [
-          "评估并实现 SKU 人员角色同步链路"
-        ],
-        "duration_minutes": 22.4,
-        "tokens": 15272108,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-07-31T18:30",
-          "2026-07-31T18:35",
-          "2026-07-31T18:40",
-          "2026-07-31T18:45",
-          "2026-07-31T18:50"
-        ],
-        "input_events": 4,
-        "output_events": 24
       },
       {
         "day": "2026-07-30",
