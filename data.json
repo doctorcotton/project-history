@@ -6,6 +6,29 @@
     "events": [
       {
         "day": "2026-10-01",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 2c5d4bd7",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-01T11:00",
+          "2026-10-01T11:05",
+          "2026-10-01T11:10",
+          "2026-10-01T11:15"
+        ],
+        "input_events": 0,
+        "output_events": 41
+      },
+      {
+        "day": "2026-10-01",
         "kind": "git",
         "title": "refactor(合规): 移除法规向量检索层——检索主路径收敛为结构化直达+全文",
         "summary": "提交 a236de1b：refactor(合规): 移除法规向量检索层——检索主路径收敛为结构化直达+全文",
@@ -10609,7 +10632,7 @@
     ],
     "august_event_count": 163,
     "latest_day": "2026-10-01",
-    "status": "已推进",
+    "status": "有历史证据",
     "profile": {
       "introduction": "TDS 合规与 Proof 的主 monorepo，提供法规审核、PDF/图稿核对、证据链、评测和分层质量门禁。",
       "architecture": [
@@ -10644,7 +10667,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 33523.5,
+    "duration_minutes": 33536.5,
     "tokens": 4020246825,
     "additions": 17587175,
     "deletions": 14557047,
@@ -12740,12 +12763,16 @@
       "2026-09-30T20:25",
       "2026-09-30T20:30",
       "2026-09-30T20:40",
-      "2026-09-30T20:45"
+      "2026-09-30T20:45",
+      "2026-10-01T11:00",
+      "2026-10-01T11:05",
+      "2026-10-01T11:10",
+      "2026-10-01T11:15"
     ],
     "input_events": 1187,
-    "output_events": 8866,
-    "active_minutes": 10455,
-    "active_slice_count": 2091
+    "output_events": 8907,
+    "active_minutes": 10475,
+    "active_slice_count": 2095
   },
   {
     "name": "QMS标准",
@@ -43091,12 +43118,12 @@
         "day": "2026-10-01",
         "kind": "session",
         "title": "本机 ZCode 会话 · 695a5ad4",
-        "summary": "现在需要绕过，系统管理员绕过权限控制吧",
+        "summary": "推",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_9345da1b-1c58-4323-b4b5-261e695a5ad4.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 25.4,
+        "duration_minutes": 110.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43107,10 +43134,12 @@
           "2026-10-01T09:25",
           "2026-10-01T09:30",
           "2026-10-01T09:35",
-          "2026-10-01T09:40"
+          "2026-10-01T09:40",
+          "2026-10-01T11:00",
+          "2026-10-01T11:05"
         ],
-        "input_events": 73,
-        "output_events": 73
+        "input_events": 78,
+        "output_events": 78
       },
       {
         "day": "2026-10-01",
@@ -43121,7 +43150,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 26.2,
+        "duration_minutes": 111.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43132,10 +43161,12 @@
           "2026-10-01T09:25",
           "2026-10-01T09:30",
           "2026-10-01T09:35",
-          "2026-10-01T09:40"
+          "2026-10-01T09:40",
+          "2026-10-01T11:00",
+          "2026-10-01T11:05"
         ],
         "input_events": 0,
-        "output_events": 73
+        "output_events": 78
       },
       {
         "day": "2026-10-01",
@@ -64922,7 +64953,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 100837.7,
+    "duration_minutes": 101008.3,
     "tokens": 3345682798,
     "additions": 566812,
     "deletions": 204946,
@@ -67285,12 +67316,14 @@
       "2026-10-01T09:40",
       "2026-10-01T09:45",
       "2026-10-01T09:50",
-      "2026-10-01T09:55"
+      "2026-10-01T09:55",
+      "2026-10-01T11:00",
+      "2026-10-01T11:05"
     ],
-    "input_events": 4892,
-    "output_events": 24477,
-    "active_minutes": 11790,
-    "active_slice_count": 2358
+    "input_events": 4897,
+    "output_events": 24487,
+    "active_minutes": 11800,
+    "active_slice_count": 2360
   },
   {
     "name": "track-insight-miniapp",
