@@ -5,6 +5,42 @@
     "path": "/Users/cottondog/Work-projects/tds-review",
     "events": [
       {
+        "day": "2026-10-01",
+        "kind": "git",
+        "title": "refactor(合规): 移除法规向量检索层——检索主路径收敛为结构化直达+全文",
+        "summary": "提交 a236de1b：refactor(合规): 移除法规向量检索层——检索主路径收敛为结构化直达+全文",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 100,
+        "deletions": 843,
+        "files_changed": 15,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-01",
+        "kind": "git",
+        "title": "refactor(合规): 批次工具摘除向量预生成+退役已执行完的向量批次执行器",
+        "summary": "提交 a7187892：refactor(合规): 批次工具摘除向量预生成+退役已执行完的向量批次执行器",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 103,
+        "deletions": 4872,
+        "files_changed": 33,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
         "day": "2026-09-30",
         "kind": "session",
         "title": "本机 ZCode 会话 · 58d0386c",
@@ -10572,8 +10608,8 @@
       }
     ],
     "august_event_count": 163,
-    "latest_day": "2026-09-30",
-    "status": "有历史证据",
+    "latest_day": "2026-10-01",
+    "status": "已推进",
     "profile": {
       "introduction": "TDS 合规与 Proof 的主 monorepo，提供法规审核、PDF/图稿核对、证据链、评测和分层质量门禁。",
       "architecture": [
@@ -10610,9 +10646,9 @@
     },
     "duration_minutes": 33523.5,
     "tokens": 4020246825,
-    "additions": 17586972,
-    "deletions": 14551332,
-    "files_changed": 22750,
+    "additions": 17587175,
+    "deletions": 14557047,
+    "files_changed": 22798,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -42919,7 +42955,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 149.3,
+        "duration_minutes": 165.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42935,10 +42971,13 @@
           "2026-10-01T09:15",
           "2026-10-01T09:20",
           "2026-10-01T09:25",
-          "2026-10-01T09:30"
+          "2026-10-01T09:30",
+          "2026-10-01T09:35",
+          "2026-10-01T09:40",
+          "2026-10-01T09:45"
         ],
-        "input_events": 40,
-        "output_events": 87
+        "input_events": 53,
+        "output_events": 100
       },
       {
         "day": "2026-10-01",
@@ -42949,7 +42988,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 158.2,
+        "duration_minutes": 166.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -42967,10 +43006,12 @@
           "2026-10-01T09:20",
           "2026-10-01T09:25",
           "2026-10-01T09:30",
-          "2026-10-01T09:35"
+          "2026-10-01T09:35",
+          "2026-10-01T09:40",
+          "2026-10-01T09:45"
         ],
         "input_events": 0,
-        "output_events": 89
+        "output_events": 100
       },
       {
         "day": "2026-10-01",
@@ -42981,7 +43022,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 68.3,
+        "duration_minutes": 82.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43001,10 +43042,13 @@
           "2026-10-01T09:25",
           "2026-10-01T09:30",
           "2026-10-01T09:35",
-          "2026-10-01T09:40"
+          "2026-10-01T09:40",
+          "2026-10-01T09:45",
+          "2026-10-01T09:50",
+          "2026-10-01T09:55"
         ],
-        "input_events": 254,
-        "output_events": 254
+        "input_events": 294,
+        "output_events": 294
       },
       {
         "day": "2026-10-01",
@@ -43015,7 +43059,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 68.8,
+        "duration_minutes": 83.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43035,10 +43079,13 @@
           "2026-10-01T09:25",
           "2026-10-01T09:30",
           "2026-10-01T09:35",
-          "2026-10-01T09:40"
+          "2026-10-01T09:40",
+          "2026-10-01T09:45",
+          "2026-10-01T09:50",
+          "2026-10-01T09:55"
         ],
         "input_events": 0,
-        "output_events": 254
+        "output_events": 294
       },
       {
         "day": "2026-10-01",
@@ -43049,7 +43096,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 24.5,
+        "duration_minutes": 25.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -43062,8 +43109,8 @@
           "2026-10-01T09:35",
           "2026-10-01T09:40"
         ],
-        "input_events": 72,
-        "output_events": 72
+        "input_events": 73,
+        "output_events": 73
       },
       {
         "day": "2026-10-01",
@@ -64875,7 +64922,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 100783.4,
+    "duration_minutes": 100837.7,
     "tokens": 3345682798,
     "additions": 566812,
     "deletions": 204946,
@@ -67235,12 +67282,15 @@
       "2026-10-01T09:25",
       "2026-10-01T09:30",
       "2026-10-01T09:35",
-      "2026-10-01T09:40"
+      "2026-10-01T09:40",
+      "2026-10-01T09:45",
+      "2026-10-01T09:50",
+      "2026-10-01T09:55"
     ],
-    "input_events": 4838,
-    "output_events": 24372,
-    "active_minutes": 11775,
-    "active_slice_count": 2355
+    "input_events": 4892,
+    "output_events": 24477,
+    "active_minutes": 11790,
+    "active_slice_count": 2358
   },
   {
     "name": "track-insight-miniapp",
