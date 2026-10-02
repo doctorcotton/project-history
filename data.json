@@ -100,8 +100,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 222.0,
-        "tokens": 28921214,
+        "duration_minutes": 257.5,
+        "tokens": 38309276,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -126,10 +126,13 @@
           "2026-10-02T21:40",
           "2026-10-02T21:45",
           "2026-10-02T21:50",
-          "2026-10-02T21:55"
+          "2026-10-02T21:55",
+          "2026-10-02T22:05",
+          "2026-10-02T22:30",
+          "2026-10-02T23:00"
         ],
         "input_events": 10,
-        "output_events": 41
+        "output_events": 44
       },
       {
         "day": "2026-10-02",
@@ -234,6 +237,24 @@
         "tokens": 0,
         "additions": 3,
         "deletions": 0,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "git",
+        "title": "fix(运行时): 放宽工作流步骤幂等键长度",
+        "summary": "提交 fcbaa2a4：fix(运行时): 放宽工作流步骤幂等键长度",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 21,
+        "deletions": 2,
         "files_changed": 3,
         "active_bucket_keys": [],
         "input_events": 0,
@@ -11681,11 +11702,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 36431.4,
-    "tokens": 4234195404,
-    "additions": 17629968,
-    "deletions": 14582763,
-    "files_changed": 23056,
+    "duration_minutes": 36466.9,
+    "tokens": 4243583466,
+    "additions": 17629989,
+    "deletions": 14582765,
+    "files_changed": 23059,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -13887,12 +13908,15 @@
       "2026-10-02T21:40",
       "2026-10-02T21:45",
       "2026-10-02T21:50",
-      "2026-10-02T21:55"
+      "2026-10-02T21:55",
+      "2026-10-02T22:05",
+      "2026-10-02T22:30",
+      "2026-10-02T23:00"
     ],
     "input_events": 2111,
-    "output_events": 11349,
-    "active_minutes": 11005,
-    "active_slice_count": 2201
+    "output_events": 11352,
+    "active_minutes": 11020,
+    "active_slice_count": 2204
   },
   {
     "name": "QMS标准",
@@ -44215,8 +44239,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 53.6,
-        "tokens": 24180094,
+        "duration_minutes": 147.4,
+        "tokens": 34252814,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44226,10 +44250,15 @@
           "2026-10-02T20:55",
           "2026-10-02T21:00",
           "2026-10-02T21:05",
-          "2026-10-02T21:25"
+          "2026-10-02T21:25",
+          "2026-10-02T22:10",
+          "2026-10-02T22:25",
+          "2026-10-02T22:35",
+          "2026-10-02T22:55",
+          "2026-10-02T23:00"
         ],
         "input_events": 4,
-        "output_events": 14
+        "output_events": 20
       },
       {
         "day": "2026-10-02",
@@ -44305,17 +44334,22 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 8.8,
-        "tokens": 2838047,
+        "duration_minutes": 43.6,
+        "tokens": 8047225,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-02T21:50",
-          "2026-10-02T22:00"
+          "2026-10-02T22:00",
+          "2026-10-02T22:05",
+          "2026-10-02T22:25",
+          "2026-10-02T22:30",
+          "2026-10-02T22:35",
+          "2026-10-02T22:55"
         ],
         "input_events": 3,
-        "output_events": 3
+        "output_events": 8
       },
       {
         "day": "2026-10-02",
@@ -44326,8 +44360,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 51.9,
-        "tokens": 15645106,
+        "duration_minutes": 112.4,
+        "tokens": 30667086,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44335,10 +44369,11 @@
           "2026-10-02T21:10",
           "2026-10-02T21:15",
           "2026-10-02T21:25",
-          "2026-10-02T21:40"
+          "2026-10-02T21:40",
+          "2026-10-02T23:00"
         ],
-        "input_events": 4,
-        "output_events": 5
+        "input_events": 6,
+        "output_events": 6
       },
       {
         "day": "2026-10-02",
@@ -66089,8 +66124,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 101523.2,
-    "tokens": 3741390255,
+    "duration_minutes": 101712.3,
+    "tokens": 3771694133,
     "additions": 568822,
     "deletions": 205162,
     "files_changed": 7125,
@@ -68433,12 +68468,19 @@
       "2026-10-02T21:35",
       "2026-10-02T21:40",
       "2026-10-02T21:50",
-      "2026-10-02T22:00"
+      "2026-10-02T22:00",
+      "2026-10-02T22:05",
+      "2026-10-02T22:10",
+      "2026-10-02T22:25",
+      "2026-10-02T22:30",
+      "2026-10-02T22:35",
+      "2026-10-02T22:55",
+      "2026-10-02T23:00"
     ],
-    "input_events": 5099,
-    "output_events": 21722,
-    "active_minutes": 11695,
-    "active_slice_count": 2339
+    "input_events": 5101,
+    "output_events": 21734,
+    "active_minutes": 11730,
+    "active_slice_count": 2346
   },
   {
     "name": "track-insight-miniapp",
