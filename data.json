@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 67.3,
+        "duration_minutes": 131.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28,10 +28,23 @@
           "2026-10-02T12:55",
           "2026-10-02T13:00",
           "2026-10-02T13:05",
-          "2026-10-02T13:10"
+          "2026-10-02T13:10",
+          "2026-10-02T13:15",
+          "2026-10-02T13:20",
+          "2026-10-02T13:25",
+          "2026-10-02T13:30",
+          "2026-10-02T13:35",
+          "2026-10-02T13:40",
+          "2026-10-02T13:45",
+          "2026-10-02T13:50",
+          "2026-10-02T13:55",
+          "2026-10-02T14:00",
+          "2026-10-02T14:05",
+          "2026-10-02T14:10",
+          "2026-10-02T14:15"
         ],
-        "input_events": 190,
-        "output_events": 193
+        "input_events": 355,
+        "output_events": 358
       },
       {
         "day": "2026-10-02",
@@ -42,7 +55,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 78.8,
+        "duration_minutes": 136.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -60,10 +73,46 @@
           "2026-10-02T13:05",
           "2026-10-02T13:10",
           "2026-10-02T13:15",
-          "2026-10-02T13:20"
+          "2026-10-02T13:20",
+          "2026-10-02T13:25",
+          "2026-10-02T13:30",
+          "2026-10-02T13:35",
+          "2026-10-02T13:40",
+          "2026-10-02T13:45",
+          "2026-10-02T13:50",
+          "2026-10-02T13:55",
+          "2026-10-02T14:00",
+          "2026-10-02T14:05",
+          "2026-10-02T14:10",
+          "2026-10-02T14:15",
+          "2026-10-02T14:20"
         ],
         "input_events": 0,
-        "output_events": 226
+        "output_events": 362
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 238be11a",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T13-27-43-01a0fb15-2bab-7142-ac7b-7bb9238be11a.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.6,
+        "tokens": 17928354,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-02T13:25",
+          "2026-10-02T13:30",
+          "2026-10-02T13:35",
+          "2026-10-02T13:45",
+          "2026-10-02T14:00"
+        ],
+        "input_events": 4,
+        "output_events": 9
       },
       {
         "day": "2026-10-02",
@@ -97,6 +146,24 @@
         ],
         "input_events": 15,
         "output_events": 36
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "git",
+        "title": "fix(合规): 干净 checkout 发布模式读侧收口——目录闭包缺陷修复与外置登记统一",
+        "summary": "提交 76e5fad1：fix(合规): 干净 checkout 发布模式读侧收口——目录闭包缺陷修复与外置登记统一",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 19650,
+        "deletions": 14539,
+        "files_changed": 58,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-01",
@@ -11399,11 +11466,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 35906.2,
-    "tokens": 4117501946,
-    "additions": 17609128,
-    "deletions": 14567986,
-    "files_changed": 22961,
+    "duration_minutes": 36032.2,
+    "tokens": 4135430300,
+    "additions": 17628778,
+    "deletions": 14582525,
+    "files_changed": 23019,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -13563,12 +13630,24 @@
       "2026-10-02T13:05",
       "2026-10-02T13:10",
       "2026-10-02T13:15",
-      "2026-10-02T13:20"
+      "2026-10-02T13:20",
+      "2026-10-02T13:25",
+      "2026-10-02T13:30",
+      "2026-10-02T13:35",
+      "2026-10-02T13:40",
+      "2026-10-02T13:45",
+      "2026-10-02T13:50",
+      "2026-10-02T13:55",
+      "2026-10-02T14:00",
+      "2026-10-02T14:05",
+      "2026-10-02T14:10",
+      "2026-10-02T14:15",
+      "2026-10-02T14:20"
     ],
-    "input_events": 1920,
-    "output_events": 10972,
-    "active_minutes": 10795,
-    "active_slice_count": 2159
+    "input_events": 2089,
+    "output_events": 11282,
+    "active_minutes": 10855,
+    "active_slice_count": 2171
   },
   {
     "name": "QMS标准",
@@ -21664,16 +21743,22 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.1,
-        "tokens": 1646492,
+        "duration_minutes": 64.6,
+        "tokens": 19157991,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-02T12:55"
+          "2026-10-02T12:55",
+          "2026-10-02T13:10",
+          "2026-10-02T13:20",
+          "2026-10-02T13:30",
+          "2026-10-02T13:40",
+          "2026-10-02T13:45",
+          "2026-10-02T14:00"
         ],
-        "input_events": 3,
-        "output_events": 2
+        "input_events": 7,
+        "output_events": 15
       },
       {
         "day": "2026-09-22",
@@ -25653,8 +25738,8 @@
       },
       "evidence_note": "当前本地代码门禁、提交和历史证据已覆盖；真实飞书 OAuth、网关签名、生产环境和 UAT 仍需单独验证。"
     },
-    "duration_minutes": 11626.8,
-    "tokens": 2208695155,
+    "duration_minutes": 11686.3,
+    "tokens": 2226206654,
     "additions": 119790,
     "deletions": 9617,
     "files_changed": 1224,
@@ -26429,12 +26514,18 @@
       "2026-09-22T22:40",
       "2026-09-22T22:45",
       "2026-09-22T22:50",
-      "2026-10-02T12:55"
+      "2026-10-02T12:55",
+      "2026-10-02T13:10",
+      "2026-10-02T13:20",
+      "2026-10-02T13:30",
+      "2026-10-02T13:40",
+      "2026-10-02T13:45",
+      "2026-10-02T14:00"
     ],
-    "input_events": 662,
-    "output_events": 3163,
-    "active_minutes": 3855,
-    "active_slice_count": 771
+    "input_events": 666,
+    "output_events": 3176,
+    "active_minutes": 3885,
+    "active_slice_count": 777
   },
   {
     "name": "track-dashboard",
@@ -43810,6 +43901,48 @@
       {
         "day": "2026-10-02",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · 8d0fcc38",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T13-30-38-01a0fb17-d430-7b43-bb61-85ba8d0fcc38.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 29.7,
+        "tokens": 18514265,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-02T13:30",
+          "2026-10-02T14:00"
+        ],
+        "input_events": 3,
+        "output_events": 4
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 2b54bc29",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T13-35-26-01a0fb1c-3cd8-7992-a916-241e2b54bc29.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 26.3,
+        "tokens": 7478567,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-02T13:35",
+          "2026-10-02T13:55"
+        ],
+        "input_events": 3,
+        "output_events": 3
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 21595909",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T11-55-52-01a0fac1-1493-7192-9dfd-dd0d21595909.jsonl",
@@ -44269,8 +44402,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1261.2,
-        "tokens": 76935614,
+        "duration_minutes": 1308.3,
+        "tokens": 98680282,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44311,10 +44444,11 @@
           "2026-10-02T11:55",
           "2026-10-02T12:00",
           "2026-10-02T12:40",
-          "2026-10-02T12:45"
+          "2026-10-02T12:45",
+          "2026-10-02T13:25"
         ],
         "input_events": 56,
-        "output_events": 186
+        "output_events": 188
       },
       {
         "day": "2026-10-01",
@@ -65443,8 +65577,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 100787.3,
-    "tokens": 3520268934,
+    "duration_minutes": 100890.4,
+    "tokens": 3568006434,
     "additions": 568420,
     "deletions": 205139,
     "files_changed": 7114,
@@ -67736,12 +67870,17 @@
       "2026-10-02T12:30",
       "2026-10-02T12:35",
       "2026-10-02T12:40",
-      "2026-10-02T12:45"
+      "2026-10-02T12:45",
+      "2026-10-02T13:25",
+      "2026-10-02T13:30",
+      "2026-10-02T13:35",
+      "2026-10-02T13:55",
+      "2026-10-02T14:00"
     ],
-    "input_events": 5033,
-    "output_events": 21589,
-    "active_minutes": 11440,
-    "active_slice_count": 2288
+    "input_events": 5039,
+    "output_events": 21598,
+    "active_minutes": 11465,
+    "active_slice_count": 2293
   },
   {
     "name": "track-insight-miniapp",
