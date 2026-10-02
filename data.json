@@ -5,6 +5,26 @@
     "path": "/Users/cottondog/Work-projects/tds-review",
     "events": [
       {
+        "day": "2026-10-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 12f846f3",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T09-05-32-01a0fa25-21a7-7cf2-834a-078712f846f3.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 57.0,
+        "tokens": 24062876,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-02T09:05"
+        ],
+        "input_events": 3,
+        "output_events": 1
+      },
+      {
         "day": "2026-10-01",
         "kind": "session",
         "title": "本机 ZCode 会话 · d9c93a66",
@@ -11385,7 +11405,7 @@
       }
     ],
     "august_event_count": 163,
-    "latest_day": "2026-10-01",
+    "latest_day": "2026-10-02",
     "status": "有历史证据",
     "profile": {
       "introduction": "TDS 合规与 Proof 的主 monorepo，提供法规审核、PDF/图稿核对、证据链、评测和分层质量门禁。",
@@ -11421,8 +11441,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 36136.2,
-    "tokens": 4058383774,
+    "duration_minutes": 36193.2,
+    "tokens": 4082446650,
     "additions": 17609128,
     "deletions": 14567986,
     "files_changed": 22961,
@@ -13604,12 +13624,13 @@
       "2026-10-01T22:05",
       "2026-10-01T22:10",
       "2026-10-02T08:35",
-      "2026-10-02T08:40"
+      "2026-10-02T08:40",
+      "2026-10-02T09:05"
     ],
-    "input_events": 1715,
-    "output_events": 10873,
-    "active_minutes": 10890,
-    "active_slice_count": 2178
+    "input_events": 1718,
+    "output_events": 10874,
+    "active_minutes": 10895,
+    "active_slice_count": 2179
   },
   {
     "name": "QMS标准",
@@ -44162,8 +44183,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1017.1,
-        "tokens": 15631191,
+        "duration_minutes": 1070.2,
+        "tokens": 16182631,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44190,10 +44211,13 @@
           "2026-10-01T21:20",
           "2026-10-01T21:25",
           "2026-10-01T21:30",
-          "2026-10-02T08:35"
+          "2026-10-02T08:35",
+          "2026-10-02T09:10",
+          "2026-10-02T09:15",
+          "2026-10-02T09:30"
         ],
-        "input_events": 40,
-        "output_events": 130
+        "input_events": 43,
+        "output_events": 142
       },
       {
         "day": "2026-10-01",
@@ -66049,8 +66073,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 102515.5,
-    "tokens": 3435197605,
+    "duration_minutes": 102568.6,
+    "tokens": 3435749045,
     "additions": 567272,
     "deletions": 204952,
     "files_changed": 7092,
@@ -68463,12 +68487,15 @@
       "2026-10-01T21:20",
       "2026-10-01T21:25",
       "2026-10-01T21:30",
-      "2026-10-02T08:35"
+      "2026-10-02T08:35",
+      "2026-10-02T09:10",
+      "2026-10-02T09:15",
+      "2026-10-02T09:30"
     ],
-    "input_events": 4976,
-    "output_events": 24878,
-    "active_minutes": 12045,
-    "active_slice_count": 2409
+    "input_events": 4979,
+    "output_events": 24890,
+    "active_minutes": 12060,
+    "active_slice_count": 2412
   },
   {
     "name": "track-insight-miniapp",
