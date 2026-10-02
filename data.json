@@ -100,17 +100,24 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.3,
-        "tokens": 2727890,
+        "duration_minutes": 100.3,
+        "tokens": 12501223,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-02T18:15",
-          "2026-10-02T18:25"
+          "2026-10-02T18:25",
+          "2026-10-02T19:15",
+          "2026-10-02T19:20",
+          "2026-10-02T19:25",
+          "2026-10-02T19:30",
+          "2026-10-02T19:40",
+          "2026-10-02T19:45",
+          "2026-10-02T19:55"
         ],
-        "input_events": 3,
-        "output_events": 3
+        "input_events": 6,
+        "output_events": 14
       },
       {
         "day": "2026-10-02",
@@ -219,6 +226,24 @@
       {
         "day": "2026-10-02",
         "kind": "git",
+        "title": "fix(制品管理): 收口外置制品读取与准入坐标",
+        "summary": "提交 1f9bada1：fix(制品管理): 收口外置制品读取与准入坐标",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 596,
+        "deletions": 83,
+        "files_changed": 23,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "git",
         "title": "fix(制品管理): 对齐 repo-data 登记与 inventory 契约",
         "summary": "提交 936c0228：fix(制品管理): 对齐 repo-data 登记与 inventory 契约",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -229,6 +254,24 @@
         "tokens": 0,
         "additions": 167,
         "deletions": 7,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "git",
+        "title": "chore(制品): 刷新发布制品盘点与代理范围回执",
+        "summary": "提交 c5f0d910：chore(制品): 刷新发布制品盘点与代理范围回执",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 284,
+        "deletions": 107,
         "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
@@ -11537,11 +11580,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 36222.7,
-    "tokens": 4208002080,
-    "additions": 17628945,
-    "deletions": 14582532,
-    "files_changed": 23021,
+    "duration_minutes": 36309.7,
+    "tokens": 4217775413,
+    "additions": 17629825,
+    "deletions": 14582722,
+    "files_changed": 23046,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -13724,12 +13767,19 @@
       "2026-10-02T17:00",
       "2026-10-02T17:05",
       "2026-10-02T18:15",
-      "2026-10-02T18:25"
+      "2026-10-02T18:25",
+      "2026-10-02T19:15",
+      "2026-10-02T19:20",
+      "2026-10-02T19:25",
+      "2026-10-02T19:30",
+      "2026-10-02T19:40",
+      "2026-10-02T19:45",
+      "2026-10-02T19:55"
     ],
-    "input_events": 2104,
-    "output_events": 11311,
-    "active_minutes": 10910,
-    "active_slice_count": 2182
+    "input_events": 2107,
+    "output_events": 11322,
+    "active_minutes": 10945,
+    "active_slice_count": 2189
   },
   {
     "name": "QMS标准",
@@ -44026,6 +44076,26 @@
       {
         "day": "2026-10-02",
         "kind": "session",
+        "title": "本机 Codex 会话补录 · 62aa4674",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T19-46-06-01a0fc6f-96a6-7440-a75f-1e3362aa4674.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 10.9,
+        "tokens": 2951453,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-02T19:45"
+        ],
+        "input_events": 4,
+        "output_events": 2
+      },
+      {
+        "day": "2026-10-02",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 40220d56",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/02/rollout-2026-10-02T13-57-16-01a0fb30-3919-74e2-8198-aa3b40220d56.jsonl",
@@ -44053,8 +44123,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 100.2,
-        "tokens": 24553989,
+        "duration_minutes": 184.5,
+        "tokens": 36992585,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44069,10 +44139,13 @@
           "2026-10-02T17:55",
           "2026-10-02T18:00",
           "2026-10-02T18:20",
-          "2026-10-02T18:55"
+          "2026-10-02T18:55",
+          "2026-10-02T19:15",
+          "2026-10-02T19:40",
+          "2026-10-02T19:45"
         ],
-        "input_events": 10,
-        "output_events": 26
+        "input_events": 15,
+        "output_events": 31
       },
       {
         "day": "2026-10-02",
@@ -65789,8 +65862,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 101228.3,
-    "tokens": 3664340664,
+    "duration_minutes": 101323.5,
+    "tokens": 3679730713,
     "additions": 568822,
     "deletions": 205162,
     "files_changed": 7125,
@@ -68113,12 +68186,15 @@
       "2026-10-02T17:55",
       "2026-10-02T18:00",
       "2026-10-02T18:20",
-      "2026-10-02T18:55"
+      "2026-10-02T18:55",
+      "2026-10-02T19:15",
+      "2026-10-02T19:40",
+      "2026-10-02T19:45"
     ],
-    "input_events": 5071,
-    "output_events": 21673,
-    "active_minutes": 11595,
-    "active_slice_count": 2319
+    "input_events": 5080,
+    "output_events": 21680,
+    "active_minutes": 11610,
+    "active_slice_count": 2322
   },
   {
     "name": "track-insight-miniapp",
