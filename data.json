@@ -44627,8 +44627,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 44.3,
-        "tokens": 7357428,
+        "duration_minutes": 194.1,
+        "tokens": 11161741,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44637,10 +44637,14 @@
           "2026-10-03T18:05",
           "2026-10-03T18:10",
           "2026-10-03T18:15",
-          "2026-10-03T18:20"
+          "2026-10-03T18:20",
+          "2026-10-03T20:20",
+          "2026-10-03T20:30",
+          "2026-10-03T20:45",
+          "2026-10-03T20:50"
         ],
-        "input_events": 4,
-        "output_events": 10
+        "input_events": 7,
+        "output_events": 16
       },
       {
         "day": "2026-10-03",
@@ -44817,16 +44821,18 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 18.5,
-        "tokens": 1992333,
+        "tokens": 15949280,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-03T19:40",
-          "2026-10-03T20:00"
+          "2026-10-03T20:00",
+          "2026-10-03T20:05",
+          "2026-10-03T20:40"
         ],
-        "input_events": 3,
-        "output_events": 4
+        "input_events": 4,
+        "output_events": 7
       },
       {
         "day": "2026-10-03",
@@ -66762,8 +66768,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 102781.2,
-    "tokens": 4075619711,
+    "duration_minutes": 102931.0,
+    "tokens": 4093380971,
     "additions": 573910,
     "deletions": 208778,
     "files_changed": 7176,
@@ -69132,12 +69138,18 @@
       "2026-10-03T18:15",
       "2026-10-03T18:20",
       "2026-10-03T19:40",
-      "2026-10-03T20:00"
+      "2026-10-03T20:00",
+      "2026-10-03T20:05",
+      "2026-10-03T20:20",
+      "2026-10-03T20:30",
+      "2026-10-03T20:40",
+      "2026-10-03T20:45",
+      "2026-10-03T20:50"
     ],
-    "input_events": 5378,
-    "output_events": 21977,
-    "active_minutes": 11825,
-    "active_slice_count": 2365
+    "input_events": 5382,
+    "output_events": 21986,
+    "active_minutes": 11855,
+    "active_slice_count": 2371
   },
   {
     "name": "track-insight-miniapp",
