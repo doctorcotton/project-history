@@ -44367,8 +44367,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 156.5,
-        "tokens": 35075328,
+        "duration_minutes": 236.3,
+        "tokens": 53151037,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44383,10 +44383,12 @@
           "2026-10-03T11:10",
           "2026-10-03T11:15",
           "2026-10-03T11:25",
-          "2026-10-03T11:30"
+          "2026-10-03T11:30",
+          "2026-10-03T12:25",
+          "2026-10-03T12:50"
         ],
         "input_events": 12,
-        "output_events": 29
+        "output_events": 32
       },
       {
         "day": "2026-10-03",
@@ -66246,8 +66248,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 101849.5,
-    "tokens": 4008218548,
+    "duration_minutes": 101929.3,
+    "tokens": 4026294257,
     "additions": 568822,
     "deletions": 205162,
     "files_changed": 7125,
@@ -68580,12 +68582,14 @@
       "2026-10-03T11:10",
       "2026-10-03T11:15",
       "2026-10-03T11:25",
-      "2026-10-03T11:30"
+      "2026-10-03T11:30",
+      "2026-10-03T12:25",
+      "2026-10-03T12:50"
     ],
     "input_events": 5138,
-    "output_events": 21383,
-    "active_minutes": 11645,
-    "active_slice_count": 2329
+    "output_events": 21386,
+    "active_minutes": 11655,
+    "active_slice_count": 2331
   },
   {
     "name": "track-insight-miniapp",
