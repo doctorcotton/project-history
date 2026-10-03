@@ -6,6 +6,46 @@
     "events": [
       {
         "day": "2026-10-03",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 289dd624",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/03/rollout-2026-10-03T10-36-03-01a0ff9e-5b27-7d31-93e7-d8f3289dd624.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 24.3,
+        "tokens": 11889624,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-03T10:35"
+        ],
+        "input_events": 3,
+        "output_events": 3
+      },
+      {
+        "day": "2026-10-03",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 21957c4c",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/03/rollout-2026-10-03T10-36-46-01a0ff9f-0321-7c13-9fa0-0b9f21957c4c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 25.7,
+        "tokens": 12645670,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-03T10:35"
+        ],
+        "input_events": 3,
+        "output_events": 2
+      },
+      {
+        "day": "2026-10-03",
         "kind": "git",
         "title": "fix(法规回读): 补齐无页 canonical 与材料清单对账",
         "summary": "提交 39b4d2bd：fix(法规回读): 补齐无页 canonical 与材料清单对账",
@@ -36,6 +76,42 @@
         "additions": 856,
         "deletions": 382,
         "files_changed": 33,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-03",
+        "kind": "git",
+        "title": "fix(制品坐标): 收口法规制品来源登记",
+        "summary": "提交 2cef9bc3：fix(制品坐标): 收口法规制品来源登记",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 164,
+        "deletions": 418,
+        "files_changed": 4,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-03",
+        "kind": "git",
+        "title": "feat(合规): 补齐动态执行标准运行态验收",
+        "summary": "提交 a3c80297：feat(合规): 补齐动态执行标准运行态验收",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 8486,
+        "deletions": 0,
+        "files_changed": 4,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -11785,7 +11861,7 @@
     ],
     "august_event_count": 163,
     "latest_day": "2026-10-03",
-    "status": "已推进",
+    "status": "有历史证据",
     "profile": {
       "introduction": "TDS 合规与 Proof 的主 monorepo，提供法规审核、PDF/图稿核对、证据链、评测和分层质量门禁。",
       "architecture": [
@@ -11820,11 +11896,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 37314.5,
-    "tokens": 4329213550,
-    "additions": 17631173,
-    "deletions": 14583162,
-    "files_changed": 23100,
+    "duration_minutes": 37364.5,
+    "tokens": 4353748844,
+    "additions": 17639823,
+    "deletions": 14583580,
+    "files_changed": 23108,
     "active_bucket_keys": [
       "2026-08-08T20:35",
       "2026-08-08T20:40",
@@ -14046,12 +14122,13 @@
       "2026-10-03T09:00",
       "2026-10-03T09:05",
       "2026-10-03T09:15",
-      "2026-10-03T09:20"
+      "2026-10-03T09:20",
+      "2026-10-03T10:35"
     ],
-    "input_events": 2127,
-    "output_events": 11385,
-    "active_minutes": 11105,
-    "active_slice_count": 2221
+    "input_events": 2133,
+    "output_events": 11390,
+    "active_minutes": 11110,
+    "active_slice_count": 2222
   },
   {
     "name": "QMS标准",
@@ -44364,8 +44441,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 60.1,
-        "tokens": 12185743,
+        "duration_minutes": 105.9,
+        "tokens": 16758235,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44374,10 +44451,12 @@
           "2026-10-03T09:00",
           "2026-10-03T09:05",
           "2026-10-03T09:50",
-          "2026-10-03T09:55"
+          "2026-10-03T09:55",
+          "2026-10-03T10:30",
+          "2026-10-03T10:40"
         ],
-        "input_events": 4,
-        "output_events": 10
+        "input_events": 7,
+        "output_events": 20
       },
       {
         "day": "2026-10-03",
@@ -66423,8 +66502,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 102288.2,
-    "tokens": 3985328963,
+    "duration_minutes": 102334.0,
+    "tokens": 3989901455,
     "additions": 568822,
     "deletions": 205162,
     "files_changed": 7125,
@@ -68797,12 +68876,14 @@
       "2026-10-03T09:15",
       "2026-10-03T09:20",
       "2026-10-03T09:50",
-      "2026-10-03T09:55"
+      "2026-10-03T09:55",
+      "2026-10-03T10:30",
+      "2026-10-03T10:40"
     ],
-    "input_events": 5130,
-    "output_events": 21788,
-    "active_minutes": 11845,
-    "active_slice_count": 2369
+    "input_events": 5133,
+    "output_events": 21798,
+    "active_minutes": 11855,
+    "active_slice_count": 2371
   },
   {
     "name": "track-insight-miniapp",
