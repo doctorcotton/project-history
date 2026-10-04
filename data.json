@@ -7,6 +7,29 @@
       {
         "day": "2026-10-04",
         "kind": "session",
+        "title": "本机 ZCode 会话 · dc8acc9e",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 12.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-04T17:10",
+          "2026-10-04T17:15",
+          "2026-10-04T17:20",
+          "2026-10-04T17:25"
+        ],
+        "input_events": 0,
+        "output_events": 58
+      },
+      {
+        "day": "2026-10-04",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · e8fa5ae4",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/04/rollout-2026-10-04T11-33-41-01a104f9-7add-7af1-824b-d471e8fa5ae4.jsonl",
@@ -98,8 +121,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 31.7,
-        "tokens": 7515704,
+        "duration_minutes": 149.9,
+        "tokens": 9032129,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -108,10 +131,14 @@
           "2026-10-04T14:35",
           "2026-10-04T14:45",
           "2026-10-04T14:55",
-          "2026-10-04T15:00"
+          "2026-10-04T15:00",
+          "2026-10-04T16:45",
+          "2026-10-04T16:50",
+          "2026-10-04T16:55",
+          "2026-10-04T17:00"
         ],
         "input_events": 4,
-        "output_events": 8
+        "output_events": 13
       },
       {
         "day": "2026-10-04",
@@ -12060,8 +12087,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 38060.3,
-    "tokens": 4444963696,
+    "duration_minutes": 38190.7,
+    "tokens": 4446480121,
     "additions": 17641923,
     "deletions": 14584870,
     "files_changed": 23184,
@@ -14267,12 +14294,20 @@
       "2026-10-04T14:35",
       "2026-10-04T14:45",
       "2026-10-04T14:55",
-      "2026-10-04T15:00"
+      "2026-10-04T15:00",
+      "2026-10-04T16:45",
+      "2026-10-04T16:50",
+      "2026-10-04T16:55",
+      "2026-10-04T17:00",
+      "2026-10-04T17:10",
+      "2026-10-04T17:15",
+      "2026-10-04T17:20",
+      "2026-10-04T17:25"
     ],
     "input_events": 2262,
-    "output_events": 11161,
-    "active_minutes": 11010,
-    "active_slice_count": 2202
+    "output_events": 11224,
+    "active_minutes": 11050,
+    "active_slice_count": 2210
   },
   {
     "name": "QMS标准",
@@ -45038,18 +45073,22 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 9.4,
-        "tokens": 890311,
+        "duration_minutes": 124.5,
+        "tokens": 1626384,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-04T14:50",
           "2026-10-04T14:55",
-          "2026-10-04T15:00"
+          "2026-10-04T15:00",
+          "2026-10-04T16:45",
+          "2026-10-04T16:50",
+          "2026-10-04T16:55",
+          "2026-10-04T17:00"
         ],
         "input_events": 3,
-        "output_events": 4
+        "output_events": 17
       },
       {
         "day": "2026-10-04",
@@ -45131,8 +45170,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 66.2,
-        "tokens": 9428423,
+        "duration_minutes": 195.3,
+        "tokens": 9603244,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -45140,10 +45179,11 @@
           "2026-10-04T13:45",
           "2026-10-04T13:50",
           "2026-10-04T14:05",
-          "2026-10-04T14:50"
+          "2026-10-04T14:50",
+          "2026-10-04T17:00"
         ],
-        "input_events": 5,
-        "output_events": 10
+        "input_events": 6,
+        "output_events": 13
       },
       {
         "day": "2026-10-04",
@@ -67608,8 +67648,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 103672.8,
-    "tokens": 4205696492,
+    "duration_minutes": 103917.0,
+    "tokens": 4206607386,
     "additions": 591086,
     "deletions": 214061,
     "files_changed": 7483,
@@ -70006,12 +70046,16 @@
       "2026-10-04T14:45",
       "2026-10-04T14:50",
       "2026-10-04T14:55",
-      "2026-10-04T15:00"
+      "2026-10-04T15:00",
+      "2026-10-04T16:45",
+      "2026-10-04T16:50",
+      "2026-10-04T16:55",
+      "2026-10-04T17:00"
     ],
-    "input_events": 5799,
-    "output_events": 21389,
-    "active_minutes": 11965,
-    "active_slice_count": 2393
+    "input_events": 5800,
+    "output_events": 21405,
+    "active_minutes": 11985,
+    "active_slice_count": 2397
   },
   {
     "name": "track-insight-miniapp",
