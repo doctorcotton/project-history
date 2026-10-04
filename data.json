@@ -98,8 +98,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 6.7,
-        "tokens": 7029051,
+        "duration_minutes": 31.7,
+        "tokens": 7515704,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -107,10 +107,11 @@
           "2026-10-04T14:30",
           "2026-10-04T14:35",
           "2026-10-04T14:45",
-          "2026-10-04T14:55"
+          "2026-10-04T14:55",
+          "2026-10-04T15:00"
         ],
         "input_events": 4,
-        "output_events": 7
+        "output_events": 8
       },
       {
         "day": "2026-10-04",
@@ -12059,8 +12060,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 38035.3,
-    "tokens": 4444477043,
+    "duration_minutes": 38060.3,
+    "tokens": 4444963696,
     "additions": 17641923,
     "deletions": 14584870,
     "files_changed": 23184,
@@ -14265,12 +14266,13 @@
       "2026-10-04T14:30",
       "2026-10-04T14:35",
       "2026-10-04T14:45",
-      "2026-10-04T14:55"
+      "2026-10-04T14:55",
+      "2026-10-04T15:00"
     ],
     "input_events": 2262,
-    "output_events": 11160,
-    "active_minutes": 11005,
-    "active_slice_count": 2201
+    "output_events": 11161,
+    "active_minutes": 11010,
+    "active_slice_count": 2202
   },
   {
     "name": "QMS标准",
@@ -45036,17 +45038,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 8.5,
-        "tokens": 816015,
+        "duration_minutes": 9.4,
+        "tokens": 890311,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-04T14:50",
-          "2026-10-04T14:55"
+          "2026-10-04T14:55",
+          "2026-10-04T15:00"
         ],
         "input_events": 3,
-        "output_events": 3
+        "output_events": 4
       },
       {
         "day": "2026-10-04",
@@ -67605,8 +67608,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 103671.9,
-    "tokens": 4205622196,
+    "duration_minutes": 103672.8,
+    "tokens": 4205696492,
     "additions": 591086,
     "deletions": 214061,
     "files_changed": 7483,
@@ -70002,12 +70005,13 @@
       "2026-10-04T14:40",
       "2026-10-04T14:45",
       "2026-10-04T14:50",
-      "2026-10-04T14:55"
+      "2026-10-04T14:55",
+      "2026-10-04T15:00"
     ],
     "input_events": 5799,
-    "output_events": 21388,
-    "active_minutes": 11960,
-    "active_slice_count": 2392
+    "output_events": 21389,
+    "active_minutes": 11965,
+    "active_slice_count": 2393
   },
   {
     "name": "track-insight-miniapp",
