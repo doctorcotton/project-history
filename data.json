@@ -105,8 +105,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 711.0,
-        "tokens": 29738151,
+        "duration_minutes": 719.3,
+        "tokens": 31139429,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -117,10 +117,11 @@
           "2026-10-04T21:45",
           "2026-10-04T21:55",
           "2026-10-05T08:30",
-          "2026-10-05T08:50"
+          "2026-10-05T08:50",
+          "2026-10-05T09:05"
         ],
         "input_events": 6,
-        "output_events": 9
+        "output_events": 11
       },
       {
         "day": "2026-10-04",
@@ -12080,8 +12081,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 38188.8,
-    "tokens": 4476466255,
+    "duration_minutes": 38197.1,
+    "tokens": 4477867533,
     "additions": 17659922,
     "deletions": 14584955,
     "files_changed": 23214,
@@ -14317,12 +14318,13 @@
       "2026-10-04T21:45",
       "2026-10-04T21:55",
       "2026-10-05T08:30",
-      "2026-10-05T08:50"
+      "2026-10-05T08:50",
+      "2026-10-05T09:05"
     ],
     "input_events": 2339,
-    "output_events": 10883,
-    "active_minutes": 11160,
-    "active_slice_count": 2232
+    "output_events": 10885,
+    "active_minutes": 11165,
+    "active_slice_count": 2233
   },
   {
     "name": "QMS标准",
