@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 107.4,
+        "duration_minutes": 163.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -32,10 +32,17 @@
           "2026-10-05T12:50",
           "2026-10-05T12:55",
           "2026-10-05T13:00",
-          "2026-10-05T13:10"
+          "2026-10-05T13:10",
+          "2026-10-05T13:20",
+          "2026-10-05T13:30",
+          "2026-10-05T13:40",
+          "2026-10-05T13:50",
+          "2026-10-05T13:55",
+          "2026-10-05T14:00",
+          "2026-10-05T14:05"
         ],
-        "input_events": 87,
-        "output_events": 87
+        "input_events": 95,
+        "output_events": 95
       },
       {
         "day": "2026-10-05",
@@ -46,7 +53,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 107.6,
+        "duration_minutes": 173.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -65,10 +72,17 @@
           "2026-10-05T12:50",
           "2026-10-05T12:55",
           "2026-10-05T13:00",
-          "2026-10-05T13:10"
+          "2026-10-05T13:10",
+          "2026-10-05T13:20",
+          "2026-10-05T13:30",
+          "2026-10-05T13:40",
+          "2026-10-05T13:50",
+          "2026-10-05T13:55",
+          "2026-10-05T14:05",
+          "2026-10-05T14:15"
         ],
         "input_events": 0,
-        "output_events": 87
+        "output_events": 96
       },
       {
         "day": "2026-10-05",
@@ -12286,7 +12300,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 38542.6,
+    "duration_minutes": 38664.9,
     "tokens": 4506692599,
     "additions": 17661737,
     "deletions": 14602814,
@@ -14545,12 +14559,20 @@
       "2026-10-05T12:50",
       "2026-10-05T12:55",
       "2026-10-05T13:00",
-      "2026-10-05T13:10"
+      "2026-10-05T13:10",
+      "2026-10-05T13:20",
+      "2026-10-05T13:30",
+      "2026-10-05T13:40",
+      "2026-10-05T13:50",
+      "2026-10-05T13:55",
+      "2026-10-05T14:00",
+      "2026-10-05T14:05",
+      "2026-10-05T14:15"
     ],
-    "input_events": 2434,
-    "output_events": 11079,
-    "active_minutes": 11270,
-    "active_slice_count": 2254
+    "input_events": 2442,
+    "output_events": 11096,
+    "active_minutes": 11310,
+    "active_slice_count": 2262
   },
   {
     "name": "QMS标准",
@@ -45130,7 +45152,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 60.6,
-        "tokens": 37462805,
+        "tokens": 75309297,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -45140,10 +45162,15 @@
           "2026-10-05T11:30",
           "2026-10-05T12:05",
           "2026-10-05T12:30",
-          "2026-10-05T12:35"
+          "2026-10-05T12:35",
+          "2026-10-05T13:10",
+          "2026-10-05T13:30",
+          "2026-10-05T13:40",
+          "2026-10-05T13:45",
+          "2026-10-05T13:50"
         ],
-        "input_events": 7,
-        "output_events": 15
+        "input_events": 14,
+        "output_events": 18
       },
       {
         "day": "2026-10-05",
@@ -45159,6 +45186,42 @@
         "additions": 3,
         "deletions": 3,
         "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-05",
+        "kind": "git",
+        "title": "refactor(任务闭环): 合并收件箱到项目工作台",
+        "summary": "提交 5535c5a6：refactor(任务闭环): 合并收件箱到项目工作台",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 2105,
+        "deletions": 5855,
+        "files_changed": 99,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-05",
+        "kind": "git",
+        "title": "refactor(个人中心): 明确业务分类与任务关系",
+        "summary": "提交 7b1913f5：refactor(个人中心): 明确业务分类与任务关系",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 4,
+        "deletions": 4,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -45231,6 +45294,24 @@
         "additions": 74,
         "deletions": 21,
         "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-05",
+        "kind": "git",
+        "title": "fix(个人中心): 保留任务详情动作投影",
+        "summary": "提交 e3be1b94：fix(个人中心): 保留任务详情动作投影",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 38,
+        "deletions": 3,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -68325,10 +68406,10 @@
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
     "duration_minutes": 105646.8,
-    "tokens": 4295014176,
-    "additions": 600091,
-    "deletions": 214673,
-    "files_changed": 7592,
+    "tokens": 4332860668,
+    "additions": 602238,
+    "deletions": 220535,
+    "files_changed": 7695,
     "active_bucket_keys": [
       "2026-08-14T05:55",
       "2026-08-14T06:00",
@@ -70800,12 +70881,17 @@
       "2026-10-05T12:05",
       "2026-10-05T12:10",
       "2026-10-05T12:30",
-      "2026-10-05T12:35"
+      "2026-10-05T12:35",
+      "2026-10-05T13:10",
+      "2026-10-05T13:30",
+      "2026-10-05T13:40",
+      "2026-10-05T13:45",
+      "2026-10-05T13:50"
     ],
-    "input_events": 6296,
-    "output_events": 21602,
-    "active_minutes": 12355,
-    "active_slice_count": 2471
+    "input_events": 6303,
+    "output_events": 21605,
+    "active_minutes": 12380,
+    "active_slice_count": 2476
   },
   {
     "name": "track-insight-miniapp",
