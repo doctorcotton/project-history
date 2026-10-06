@@ -44830,8 +44830,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 14.5,
-        "tokens": 10470423,
+        "duration_minutes": 67.6,
+        "tokens": 18966326,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -44839,10 +44839,18 @@
           "2026-10-06T13:40",
           "2026-10-06T13:50",
           "2026-10-06T13:55",
-          "2026-10-06T14:00"
+          "2026-10-06T14:00",
+          "2026-10-06T14:05",
+          "2026-10-06T14:10",
+          "2026-10-06T14:20",
+          "2026-10-06T14:25",
+          "2026-10-06T14:30",
+          "2026-10-06T14:35",
+          "2026-10-06T14:40",
+          "2026-10-06T14:45"
         ],
-        "input_events": 3,
-        "output_events": 9
+        "input_events": 7,
+        "output_events": 26
       },
       {
         "day": "2026-10-05",
@@ -68572,8 +68580,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 116982.7,
-    "tokens": 4395555582,
+    "duration_minutes": 117035.8,
+    "tokens": 4404051485,
     "additions": 603512,
     "deletions": 220693,
     "files_changed": 7732,
@@ -71096,12 +71104,20 @@
       "2026-10-06T13:40",
       "2026-10-06T13:50",
       "2026-10-06T13:55",
-      "2026-10-06T14:00"
+      "2026-10-06T14:00",
+      "2026-10-06T14:05",
+      "2026-10-06T14:10",
+      "2026-10-06T14:20",
+      "2026-10-06T14:25",
+      "2026-10-06T14:30",
+      "2026-10-06T14:35",
+      "2026-10-06T14:40",
+      "2026-10-06T14:45"
     ],
-    "input_events": 6471,
-    "output_events": 21468,
-    "active_minutes": 12595,
-    "active_slice_count": 2519
+    "input_events": 6475,
+    "output_events": 21485,
+    "active_minutes": 12635,
+    "active_slice_count": 2527
   },
   {
     "name": "track-insight-miniapp",
