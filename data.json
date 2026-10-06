@@ -8,27 +8,6 @@
         "day": "2026-10-06",
         "kind": "session",
         "title": "本机 ZCode 会话 · 517b2d7e",
-        "summary": "请基于当前工作树收口审查队列 v3 防漂移保护：审查 build_regulatory_material_review_queue.py、regulatory_material_review_queue.py、.githooks/pre-commit 和 inventory 变更，补必要中文注释与最小回归覆盖；运行队…",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_af4b32a9-7ede-4fa1-92c7-5f18517b2d7e.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 5.6,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-06T15:55",
-          "2026-10-06T16:00"
-        ],
-        "input_events": 1,
-        "output_events": 22
-      },
-      {
-        "day": "2026-10-06",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 517b2d7e",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -11776,7 +11755,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 36114.3,
+    "duration_minutes": 36108.7,
     "tokens": 4506692599,
     "additions": 17661797,
     "deletions": 14602815,
@@ -13985,8 +13964,8 @@
       "2026-10-06T15:55",
       "2026-10-06T16:00"
     ],
-    "input_events": 1123,
-    "output_events": 8166,
+    "input_events": 1122,
+    "output_events": 8144,
     "active_minutes": 11010,
     "active_slice_count": 2202
   },
@@ -44250,26 +44229,6 @@
         "day": "2026-10-06",
         "kind": "session",
         "title": "本机 ZCode 会话 · ab80b1e2",
-        "summary": "又挂了",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_dd75e04d-ca2c-4c81-9124-75bcab80b1e2.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 1.1,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-06T16:25"
-        ],
-        "input_events": 5,
-        "output_events": 5
-      },
-      {
-        "day": "2026-10-06",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · ab80b1e2",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -44431,30 +44390,6 @@
         ],
         "input_events": 0,
         "output_events": 5
-      },
-      {
-        "day": "2026-10-05",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · ab80b1e2",
-        "summary": "又挂了",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_dd75e04d-ca2c-4c81-9124-75bcab80b1e2.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 196.7,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-05T08:30",
-          "2026-10-05T08:35",
-          "2026-10-05T10:30",
-          "2026-10-05T11:45",
-          "2026-10-05T11:50"
-        ],
-        "input_events": 15,
-        "output_events": 21
       },
       {
         "day": "2026-10-05",
@@ -66076,7 +66011,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 112006.8,
+    "duration_minutes": 111809.0,
     "tokens": 4443038256,
     "additions": 604507,
     "deletions": 220833,
@@ -68435,8 +68370,8 @@
       "2026-10-06T20:35",
       "2026-10-06T20:50"
     ],
-    "input_events": 1812,
-    "output_events": 12334,
+    "input_events": 1792,
+    "output_events": 12308,
     "active_minutes": 11760,
     "active_slice_count": 2352
   },
