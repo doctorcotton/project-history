@@ -44886,6 +44886,46 @@
       {
         "day": "2026-10-06",
         "kind": "session",
+        "title": "本机 ZCode 会话 · ab80b1e2",
+        "summary": "又挂了",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_dd75e04d-ca2c-4c81-9124-75bcab80b1e2.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-06T16:25"
+        ],
+        "input_events": 5,
+        "output_events": 5
+      },
+      {
+        "day": "2026-10-06",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · ab80b1e2",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-06T16:25"
+        ],
+        "input_events": 0,
+        "output_events": 5
+      },
+      {
+        "day": "2026-10-06",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 230e9e85",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/06/rollout-2026-10-06T13-42-22-01a10fbc-03ec-7833-9f2d-e585230e9e85.jsonl",
@@ -44923,17 +44963,20 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 6.1,
-        "tokens": 18957516,
+        "duration_minutes": 62.9,
+        "tokens": 23129333,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-06T15:40",
-          "2026-10-06T15:45"
+          "2026-10-06T15:45",
+          "2026-10-06T16:20",
+          "2026-10-06T16:40",
+          "2026-10-06T16:45"
         ],
-        "input_events": 2,
-        "output_events": 5
+        "input_events": 4,
+        "output_events": 10
       },
       {
         "day": "2026-10-05",
@@ -68663,8 +68706,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 117041.9,
-    "tokens": 4423009001,
+    "duration_minutes": 117100.9,
+    "tokens": 4427180818,
     "additions": 603512,
     "deletions": 220693,
     "files_changed": 7732,
@@ -71197,12 +71240,16 @@
       "2026-10-06T14:40",
       "2026-10-06T14:45",
       "2026-10-06T15:40",
-      "2026-10-06T15:45"
+      "2026-10-06T15:45",
+      "2026-10-06T16:20",
+      "2026-10-06T16:25",
+      "2026-10-06T16:40",
+      "2026-10-06T16:45"
     ],
-    "input_events": 6477,
-    "output_events": 21490,
-    "active_minutes": 12645,
-    "active_slice_count": 2529
+    "input_events": 6484,
+    "output_events": 21505,
+    "active_minutes": 12665,
+    "active_slice_count": 2533
   },
   {
     "name": "track-insight-miniapp",
