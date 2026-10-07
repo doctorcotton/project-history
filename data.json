@@ -44229,26 +44229,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · 9cb697b4",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_96292fe4-7ec4-4e63-a6d3-4a719cb697b4.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 1.5,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-07T17:10"
-        ],
-        "input_events": 0,
-        "output_events": 6
-      },
-      {
-        "day": "2026-10-07",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 9cb697b4",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -44290,27 +44270,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · 400db594",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_64b61dfb-a6c0-49ef-972f-cd99400db594.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 2.8,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-07T17:05",
-          "2026-10-07T17:10"
-        ],
-        "input_events": 0,
-        "output_events": 3
-      },
-      {
-        "day": "2026-10-07",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 400db594",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -44325,27 +44284,6 @@
         ],
         "input_events": 0,
         "output_events": 3
-      },
-      {
-        "day": "2026-10-07",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 2008b569",
-        "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_10b8e181-a4bc-4529-a909-a4ac2008b569.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 2.3,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-07T17:10",
-          "2026-10-07T17:15"
-        ],
-        "input_events": 0,
-        "output_events": 4
       },
       {
         "day": "2026-10-07",
@@ -66071,7 +66009,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 111865.8,
+    "duration_minutes": 111859.2,
     "tokens": 4517932288,
     "additions": 629822,
     "deletions": 226555,
@@ -68383,13 +68321,12 @@
       "2026-10-07T16:45",
       "2026-10-07T16:50",
       "2026-10-07T17:05",
-      "2026-10-07T17:10",
-      "2026-10-07T17:15"
+      "2026-10-07T17:10"
     ],
     "input_events": 1814,
-    "output_events": 10351,
-    "active_minutes": 11540,
-    "active_slice_count": 2308
+    "output_events": 10338,
+    "active_minutes": 11535,
+    "active_slice_count": 2307
   },
   {
     "name": "track-insight-miniapp",
