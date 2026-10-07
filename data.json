@@ -44247,6 +44247,86 @@
       {
         "day": "2026-10-07",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 70a1eea9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_30753bc2-c463-4f00-bb84-6cd870a1eea9.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:40"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 70a1eea9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:40"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 64dabe37",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_e8ea70f0-49f8-4f9a-af05-862864dabe37.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:45"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 64dabe37",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:40"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 5583d67d",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -44284,6 +44364,46 @@
         ],
         "input_events": 0,
         "output_events": 3
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 28ae2c96",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:35"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 26d03c93",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-07T22:35"
+        ],
+        "input_events": 0,
+        "output_events": 1
       },
       {
         "day": "2026-10-07",
@@ -68321,12 +68441,15 @@
       "2026-10-07T16:45",
       "2026-10-07T16:50",
       "2026-10-07T17:05",
-      "2026-10-07T17:10"
+      "2026-10-07T17:10",
+      "2026-10-07T22:35",
+      "2026-10-07T22:40",
+      "2026-10-07T22:45"
     ],
     "input_events": 1814,
-    "output_events": 10338,
-    "active_minutes": 11535,
-    "active_slice_count": 2307
+    "output_events": 10344,
+    "active_minutes": 11550,
+    "active_slice_count": 2310
   },
   {
     "name": "track-insight-miniapp",
