@@ -147,17 +147,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 6.4,
+        "duration_minutes": 9.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-09T10:50",
-          "2026-10-09T10:55"
+          "2026-10-09T10:55",
+          "2026-10-09T11:00"
         ],
         "input_events": 0,
-        "output_events": 10
+        "output_events": 12
       },
       {
         "day": "2026-10-09",
@@ -190,7 +191,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 12.5,
-        "tokens": 9295042,
+        "tokens": 33095417,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -198,10 +199,19 @@
           "2026-10-09T10:35",
           "2026-10-09T10:40",
           "2026-10-09T10:45",
-          "2026-10-09T10:50"
+          "2026-10-09T10:50",
+          "2026-10-09T11:00",
+          "2026-10-09T11:05",
+          "2026-10-09T11:10",
+          "2026-10-09T11:15",
+          "2026-10-09T11:20",
+          "2026-10-09T11:30",
+          "2026-10-09T11:40",
+          "2026-10-09T11:50",
+          "2026-10-09T11:55"
         ],
-        "input_events": 7,
-        "output_events": 18
+        "input_events": 12,
+        "output_events": 33
       },
       {
         "day": "2026-10-08",
@@ -8205,8 +8215,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 5171.2,
-    "tokens": 546789055,
+    "duration_minutes": 5174.3,
+    "tokens": 570589430,
     "additions": 17690854,
     "deletions": 14620573,
     "files_changed": 23499,
@@ -8519,12 +8529,21 @@
       "2026-10-09T10:40",
       "2026-10-09T10:45",
       "2026-10-09T10:50",
-      "2026-10-09T10:55"
+      "2026-10-09T10:55",
+      "2026-10-09T11:00",
+      "2026-10-09T11:05",
+      "2026-10-09T11:10",
+      "2026-10-09T11:15",
+      "2026-10-09T11:20",
+      "2026-10-09T11:30",
+      "2026-10-09T11:40",
+      "2026-10-09T11:50",
+      "2026-10-09T11:55"
     ],
-    "input_events": 141,
-    "output_events": 2372,
-    "active_minutes": 1545,
-    "active_slice_count": 309
+    "input_events": 146,
+    "output_events": 2389,
+    "active_minutes": 1590,
+    "active_slice_count": 318
   },
   {
     "name": "project-iframe",
@@ -17174,6 +17193,46 @@
     "path": "/Users/cottondog/Work-projects/tds-studio",
     "events": [
       {
+        "day": "2026-10-09",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 5bfbd476",
+        "summary": "找一下oss的配置文件",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_966c6627-95b3-4533-ab3c-6ece5bfbd476.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-09T11:10"
+        ],
+        "input_events": 1,
+        "output_events": 4
+      },
+      {
+        "day": "2026-10-09",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 5bfbd476",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.5,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-09T11:10"
+        ],
+        "input_events": 0,
+        "output_events": 3
+      },
+      {
         "day": "2026-10-08",
         "kind": "session",
         "title": "本机 ZCode 会话 · fe602ca2",
@@ -17609,8 +17668,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 230.3,
-        "tokens": 8346507,
+        "duration_minutes": 1052.0,
+        "tokens": 13817011,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -17623,10 +17682,14 @@
           "2026-10-08T21:45",
           "2026-10-08T21:50",
           "2026-10-08T21:55",
-          "2026-10-08T22:00"
+          "2026-10-08T22:00",
+          "2026-10-09T11:25",
+          "2026-10-09T11:30",
+          "2026-10-09T11:35",
+          "2026-10-09T11:40"
         ],
-        "input_events": 8,
-        "output_events": 21
+        "input_events": 15,
+        "output_events": 34
       },
       {
         "day": "2026-10-08",
@@ -34299,7 +34362,7 @@
       }
     ],
     "august_event_count": 28,
-    "latest_day": "2026-10-08",
+    "latest_day": "2026-10-09",
     "status": "有历史证据",
     "profile": {
       "introduction": "数字标签研发工作台，承载标签内容、字段历史、评论协作、审核流程和 PackVista 3D 任务等产品能力。",
@@ -34335,8 +34398,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 48700.7,
-    "tokens": 1195967316,
+    "duration_minutes": 49523.7,
+    "tokens": 1201437820,
     "additions": 636166,
     "deletions": 227378,
     "files_changed": 8092,
@@ -34860,12 +34923,17 @@
       "2026-10-08T21:45",
       "2026-10-08T21:50",
       "2026-10-08T21:55",
-      "2026-10-08T22:00"
+      "2026-10-08T22:00",
+      "2026-10-09T11:10",
+      "2026-10-09T11:25",
+      "2026-10-09T11:30",
+      "2026-10-09T11:35",
+      "2026-10-09T11:40"
     ],
-    "input_events": 405,
-    "output_events": 4322,
-    "active_minutes": 2600,
-    "active_slice_count": 520
+    "input_events": 413,
+    "output_events": 4342,
+    "active_minutes": 2625,
+    "active_slice_count": 525
   },
   {
     "name": "tds-compliance",
