@@ -187,7 +187,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 227.4,
+        "duration_minutes": 258.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -215,10 +215,12 @@
           "2026-10-10T20:55",
           "2026-10-10T21:05",
           "2026-10-10T21:10",
-          "2026-10-10T21:55"
+          "2026-10-10T21:55",
+          "2026-10-10T22:20",
+          "2026-10-10T22:25"
         ],
-        "input_events": 283,
-        "output_events": 290
+        "input_events": 292,
+        "output_events": 299
       },
       {
         "day": "2026-10-10",
@@ -229,7 +231,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 231.3,
+        "duration_minutes": 262.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -258,10 +260,12 @@
           "2026-10-10T20:55",
           "2026-10-10T21:05",
           "2026-10-10T21:10",
-          "2026-10-10T21:55"
+          "2026-10-10T21:55",
+          "2026-10-10T22:20",
+          "2026-10-10T22:25"
         ],
         "input_events": 0,
-        "output_events": 289
+        "output_events": 298
       },
       {
         "day": "2026-10-10",
@@ -439,17 +443,19 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3.4,
+        "duration_minutes": 60.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-10T21:55",
-          "2026-10-10T22:00"
+          "2026-10-10T22:00",
+          "2026-10-10T22:30",
+          "2026-10-10T22:55"
         ],
-        "input_events": 2,
-        "output_events": 10
+        "input_events": 8,
+        "output_events": 16
       },
       {
         "day": "2026-10-10",
@@ -460,17 +466,20 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.7,
+        "duration_minutes": 60.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-10T21:55",
-          "2026-10-10T22:00"
+          "2026-10-10T22:00",
+          "2026-10-10T22:25",
+          "2026-10-10T22:30",
+          "2026-10-10T22:55"
         ],
         "input_events": 0,
-        "output_events": 12
+        "output_events": 15
       },
       {
         "day": "2026-10-10",
@@ -1277,6 +1286,24 @@
         "additions": 1495,
         "deletions": 579,
         "files_changed": 17,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-10",
+        "kind": "git",
+        "title": "fix(compliance): 结构化投影查询候选物化修复 REGULATORY_QUERY_TIMEOUT 25s 超时",
+        "summary": "提交 c3c3a5c7：fix(compliance): 结构化投影查询候选物化修复 REGULATORY_QUERY_TIMEOUT 25s 超时",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 316,
+        "deletions": 235,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -10421,11 +10448,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7373.3,
+    "duration_minutes": 7548.6,
     "tokens": 369637037,
-    "additions": 17721587,
-    "deletions": 14626402,
-    "files_changed": 24444,
+    "additions": 17721903,
+    "deletions": 14626637,
+    "files_changed": 24446,
     "active_bucket_keys": [
       "2026-10-03T10:35",
       "2026-10-03T11:10",
@@ -10950,12 +10977,16 @@
       "2026-10-10T21:45",
       "2026-10-10T21:50",
       "2026-10-10T21:55",
-      "2026-10-10T22:00"
+      "2026-10-10T22:00",
+      "2026-10-10T22:20",
+      "2026-10-10T22:25",
+      "2026-10-10T22:30",
+      "2026-10-10T22:55"
     ],
-    "input_events": 1423,
-    "output_events": 8363,
-    "active_minutes": 2620,
-    "active_slice_count": 524
+    "input_events": 1438,
+    "output_events": 8390,
+    "active_minutes": 2640,
+    "active_slice_count": 528
   },
   {
     "name": "project-iframe",
@@ -20778,22 +20809,26 @@
         "day": "2026-10-10",
         "kind": "session",
         "title": "本机 ZCode 会话 · 294782a3",
-        "summary": "看看全局的默认svg，有没有问题，全面检查，提出优化建议",
+        "summary": "好 修复",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_11337cc2-d8fe-41ad-b69c-1f25294782a3.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.0,
+        "duration_minutes": 26.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-10T21:50",
-          "2026-10-10T21:55"
+          "2026-10-10T21:55",
+          "2026-10-10T22:00",
+          "2026-10-10T22:05",
+          "2026-10-10T22:10",
+          "2026-10-10T22:15"
         ],
-        "input_events": 1,
-        "output_events": 22
+        "input_events": 89,
+        "output_events": 110
       },
       {
         "day": "2026-10-10",
@@ -20804,7 +20839,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 11.5,
+        "duration_minutes": 25.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -20812,10 +20847,13 @@
         "active_bucket_keys": [
           "2026-10-10T21:50",
           "2026-10-10T21:55",
-          "2026-10-10T22:00"
+          "2026-10-10T22:00",
+          "2026-10-10T22:05",
+          "2026-10-10T22:10",
+          "2026-10-10T22:15"
         ],
         "input_events": 0,
-        "output_events": 22
+        "output_events": 109
       },
       {
         "day": "2026-10-10",
@@ -20983,6 +21021,26 @@
         ],
         "input_events": 0,
         "output_events": 57
+      },
+      {
+        "day": "2026-10-10",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 0c2a38f7",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-10T23:00"
+        ],
+        "input_events": 0,
+        "output_events": 1
       },
       {
         "day": "2026-10-10",
@@ -21380,6 +21438,24 @@
       {
         "day": "2026-10-10",
         "kind": "git",
+        "title": "fix(records): 种子槽位绑定对齐 svg_bindings 权威方向 slotId→fieldKey",
+        "summary": "提交 2602e75e：fix(records): 种子槽位绑定对齐 svg_bindings 权威方向 slotId→fieldKey",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 14,
+        "deletions": 9,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-10",
+        "kind": "git",
         "title": "feat(项目目录): 首页表格化与详情页深层路由改版",
         "summary": "提交 7aff2c72：feat(项目目录): 首页表格化与详情页深层路由改版",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -21733,6 +21809,42 @@
         "additions": 20,
         "deletions": 7,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-10",
+        "kind": "git",
+        "title": "feat(records): 默认模板品牌清洗收口——YQSL 拼音残词中和",
+        "summary": "提交 55224633：feat(records): 默认模板品牌清洗收口——YQSL 拼音残词中和",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 19,
+        "deletions": 12,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-10",
+        "kind": "git",
+        "title": "feat(records): 创建链旁路改保存点真降级，默认模板限瓶标并留审计",
+        "summary": "提交 307d9d06：feat(records): 创建链旁路改保存点真降级，默认模板限瓶标并留审计",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 220,
+        "deletions": 52,
+        "files_changed": 10,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -39880,11 +39992,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 80308.6,
+    "duration_minutes": 80344.0,
     "tokens": 708682053,
-    "additions": 665063,
-    "deletions": 234738,
-    "files_changed": 8948,
+    "additions": 665316,
+    "deletions": 234811,
+    "files_changed": 8963,
     "active_bucket_keys": [
       "2026-09-01T17:15",
       "2026-09-01T17:30",
@@ -40623,12 +40735,16 @@
       "2026-10-10T21:45",
       "2026-10-10T21:50",
       "2026-10-10T21:55",
-      "2026-10-10T22:00"
+      "2026-10-10T22:00",
+      "2026-10-10T22:05",
+      "2026-10-10T22:10",
+      "2026-10-10T22:15",
+      "2026-10-10T23:00"
     ],
-    "input_events": 2535,
-    "output_events": 12621,
-    "active_minutes": 3690,
-    "active_slice_count": 738
+    "input_events": 2623,
+    "output_events": 12797,
+    "active_minutes": 3710,
+    "active_slice_count": 742
   },
   {
     "name": "tds-compliance",
