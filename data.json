@@ -83,6 +83,62 @@
       {
         "day": "2026-10-11",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 92421684",
+        "summary": "在 tds-review 仓库（当前工作目录）执行「食安标签法规问答 bot 组件化」探索批一：W1 资产盘点（6 个并行只读子代理）+ W2 竞争方案设计（3 个并行子代理）。全程只读代码，只产出两份文档，不 git commit、不推送、不改 K8s/Dockerfile。 背景与已拍板约束（12 项，方案设计必…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_eee9480e-b8e4-49a4-9f9b-fbd192421684.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 51.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-11T19:00",
+          "2026-10-11T19:05",
+          "2026-10-11T19:15",
+          "2026-10-11T19:20",
+          "2026-10-11T19:25",
+          "2026-10-11T19:30",
+          "2026-10-11T19:35",
+          "2026-10-11T19:40",
+          "2026-10-11T19:50"
+        ],
+        "input_events": 21,
+        "output_events": 30
+      },
+      {
+        "day": "2026-10-11",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 92421684",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 51.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-11T19:00",
+          "2026-10-11T19:05",
+          "2026-10-11T19:15",
+          "2026-10-11T19:20",
+          "2026-10-11T19:25",
+          "2026-10-11T19:30",
+          "2026-10-11T19:40",
+          "2026-10-11T19:45",
+          "2026-10-11T19:50"
+        ],
+        "input_events": 0,
+        "output_events": 30
+      },
+      {
+        "day": "2026-10-11",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 7f5d2001",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -301,7 +357,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 355.9,
+        "duration_minutes": 430.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -334,10 +390,16 @@
           "2026-10-11T18:10",
           "2026-10-11T18:25",
           "2026-10-11T18:40",
-          "2026-10-11T18:45"
+          "2026-10-11T18:45",
+          "2026-10-11T19:10",
+          "2026-10-11T19:30",
+          "2026-10-11T19:35",
+          "2026-10-11T19:45",
+          "2026-10-11T19:55",
+          "2026-10-11T20:00"
         ],
-        "input_events": 168,
-        "output_events": 168
+        "input_events": 185,
+        "output_events": 185
       },
       {
         "day": "2026-10-11",
@@ -348,7 +410,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 446.6,
+        "duration_minutes": 521.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -386,10 +448,15 @@
           "2026-10-11T18:25",
           "2026-10-11T18:35",
           "2026-10-11T18:40",
-          "2026-10-11T18:45"
+          "2026-10-11T18:45",
+          "2026-10-11T19:10",
+          "2026-10-11T19:25",
+          "2026-10-11T19:35",
+          "2026-10-11T19:45",
+          "2026-10-11T19:55"
         ],
         "input_events": 0,
-        "output_events": 176
+        "output_events": 193
       },
       {
         "day": "2026-10-11",
@@ -10808,7 +10875,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 8889.9,
+    "duration_minutes": 9141.8,
     "tokens": 285924446,
     "additions": 17773464,
     "deletions": 14629193,
@@ -11397,12 +11464,25 @@
       "2026-10-11T18:25",
       "2026-10-11T18:35",
       "2026-10-11T18:40",
-      "2026-10-11T18:45"
+      "2026-10-11T18:45",
+      "2026-10-11T19:00",
+      "2026-10-11T19:05",
+      "2026-10-11T19:10",
+      "2026-10-11T19:15",
+      "2026-10-11T19:20",
+      "2026-10-11T19:25",
+      "2026-10-11T19:30",
+      "2026-10-11T19:35",
+      "2026-10-11T19:40",
+      "2026-10-11T19:45",
+      "2026-10-11T19:50",
+      "2026-10-11T19:55",
+      "2026-10-11T20:00"
     ],
-    "input_events": 297,
-    "output_events": 8381,
-    "active_minutes": 2920,
-    "active_slice_count": 584
+    "input_events": 335,
+    "output_events": 8475,
+    "active_minutes": 2985,
+    "active_slice_count": 597
   },
   {
     "name": "project-iframe",
