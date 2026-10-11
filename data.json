@@ -216,13 +216,42 @@
       {
         "day": "2026-10-11",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 5aee6939",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 50.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-11T13:30",
+          "2026-10-11T13:35",
+          "2026-10-11T13:40",
+          "2026-10-11T13:45",
+          "2026-10-11T13:50",
+          "2026-10-11T13:55",
+          "2026-10-11T14:00",
+          "2026-10-11T14:05",
+          "2026-10-11T14:10",
+          "2026-10-11T14:20"
+        ],
+        "input_events": 0,
+        "output_events": 113
+      },
+      {
+        "day": "2026-10-11",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 350c1663",
-        "summary": "13:30 已到，执行 2026-10-11 优化路线图下一批 10 项任务的子代理派出（四波计划已在 11:20 会话轮定稿、13:20 应用户要求从 13:00 顺延到 13:30）。规则：波内派出间隔 1 分钟（派一个 run_in_background Agent 后 Bash sleep 60 再派下一个）…",
+        "summary": "继续吧",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_23c2c4e4-8cf9-4857-859e-e845350c1663.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 63.0,
+        "duration_minutes": 120.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -232,10 +261,16 @@
           "2026-10-11T13:30",
           "2026-10-11T13:35",
           "2026-10-11T13:40",
-          "2026-10-11T13:50"
+          "2026-10-11T13:50",
+          "2026-10-11T14:00",
+          "2026-10-11T14:20",
+          "2026-10-11T14:25",
+          "2026-10-11T14:30",
+          "2026-10-11T14:35",
+          "2026-10-11T14:45"
         ],
-        "input_events": 21,
-        "output_events": 21
+        "input_events": 44,
+        "output_events": 44
       },
       {
         "day": "2026-10-11",
@@ -246,7 +281,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 153.8,
+        "duration_minutes": 211.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -258,10 +293,16 @@
           "2026-10-11T13:30",
           "2026-10-11T13:35",
           "2026-10-11T13:40",
-          "2026-10-11T13:50"
+          "2026-10-11T13:50",
+          "2026-10-11T14:00",
+          "2026-10-11T14:20",
+          "2026-10-11T14:25",
+          "2026-10-11T14:30",
+          "2026-10-11T14:35",
+          "2026-10-11T14:45"
         ],
         "input_events": 0,
-        "output_events": 29
+        "output_events": 52
       },
       {
         "day": "2026-10-11",
@@ -10500,7 +10541,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7360.8,
+    "duration_minutes": 7526.6,
     "tokens": 312870536,
     "additions": 17731303,
     "deletions": 14627090,
@@ -11059,12 +11100,22 @@
       "2026-10-11T13:30",
       "2026-10-11T13:35",
       "2026-10-11T13:40",
-      "2026-10-11T13:50"
+      "2026-10-11T13:45",
+      "2026-10-11T13:50",
+      "2026-10-11T13:55",
+      "2026-10-11T14:00",
+      "2026-10-11T14:05",
+      "2026-10-11T14:10",
+      "2026-10-11T14:20",
+      "2026-10-11T14:25",
+      "2026-10-11T14:30",
+      "2026-10-11T14:35",
+      "2026-10-11T14:45"
     ],
-    "input_events": 121,
-    "output_events": 7709,
-    "active_minutes": 2770,
-    "active_slice_count": 554
+    "input_events": 144,
+    "output_events": 7868,
+    "active_minutes": 2820,
+    "active_slice_count": 564
   },
   {
     "name": "project-iframe",
@@ -19873,12 +19924,12 @@
         "day": "2026-10-11",
         "kind": "session",
         "title": "本机 ZCode 会话 · 46baf8f7",
-        "summary": "派多个子代理，去分别出方案，第一步做什么第二步，需要严格基于业务逻辑来做系统和层级，然后页面层级设计。我先说明一个关键点：仓库里有两份原型。建议以 [TDS-原型演示.html](/Users/cottondog/Work-projects/tds-studio/docs/参考资料/TDS-一体化系统%20PRD/图…",
+        "summary": "我记得要求是生成的图稿是以物料编码+版本号作为id来源，然后包材会签因为还有一些图稿不是从这个系统直接生成的，所以要保留上传入口等，直接上传和开始审核。还有一些问题，你重新审视一下，关键是要充分了解业务逻辑，很多业务逻辑可能原型中也没说明白",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_a8338943-bcf4-4807-aa6b-509e46baf8f7.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 122.9,
+        "duration_minutes": 150.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -19892,10 +19943,12 @@
           "2026-10-11T13:20",
           "2026-10-11T13:30",
           "2026-10-11T13:40",
-          "2026-10-11T13:50"
+          "2026-10-11T13:50",
+          "2026-10-11T14:00",
+          "2026-10-11T14:15"
         ],
-        "input_events": 12,
-        "output_events": 30
+        "input_events": 46,
+        "output_events": 64
       },
       {
         "day": "2026-10-11",
@@ -19906,7 +19959,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 131.0,
+        "duration_minutes": 150.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -19923,10 +19976,12 @@
           "2026-10-11T13:30",
           "2026-10-11T13:40",
           "2026-10-11T13:50",
-          "2026-10-11T14:00"
+          "2026-10-11T14:00",
+          "2026-10-11T14:10",
+          "2026-10-11T14:15"
         ],
         "input_events": 0,
-        "output_events": 30
+        "output_events": 63
       },
       {
         "day": "2026-10-11",
@@ -39982,7 +40037,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 78524.8,
+    "duration_minutes": 78571.6,
     "tokens": 563441162,
     "additions": 668215,
     "deletions": 236693,
@@ -40695,12 +40750,14 @@
       "2026-10-11T13:30",
       "2026-10-11T13:40",
       "2026-10-11T13:50",
-      "2026-10-11T14:00"
+      "2026-10-11T14:00",
+      "2026-10-11T14:10",
+      "2026-10-11T14:15"
     ],
-    "input_events": 330,
-    "output_events": 9808,
-    "active_minutes": 3540,
-    "active_slice_count": 708
+    "input_events": 364,
+    "output_events": 9875,
+    "active_minutes": 3550,
+    "active_slice_count": 710
   },
   {
     "name": "tds-compliance",
