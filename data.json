@@ -132,17 +132,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.5,
+        "duration_minutes": 7.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-11T17:55",
-          "2026-10-11T18:00"
+          "2026-10-11T18:00",
+          "2026-10-11T18:05"
         ],
-        "input_events": 3,
-        "output_events": 3
+        "input_events": 35,
+        "output_events": 35
       },
       {
         "day": "2026-10-11",
@@ -153,7 +154,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 445.7,
+        "duration_minutes": 452.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -162,10 +163,11 @@
           "2026-10-11T10:30",
           "2026-10-11T11:00",
           "2026-10-11T17:55",
-          "2026-10-11T18:00"
+          "2026-10-11T18:00",
+          "2026-10-11T18:05"
         ],
         "input_events": 0,
-        "output_events": 9
+        "output_events": 39
       },
       {
         "day": "2026-10-11",
@@ -294,12 +296,12 @@
         "day": "2026-10-11",
         "kind": "session",
         "title": "本机 ZCode 会话 · 350c1663",
-        "summary": "做好规划，让子代理把所有完成内容分别处理好分批提交",
+        "summary": "可以 你来安排吧，人工确认的要以后搞了",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_23c2c4e4-8cf9-4857-859e-e845350c1663.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 302.5,
+        "duration_minutes": 355.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -327,10 +329,15 @@
           "2026-10-11T17:00",
           "2026-10-11T17:05",
           "2026-10-11T17:30",
-          "2026-10-11T17:50"
+          "2026-10-11T17:50",
+          "2026-10-11T18:00",
+          "2026-10-11T18:10",
+          "2026-10-11T18:25",
+          "2026-10-11T18:40",
+          "2026-10-11T18:45"
         ],
-        "input_events": 149,
-        "output_events": 149
+        "input_events": 168,
+        "output_events": 168
       },
       {
         "day": "2026-10-11",
@@ -341,7 +348,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 393.3,
+        "duration_minutes": 446.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -373,10 +380,16 @@
           "2026-10-11T17:05",
           "2026-10-11T17:25",
           "2026-10-11T17:30",
-          "2026-10-11T17:50"
+          "2026-10-11T17:50",
+          "2026-10-11T18:00",
+          "2026-10-11T18:10",
+          "2026-10-11T18:25",
+          "2026-10-11T18:35",
+          "2026-10-11T18:40",
+          "2026-10-11T18:45"
         ],
         "input_events": 0,
-        "output_events": 157
+        "output_events": 176
       },
       {
         "day": "2026-10-11",
@@ -10795,7 +10808,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 8769.8,
+    "duration_minutes": 8889.9,
     "tokens": 285924446,
     "additions": 17773464,
     "deletions": 14629193,
@@ -11378,12 +11391,18 @@
       "2026-10-11T17:30",
       "2026-10-11T17:50",
       "2026-10-11T17:55",
-      "2026-10-11T18:00"
+      "2026-10-11T18:00",
+      "2026-10-11T18:05",
+      "2026-10-11T18:10",
+      "2026-10-11T18:25",
+      "2026-10-11T18:35",
+      "2026-10-11T18:40",
+      "2026-10-11T18:45"
     ],
-    "input_events": 246,
-    "output_events": 8281,
-    "active_minutes": 2890,
-    "active_slice_count": 578
+    "input_events": 297,
+    "output_events": 8381,
+    "active_minutes": 2920,
+    "active_slice_count": 584
   },
   {
     "name": "project-iframe",
