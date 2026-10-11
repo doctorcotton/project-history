@@ -357,7 +357,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 430.7,
+        "duration_minutes": 470.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -396,10 +396,14 @@
           "2026-10-11T19:35",
           "2026-10-11T19:45",
           "2026-10-11T19:55",
-          "2026-10-11T20:00"
+          "2026-10-11T20:00",
+          "2026-10-11T20:15",
+          "2026-10-11T20:20",
+          "2026-10-11T20:25",
+          "2026-10-11T20:35"
         ],
-        "input_events": 185,
-        "output_events": 185
+        "input_events": 199,
+        "output_events": 199
       },
       {
         "day": "2026-10-11",
@@ -410,7 +414,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 521.4,
+        "duration_minutes": 560.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -453,10 +457,14 @@
           "2026-10-11T19:25",
           "2026-10-11T19:35",
           "2026-10-11T19:45",
-          "2026-10-11T19:55"
+          "2026-10-11T19:55",
+          "2026-10-11T20:15",
+          "2026-10-11T20:20",
+          "2026-10-11T20:25",
+          "2026-10-11T20:35"
         ],
         "input_events": 0,
-        "output_events": 193
+        "output_events": 207
       },
       {
         "day": "2026-10-11",
@@ -10875,7 +10883,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 9141.8,
+    "duration_minutes": 9220.8,
     "tokens": 285924446,
     "additions": 17773464,
     "deletions": 14629193,
@@ -11477,12 +11485,16 @@
       "2026-10-11T19:45",
       "2026-10-11T19:50",
       "2026-10-11T19:55",
-      "2026-10-11T20:00"
+      "2026-10-11T20:00",
+      "2026-10-11T20:15",
+      "2026-10-11T20:20",
+      "2026-10-11T20:25",
+      "2026-10-11T20:35"
     ],
-    "input_events": 335,
-    "output_events": 8475,
-    "active_minutes": 2985,
-    "active_slice_count": 597
+    "input_events": 349,
+    "output_events": 8503,
+    "active_minutes": 3005,
+    "active_slice_count": 601
   },
   {
     "name": "project-iframe",
