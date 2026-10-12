@@ -221,12 +221,12 @@
         "day": "2026-10-12",
         "kind": "session",
         "title": "本机 ZCode 会话 · 350c1663",
-        "summary": "用例10：维C 8.0mg NRV% 标 1% 应为 8%——标错算不算违规（这条看着最像 gold 漏标）。 这个已经改成8%了。 关于营养成分表，对于普通食品，只能标28050里面有的，不能标葡萄糖，只能标糖啊，你要去读法规。 氯不能标，不在28050里面 13432，你先去理解法规，想清楚，可以排子代理去研究。",
+        "summary": "五、待立案关系候选（4 条，方向已定 HYBRID） NUTRITION_TABLE_NONSTANDARD_ENTRY（多标，如氯进表）——宿主清单初筛+模型检索定案； NUTRITION_TABLE_REQUIRED_ENTRY_MISSING（漏标，如特膳肽/BCAA）——同上； SPORT_NUTRITION…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_23c2c4e4-8cf9-4857-859e-e845350c1663.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 244.5,
+        "duration_minutes": 290.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -254,10 +254,16 @@
           "2026-10-12T09:35",
           "2026-10-12T09:45",
           "2026-10-12T09:50",
-          "2026-10-12T09:55"
+          "2026-10-12T09:55",
+          "2026-10-12T10:00",
+          "2026-10-12T10:10",
+          "2026-10-12T10:20",
+          "2026-10-12T10:25",
+          "2026-10-12T10:35",
+          "2026-10-12T10:40"
         ],
-        "input_events": 162,
-        "output_events": 162
+        "input_events": 191,
+        "output_events": 191
       },
       {
         "day": "2026-10-12",
@@ -268,7 +274,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 591.5,
+        "duration_minutes": 634.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -299,10 +305,16 @@
           "2026-10-12T09:45",
           "2026-10-12T09:50",
           "2026-10-12T09:55",
-          "2026-10-12T10:00"
+          "2026-10-12T10:00",
+          "2026-10-12T10:10",
+          "2026-10-12T10:20",
+          "2026-10-12T10:25",
+          "2026-10-12T10:30",
+          "2026-10-12T10:35",
+          "2026-10-12T10:40"
         ],
         "input_events": 0,
-        "output_events": 176
+        "output_events": 203
       },
       {
         "day": "2026-10-12",
@@ -11905,7 +11917,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 10333.4,
+    "duration_minutes": 10422.7,
     "tokens": 294038577,
     "additions": 17801878,
     "deletions": 14630449,
@@ -12560,12 +12572,18 @@
       "2026-10-12T09:45",
       "2026-10-12T09:50",
       "2026-10-12T09:55",
-      "2026-10-12T10:00"
+      "2026-10-12T10:00",
+      "2026-10-12T10:10",
+      "2026-10-12T10:20",
+      "2026-10-12T10:25",
+      "2026-10-12T10:30",
+      "2026-10-12T10:35",
+      "2026-10-12T10:40"
     ],
-    "input_events": 565,
-    "output_events": 10006,
-    "active_minutes": 3250,
-    "active_slice_count": 650
+    "input_events": 594,
+    "output_events": 10062,
+    "active_minutes": 3280,
+    "active_slice_count": 656
   },
   {
     "name": "project-iframe",
@@ -21236,6 +21254,53 @@
       {
         "day": "2026-10-12",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 48a64cbc",
+        "summary": "指出这个页面的uiux问题 [Image: source: /Users/cottondog/.zcode/cli/image-cache/sess_b6ec8633-13b3-45c2-ba65-fc9e48a64cbc/image-0db9746d00edc9f9794914c8f86dbd13.png]",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b6ec8633-13b3-45c2-ba65-fc9e48a64cbc.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 16.5,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-12T10:40",
+          "2026-10-12T10:45",
+          "2026-10-12T10:50",
+          "2026-10-12T11:00"
+        ],
+        "input_events": 2,
+        "output_events": 44
+      },
+      {
+        "day": "2026-10-12",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 48a64cbc",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 17.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-12T10:40",
+          "2026-10-12T10:45",
+          "2026-10-12T10:50",
+          "2026-10-12T10:55",
+          "2026-10-12T11:00"
+        ],
+        "input_events": 0,
+        "output_events": 44
+      },
+      {
+        "day": "2026-10-12",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 46baf8f7",
         "summary": "并行收工了",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_a8338943-bcf4-4807-aa6b-509e46baf8f7.jsonl",
@@ -21303,8 +21368,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 239.5,
-        "tokens": 140836982,
+        "duration_minutes": 324.5,
+        "tokens": 149240681,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -21334,10 +21399,19 @@
           "2026-10-12T09:10",
           "2026-10-12T09:15",
           "2026-10-12T09:25",
-          "2026-10-12T09:30"
+          "2026-10-12T09:30",
+          "2026-10-12T10:00",
+          "2026-10-12T10:05",
+          "2026-10-12T10:10",
+          "2026-10-12T10:20",
+          "2026-10-12T10:25",
+          "2026-10-12T10:30",
+          "2026-10-12T10:35",
+          "2026-10-12T10:40",
+          "2026-10-12T10:55"
         ],
-        "input_events": 23,
-        "output_events": 64
+        "input_events": 24,
+        "output_events": 84
       },
       {
         "day": "2026-10-12",
@@ -41627,8 +41701,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 78639.5,
-    "tokens": 660851389,
+    "duration_minutes": 78758.3,
+    "tokens": 669255088,
     "additions": 679060,
     "deletions": 237439,
     "files_changed": 9323,
@@ -42341,12 +42415,24 @@
       "2026-10-12T09:10",
       "2026-10-12T09:15",
       "2026-10-12T09:25",
-      "2026-10-12T09:30"
+      "2026-10-12T09:30",
+      "2026-10-12T10:00",
+      "2026-10-12T10:05",
+      "2026-10-12T10:10",
+      "2026-10-12T10:20",
+      "2026-10-12T10:25",
+      "2026-10-12T10:30",
+      "2026-10-12T10:35",
+      "2026-10-12T10:40",
+      "2026-10-12T10:45",
+      "2026-10-12T10:50",
+      "2026-10-12T10:55",
+      "2026-10-12T11:00"
     ],
-    "input_events": 345,
-    "output_events": 8925,
-    "active_minutes": 3545,
-    "active_slice_count": 709
+    "input_events": 348,
+    "output_events": 9033,
+    "active_minutes": 3605,
+    "active_slice_count": 721
   },
   {
     "name": "tds-compliance",
