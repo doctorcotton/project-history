@@ -23190,7 +23190,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 178.7,
+        "duration_minutes": 201.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23210,10 +23210,12 @@
           "2026-10-13T18:00",
           "2026-10-13T18:15",
           "2026-10-13T18:35",
-          "2026-10-13T18:50"
+          "2026-10-13T18:50",
+          "2026-10-13T19:00",
+          "2026-10-13T19:10"
         ],
-        "input_events": 143,
-        "output_events": 159
+        "input_events": 157,
+        "output_events": 173
       },
       {
         "day": "2026-10-13",
@@ -23224,7 +23226,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 178.7,
+        "duration_minutes": 201.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23245,10 +23247,12 @@
           "2026-10-13T18:15",
           "2026-10-13T18:35",
           "2026-10-13T18:45",
-          "2026-10-13T18:50"
+          "2026-10-13T18:50",
+          "2026-10-13T19:00",
+          "2026-10-13T19:10"
         ],
         "input_events": 0,
-        "output_events": 158
+        "output_events": 172
       },
       {
         "day": "2026-10-13",
@@ -23663,53 +23667,12 @@
         "day": "2026-10-13",
         "kind": "session",
         "title": "本机 ZCode 会话 · ae014682",
-        "summary": "CRITICAL: Respond with TEXT ONLY. Do NOT call any tools. - Do NOT use Read, Bash, Grep, Glob, Edit, Write, or ANY other tool. - You already have all the contex…",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_95ccafc4-e9b5-4c45-9812-a424ae014682.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 134.3,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-13T16:45",
-          "2026-10-13T16:55",
-          "2026-10-13T17:20",
-          "2026-10-13T17:25",
-          "2026-10-13T17:30",
-          "2026-10-13T17:35",
-          "2026-10-13T17:40",
-          "2026-10-13T17:45",
-          "2026-10-13T17:50",
-          "2026-10-13T17:55",
-          "2026-10-13T18:00",
-          "2026-10-13T18:05",
-          "2026-10-13T18:10",
-          "2026-10-13T18:15",
-          "2026-10-13T18:20",
-          "2026-10-13T18:25",
-          "2026-10-13T18:35",
-          "2026-10-13T18:40",
-          "2026-10-13T18:45",
-          "2026-10-13T18:50",
-          "2026-10-13T18:55",
-          "2026-10-13T19:00"
-        ],
-        "input_events": 61,
-        "output_events": 287
-      },
-      {
-        "day": "2026-10-13",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · ae014682",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 136.3,
+        "duration_minutes": 169.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23737,10 +23700,17 @@
           "2026-10-13T18:45",
           "2026-10-13T18:50",
           "2026-10-13T18:55",
-          "2026-10-13T19:00"
+          "2026-10-13T19:00",
+          "2026-10-13T19:05",
+          "2026-10-13T19:10",
+          "2026-10-13T19:15",
+          "2026-10-13T19:20",
+          "2026-10-13T19:25",
+          "2026-10-13T19:30",
+          "2026-10-13T19:35"
         ],
         "input_events": 0,
-        "output_events": 288
+        "output_events": 412
       },
       {
         "day": "2026-10-13",
@@ -24112,12 +24082,12 @@
         "day": "2026-10-13",
         "kind": "session",
         "title": "本机 ZCode 会话 · 532e3ed7",
-        "summary": "继续‘",
+        "summary": "这个和产品图片没有关系。是品牌维度维护的，用来在数字标签落地页拼接长图用的",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_d651392d-5e4e-4f92-aef0-61be532e3ed7.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 126.4,
+        "duration_minutes": 189.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24136,10 +24106,12 @@
           "2026-10-13T18:15",
           "2026-10-13T18:20",
           "2026-10-13T18:25",
-          "2026-10-13T18:35"
+          "2026-10-13T18:35",
+          "2026-10-13T19:15",
+          "2026-10-13T19:40"
         ],
-        "input_events": 72,
-        "output_events": 75
+        "input_events": 79,
+        "output_events": 82
       },
       {
         "day": "2026-10-13",
@@ -24150,7 +24122,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 126.4,
+        "duration_minutes": 190.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24169,10 +24141,12 @@
           "2026-10-13T18:15",
           "2026-10-13T18:20",
           "2026-10-13T18:25",
-          "2026-10-13T18:35"
+          "2026-10-13T18:35",
+          "2026-10-13T19:15",
+          "2026-10-13T19:40"
         ],
         "input_events": 0,
-        "output_events": 74
+        "output_events": 81
       },
       {
         "day": "2026-10-13",
@@ -24970,6 +24944,24 @@
       {
         "day": "2026-10-13",
         "kind": "git",
+        "title": "feat(workbench): FieldPane 宽档密度变体——label-left 紧凑行+吸顶组头+锚点目录",
+        "summary": "提交 6987d3ff：feat(workbench): FieldPane 宽档密度变体——label-left 紧凑行+吸顶组头+锚点目录",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 266,
+        "deletions": 5,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-13",
+        "kind": "git",
         "title": "feat(tds-api): 迁移0101主键类型统一——会签族转原生uuid，日志遥测表转bigserial",
         "summary": "提交 940aa042：feat(tds-api): 迁移0101主键类型统一——会签族转原生uuid，日志遥测表转bigserial",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -25053,6 +25045,42 @@
         "additions": 231,
         "deletions": 15,
         "files_changed": 6,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-13",
+        "kind": "git",
+        "title": "feat(access): 权限面板批4——审计支持按主体服务端过滤",
+        "summary": "提交 7d4dd61a：feat(access): 权限面板批4——审计支持按主体服务端过滤",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 135,
+        "deletions": 19,
+        "files_changed": 11,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-13",
+        "kind": "git",
+        "title": "feat(access): 权限面板批3——/me 快照并入按项目角色承担事实段",
+        "summary": "提交 00e8b330：feat(access): 权限面板批3——/me 快照并入按项目角色承担事实段",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 119,
+        "deletions": 8,
+        "files_changed": 12,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -46993,11 +47021,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 86918.0,
+    "duration_minutes": 86989.9,
     "tokens": 515765205,
-    "additions": 685928,
-    "deletions": 240019,
-    "files_changed": 9649,
+    "additions": 686448,
+    "deletions": 240051,
+    "files_changed": 9675,
     "active_bucket_keys": [
       "2026-09-01T17:15",
       "2026-09-01T17:30",
@@ -47890,12 +47918,20 @@
       "2026-10-13T18:45",
       "2026-10-13T18:50",
       "2026-10-13T18:55",
-      "2026-10-13T19:00"
+      "2026-10-13T19:00",
+      "2026-10-13T19:05",
+      "2026-10-13T19:10",
+      "2026-10-13T19:15",
+      "2026-10-13T19:20",
+      "2026-10-13T19:25",
+      "2026-10-13T19:30",
+      "2026-10-13T19:35",
+      "2026-10-13T19:40"
     ],
-    "input_events": 2450,
-    "output_events": 16710,
-    "active_minutes": 4460,
-    "active_slice_count": 892
+    "input_events": 2410,
+    "output_events": 16589,
+    "active_minutes": 4500,
+    "active_slice_count": 900
   },
   {
     "name": "tds-compliance",
