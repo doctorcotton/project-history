@@ -23349,28 +23349,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · f83d806b",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_90c90d95-2590-42e6-8c30-3a61f83d806b.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 6.5,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-14T16:05",
-          "2026-10-14T16:10",
-          "2026-10-14T16:15"
-        ],
-        "input_events": 0,
-        "output_events": 14
-      },
-      {
-        "day": "2026-10-14",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · f83d806b",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -23416,12 +23394,12 @@
         "day": "2026-10-14",
         "kind": "session",
         "title": "本机 ZCode 会话 · d4b8d541",
-        "summary": "是因为mock的数据导致的吗 关键线索出现：三个失败用例都报 [SVG_TEXT_EDITOR][TOAST][ERROR] SVG XML 结构无效，无法安全载入。先定位这个报错来源。",
+        "summary": "还有多少未提交？",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_69b871de-7c45-4c04-b502-af66d4b8d541.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 92.2,
+        "duration_minutes": 149.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23440,10 +23418,13 @@
           "2026-10-14T16:35",
           "2026-10-14T16:40",
           "2026-10-14T16:45",
-          "2026-10-14T16:50"
+          "2026-10-14T16:50",
+          "2026-10-14T17:35",
+          "2026-10-14T17:40",
+          "2026-10-14T17:45"
         ],
-        "input_events": 128,
-        "output_events": 128
+        "input_events": 138,
+        "output_events": 138
       },
       {
         "day": "2026-10-14",
@@ -23454,7 +23435,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 300.7,
+        "duration_minutes": 357.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23492,10 +23473,13 @@
           "2026-10-14T16:35",
           "2026-10-14T16:40",
           "2026-10-14T16:45",
-          "2026-10-14T16:50"
+          "2026-10-14T16:50",
+          "2026-10-14T17:35",
+          "2026-10-14T17:40",
+          "2026-10-14T17:45"
         ],
         "input_events": 0,
-        "output_events": 225
+        "output_events": 235
       },
       {
         "day": "2026-10-14",
@@ -24418,6 +24402,42 @@
       {
         "day": "2026-10-14",
         "kind": "git",
+        "title": "refactor(release): 发布包v3底稿引用化与会签内容身份，导出双通道命名",
+        "summary": "提交 2e9203d0：refactor(release): 发布包v3底稿引用化与会签内容身份，导出双通道命名",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 488,
+        "deletions": 28,
+        "files_changed": 13,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "refactor(preview): 统一文字营养投影与预览状态，动态行渲染与诊断解耦保存",
+        "summary": "提交 f1f8514c：refactor(preview): 统一文字营养投影与预览状态，动态行渲染与诊断解耦保存",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1880,
+        "deletions": 261,
+        "files_changed": 25,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
         "title": "refactor(nutrition): 统一国标目录与NRV计算并改为弹窗编辑",
         "summary": "提交 a0a7804c：refactor(nutrition): 统一国标目录与NRV计算并改为弹窗编辑",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -24501,6 +24521,24 @@
         "additions": 100,
         "deletions": 6,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "fix(review): 冻结渲染输入并物化生成字段，就绪规则单源且容量降软提示",
+        "summary": "提交 44343bb5：fix(review): 冻结渲染输入并物化生成字段，就绪规则单源且容量降软提示",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 791,
+        "deletions": 40,
+        "files_changed": 22,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -47689,11 +47727,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88167.5,
+    "duration_minutes": 88274.8,
     "tokens": 971787724,
-    "additions": 710639,
-    "deletions": 246923,
-    "files_changed": 10106,
+    "additions": 713798,
+    "deletions": 247252,
+    "files_changed": 10166,
     "active_bucket_keys": [
       "2026-09-01T17:15",
       "2026-09-01T17:30",
@@ -48727,12 +48765,15 @@
       "2026-10-14T16:35",
       "2026-10-14T16:40",
       "2026-10-14T16:45",
-      "2026-10-14T16:50"
+      "2026-10-14T16:50",
+      "2026-10-14T17:35",
+      "2026-10-14T17:40",
+      "2026-10-14T17:45"
     ],
-    "input_events": 526,
-    "output_events": 16038,
-    "active_minutes": 5165,
-    "active_slice_count": 1033
+    "input_events": 536,
+    "output_events": 16044,
+    "active_minutes": 5180,
+    "active_slice_count": 1036
   },
   {
     "name": "tds-compliance",
