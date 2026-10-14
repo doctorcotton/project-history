@@ -196,7 +196,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 237.7,
-        "tokens": 73797271,
+        "tokens": 99243696,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -234,10 +234,20 @@
           "2026-10-14T22:35",
           "2026-10-14T22:40",
           "2026-10-14T22:45",
-          "2026-10-14T22:55"
+          "2026-10-14T22:55",
+          "2026-10-14T23:00",
+          "2026-10-14T23:05",
+          "2026-10-14T23:10",
+          "2026-10-14T23:15",
+          "2026-10-14T23:20",
+          "2026-10-14T23:25",
+          "2026-10-14T23:35",
+          "2026-10-14T23:40",
+          "2026-10-14T23:55",
+          "2026-10-15T00:00"
         ],
-        "input_events": 22,
-        "output_events": 79
+        "input_events": 25,
+        "output_events": 89
       },
       {
         "day": "2026-10-14",
@@ -14009,7 +14019,7 @@
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
     "duration_minutes": 13192.6,
-    "tokens": 346398046,
+    "tokens": 371844471,
     "additions": 17849748,
     "deletions": 14638588,
     "files_changed": 26467,
@@ -14985,12 +14995,22 @@
       "2026-10-14T22:35",
       "2026-10-14T22:40",
       "2026-10-14T22:45",
-      "2026-10-14T22:55"
+      "2026-10-14T22:55",
+      "2026-10-14T23:00",
+      "2026-10-14T23:05",
+      "2026-10-14T23:10",
+      "2026-10-14T23:15",
+      "2026-10-14T23:20",
+      "2026-10-14T23:25",
+      "2026-10-14T23:35",
+      "2026-10-14T23:40",
+      "2026-10-14T23:55",
+      "2026-10-15T00:00"
     ],
-    "input_events": 121,
-    "output_events": 13749,
-    "active_minutes": 4860,
-    "active_slice_count": 972
+    "input_events": 124,
+    "output_events": 13759,
+    "active_minutes": 4910,
+    "active_slice_count": 982
   },
   {
     "name": "project-iframe",
@@ -24175,7 +24195,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 85.6,
+        "duration_minutes": 170.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24190,10 +24210,13 @@
           "2026-10-14T22:15",
           "2026-10-14T22:20",
           "2026-10-14T22:25",
-          "2026-10-14T22:30"
+          "2026-10-14T22:30",
+          "2026-10-14T23:00",
+          "2026-10-14T23:05",
+          "2026-10-14T23:55"
         ],
-        "input_events": 56,
-        "output_events": 62
+        "input_events": 71,
+        "output_events": 77
       },
       {
         "day": "2026-10-14",
@@ -24204,7 +24227,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 83.9,
+        "duration_minutes": 170.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24218,10 +24241,13 @@
           "2026-10-14T21:55",
           "2026-10-14T22:15",
           "2026-10-14T22:20",
-          "2026-10-14T22:25"
+          "2026-10-14T22:25",
+          "2026-10-14T23:00",
+          "2026-10-14T23:05",
+          "2026-10-14T23:55"
         ],
         "input_events": 0,
-        "output_events": 61
+        "output_events": 76
       },
       {
         "day": "2026-10-14",
@@ -24637,29 +24663,6 @@
       {
         "day": "2026-10-14",
         "kind": "session",
-        "title": "本机 Codex 会话补录 · 4ae11ee7",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/10/14/rollout-2026-10-14T15-35-43-01a13956-aada-76d3-9cfb-128a4ae11ee7.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 17.8,
-        "tokens": 7729562,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-14T15:35",
-          "2026-10-14T15:40",
-          "2026-10-14T15:45",
-          "2026-10-14T15:50"
-        ],
-        "input_events": 5,
-        "output_events": 22
-      },
-      {
-        "day": "2026-10-14",
-        "kind": "session",
         "title": "本机 Codex 会话补录 · 3906f6a5",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/14/rollout-2026-10-14T09-45-21-01a13815-e41e-77e2-b8a5-2b0a3906f6a5.jsonl",
@@ -24735,6 +24738,32 @@
       },
       {
         "day": "2026-10-14",
+        "kind": "rollout",
+        "title": "字段来源详情重构并完成受控提交",
+        "summary": "success；任务：整理字段来源详情抽屉；修复类型错误并按范围提交",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-14T07-35-43-1ayX-field_source_detail_refactor_controlled_commit.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "整理字段来源详情抽屉",
+          "修复类型错误并按范围提交"
+        ],
+        "duration_minutes": 17.8,
+        "tokens": 7729562,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-14T15:35",
+          "2026-10-14T15:40",
+          "2026-10-14T15:45",
+          "2026-10-14T15:50"
+        ],
+        "input_events": 5,
+        "output_events": 22
+      },
+      {
+        "day": "2026-10-14",
         "kind": "git",
         "title": "test: 高价值修复回归钉子四项——会签席位门禁/授权入参/WS身份闸门/发布幂等PG",
         "summary": "提交 8151927e：test: 高价值修复回归钉子四项——会签席位门禁/授权入参/WS身份闸门/发布幂等PG",
@@ -24747,6 +24776,24 @@
         "additions": 243,
         "deletions": 3,
         "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "test(worker): 发布装配测试身份种法对齐 0079",
+        "summary": "提交 338e4071：test(worker): 发布装配测试身份种法对齐 0079",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 16,
+        "deletions": 5,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -24916,6 +24963,24 @@
       {
         "day": "2026-10-14",
         "kind": "git",
+        "title": "fix(workflow): 任务摘要动作按主体收口，越权按钮不再渲染",
+        "summary": "提交 f61472ee：fix(workflow): 任务摘要动作按主体收口，越权按钮不再渲染",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 376,
+        "deletions": 55,
+        "files_changed": 13,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
         "title": "fix(worker): 审核席位端口桩补齐 handoffRejected 成员",
         "summary": "提交 f038410e：fix(worker): 审核席位端口桩补齐 handoffRejected 成员",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -24927,6 +24992,24 @@
         "additions": 1,
         "deletions": 1,
         "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "fix(workbench): 工作流按钮角色收敛三处",
+        "summary": "提交 ff87c1bb：fix(workbench): 工作流按钮角色收敛三处",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 280,
+        "deletions": 12,
+        "files_changed": 5,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -24988,6 +25071,24 @@
       {
         "day": "2026-10-14",
         "kind": "git",
+        "title": "fix(routes): 创建深链白名单补 spu，组合续填刷新不丢配方版本",
+        "summary": "提交 149d67da：fix(routes): 创建深链白名单补 spu，组合续填刷新不丢配方版本",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 20,
+        "deletions": 0,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
         "title": "fix(review): 冻结渲染输入并物化生成字段，就绪规则单源且容量降软提示",
         "summary": "提交 44343bb5：fix(review): 冻结渲染输入并物化生成字段，就绪规则单源且容量降软提示",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -24999,6 +25100,24 @@
         "additions": 791,
         "deletions": 40,
         "files_changed": 22,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "fix(records): 营养模式确立专用动作点 record.nutrition_mode.set",
+        "summary": "提交 3029f5bb：fix(records): 营养模式确立专用动作点 record.nutrition_mode.set",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 146,
+        "deletions": 9,
+        "files_changed": 12,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -25107,6 +25226,42 @@
         "additions": 1005,
         "deletions": 338,
         "files_changed": 11,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "fix(field-schema): P0 配方版本键进字段目录，绑定保存链闭合",
+        "summary": "提交 f5f2f88b：fix(field-schema): P0 配方版本键进字段目录，绑定保存链闭合",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 139,
+        "deletions": 12,
+        "files_changed": 6,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-14",
+        "kind": "git",
+        "title": "fix(countersign): 冻结代数读侧装配补齐与组合快照键前缀匹配",
+        "summary": "提交 0b653cd3：fix(countersign): 冻结代数读侧装配补齐与组合快照键前缀匹配",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 120,
+        "deletions": 5,
+        "files_changed": 5,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -26709,14 +26864,13 @@
       {
         "day": "2026-10-13",
         "kind": "rollout",
-        "title": "TDS Studio 包材会签顶级导航与标签目录 UX 审查/规格制定",
-        "summary": "partial；任务：包材会签导航定位与页面规划；标签列表 UI/UX 与产品体验审查",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-13T14-04-40-mYhO-tds_studio_countersign_top_nav_label_list_ux_spec.md",
-        "status": "部分完成 / 待验证",
+        "title": "TDS Studio 包材会签顶级导航与标签列表 UX 优化",
+        "summary": "success；任务：导航与标签列表/会签页面 UX 优化",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-13T14-04-40-mYhO-tds_studio_signoff_label_list_ux_audit.md",
+        "status": "已推进",
         "branch": "dev",
         "tasks": [
-          "包材会签导航定位与页面规划",
-          "标签列表 UI/UX 与产品体验审查"
+          "导航与标签列表/会签页面 UX 优化"
         ],
         "duration_minutes": 859.6,
         "tokens": 60631128,
@@ -46741,28 +46895,6 @@
       {
         "day": "2026-09-15",
         "kind": "rollout",
-        "title": "收敛评论服务部署边界、统一 Go 构建基线并完成受控提交",
-        "summary": "success；任务：评论服务部署拓扑检查与修正；与 track-dashboard 对齐 Go 版本和 Docker 基线；复核剩余 `.gitignore` 改动并提交",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-15T22-29-25-1RwS-tds_studio_comment_deployment_go_baseline_commits.md",
-        "status": "已推进",
-        "branch": "dev",
-        "tasks": [
-          "评论服务部署拓扑检查与修正",
-          "与 track-dashboard 对齐 Go 版本和 Docker 基线",
-          "复核剩余 `.gitignore` 改动并提交"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-09-15",
-        "kind": "rollout",
         "title": "审查未提交改动的分批修复与提交计划，并校准门禁范围",
         "summary": "success；任务：核对分批计划与仓库实际改动",
         "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-15T15-24-53-JPj7-review_uncommitted_changes_batched_commit_plan.md",
@@ -48488,11 +48620,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88995.5,
+    "duration_minutes": 89167.4,
     "tokens": 992292394,
-    "additions": 740901,
-    "deletions": 253473,
-    "files_changed": 10543,
+    "additions": 741998,
+    "deletions": 253571,
+    "files_changed": 10587,
     "active_bucket_keys": [
       "2026-09-01T17:15",
       "2026-09-01T17:30",
@@ -49557,12 +49689,15 @@
       "2026-10-14T22:15",
       "2026-10-14T22:20",
       "2026-10-14T22:25",
-      "2026-10-14T22:30"
+      "2026-10-14T22:30",
+      "2026-10-14T23:00",
+      "2026-10-14T23:05",
+      "2026-10-14T23:55"
     ],
-    "input_events": 501,
-    "output_events": 16356,
-    "active_minutes": 5320,
-    "active_slice_count": 1064
+    "input_events": 516,
+    "output_events": 16386,
+    "active_minutes": 5335,
+    "active_slice_count": 1067
   },
   {
     "name": "tds-compliance",
