@@ -30,12 +30,12 @@
         "day": "2026-10-15",
         "kind": "session",
         "title": "本机 ZCode 会话 · c1917da7",
-        "summary": "这个评论是真实跑出来的，还是你改出来的？",
+        "summary": "评论的格式还是要调，可md格式，方便前端渲染，具体的条文放在最后，前面简短的评论说明和意见。重跑",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b5b338af-752e-4a94-81ea-d62ac1917da7.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 293.1,
+        "duration_minutes": 361.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -53,10 +53,15 @@
           "2026-10-15T17:35",
           "2026-10-15T19:40",
           "2026-10-15T19:45",
-          "2026-10-15T19:50"
+          "2026-10-15T19:50",
+          "2026-10-15T20:20",
+          "2026-10-15T20:25",
+          "2026-10-15T20:30",
+          "2026-10-15T20:35",
+          "2026-10-15T21:00"
         ],
-        "input_events": 121,
-        "output_events": 121
+        "input_events": 196,
+        "output_events": 196
       },
       {
         "day": "2026-10-15",
@@ -67,7 +72,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 603.9,
+        "duration_minutes": 673.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -89,10 +94,16 @@
           "2026-10-15T17:35",
           "2026-10-15T19:40",
           "2026-10-15T19:45",
-          "2026-10-15T19:50"
+          "2026-10-15T19:50",
+          "2026-10-15T20:20",
+          "2026-10-15T20:25",
+          "2026-10-15T20:30",
+          "2026-10-15T20:35",
+          "2026-10-15T20:55",
+          "2026-10-15T21:00"
         ],
         "input_events": 0,
-        "output_events": 203
+        "output_events": 280
       },
       {
         "day": "2026-10-15",
@@ -501,8 +512,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1512.5,
-        "tokens": 566890728,
+        "duration_minutes": 1576.7,
+        "tokens": 588501948,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -744,10 +755,19 @@
           "2026-10-15T19:40",
           "2026-10-15T19:45",
           "2026-10-15T19:50",
-          "2026-10-15T19:55"
+          "2026-10-15T19:55",
+          "2026-10-15T20:00",
+          "2026-10-15T20:05",
+          "2026-10-15T20:10",
+          "2026-10-15T20:20",
+          "2026-10-15T20:30",
+          "2026-10-15T20:40",
+          "2026-10-15T20:45",
+          "2026-10-15T20:50",
+          "2026-10-15T20:55"
         ],
-        "input_events": 119,
-        "output_events": 525
+        "input_events": 122,
+        "output_events": 547
       },
       {
         "day": "2026-10-14",
@@ -13738,8 +13758,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14550.1,
-    "tokens": 827810445,
+    "duration_minutes": 14751.7,
+    "tokens": 849421665,
     "additions": 17849748,
     "deletions": 14638588,
     "files_changed": 26467,
@@ -14842,12 +14862,24 @@
       "2026-10-15T19:40",
       "2026-10-15T19:45",
       "2026-10-15T19:50",
-      "2026-10-15T19:55"
+      "2026-10-15T19:55",
+      "2026-10-15T20:00",
+      "2026-10-15T20:05",
+      "2026-10-15T20:10",
+      "2026-10-15T20:20",
+      "2026-10-15T20:25",
+      "2026-10-15T20:30",
+      "2026-10-15T20:35",
+      "2026-10-15T20:40",
+      "2026-10-15T20:45",
+      "2026-10-15T20:50",
+      "2026-10-15T20:55",
+      "2026-10-15T21:00"
     ],
-    "input_events": 356,
-    "output_events": 13337,
-    "active_minutes": 5495,
-    "active_slice_count": 1099
+    "input_events": 434,
+    "output_events": 13511,
+    "active_minutes": 5555,
+    "active_slice_count": 1111
   },
   {
     "name": "project-iframe",
@@ -23701,12 +23733,12 @@
         "day": "2026-10-15",
         "kind": "session",
         "title": "本机 ZCode 会话 · d4d53f3e",
-        "summary": "正经做html，不要这种",
+        "summary": "CRITICAL: Respond with TEXT ONLY. Do NOT call any tools. - Do NOT use Read, Bash, Grep, Glob, Edit, Write, or ANY other tool. - You already have all the contex…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_28738210-45f4-46a0-96a5-29c5d4d53f3e.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 257.7,
+        "duration_minutes": 333.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23728,10 +23760,19 @@
           "2026-10-15T17:10",
           "2026-10-15T17:25",
           "2026-10-15T17:35",
-          "2026-10-15T19:40"
+          "2026-10-15T19:40",
+          "2026-10-15T20:15",
+          "2026-10-15T20:25",
+          "2026-10-15T20:30",
+          "2026-10-15T20:35",
+          "2026-10-15T20:40",
+          "2026-10-15T20:45",
+          "2026-10-15T20:50",
+          "2026-10-15T20:55",
+          "2026-10-15T21:00"
         ],
-        "input_events": 41,
-        "output_events": 54
+        "input_events": 52,
+        "output_events": 203
       },
       {
         "day": "2026-10-15",
@@ -23742,7 +23783,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 257.7,
+        "duration_minutes": 334.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23764,10 +23805,20 @@
           "2026-10-15T17:10",
           "2026-10-15T17:25",
           "2026-10-15T17:35",
-          "2026-10-15T19:40"
+          "2026-10-15T19:40",
+          "2026-10-15T20:15",
+          "2026-10-15T20:20",
+          "2026-10-15T20:25",
+          "2026-10-15T20:30",
+          "2026-10-15T20:35",
+          "2026-10-15T20:40",
+          "2026-10-15T20:45",
+          "2026-10-15T20:50",
+          "2026-10-15T20:55",
+          "2026-10-15T21:00"
         ],
         "input_events": 0,
-        "output_events": 53
+        "output_events": 202
       },
       {
         "day": "2026-10-15",
@@ -48850,7 +48901,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 89945.9,
+    "duration_minutes": 90098.9,
     "tokens": 1024198546,
     "additions": 748129,
     "deletions": 257504,
@@ -49929,12 +49980,22 @@
       "2026-10-15T17:10",
       "2026-10-15T17:25",
       "2026-10-15T17:35",
-      "2026-10-15T19:40"
+      "2026-10-15T19:40",
+      "2026-10-15T20:15",
+      "2026-10-15T20:20",
+      "2026-10-15T20:25",
+      "2026-10-15T20:30",
+      "2026-10-15T20:35",
+      "2026-10-15T20:40",
+      "2026-10-15T20:45",
+      "2026-10-15T20:50",
+      "2026-10-15T20:55",
+      "2026-10-15T21:00"
     ],
-    "input_events": 448,
-    "output_events": 16461,
-    "active_minutes": 5370,
-    "active_slice_count": 1074
+    "input_events": 459,
+    "output_events": 16759,
+    "active_minutes": 5420,
+    "active_slice_count": 1084
   },
   {
     "name": "tds-compliance",
