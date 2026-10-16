@@ -679,8 +679,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2302.3,
-        "tokens": 896370578,
+        "duration_minutes": 2363.7,
+        "tokens": 908148774,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1059,10 +1059,21 @@
           "2026-10-16T08:40",
           "2026-10-16T08:45",
           "2026-10-16T08:50",
-          "2026-10-16T08:55"
+          "2026-10-16T08:55",
+          "2026-10-16T09:00",
+          "2026-10-16T09:05",
+          "2026-10-16T09:10",
+          "2026-10-16T09:15",
+          "2026-10-16T09:20",
+          "2026-10-16T09:25",
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45",
+          "2026-10-16T09:55"
         ],
-        "input_events": 178,
-        "output_events": 870
+        "input_events": 187,
+        "output_events": 904
       },
       {
         "day": "2026-10-14",
@@ -13464,8 +13475,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14227.3,
-    "tokens": 1077042011,
+    "duration_minutes": 14288.7,
+    "tokens": 1088820207,
     "additions": 17853131,
     "deletions": 14641099,
     "files_changed": 26487,
@@ -14575,12 +14586,23 @@
       "2026-10-16T08:40",
       "2026-10-16T08:45",
       "2026-10-16T08:50",
-      "2026-10-16T08:55"
+      "2026-10-16T08:55",
+      "2026-10-16T09:00",
+      "2026-10-16T09:05",
+      "2026-10-16T09:10",
+      "2026-10-16T09:15",
+      "2026-10-16T09:20",
+      "2026-10-16T09:25",
+      "2026-10-16T09:30",
+      "2026-10-16T09:35",
+      "2026-10-16T09:40",
+      "2026-10-16T09:45",
+      "2026-10-16T09:55"
     ],
-    "input_events": 317,
-    "output_events": 12152,
-    "active_minutes": 5530,
-    "active_slice_count": 1106
+    "input_events": 326,
+    "output_events": 12186,
+    "active_minutes": 5585,
+    "active_slice_count": 1117
   },
   {
     "name": "project-iframe",
@@ -23157,7 +23179,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 21.9,
+        "duration_minutes": 126.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23168,10 +23190,17 @@
           "2026-10-16T08:00",
           "2026-10-16T08:05",
           "2026-10-16T08:10",
-          "2026-10-16T08:15"
+          "2026-10-16T08:15",
+          "2026-10-16T09:25",
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45",
+          "2026-10-16T09:50",
+          "2026-10-16T09:55"
         ],
-        "input_events": 84,
-        "output_events": 100
+        "input_events": 177,
+        "output_events": 211
       },
       {
         "day": "2026-10-16",
@@ -23182,7 +23211,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 22.2,
+        "duration_minutes": 127.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23192,10 +23221,61 @@
           "2026-10-16T07:55",
           "2026-10-16T08:05",
           "2026-10-16T08:10",
-          "2026-10-16T08:15"
+          "2026-10-16T08:15",
+          "2026-10-16T09:25",
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45",
+          "2026-10-16T09:50",
+          "2026-10-16T09:55",
+          "2026-10-16T10:00"
         ],
         "input_events": 0,
-        "output_events": 99
+        "output_events": 211
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 6da62f29",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-16T06:25",
+          "2026-10-16T06:30",
+          "2026-10-16T06:35",
+          "2026-10-16T06:40"
+        ],
+        "input_events": 0,
+        "output_events": 47
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "每天运行每日开发日志发布:执行 /Users/cottondog/Work-projects/2026任务项目TODO管理/scripts/publish_project_history.sh,把每日开发日历静态站发布到 GitHub Pages(https://doctorcotton.github.io/proj…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_bdab9324-2815-4c5c-9488-3819539db754.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 4.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-16T09:00"
+        ],
+        "input_events": 4,
+        "output_events": 4
       },
       {
         "day": "2026-10-16",
@@ -23206,7 +23286,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.3,
+        "duration_minutes": 4.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23215,18 +23295,18 @@
           "2026-10-16T09:00"
         ],
         "input_events": 0,
-        "output_events": 2
+        "output_events": 4
       },
       {
         "day": "2026-10-16",
         "kind": "session",
         "title": "本机 ZCode 会话 · 35692f3f",
-        "summary": "执行评论服务前后端全面审查与必要修复。任务书已定稿在 /Users/cottondog/Work-projects/tds-studio/docs/comment-service-audit-task-design-20261016.md，先完整读取该文档并严格按其执行。要点： 1. 启动检查单（文档 §0）：git…",
+        "summary": "附件文件名规则归属、legacy 请求形状是否支持、outbox 保留期、新建组合锚点 422、v2 响应契约谎言（动契约侧会牵连前端 5 处消费点）、comment.read 跨项目读口径、筛选区恢复可见。 每个问题详细解释一下，问我问题",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_0ab284c0-ecde-48ed-b58b-975b35692f3f.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 126.2,
+        "duration_minutes": 311.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23241,10 +23321,15 @@
           "2026-10-16T06:20",
           "2026-10-16T06:25",
           "2026-10-16T06:40",
-          "2026-10-16T06:45"
+          "2026-10-16T06:45",
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45",
+          "2026-10-16T09:50"
         ],
-        "input_events": 61,
-        "output_events": 65
+        "input_events": 107,
+        "output_events": 111
       },
       {
         "day": "2026-10-16",
@@ -23255,7 +23340,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 126.5,
+        "duration_minutes": 311.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23270,10 +23355,56 @@
           "2026-10-16T06:20",
           "2026-10-16T06:25",
           "2026-10-16T06:40",
-          "2026-10-16T06:45"
+          "2026-10-16T06:45",
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45",
+          "2026-10-16T09:50"
         ],
         "input_events": 0,
-        "output_events": 63
+        "output_events": 109
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 0d4ecd7c",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/16/rollout-2026-10-16T09-32-53-01a14257-33ac-7b13-87b8-b1700d4ecd7c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.3,
+        "tokens": 6278734,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-16T09:30",
+          "2026-10-16T09:35",
+          "2026-10-16T09:40",
+          "2026-10-16T09:45"
+        ],
+        "input_events": 6,
+        "output_events": 21
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "git",
+        "title": "fix(comments): 拍板批三项——附件名折叠连续点、删契约legacy分支、v2响应契约对齐实现",
+        "summary": "提交 142ab3f3：fix(comments): 拍板批三项——附件名折叠连续点、删契约legacy分支、v2响应契约对齐实现",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 42,
+        "deletions": 253,
+        "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-16",
@@ -23314,6 +23445,24 @@
       {
         "day": "2026-10-16",
         "kind": "git",
+        "title": "feat(workbench): 首页右侧快捷面板（我的项目+最近访问+自定义快捷入口）",
+        "summary": "提交 5cbbd9a9：feat(workbench): 首页右侧快捷面板（我的项目+最近访问+自定义快捷入口）",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 680,
+        "deletions": 6,
+        "files_changed": 9,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "git",
         "title": "feat(workbench): 首页分组视图简报化重设计（今日概览头+彩色分组带）",
         "summary": "提交 93a50fb9：feat(workbench): 首页分组视图简报化重设计（今日概览头+彩色分组带）",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -23343,6 +23492,24 @@
         "additions": 1660,
         "deletions": 0,
         "files_changed": 22,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-16",
+        "kind": "git",
+        "title": "docs: 主报告拍板状态更新——三项已实施(142ab3f3)、四项待拍板(组合锚点/outbox治理/读权限口径/筛选区)",
+        "summary": "提交 7a05592d：docs: 主报告拍板状态更新——三项已实施(142ab3f3)、四项待拍板(组合锚点/outbox治理/读权限口径/筛选区)",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 12,
+        "deletions": 9,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -48089,11 +48256,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88830.7,
-    "tokens": 936882901,
-    "additions": 755350,
-    "deletions": 273355,
-    "files_changed": 10959,
+    "duration_minutes": 89445.2,
+    "tokens": 943161635,
+    "additions": 756084,
+    "deletions": 273623,
+    "files_changed": 10974,
     "active_bucket_keys": [
       "2026-09-01T17:15",
       "2026-09-01T17:30",
@@ -49077,6 +49244,8 @@
       "2026-10-16T06:15",
       "2026-10-16T06:20",
       "2026-10-16T06:25",
+      "2026-10-16T06:30",
+      "2026-10-16T06:35",
       "2026-10-16T06:40",
       "2026-10-16T06:45",
       "2026-10-16T07:50",
@@ -49085,12 +49254,20 @@
       "2026-10-16T08:05",
       "2026-10-16T08:10",
       "2026-10-16T08:15",
-      "2026-10-16T09:00"
+      "2026-10-16T09:00",
+      "2026-10-16T09:25",
+      "2026-10-16T09:30",
+      "2026-10-16T09:35",
+      "2026-10-16T09:40",
+      "2026-10-16T09:45",
+      "2026-10-16T09:50",
+      "2026-10-16T09:55",
+      "2026-10-16T10:00"
     ],
-    "input_events": 506,
-    "output_events": 14242,
-    "active_minutes": 4955,
-    "active_slice_count": 991
+    "input_events": 655,
+    "output_events": 14631,
+    "active_minutes": 5005,
+    "active_slice_count": 1001
   },
   {
     "name": "tds-compliance",
