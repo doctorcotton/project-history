@@ -865,8 +865,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4060.1,
-        "tokens": 1279480442,
+        "duration_minutes": 4165.7,
+        "tokens": 1283883675,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1428,10 +1428,13 @@
           "2026-10-17T10:55",
           "2026-10-17T11:00",
           "2026-10-17T14:05",
-          "2026-10-17T14:10"
+          "2026-10-17T14:10",
+          "2026-10-17T15:45",
+          "2026-10-17T15:50",
+          "2026-10-17T15:55"
         ],
-        "input_events": 264,
-        "output_events": 1304
+        "input_events": 267,
+        "output_events": 1318
       },
       {
         "day": "2026-10-14",
@@ -12969,8 +12972,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14230.1,
-    "tokens": 1378041123,
+    "duration_minutes": 14335.7,
+    "tokens": 1382444356,
     "additions": 17853184,
     "deletions": 14641107,
     "files_changed": 26489,
@@ -14058,12 +14061,15 @@
       "2026-10-17T10:55",
       "2026-10-17T11:00",
       "2026-10-17T14:05",
-      "2026-10-17T14:10"
+      "2026-10-17T14:10",
+      "2026-10-17T15:45",
+      "2026-10-17T15:50",
+      "2026-10-17T15:55"
     ],
-    "input_events": 326,
-    "output_events": 9538,
-    "active_minutes": 5420,
-    "active_slice_count": 1084
+    "input_events": 329,
+    "output_events": 9552,
+    "active_minutes": 5435,
+    "active_slice_count": 1087
   },
   {
     "name": "project-iframe",
@@ -22830,22 +22836,24 @@
         "day": "2026-10-17",
         "kind": "session",
         "title": "本机 ZCode 会话 · 863b9ce2",
-        "summary": "如果对整个系统的所有状态机 与业务逻辑的流转，做全面的审核，前后端的，抽象化的，耦合性的，以及你可以枚举的各个维度，做一个审核计划先，先做计划",
+        "summary": "闲时任务。 对 允许p0 全auditor啥意思 是",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_c6171cf8-ed4b-4cef-84e2-3037863b9ce2.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.3,
+        "duration_minutes": 109.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-17T14:10",
-          "2026-10-17T14:15"
+          "2026-10-17T14:15",
+          "2026-10-17T15:50",
+          "2026-10-17T15:55"
         ],
-        "input_events": 1,
-        "output_events": 12
+        "input_events": 6,
+        "output_events": 17
       },
       {
         "day": "2026-10-17",
@@ -22856,7 +22864,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.5,
+        "duration_minutes": 110.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22864,10 +22872,13 @@
         "active_bucket_keys": [
           "2026-10-17T14:05",
           "2026-10-17T14:10",
-          "2026-10-17T14:15"
+          "2026-10-17T14:15",
+          "2026-10-17T15:50",
+          "2026-10-17T15:55",
+          "2026-10-17T16:00"
         ],
         "input_events": 0,
-        "output_events": 11
+        "output_events": 17
       },
       {
         "day": "2026-10-17",
@@ -22940,7 +22951,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 22.3,
-        "tokens": 12543453,
+        "tokens": 22706354,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22949,10 +22960,13 @@
           "2026-10-17T14:10",
           "2026-10-17T14:15",
           "2026-10-17T14:20",
-          "2026-10-17T14:25"
+          "2026-10-17T14:25",
+          "2026-10-17T15:45",
+          "2026-10-17T15:50",
+          "2026-10-17T15:55"
         ],
-        "input_events": 3,
-        "output_events": 20
+        "input_events": 4,
+        "output_events": 27
       },
       {
         "day": "2026-10-17",
@@ -22988,6 +23002,27 @@
         ],
         "input_events": 6,
         "output_events": 40
+      },
+      {
+        "day": "2026-10-17",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 171177f8",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/17/rollout-2026-10-17T15-53-12-01a148d9-c1e8-7c62-9805-d00f171177f8.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 5.9,
+        "tokens": 1270512,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-17T15:50",
+          "2026-10-17T15:55"
+        ],
+        "input_events": 4,
+        "output_events": 8
       },
       {
         "day": "2026-10-17",
@@ -48427,8 +48462,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88533.5,
-    "tokens": 1094824730,
+    "duration_minutes": 88748.1,
+    "tokens": 1106258143,
     "additions": 783052,
     "deletions": 279320,
     "files_changed": 11517,
@@ -49413,12 +49448,16 @@
       "2026-10-17T14:10",
       "2026-10-17T14:15",
       "2026-10-17T14:20",
-      "2026-10-17T14:25"
+      "2026-10-17T14:25",
+      "2026-10-17T15:45",
+      "2026-10-17T15:50",
+      "2026-10-17T15:55",
+      "2026-10-17T16:00"
     ],
-    "input_events": 387,
-    "output_events": 12408,
-    "active_minutes": 4905,
-    "active_slice_count": 981
+    "input_events": 397,
+    "output_events": 12434,
+    "active_minutes": 4925,
+    "active_slice_count": 985
   },
   {
     "name": "tds-compliance",
