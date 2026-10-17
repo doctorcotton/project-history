@@ -865,8 +865,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3719.2,
-        "tokens": 1248160718,
+        "duration_minutes": 3795.7,
+        "tokens": 1259667960,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1411,10 +1411,17 @@
           "2026-10-17T08:20",
           "2026-10-17T08:25",
           "2026-10-17T08:30",
-          "2026-10-17T08:55"
+          "2026-10-17T08:55",
+          "2026-10-17T09:00",
+          "2026-10-17T09:05",
+          "2026-10-17T09:10",
+          "2026-10-17T09:15",
+          "2026-10-17T09:20",
+          "2026-10-17T09:25",
+          "2026-10-17T09:45"
         ],
-        "input_events": 256,
-        "output_events": 1260
+        "input_events": 259,
+        "output_events": 1280
       },
       {
         "day": "2026-10-14",
@@ -12992,8 +12999,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13889.2,
-    "tokens": 1346721399,
+    "duration_minutes": 13965.7,
+    "tokens": 1358228641,
     "additions": 17853184,
     "deletions": 14641107,
     "files_changed": 26489,
@@ -14064,12 +14071,19 @@
       "2026-10-17T08:20",
       "2026-10-17T08:25",
       "2026-10-17T08:30",
-      "2026-10-17T08:55"
+      "2026-10-17T08:55",
+      "2026-10-17T09:00",
+      "2026-10-17T09:05",
+      "2026-10-17T09:10",
+      "2026-10-17T09:15",
+      "2026-10-17T09:20",
+      "2026-10-17T09:25",
+      "2026-10-17T09:45"
     ],
-    "input_events": 318,
-    "output_events": 9494,
-    "active_minutes": 5335,
-    "active_slice_count": 1067
+    "input_events": 321,
+    "output_events": 9514,
+    "active_minutes": 5370,
+    "active_slice_count": 1074
   },
   {
     "name": "project-iframe",
@@ -22879,12 +22893,32 @@
         "day": "2026-10-17",
         "kind": "session",
         "title": "本机 ZCode 会话 · 539db754",
+        "summary": "每天运行每日开发日志发布:执行 /Users/cottondog/Work-projects/2026任务项目TODO管理/scripts/publish_project_history.sh,把每日开发日历静态站发布到 GitHub Pages(https://doctorcotton.github.io/proj…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_bdab9324-2815-4c5c-9488-3819539db754.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-17T09:00"
+        ],
+        "input_events": 3,
+        "output_events": 3
+      },
+      {
+        "day": "2026-10-17",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.3,
+        "duration_minutes": 2.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22893,7 +22927,7 @@
           "2026-10-17T09:00"
         ],
         "input_events": 0,
-        "output_events": 2
+        "output_events": 3
       },
       {
         "day": "2026-10-17",
@@ -22946,8 +22980,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 213.7,
-        "tokens": 26884542,
+        "duration_minutes": 281.6,
+        "tokens": 50615479,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22961,10 +22995,16 @@
           "2026-10-17T08:10",
           "2026-10-17T08:15",
           "2026-10-17T08:20",
-          "2026-10-17T09:00"
+          "2026-10-17T09:00",
+          "2026-10-17T09:05",
+          "2026-10-17T09:10",
+          "2026-10-17T09:15",
+          "2026-10-17T09:20",
+          "2026-10-17T09:25",
+          "2026-10-17T09:30"
         ],
         "input_events": 6,
-        "output_events": 26
+        "output_events": 40
       },
       {
         "day": "2026-10-17",
@@ -48427,8 +48467,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88877.5,
-    "tokens": 1058550340,
+    "duration_minutes": 88949.3,
+    "tokens": 1082281277,
     "additions": 783052,
     "deletions": 279320,
     "files_changed": 11517,
@@ -49404,12 +49444,18 @@
       "2026-10-17T08:10",
       "2026-10-17T08:15",
       "2026-10-17T08:20",
-      "2026-10-17T09:00"
+      "2026-10-17T09:00",
+      "2026-10-17T09:05",
+      "2026-10-17T09:10",
+      "2026-10-17T09:15",
+      "2026-10-17T09:20",
+      "2026-10-17T09:25",
+      "2026-10-17T09:30"
     ],
-    "input_events": 633,
-    "output_events": 12626,
-    "active_minutes": 4860,
-    "active_slice_count": 972
+    "input_events": 636,
+    "output_events": 12644,
+    "active_minutes": 4890,
+    "active_slice_count": 978
   },
   {
     "name": "tds-compliance",
