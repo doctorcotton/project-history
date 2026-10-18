@@ -22741,8 +22741,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 770.1,
-        "tokens": 68689977,
+        "duration_minutes": 859.5,
+        "tokens": 73402935,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22803,10 +22803,14 @@
           "2026-10-18T10:30",
           "2026-10-18T10:35",
           "2026-10-18T10:40",
-          "2026-10-18T10:45"
+          "2026-10-18T10:45",
+          "2026-10-18T12:00",
+          "2026-10-18T12:05",
+          "2026-10-18T12:10",
+          "2026-10-18T12:15"
         ],
-        "input_events": 24,
-        "output_events": 131
+        "input_events": 25,
+        "output_events": 141
       },
       {
         "day": "2026-10-17",
@@ -47798,8 +47802,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 60713.8,
-    "tokens": 1165077785,
+    "duration_minutes": 60803.2,
+    "tokens": 1169790743,
     "additions": 810588,
     "deletions": 282332,
     "files_changed": 12278,
@@ -48700,12 +48704,16 @@
       "2026-10-18T10:30",
       "2026-10-18T10:35",
       "2026-10-18T10:40",
-      "2026-10-18T10:45"
+      "2026-10-18T10:45",
+      "2026-10-18T12:00",
+      "2026-10-18T12:05",
+      "2026-10-18T12:10",
+      "2026-10-18T12:15"
     ],
-    "input_events": 372,
-    "output_events": 11675,
-    "active_minutes": 4485,
-    "active_slice_count": 897
+    "input_events": 373,
+    "output_events": 11685,
+    "active_minutes": 4505,
+    "active_slice_count": 901
   },
   {
     "name": "tds-compliance",
