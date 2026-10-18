@@ -8,21 +8,22 @@
         "day": "2026-10-18",
         "kind": "session",
         "title": "本机 ZCode 会话 · b28b0356",
-        "summary": "github.com/ivanmmz/ZcodeTokbar 安装到这个zcode",
+        "summary": "Open Design 干嘛用的 搜搜",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_961393d9-789b-42fe-9a4a-e12fb28b0356.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.2,
+        "duration_minutes": 77.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-18T15:25"
+          "2026-10-18T15:25",
+          "2026-10-18T16:40"
         ],
-        "input_events": 11,
-        "output_events": 11
+        "input_events": 15,
+        "output_events": 15
       },
       {
         "day": "2026-10-18",
@@ -33,16 +34,17 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.1,
+        "duration_minutes": 77.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-18T15:25"
+          "2026-10-18T15:25",
+          "2026-10-18T16:40"
         ],
         "input_events": 0,
-        "output_events": 11
+        "output_events": 14
       },
       {
         "day": "2026-10-17",
@@ -12537,7 +12539,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 11772.7,
+    "duration_minutes": 11923.0,
     "tokens": 1367294403,
     "additions": 17853184,
     "deletions": 14641107,
@@ -13509,12 +13511,13 @@
       "2026-10-17T20:25",
       "2026-10-17T20:30",
       "2026-10-17T20:35",
-      "2026-10-18T15:25"
+      "2026-10-18T15:25",
+      "2026-10-18T16:40"
     ],
-    "input_events": 337,
-    "output_events": 7820,
-    "active_minutes": 4835,
-    "active_slice_count": 967
+    "input_events": 341,
+    "output_events": 7827,
+    "active_minutes": 4840,
+    "active_slice_count": 968
   },
   {
     "name": "project-iframe",
@@ -22420,18 +22423,24 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 12.5,
-        "tokens": 4811759,
+        "duration_minutes": 177.6,
+        "tokens": 14782160,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T13:40",
           "2026-10-18T13:45",
-          "2026-10-18T13:50"
+          "2026-10-18T13:50",
+          "2026-10-18T16:10",
+          "2026-10-18T16:15",
+          "2026-10-18T16:20",
+          "2026-10-18T16:25",
+          "2026-10-18T16:30",
+          "2026-10-18T16:35"
         ],
-        "input_events": 3,
-        "output_events": 10
+        "input_events": 6,
+        "output_events": 28
       },
       {
         "day": "2026-10-18",
@@ -22483,6 +22492,24 @@
         "additions": 8206,
         "deletions": 192,
         "files_changed": 71,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-18",
+        "kind": "git",
+        "title": "feat(上传): 完善后台队列与会签文件采用闭环",
+        "summary": "提交 5f0815ed：feat(上传): 完善后台队列与会签文件采用闭环",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 2940,
+        "deletions": 196,
+        "files_changed": 22,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -47902,11 +47929,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 61177.2,
-    "tokens": 1210079986,
-    "additions": 810588,
-    "deletions": 282332,
-    "files_changed": 12278,
+    "duration_minutes": 61342.3,
+    "tokens": 1220050387,
+    "additions": 813528,
+    "deletions": 282528,
+    "files_changed": 12300,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -48836,12 +48863,18 @@
       "2026-10-18T15:15",
       "2026-10-18T15:20",
       "2026-10-18T15:25",
-      "2026-10-18T15:30"
+      "2026-10-18T15:30",
+      "2026-10-18T16:10",
+      "2026-10-18T16:15",
+      "2026-10-18T16:20",
+      "2026-10-18T16:25",
+      "2026-10-18T16:30",
+      "2026-10-18T16:35"
     ],
-    "input_events": 350,
-    "output_events": 12463,
-    "active_minutes": 4645,
-    "active_slice_count": 929
+    "input_events": 353,
+    "output_events": 12481,
+    "active_minutes": 4675,
+    "active_slice_count": 935
   },
   {
     "name": "tds-compliance",
