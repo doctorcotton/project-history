@@ -22257,22 +22257,34 @@
         "day": "2026-10-18",
         "kind": "session",
         "title": "本机 ZCode 会话 · 21532374",
-        "summary": "当天有 ZCode 会话活动。",
+        "summary": "CRITICAL: Respond with TEXT ONLY. Do NOT call any tools. - Do NOT use Read, Bash, Grep, Glob, Edit, Write, or ANY other tool. - You already have all the contex…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_e4457eed-e76f-4413-8723-70cc21532374.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.5,
+        "duration_minutes": 64.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T13:55",
-          "2026-10-18T14:00"
+          "2026-10-18T14:00",
+          "2026-10-18T14:05",
+          "2026-10-18T14:10",
+          "2026-10-18T14:15",
+          "2026-10-18T14:20",
+          "2026-10-18T14:25",
+          "2026-10-18T14:30",
+          "2026-10-18T14:35",
+          "2026-10-18T14:40",
+          "2026-10-18T14:45",
+          "2026-10-18T14:50",
+          "2026-10-18T14:55",
+          "2026-10-18T15:00"
         ],
-        "input_events": 0,
-        "output_events": 26
+        "input_events": 2,
+        "output_events": 292
       },
       {
         "day": "2026-10-18",
@@ -22283,17 +22295,29 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.6,
+        "duration_minutes": 65.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T13:55",
-          "2026-10-18T14:00"
+          "2026-10-18T14:00",
+          "2026-10-18T14:05",
+          "2026-10-18T14:10",
+          "2026-10-18T14:15",
+          "2026-10-18T14:20",
+          "2026-10-18T14:25",
+          "2026-10-18T14:30",
+          "2026-10-18T14:35",
+          "2026-10-18T14:40",
+          "2026-10-18T14:45",
+          "2026-10-18T14:50",
+          "2026-10-18T14:55",
+          "2026-10-18T15:00"
         ],
         "input_events": 0,
-        "output_events": 27
+        "output_events": 292
       },
       {
         "day": "2026-10-18",
@@ -22764,8 +22788,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 933.2,
-        "tokens": 85318128,
+        "duration_minutes": 977.7,
+        "tokens": 92006992,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22839,10 +22863,14 @@
           "2026-10-18T13:40",
           "2026-10-18T13:45",
           "2026-10-18T13:50",
-          "2026-10-18T13:55"
+          "2026-10-18T13:55",
+          "2026-10-18T14:00",
+          "2026-10-18T14:05",
+          "2026-10-18T14:10",
+          "2026-10-18T14:15"
         ],
         "input_events": 28,
-        "output_events": 159
+        "output_events": 165
       },
       {
         "day": "2026-10-17",
@@ -47820,8 +47848,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 60903.6,
-    "tokens": 1186517695,
+    "duration_minutes": 61068.6,
+    "tokens": 1193206559,
     "additions": 810588,
     "deletions": 282332,
     "files_changed": 12278,
@@ -48736,12 +48764,24 @@
       "2026-10-18T13:45",
       "2026-10-18T13:50",
       "2026-10-18T13:55",
-      "2026-10-18T14:00"
+      "2026-10-18T14:00",
+      "2026-10-18T14:05",
+      "2026-10-18T14:10",
+      "2026-10-18T14:15",
+      "2026-10-18T14:20",
+      "2026-10-18T14:25",
+      "2026-10-18T14:30",
+      "2026-10-18T14:35",
+      "2026-10-18T14:40",
+      "2026-10-18T14:45",
+      "2026-10-18T14:50",
+      "2026-10-18T14:55",
+      "2026-10-18T15:00"
     ],
-    "input_events": 375,
-    "output_events": 11771,
-    "active_minutes": 4555,
-    "active_slice_count": 911
+    "input_events": 377,
+    "output_events": 12308,
+    "active_minutes": 4615,
+    "active_slice_count": 923
   },
   {
     "name": "tds-compliance",
