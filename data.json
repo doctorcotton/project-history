@@ -22190,6 +22190,26 @@
       {
         "day": "2026-10-18",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-18T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-18",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 03d106ba",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_6d5c849e-9860-4b99-8369-874903d106ba.jsonl",
@@ -22608,8 +22628,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 592.9,
-        "tokens": 40771806,
+        "duration_minutes": 620.6,
+        "tokens": 48028788,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22652,10 +22672,15 @@
           "2026-10-18T07:35",
           "2026-10-18T07:40",
           "2026-10-18T07:45",
-          "2026-10-18T07:50"
+          "2026-10-18T07:50",
+          "2026-10-18T08:05",
+          "2026-10-18T08:10",
+          "2026-10-18T08:15",
+          "2026-10-18T08:20",
+          "2026-10-18T08:55"
         ],
-        "input_events": 19,
-        "output_events": 89
+        "input_events": 21,
+        "output_events": 102
       },
       {
         "day": "2026-10-17",
@@ -47647,8 +47672,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 60267.9,
-    "tokens": 1137159614,
+    "duration_minutes": 60295.6,
+    "tokens": 1144416596,
     "additions": 783136,
     "deletions": 279353,
     "files_changed": 11522,
@@ -48531,12 +48556,18 @@
       "2026-10-18T07:35",
       "2026-10-18T07:40",
       "2026-10-18T07:45",
-      "2026-10-18T07:50"
+      "2026-10-18T07:50",
+      "2026-10-18T08:05",
+      "2026-10-18T08:10",
+      "2026-10-18T08:15",
+      "2026-10-18T08:20",
+      "2026-10-18T08:55",
+      "2026-10-18T09:00"
     ],
-    "input_events": 363,
-    "output_events": 11587,
-    "active_minutes": 4395,
-    "active_slice_count": 879
+    "input_events": 365,
+    "output_events": 11601,
+    "active_minutes": 4425,
+    "active_slice_count": 885
   },
   {
     "name": "tds-compliance",
