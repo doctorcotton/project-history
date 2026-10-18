@@ -8,22 +8,26 @@
         "day": "2026-10-18",
         "kind": "session",
         "title": "本机 ZCode 会话 · b28b0356",
-        "summary": "Open Design 干嘛用的 搜搜",
+        "summary": "发GitHub page？",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_961393d9-789b-42fe-9a4a-e12fb28b0356.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 77.5,
+        "duration_minutes": 154.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T15:25",
-          "2026-10-18T16:40"
+          "2026-10-18T16:40",
+          "2026-10-18T17:45",
+          "2026-10-18T17:50",
+          "2026-10-18T17:55",
+          "2026-10-18T18:00"
         ],
-        "input_events": 15,
-        "output_events": 15
+        "input_events": 37,
+        "output_events": 37
       },
       {
         "day": "2026-10-18",
@@ -34,17 +38,21 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 77.1,
+        "duration_minutes": 154.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T15:25",
-          "2026-10-18T16:40"
+          "2026-10-18T16:40",
+          "2026-10-18T17:45",
+          "2026-10-18T17:50",
+          "2026-10-18T17:55",
+          "2026-10-18T18:00"
         ],
         "input_events": 0,
-        "output_events": 14
+        "output_events": 37
       },
       {
         "day": "2026-10-17",
@@ -12539,7 +12547,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 11923.0,
+    "duration_minutes": 12077.6,
     "tokens": 1367294403,
     "additions": 17853184,
     "deletions": 14641107,
@@ -13512,12 +13520,16 @@
       "2026-10-17T20:30",
       "2026-10-17T20:35",
       "2026-10-18T15:25",
-      "2026-10-18T16:40"
+      "2026-10-18T16:40",
+      "2026-10-18T17:45",
+      "2026-10-18T17:50",
+      "2026-10-18T17:55",
+      "2026-10-18T18:00"
     ],
-    "input_events": 341,
-    "output_events": 7827,
-    "active_minutes": 4840,
-    "active_slice_count": 968
+    "input_events": 363,
+    "output_events": 7872,
+    "active_minutes": 4860,
+    "active_slice_count": 972
   },
   {
     "name": "project-iframe",
@@ -22441,6 +22453,26 @@
         ],
         "input_events": 6,
         "output_events": 28
+      },
+      {
+        "day": "2026-10-18",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 58481c8f",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/18/rollout-2026-10-18T17-30-57-01a14e59-9c2f-76a0-8172-ffbd58481c8f.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.5,
+        "tokens": 53954,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-18T17:30"
+        ],
+        "input_events": 2,
+        "output_events": 4
       },
       {
         "day": "2026-10-18",
@@ -47929,8 +47961,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 61342.3,
-    "tokens": 1220050387,
+    "duration_minutes": 61342.8,
+    "tokens": 1220104341,
     "additions": 813528,
     "deletions": 282528,
     "files_changed": 12300,
@@ -48869,12 +48901,13 @@
       "2026-10-18T16:20",
       "2026-10-18T16:25",
       "2026-10-18T16:30",
-      "2026-10-18T16:35"
+      "2026-10-18T16:35",
+      "2026-10-18T17:30"
     ],
-    "input_events": 353,
-    "output_events": 12481,
-    "active_minutes": 4675,
-    "active_slice_count": 935
+    "input_events": 355,
+    "output_events": 12485,
+    "active_minutes": 4680,
+    "active_slice_count": 936
   },
   {
     "name": "tds-compliance",
