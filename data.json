@@ -3974,18 +3974,14 @@
         "tasks": [
           "租约等待超时契约"
         ],
-        "duration_minutes": 16.9,
-        "tokens": 3761143,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-11T11:55",
-          "2026-10-11T12:05",
-          "2026-10-11T12:10"
-        ],
-        "input_events": 3,
-        "output_events": 7
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-11",
@@ -12593,15 +12589,12 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12156.3,
-    "tokens": 1367294403,
+    "duration_minutes": 12139.4,
+    "tokens": 1363533260,
     "additions": 17853184,
     "deletions": 14641107,
     "files_changed": 26489,
     "active_bucket_keys": [
-      "2026-10-11T11:55",
-      "2026-10-11T12:05",
-      "2026-10-11T12:10",
       "2026-10-11T12:20",
       "2026-10-11T12:25",
       "2026-10-11T12:35",
@@ -13576,10 +13569,10 @@
       "2026-10-18T18:30",
       "2026-10-18T18:45"
     ],
-    "input_events": 375,
-    "output_events": 7900,
-    "active_minutes": 4880,
-    "active_slice_count": 976
+    "input_events": 372,
+    "output_events": 7893,
+    "active_minutes": 4865,
+    "active_slice_count": 973
   },
   {
     "name": "project-iframe",
@@ -22513,17 +22506,38 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.5,
-        "tokens": 341812,
+        "duration_minutes": 150.9,
+        "tokens": 1142840,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-18T17:30",
-          "2026-10-18T19:55"
+          "2026-10-18T19:55",
+          "2026-10-18T20:00"
         ],
         "input_events": 3,
-        "output_events": 6
+        "output_events": 9
+      },
+      {
+        "day": "2026-10-18",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 2ec7983f",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/18/rollout-2026-10-18T20-30-01-01a14efd-8cc4-7d71-b934-558f2ec7983f.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.3,
+        "tokens": 475090,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-18T20:30"
+        ],
+        "input_events": 4,
+        "output_events": 9
       },
       {
         "day": "2026-10-18",
@@ -48012,8 +48026,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 61342.8,
-    "tokens": 1220392199,
+    "duration_minutes": 61495.5,
+    "tokens": 1221668317,
     "additions": 813528,
     "deletions": 282528,
     "files_changed": 12300,
@@ -48954,12 +48968,14 @@
       "2026-10-18T16:30",
       "2026-10-18T16:35",
       "2026-10-18T17:30",
-      "2026-10-18T19:55"
+      "2026-10-18T19:55",
+      "2026-10-18T20:00",
+      "2026-10-18T20:30"
     ],
-    "input_events": 356,
-    "output_events": 12487,
-    "active_minutes": 4685,
-    "active_slice_count": 937
+    "input_events": 360,
+    "output_events": 12499,
+    "active_minutes": 4695,
+    "active_slice_count": 939
   },
   {
     "name": "tds-compliance",
