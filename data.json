@@ -22184,6 +22184,67 @@
       },
       {
         "day": "2026-10-19",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-19T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 2
+      },
+      {
+        "day": "2026-10-19",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 509729b9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_8e480af4-b19d-4052-b122-484d509729b9.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.6,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-19T08:55"
+        ],
+        "input_events": 0,
+        "output_events": 6
+      },
+      {
+        "day": "2026-10-19",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 509729b9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-19T08:55",
+          "2026-10-19T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 8
+      },
+      {
+        "day": "2026-10-19",
         "kind": "git",
         "title": "refactor(retire): 死表退役与图稿审计最小只读入口——0114删4表，background-rules域与工厂工程师旧链下线（U24-12/#8）",
         "summary": "提交 7f0b69d5：refactor(retire): 死表退役与图稿审计最小只读入口——0114删4表，background-rules域与工厂工程师旧链下线（U24-12/#8）",
@@ -47638,7 +47699,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 61730.7,
+    "duration_minutes": 61737.4,
     "tokens": 1209392330,
     "additions": 816303,
     "deletions": 283913,
@@ -48478,12 +48539,14 @@
       "2026-10-19T07:10",
       "2026-10-19T07:15",
       "2026-10-19T07:20",
-      "2026-10-19T07:25"
+      "2026-10-19T07:25",
+      "2026-10-19T08:55",
+      "2026-10-19T09:00"
     ],
     "input_events": 364,
-    "output_events": 10349,
-    "active_minutes": 4175,
-    "active_slice_count": 835
+    "output_events": 10365,
+    "active_minutes": 4185,
+    "active_slice_count": 837
   },
   {
     "name": "tds-compliance",
