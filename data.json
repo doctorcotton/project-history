@@ -22432,8 +22432,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 69.3,
-        "tokens": 33780176,
+        "duration_minutes": 104.6,
+        "tokens": 34598237,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -22445,10 +22445,11 @@
           "2026-10-19T10:35",
           "2026-10-19T10:45",
           "2026-10-19T10:50",
-          "2026-10-19T10:55"
+          "2026-10-19T10:55",
+          "2026-10-19T11:30"
         ],
-        "input_events": 5,
-        "output_events": 14
+        "input_events": 6,
+        "output_events": 19
       },
       {
         "day": "2026-10-19",
@@ -22554,6 +22555,24 @@
         "additions": 5,
         "deletions": 0,
         "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-19",
+        "kind": "git",
+        "title": "feat(人员选择器): 统一人员选择、拼音搜索与最近使用顺序",
+        "summary": "提交 cc27731e：feat(人员选择器): 统一人员选择、拼音搜索与最近使用顺序",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 2001,
+        "deletions": 720,
+        "files_changed": 48,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -47857,11 +47876,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 62700.1,
-    "tokens": 1274871723,
-    "additions": 818373,
-    "deletions": 284138,
-    "files_changed": 12527,
+    "duration_minutes": 62735.4,
+    "tokens": 1275689784,
+    "additions": 820374,
+    "deletions": 284858,
+    "files_changed": 12575,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -48716,12 +48735,13 @@
       "2026-10-19T10:40",
       "2026-10-19T10:45",
       "2026-10-19T10:50",
-      "2026-10-19T10:55"
+      "2026-10-19T10:55",
+      "2026-10-19T11:30"
     ],
-    "input_events": 370,
-    "output_events": 10550,
-    "active_minutes": 4270,
-    "active_slice_count": 854
+    "input_events": 371,
+    "output_events": 10555,
+    "active_minutes": 4275,
+    "active_slice_count": 855
   },
   {
     "name": "tds-compliance",
