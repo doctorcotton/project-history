@@ -24025,12 +24025,12 @@
         "day": "2026-10-20",
         "kind": "session",
         "title": "本机 ZCode 会话 · cc8c01f3",
-        "summary": "但是内容编辑时候，受委托方是一个字段，需要物料的适用工厂是多个，需要自动拼接一下吧",
+        "summary": "不是，你不能瞎搞，是严格按照每个物料的适用工厂来啊，拼接起来啊",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_1d69404b-b6f6-4a09-8436-f7c9cc8c01f3.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 33.7,
+        "duration_minutes": 91.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24043,10 +24043,12 @@
           "2026-10-20T19:30",
           "2026-10-20T19:35",
           "2026-10-20T19:40",
-          "2026-10-20T19:45"
+          "2026-10-20T19:45",
+          "2026-10-20T20:40",
+          "2026-10-20T20:45"
         ],
-        "input_events": 21,
-        "output_events": 35
+        "input_events": 23,
+        "output_events": 37
       },
       {
         "day": "2026-10-20",
@@ -24057,7 +24059,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 33.9,
+        "duration_minutes": 104.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24070,10 +24072,12 @@
           "2026-10-20T19:30",
           "2026-10-20T19:35",
           "2026-10-20T19:40",
-          "2026-10-20T19:45"
+          "2026-10-20T19:45",
+          "2026-10-20T20:40",
+          "2026-10-20T20:55"
         ],
         "input_events": 0,
-        "output_events": 34
+        "output_events": 37
       },
       {
         "day": "2026-10-20",
@@ -51671,7 +51675,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 75696.4,
+    "duration_minutes": 75824.8,
     "tokens": 1478087114,
     "additions": 890304,
     "deletions": 288922,
@@ -52572,12 +52576,15 @@
       "2026-10-20T19:40",
       "2026-10-20T19:45",
       "2026-10-20T19:50",
-      "2026-10-20T19:55"
+      "2026-10-20T19:55",
+      "2026-10-20T20:40",
+      "2026-10-20T20:45",
+      "2026-10-20T20:55"
     ],
-    "input_events": 824,
-    "output_events": 10996,
-    "active_minutes": 4480,
-    "active_slice_count": 896
+    "input_events": 826,
+    "output_events": 11001,
+    "active_minutes": 4495,
+    "active_slice_count": 899
   },
   {
     "name": "tds-compliance",
