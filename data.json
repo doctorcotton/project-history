@@ -285,7 +285,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 237.3,
+        "duration_minutes": 252.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -324,10 +324,13 @@
           "2026-10-21T18:25",
           "2026-10-21T18:35",
           "2026-10-21T18:55",
-          "2026-10-21T19:00"
+          "2026-10-21T19:00",
+          "2026-10-21T19:05",
+          "2026-10-21T19:10",
+          "2026-10-21T19:15"
         ],
         "input_events": 0,
-        "output_events": 503
+        "output_events": 566
       },
       {
         "day": "2026-10-21",
@@ -696,6 +699,24 @@
         "additions": 209,
         "deletions": 2,
         "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "feat(容量): 三层并发收敛为单一容量入口并暴露有效并发",
+        "summary": "提交 cdd739f6：feat(容量): 三层并发收敛为单一容量入口并暴露有效并发",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 254,
+        "deletions": 6,
+        "files_changed": 5,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -14932,11 +14953,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12708.0,
+    "duration_minutes": 12723.5,
     "tokens": 1545654091,
-    "additions": 17946642,
-    "deletions": 14650935,
-    "files_changed": 27497,
+    "additions": 17946896,
+    "deletions": 14650941,
+    "files_changed": 27502,
     "active_bucket_keys": [
       "2026-10-13T20:45",
       "2026-10-13T20:50",
@@ -15866,12 +15887,15 @@
       "2026-10-21T18:25",
       "2026-10-21T18:35",
       "2026-10-21T18:55",
-      "2026-10-21T19:00"
+      "2026-10-21T19:00",
+      "2026-10-21T19:05",
+      "2026-10-21T19:10",
+      "2026-10-21T19:15"
     ],
     "input_events": 507,
-    "output_events": 5658,
-    "active_minutes": 4645,
-    "active_slice_count": 929
+    "output_events": 5721,
+    "active_minutes": 4660,
+    "active_slice_count": 932
   },
   {
     "name": "project-iframe",
@@ -24812,7 +24836,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 545.2,
+        "duration_minutes": 563.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24854,10 +24878,14 @@
           "2026-10-21T17:30",
           "2026-10-21T18:10",
           "2026-10-21T18:15",
-          "2026-10-21T18:55"
+          "2026-10-21T18:55",
+          "2026-10-21T19:00",
+          "2026-10-21T19:05",
+          "2026-10-21T19:10",
+          "2026-10-21T19:15"
         ],
         "input_events": 0,
-        "output_events": 350
+        "output_events": 373
       },
       {
         "day": "2026-10-21",
@@ -26106,6 +26134,24 @@
         "additions": 608,
         "deletions": 54,
         "files_changed": 9,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "feat(AI审核): 落地轮次账本、意见入库与提交双门禁",
+        "summary": "提交 8ac3ced0：feat(AI审核): 落地轮次账本、意见入库与提交双门禁",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 4245,
+        "deletions": 70,
+        "files_changed": 37,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -53277,11 +53323,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 76515.9,
+    "duration_minutes": 76533.7,
     "tokens": 1392806938,
-    "additions": 901307,
-    "deletions": 291410,
-    "files_changed": 13877,
+    "additions": 905552,
+    "deletions": 291480,
+    "files_changed": 13914,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -54270,12 +54316,16 @@
       "2026-10-21T18:35",
       "2026-10-21T18:40",
       "2026-10-21T18:45",
-      "2026-10-21T18:55"
+      "2026-10-21T18:55",
+      "2026-10-21T19:00",
+      "2026-10-21T19:05",
+      "2026-10-21T19:10",
+      "2026-10-21T19:15"
     ],
     "input_events": 1029,
-    "output_events": 13011,
-    "active_minutes": 4940,
-    "active_slice_count": 988
+    "output_events": 13034,
+    "active_minutes": 4960,
+    "active_slice_count": 992
   },
   {
     "name": "tds-compliance",
