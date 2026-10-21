@@ -568,7 +568,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 39.2,
+        "duration_minutes": 75.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -582,10 +582,15 @@
           "2026-10-21T22:40",
           "2026-10-21T22:45",
           "2026-10-21T22:50",
-          "2026-10-21T22:55"
+          "2026-10-21T22:55",
+          "2026-10-21T23:10",
+          "2026-10-21T23:15",
+          "2026-10-21T23:20",
+          "2026-10-21T23:25",
+          "2026-10-21T23:30"
         ],
-        "input_events": 66,
-        "output_events": 74
+        "input_events": 116,
+        "output_events": 124
       },
       {
         "day": "2026-10-21",
@@ -596,7 +601,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 39.1,
+        "duration_minutes": 77.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -610,10 +615,15 @@
           "2026-10-21T22:40",
           "2026-10-21T22:45",
           "2026-10-21T22:50",
-          "2026-10-21T22:55"
+          "2026-10-21T22:55",
+          "2026-10-21T23:10",
+          "2026-10-21T23:15",
+          "2026-10-21T23:20",
+          "2026-10-21T23:25",
+          "2026-10-21T23:30"
         ],
         "input_events": 0,
-        "output_events": 73
+        "output_events": 123
       },
       {
         "day": "2026-10-21",
@@ -927,6 +937,60 @@
         "additions": 254,
         "deletions": 6,
         "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "feat(受控获取): openstd 全文端点三步会话链预热下载",
+        "summary": "提交 66ec7476：feat(受控获取): openstd 全文端点三步会话链预热下载",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 149,
+        "deletions": 10,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "feat(准入池): 匹配键两缺口修复并新增批量终评与受控领取入口",
+        "summary": "提交 0efffc7d：feat(准入池): 匹配键两缺口修复并新增批量终评与受控领取入口",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 204,
+        "deletions": 5,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "feat(准入池): 115 条结算落账（销项110+延期3+讹误修正+GB26687立案）",
+        "summary": "提交 68f4b46e：feat(准入池): 115 条结算落账（销项110+延期3+讹误修正+GB26687立案）",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 120,
+        "deletions": 115,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -15163,11 +15227,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13116.3,
+    "duration_minutes": 13191.2,
     "tokens": 1545654091,
-    "additions": 17947032,
-    "deletions": 14650970,
-    "files_changed": 27510,
+    "additions": 17947505,
+    "deletions": 14651100,
+    "files_changed": 27517,
     "active_bucket_keys": [
       "2026-10-13T20:45",
       "2026-10-13T20:50",
@@ -16123,12 +16187,17 @@
       "2026-10-21T22:40",
       "2026-10-21T22:45",
       "2026-10-21T22:50",
-      "2026-10-21T22:55"
+      "2026-10-21T22:55",
+      "2026-10-21T23:10",
+      "2026-10-21T23:15",
+      "2026-10-21T23:20",
+      "2026-10-21T23:25",
+      "2026-10-21T23:30"
     ],
-    "input_events": 724,
-    "output_events": 6235,
-    "active_minutes": 4775,
-    "active_slice_count": 955
+    "input_events": 774,
+    "output_events": 6335,
+    "active_minutes": 4800,
+    "active_slice_count": 960
   },
   {
     "name": "project-iframe",
@@ -24929,7 +24998,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 42.7,
+        "duration_minutes": 87.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24940,10 +25009,17 @@
           "2026-10-21T22:25",
           "2026-10-21T22:45",
           "2026-10-21T22:55",
-          "2026-10-21T23:00"
+          "2026-10-21T23:00",
+          "2026-10-21T23:05",
+          "2026-10-21T23:10",
+          "2026-10-21T23:15",
+          "2026-10-21T23:25",
+          "2026-10-21T23:30",
+          "2026-10-21T23:35",
+          "2026-10-21T23:40"
         ],
-        "input_events": 23,
-        "output_events": 35
+        "input_events": 132,
+        "output_events": 144
       },
       {
         "day": "2026-10-21",
@@ -24954,7 +25030,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 44.5,
+        "duration_minutes": 87.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24966,10 +25042,17 @@
           "2026-10-21T22:40",
           "2026-10-21T22:45",
           "2026-10-21T22:55",
-          "2026-10-21T23:00"
+          "2026-10-21T23:00",
+          "2026-10-21T23:05",
+          "2026-10-21T23:10",
+          "2026-10-21T23:15",
+          "2026-10-21T23:25",
+          "2026-10-21T23:30",
+          "2026-10-21T23:35",
+          "2026-10-21T23:40"
         ],
         "input_events": 0,
-        "output_events": 39
+        "output_events": 143
       },
       {
         "day": "2026-10-21",
@@ -25111,7 +25194,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 21.6,
+        "duration_minutes": 22.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25124,8 +25207,8 @@
           "2026-10-21T22:55",
           "2026-10-21T23:00"
         ],
-        "input_events": 50,
-        "output_events": 79
+        "input_events": 55,
+        "output_events": 84
       },
       {
         "day": "2026-10-21",
@@ -25183,7 +25266,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 112.4,
+        "duration_minutes": 122.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25209,10 +25292,12 @@
           "2026-10-21T22:40",
           "2026-10-21T22:45",
           "2026-10-21T22:50",
-          "2026-10-21T22:55"
+          "2026-10-21T22:55",
+          "2026-10-21T23:00",
+          "2026-10-21T23:05"
         ],
         "input_events": 0,
-        "output_events": 305
+        "output_events": 313
       },
       {
         "day": "2026-10-21",
@@ -26063,6 +26148,24 @@
       {
         "day": "2026-10-21",
         "kind": "git",
+        "title": "test(工作事项): 容量测量四缺口断言加固——baseline防自比、逐样本sqlCount、EXPLAIN结构钉死、runbook落docs",
+        "summary": "提交 c7096267：test(工作事项): 容量测量四缺口断言加固——baseline防自比、逐样本sqlCount、EXPLAIN结构钉死、runbook落docs",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 48,
+        "deletions": 0,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
         "title": "test(基线): 对齐已发布不可逆口径，修掉 ab1199a6 留下的 11 例陈旧断言",
         "summary": "提交 a402e8c1：test(基线): 对齐已发布不可逆口径，修掉 ab1199a6 留下的 11 例陈旧断言",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -26164,6 +26267,24 @@
         "additions": 174,
         "deletions": 3777,
         "files_changed": 35,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "perf(工作事项): 页任务事实单趟双产出、raw_record随页行物化、会签异常键计数共享",
+        "summary": "提交 5d47ae64：perf(工作事项): 页任务事实单趟双产出、raw_record随页行物化、会签异常键计数共享",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 19,
+        "deletions": 13,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -26621,6 +26742,24 @@
       {
         "day": "2026-10-21",
         "kind": "git",
+        "title": "feat(工作事项): 补齐会签身份表达式索引0126并实证保留NOT IN反连接形态",
+        "summary": "提交 0d42274a：feat(工作事项): 补齐会签身份表达式索引0126并实证保留NOT IN反连接形态",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 9,
+        "deletions": 0,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
         "title": "feat(字段契约): 产品标准号与致敏物质提示改为配方版本级维护口径，接入版本单入口锁",
         "summary": "提交 f9cdce2a：feat(字段契约): 产品标准号与致敏物质提示改为配方版本级维护口径，接入版本单入口锁",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -26747,6 +26886,24 @@
       {
         "day": "2026-10-21",
         "kind": "git",
+        "title": "docs(闲时): 2026-10-21 批次checkpoint终稿——A优化2-5倍实证、C/D甄别零活项、容量MET标准更正为基线既有缺口",
+        "summary": "提交 c0003ae8：docs(闲时): 2026-10-21 批次checkpoint终稿——A优化2-5倍实证、C/D甄别零活项、容量MET标准更正为基线既有缺口",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 35,
+        "deletions": 12,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
         "title": "docs(迁移): 0121 日流水迁移头注释同步改号",
         "summary": "提交 07883859：docs(迁移): 0121 日流水迁移头注释同步改号",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -26792,6 +26949,24 @@
         "duration_minutes": 0.0,
         "tokens": 0,
         "additions": 175,
+        "deletions": 0,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "docs(状态机): 10-21 遗留项甄别——C2/C3/C5/C6已被并行批收口，剩C4核验登记与两项实测，无可修活项",
+        "summary": "提交 3c09274c：docs(状态机): 10-21 遗留项甄别——C2/C3/C5/C6已被并行批收口，剩C4核验登记与两项实测，无可修活项",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 35,
         "deletions": 0,
         "files_changed": 1,
         "active_bucket_keys": [],
@@ -26990,6 +27165,24 @@
         "duration_minutes": 0.0,
         "tokens": 0,
         "additions": 222,
+        "deletions": 0,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-21",
+        "kind": "git",
+        "title": "docs(前端三修复): R05已被3749e26d收口、R02双挂点已收敛、R04定NOT_RUN附浏览器走查草案，外派名单作废",
+        "summary": "提交 d37d04e6：docs(前端三修复): R05已被3749e26d收口、R02双挂点已收敛、R04定NOT_RUN附浏览器走查草案，外派名单作废",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 27,
         "deletions": 0,
         "files_changed": 1,
         "active_bucket_keys": [],
@@ -54001,11 +54194,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 77597.2,
+    "duration_minutes": 77695.1,
     "tokens": 1392806938,
-    "additions": 913771,
-    "deletions": 297105,
-    "files_changed": 14127,
+    "additions": 913944,
+    "deletions": 297130,
+    "files_changed": 14136,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -55023,12 +55216,19 @@
       "2026-10-21T22:45",
       "2026-10-21T22:50",
       "2026-10-21T22:55",
-      "2026-10-21T23:00"
+      "2026-10-21T23:00",
+      "2026-10-21T23:05",
+      "2026-10-21T23:10",
+      "2026-10-21T23:15",
+      "2026-10-21T23:25",
+      "2026-10-21T23:30",
+      "2026-10-21T23:35",
+      "2026-10-21T23:40"
     ],
-    "input_events": 1119,
-    "output_events": 13626,
-    "active_minutes": 5085,
-    "active_slice_count": 1017
+    "input_events": 1233,
+    "output_events": 13852,
+    "active_minutes": 5120,
+    "active_slice_count": 1024
   },
   {
     "name": "tds-compliance",
