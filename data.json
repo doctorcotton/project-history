@@ -25321,7 +25321,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 350.1,
+        "duration_minutes": 467.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25346,10 +25346,12 @@
           "2026-10-22T17:40",
           "2026-10-22T17:45",
           "2026-10-22T17:50",
-          "2026-10-22T19:45"
+          "2026-10-22T19:45",
+          "2026-10-22T21:35",
+          "2026-10-22T21:40"
         ],
         "input_events": 0,
-        "output_events": 313
+        "output_events": 347
       },
       {
         "day": "2026-10-22",
@@ -25914,6 +25916,24 @@
         "additions": 297,
         "deletions": 213,
         "files_changed": 7,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-22",
+        "kind": "git",
+        "title": "refactor(展示): 抽取统一时间格式化、错误提示与状态标签",
+        "summary": "提交 76e86601：refactor(展示): 抽取统一时间格式化、错误提示与状态标签",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 201,
+        "deletions": 42,
+        "files_changed": 14,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -55115,11 +55135,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 80606.4,
+    "duration_minutes": 80723.8,
     "tokens": 1392806938,
-    "additions": 915780,
-    "deletions": 297707,
-    "files_changed": 14218,
+    "additions": 915981,
+    "deletions": 297749,
+    "files_changed": 14232,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -56206,12 +56226,14 @@
       "2026-10-22T19:45",
       "2026-10-22T20:40",
       "2026-10-22T20:45",
-      "2026-10-22T20:55"
+      "2026-10-22T20:55",
+      "2026-10-22T21:35",
+      "2026-10-22T21:40"
     ],
     "input_events": 2332,
-    "output_events": 17591,
-    "active_minutes": 5430,
-    "active_slice_count": 1086
+    "output_events": 17625,
+    "active_minutes": 5440,
+    "active_slice_count": 1088
   },
   {
     "name": "tds-compliance",
