@@ -24890,6 +24890,50 @@
       {
         "day": "2026-10-22",
         "kind": "session",
+        "title": "本机 ZCode 会话 · f6f84bac",
+        "summary": "pageSize 必须为 1-100 的整数 http://127.0.0.1:5173/tds/tasks/new?project=YF2026101257&projectName=%E5%A5%BD%E8%87%AA%E5%9C%A8%E5%93%81%E7%89%8C%E6%96%B0%E5%8F%A3%E5%…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_bcc4ea60-791f-469c-aad4-d7abf6f84bac.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 10.9,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-22T19:25",
+          "2026-10-22T19:30",
+          "2026-10-22T19:35"
+        ],
+        "input_events": 1,
+        "output_events": 34
+      },
+      {
+        "day": "2026-10-22",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · f6f84bac",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 11.5,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-22T19:25",
+          "2026-10-22T19:30",
+          "2026-10-22T19:35"
+        ],
+        "input_events": 0,
+        "output_events": 33
+      },
+      {
+        "day": "2026-10-22",
+        "kind": "session",
         "title": "本机 ZCode 会话 · e52e257b",
         "summary": "POST http://127.0.0.1:5173/api/v1/auth/portal-profile net::ERR_ABORTED 502 (Bad Gateway) fetchPortalProfile @ auth-portal.ts:163 （匿名） @ auth-portal.ts:198 （匿名）…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_5027add4-0131-48a9-93d2-503be52e257b.jsonl",
@@ -25277,7 +25321,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 235.4,
+        "duration_minutes": 350.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25301,10 +25345,11 @@
           "2026-10-22T17:35",
           "2026-10-22T17:40",
           "2026-10-22T17:45",
-          "2026-10-22T17:50"
+          "2026-10-22T17:50",
+          "2026-10-22T19:45"
         ],
         "input_events": 0,
-        "output_events": 310
+        "output_events": 313
       },
       {
         "day": "2026-10-22",
@@ -55064,7 +55109,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 80174.9,
+    "duration_minutes": 80312.0,
     "tokens": 1392806938,
     "additions": 915780,
     "deletions": 297707,
@@ -56148,12 +56193,16 @@
       "2026-10-22T18:30",
       "2026-10-22T18:35",
       "2026-10-22T18:40",
-      "2026-10-22T18:45"
+      "2026-10-22T18:45",
+      "2026-10-22T19:25",
+      "2026-10-22T19:30",
+      "2026-10-22T19:35",
+      "2026-10-22T19:45"
     ],
-    "input_events": 2312,
-    "output_events": 17483,
-    "active_minutes": 5395,
-    "active_slice_count": 1079
+    "input_events": 2313,
+    "output_events": 17553,
+    "active_minutes": 5415,
+    "active_slice_count": 1083
   },
   {
     "name": "tds-compliance",
