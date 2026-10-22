@@ -25626,22 +25626,25 @@
         "day": "2026-10-22",
         "kind": "session",
         "title": "本机 ZCode 会话 · 462bc454",
-        "summary": "还有就是，现在系统跟 P R D 就是，特别是字段，就是选这个，然后带出那个，然后字段之间的逻辑跟 P R D 之间的偏差吧。",
+        "summary": "对 /Users/cottondog/Work-projects/tds-studio 做「UAT 测通就绪」只读审计，最终产出报告 docs/uat-readiness-audit-20261022.md。系统处于深化细化阶段，当前最高优先级是业务逻辑跑通 + UAT 能测通。UAT 域名 brd-tds-stud…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_61af4d8c-47aa-454a-a8df-26da462bc454.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.7,
+        "duration_minutes": 152.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-22T18:25",
-          "2026-10-22T18:30"
+          "2026-10-22T18:30",
+          "2026-10-22T20:40",
+          "2026-10-22T20:45",
+          "2026-10-22T20:55"
         ],
-        "input_events": 5,
-        "output_events": 12
+        "input_events": 24,
+        "output_events": 31
       },
       {
         "day": "2026-10-22",
@@ -25652,7 +25655,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 7.6,
+        "duration_minutes": 154.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25660,10 +25663,13 @@
         "active_bucket_keys": [
           "2026-10-22T18:20",
           "2026-10-22T18:25",
-          "2026-10-22T18:30"
+          "2026-10-22T18:30",
+          "2026-10-22T20:40",
+          "2026-10-22T20:45",
+          "2026-10-22T20:55"
         ],
         "input_events": 0,
-        "output_events": 11
+        "output_events": 30
       },
       {
         "day": "2026-10-22",
@@ -55109,7 +55115,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 80312.0,
+    "duration_minutes": 80606.4,
     "tokens": 1392806938,
     "additions": 915780,
     "deletions": 297707,
@@ -56197,12 +56203,15 @@
       "2026-10-22T19:25",
       "2026-10-22T19:30",
       "2026-10-22T19:35",
-      "2026-10-22T19:45"
+      "2026-10-22T19:45",
+      "2026-10-22T20:40",
+      "2026-10-22T20:45",
+      "2026-10-22T20:55"
     ],
-    "input_events": 2313,
-    "output_events": 17553,
-    "active_minutes": 5415,
-    "active_slice_count": 1083
+    "input_events": 2332,
+    "output_events": 17591,
+    "active_minutes": 5430,
+    "active_slice_count": 1086
   },
   {
     "name": "tds-compliance",
