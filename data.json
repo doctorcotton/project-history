@@ -23423,6 +23423,26 @@
       },
       {
         "day": "2026-09-23",
+        "kind": "rollout",
+        "title": "QMS 未提交改动审查、最小修复、提交并推送",
+        "summary": "success；任务：审查并最小修复 QMS 原料/成品变更",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-23T08-33-56-Hvws-qms_review_fix_commit_push_and_navigator_dependency.md",
+        "status": "已推进",
+        "branch": "main",
+        "tasks": [
+          "审查并最小修复 QMS 原料/成品变更"
+        ],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-23",
         "kind": "git",
         "title": "fix(qms): 收紧原料与成品提交门禁",
         "summary": "提交 48dcb42：fix(qms): 收紧原料与成品提交门禁",
@@ -24350,27 +24370,6 @@
       },
       {
         "day": "2026-08-04",
-        "kind": "rollout",
-        "title": "成品标准微生物采样与备注清理",
-        "summary": "success；任务：核查成品标准中的微生物二级采样；清理 QMS 备注并刷新成品导入工作簿",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-08-04T05-08-54-7F2Q-qms_finished_product_microbiology_sampling_and_remark_cleanu.md",
-        "status": "已推进",
-        "branch": "main",
-        "tasks": [
-          "核查成品标准中的微生物二级采样",
-          "清理 QMS 备注并刷新成品导入工作簿"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-08-04",
         "kind": "journal",
         "title": "2026-08-04",
         "summary": "QMS标准：成品标准微生物采样与备注清理",
@@ -24514,7 +24513,7 @@
         "output_events": 0
       }
     ],
-    "august_event_count": 35,
+    "august_event_count": 34,
     "latest_day": "2026-10-16",
     "status": "已推进",
     "profile": {
@@ -24633,13 +24632,58 @@
       {
         "day": "2026-10-23",
         "kind": "session",
+        "title": "本机 ZCode 会话 · de808da5",
+        "summary": "## 根因（已实证） 1. **主因是我上一版的 `??` 回退把修复自己抵消了**：`ConsoleSvgWorkspacePage.tsx:701` 写成 `maintenanceRole={fieldMaintenanceRole ?? role}`，管理员场景下该值正好是 `undefined`，被 `??`…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_2fab760a-1edc-4352-85ab-3595de808da5.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T17:45",
+          "2026-10-23T17:50",
+          "2026-10-23T17:55"
+        ],
+        "input_events": 30,
+        "output_events": 53
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · de808da5",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 17.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T17:45",
+          "2026-10-23T17:50",
+          "2026-10-23T17:55",
+          "2026-10-23T18:00"
+        ],
+        "input_events": 0,
+        "output_events": 54
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
         "title": "本机 ZCode 会话 · c106eb88",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 191.2,
+        "duration_minutes": 219.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24662,10 +24706,57 @@
           "2026-10-23T15:10",
           "2026-10-23T16:50",
           "2026-10-23T16:55",
-          "2026-10-23T17:00"
+          "2026-10-23T17:00",
+          "2026-10-23T17:15",
+          "2026-10-23T17:20",
+          "2026-10-23T17:25"
         ],
         "input_events": 0,
-        "output_events": 305
+        "output_events": 334
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · bfe95a26",
+        "summary": "设计文档实施状态段是陈旧的：docs/label-set-single-task-design-20261022.md:16-20 还写「其余批次未开工」，与六批次全部落地矛盾；同文档多处仍写 countersign_batches，实现已改为 prepress_jobs。不改就提交 = 文档自相矛盾。 改一下",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_22a455aa-041d-4e22-a933-b4a1bfe95a26.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 17.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T17:30",
+          "2026-10-23T17:40",
+          "2026-10-23T17:45"
+        ],
+        "input_events": 46,
+        "output_events": 70
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · bfe95a26",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 17.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T17:30",
+          "2026-10-23T17:40",
+          "2026-10-23T17:45"
+        ],
+        "input_events": 0,
+        "output_events": 70
       },
       {
         "day": "2026-10-23",
@@ -24965,12 +25056,12 @@
         "day": "2026-10-23",
         "kind": "session",
         "title": "本机 ZCode 会话 · 8b2ebab5",
-        "summary": "VM209:4 GET https://brd-tds-studio-uat.yqsl.xyz/api/v1/access/records/2ceadd48-6f56-419c-8b9b-021328cf8b41/capabilities 401 (Unauthorized) VM209:4 capabilities…",
+        "summary": "还是填不了啊， [Image: source: /Users/cottondog/.zcode/cli/image-cache/sess_05d9e27a-0bc8-4ae1-b16c-f0488b2ebab5/image-8200e1a9fd05418a466301f1e38e0b57.png]",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_05d9e27a-0bc8-4ae1-b16c-f0488b2ebab5.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 14.1,
+        "duration_minutes": 84.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24979,10 +25070,21 @@
           "2026-10-23T16:30",
           "2026-10-23T16:35",
           "2026-10-23T16:40",
-          "2026-10-23T16:45"
+          "2026-10-23T16:45",
+          "2026-10-23T17:00",
+          "2026-10-23T17:05",
+          "2026-10-23T17:10",
+          "2026-10-23T17:15",
+          "2026-10-23T17:20",
+          "2026-10-23T17:25",
+          "2026-10-23T17:30",
+          "2026-10-23T17:35",
+          "2026-10-23T17:40",
+          "2026-10-23T17:45",
+          "2026-10-23T17:55"
         ],
-        "input_events": 19,
-        "output_events": 72
+        "input_events": 211,
+        "output_events": 264
       },
       {
         "day": "2026-10-23",
@@ -24993,7 +25095,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 27.3,
+        "duration_minutes": 83.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25003,10 +25105,20 @@
           "2026-10-23T16:35",
           "2026-10-23T16:40",
           "2026-10-23T16:45",
-          "2026-10-23T17:00"
+          "2026-10-23T17:00",
+          "2026-10-23T17:05",
+          "2026-10-23T17:10",
+          "2026-10-23T17:15",
+          "2026-10-23T17:20",
+          "2026-10-23T17:25",
+          "2026-10-23T17:30",
+          "2026-10-23T17:35",
+          "2026-10-23T17:40",
+          "2026-10-23T17:45",
+          "2026-10-23T17:55"
         ],
         "input_events": 0,
-        "output_events": 75
+        "output_events": 263
       },
       {
         "day": "2026-10-23",
@@ -25438,7 +25550,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 504.9,
+        "duration_minutes": 577.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25476,31 +25588,36 @@
           "2026-10-23T16:30",
           "2026-10-23T16:35",
           "2026-10-23T16:40",
-          "2026-10-23T16:45"
+          "2026-10-23T16:45",
+          "2026-10-23T17:05",
+          "2026-10-23T17:30",
+          "2026-10-23T17:35",
+          "2026-10-23T18:00"
         ],
         "input_events": 0,
-        "output_events": 219
+        "output_events": 224
       },
       {
         "day": "2026-10-23",
         "kind": "session",
         "title": "本机 ZCode 会话 · 007e21a9",
-        "summary": "TDS_PORTAL_CHANNEL_ID 哪来的？",
+        "summary": "TDS_PORTAL_CHANNEL_ID: '566682483'",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_f6186429-4876-42e2-9839-0053007e21a9.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 5.2,
+        "duration_minutes": 9.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-23T16:50",
-          "2026-10-23T16:55"
+          "2026-10-23T16:55",
+          "2026-10-23T17:00"
         ],
-        "input_events": 9,
-        "output_events": 33
+        "input_events": 16,
+        "output_events": 40
       },
       {
         "day": "2026-10-23",
@@ -25511,7 +25628,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 9.5,
+        "duration_minutes": 9.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25522,7 +25639,28 @@
           "2026-10-23T17:00"
         ],
         "input_events": 0,
-        "output_events": 37
+        "output_events": 39
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · bf90d920",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/23/rollout-2026-10-23T17-17-14-01a1680c-cdad-76c3-acec-8ea5bf90d920.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 4.2,
+        "tokens": 836124,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T17:15",
+          "2026-10-23T17:20"
+        ],
+        "input_events": 3,
+        "output_events": 2
       },
       {
         "day": "2026-10-23",
@@ -25649,6 +25787,24 @@
         "additions": 129,
         "deletions": 34,
         "files_changed": 6,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "git",
+        "title": "fix(任务人员): 修 P0 接管事实漏传，发起内审时物化继承席位",
+        "summary": "提交 bfa2c5ad：fix(任务人员): 修 P0 接管事实漏传，发起内审时物化继承席位",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 177,
+        "deletions": 66,
+        "files_changed": 14,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -49239,6 +49395,26 @@
       },
       {
         "day": "2026-09-23",
+        "kind": "rollout",
+        "title": "OSS CORS 配置新增 UAT 域名并完成验证",
+        "summary": "success；任务：更新 brd-file Bucket 的 CORS AllowedOrigins",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-23T10-47-46-DwD9-update_oss_cors_allowed_origin_uat.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "更新 brd-file Bucket 的 CORS AllowedOrigins"
+        ],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-09-23",
         "kind": "git",
         "title": "修改镜像",
         "summary": "提交 579195e8：修改镜像",
@@ -55497,11 +55673,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 76126.8,
-    "tokens": 782441226,
-    "additions": 925834,
-    "deletions": 300903,
-    "files_changed": 14569,
+    "duration_minutes": 76429.5,
+    "tokens": 783277350,
+    "additions": 926011,
+    "deletions": 300969,
+    "files_changed": 14583,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -56436,12 +56612,24 @@
       "2026-10-23T16:45",
       "2026-10-23T16:50",
       "2026-10-23T16:55",
-      "2026-10-23T17:00"
+      "2026-10-23T17:00",
+      "2026-10-23T17:05",
+      "2026-10-23T17:10",
+      "2026-10-23T17:15",
+      "2026-10-23T17:20",
+      "2026-10-23T17:25",
+      "2026-10-23T17:30",
+      "2026-10-23T17:35",
+      "2026-10-23T17:40",
+      "2026-10-23T17:45",
+      "2026-10-23T17:50",
+      "2026-10-23T17:55",
+      "2026-10-23T18:00"
     ],
-    "input_events": 2920,
-    "output_events": 18926,
-    "active_minutes": 4670,
-    "active_slice_count": 934
+    "input_events": 3198,
+    "output_events": 19598,
+    "active_minutes": 4730,
+    "active_slice_count": 946
   },
   {
     "name": "tds-compliance",
@@ -64823,59 +65011,6 @@
     "additions": 2527432,
     "deletions": 2465795,
     "files_changed": 22034,
-    "active_bucket_keys": [],
-    "input_events": 0,
-    "output_events": 0,
-    "active_minutes": 0,
-    "active_slice_count": 0
-  },
-  {
-    "name": "codex反代",
-    "slug": "codex",
-    "path": "/Users/cottondog/Work-projects/codex反代",
-    "events": [
-      {
-        "day": "2026-08-14",
-        "kind": "rollout",
-        "title": "局域网 Codex OAuth 代理选型、Sub2API 排障与升级",
-        "summary": "success；任务：开源项目调研与 OAuth 风险评估；Mac mini Sub2API 服务器健康检查与根因诊断；将 Sub2API 升级到 0.1.183",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-08-14T01-58-46-00rp-codex_lan_proxy_sub2api_diagnosis_and_upgrade.md",
-        "status": "已推进",
-        "branch": "",
-        "tasks": [
-          "开源项目调研与 OAuth 风险评估",
-          "Mac mini Sub2API 服务器健康检查与根因诊断",
-          "将 Sub2API 升级到 0.1.183"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      }
-    ],
-    "august_event_count": 1,
-    "latest_day": "2026-08-14",
-    "status": "已推进",
-    "profile": {
-      "introduction": "项目介绍尚未维护。",
-      "architecture": [],
-      "progress": {
-        "stage": "暂无可识别进度",
-        "completed": [],
-        "in_progress": [],
-        "next_steps": []
-      },
-      "evidence_note": "当前判断只代表已有本地资料和进度证据，不等同于生产发布或正式验收。"
-    },
-    "duration_minutes": 0.0,
-    "tokens": 0,
-    "additions": 0,
-    "deletions": 0,
-    "files_changed": 0,
     "active_bucket_keys": [],
     "input_events": 0,
     "output_events": 0,
