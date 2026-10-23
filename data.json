@@ -24632,13 +24632,55 @@
       {
         "day": "2026-10-23",
         "kind": "session",
+        "title": "本机 ZCode 会话 · e65e8e3c",
+        "summary": "这个改为品名，拼接字段也是改为品名",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_0eea928c-5475-44fc-a231-f243e65e8e3c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 5.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T18:25",
+          "2026-10-23T18:30"
+        ],
+        "input_events": 1,
+        "output_events": 62
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · e65e8e3c",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 5.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T18:25",
+          "2026-10-23T18:30"
+        ],
+        "input_events": 0,
+        "output_events": 61
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
         "title": "本机 ZCode 会话 · de808da5",
         "summary": "## 根因（已实证） 1. **主因是我上一版的 `??` 回退把修复自己抵消了**：`ConsoleSvgWorkspacePage.tsx:701` 写成 `maintenanceRole={fieldMaintenanceRole ?? role}`，管理员场景下该值正好是 `undefined`，被 `??`…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_2fab760a-1edc-4352-85ab-3595de808da5.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.3,
+        "duration_minutes": 54.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24646,10 +24688,19 @@
         "active_bucket_keys": [
           "2026-10-23T17:45",
           "2026-10-23T17:50",
-          "2026-10-23T17:55"
+          "2026-10-23T17:55",
+          "2026-10-23T18:00",
+          "2026-10-23T18:05",
+          "2026-10-23T18:10",
+          "2026-10-23T18:15",
+          "2026-10-23T18:20",
+          "2026-10-23T18:25",
+          "2026-10-23T18:30",
+          "2026-10-23T18:35",
+          "2026-10-23T18:40"
         ],
-        "input_events": 30,
-        "output_events": 53
+        "input_events": 204,
+        "output_events": 227
       },
       {
         "day": "2026-10-23",
@@ -24660,7 +24711,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 17.7,
+        "duration_minutes": 54.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24669,10 +24720,18 @@
           "2026-10-23T17:45",
           "2026-10-23T17:50",
           "2026-10-23T17:55",
-          "2026-10-23T18:00"
+          "2026-10-23T18:00",
+          "2026-10-23T18:05",
+          "2026-10-23T18:10",
+          "2026-10-23T18:15",
+          "2026-10-23T18:20",
+          "2026-10-23T18:25",
+          "2026-10-23T18:30",
+          "2026-10-23T18:35",
+          "2026-10-23T18:40"
         ],
         "input_events": 0,
-        "output_events": 54
+        "output_events": 226
       },
       {
         "day": "2026-10-23",
@@ -25550,7 +25609,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 577.0,
+        "duration_minutes": 625.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25592,10 +25651,13 @@
           "2026-10-23T17:05",
           "2026-10-23T17:30",
           "2026-10-23T17:35",
-          "2026-10-23T18:00"
+          "2026-10-23T18:00",
+          "2026-10-23T18:30",
+          "2026-10-23T18:40",
+          "2026-10-23T18:45"
         ],
         "input_events": 0,
-        "output_events": 224
+        "output_events": 230
       },
       {
         "day": "2026-10-23",
@@ -55673,7 +55735,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 76429.5,
+    "duration_minutes": 76566.2,
     "tokens": 783277350,
     "additions": 926011,
     "deletions": 300969,
@@ -56624,12 +56686,21 @@
       "2026-10-23T17:45",
       "2026-10-23T17:50",
       "2026-10-23T17:55",
-      "2026-10-23T18:00"
+      "2026-10-23T18:00",
+      "2026-10-23T18:05",
+      "2026-10-23T18:10",
+      "2026-10-23T18:15",
+      "2026-10-23T18:20",
+      "2026-10-23T18:25",
+      "2026-10-23T18:30",
+      "2026-10-23T18:35",
+      "2026-10-23T18:40",
+      "2026-10-23T18:45"
     ],
-    "input_events": 3198,
-    "output_events": 19598,
-    "active_minutes": 4730,
-    "active_slice_count": 946
+    "input_events": 3373,
+    "output_events": 20073,
+    "active_minutes": 4775,
+    "active_slice_count": 955
   },
   {
     "name": "tds-compliance",
