@@ -158,13 +158,67 @@
       {
         "day": "2026-10-23",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 46329905",
+        "summary": "现在其实保健食品的审核规则还没有对吧",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_ac72beca-ec42-4ca4-b5a1-af7b46329905.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 36.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:20",
+          "2026-10-23T15:25",
+          "2026-10-23T15:30",
+          "2026-10-23T15:35",
+          "2026-10-23T15:45",
+          "2026-10-23T15:50",
+          "2026-10-23T15:55",
+          "2026-10-23T16:00"
+        ],
+        "input_events": 67,
+        "output_events": 84
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 46329905",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 36.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:20",
+          "2026-10-23T15:25",
+          "2026-10-23T15:30",
+          "2026-10-23T15:35",
+          "2026-10-23T15:45",
+          "2026-10-23T15:50",
+          "2026-10-23T15:55",
+          "2026-10-23T16:00"
+        ],
+        "input_events": 0,
+        "output_events": 83
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 0c999cf6",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 134.4,
+        "duration_minutes": 135.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -200,7 +254,7 @@
           "2026-10-23T15:05"
         ],
         "input_events": 0,
-        "output_events": 339
+        "output_events": 344
       },
       {
         "day": "2026-10-23",
@@ -15096,7 +15150,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13339.1,
+    "duration_minutes": 13413.1,
     "tokens": 1500591440,
     "additions": 17954913,
     "deletions": 14651432,
@@ -16125,12 +16179,20 @@
       "2026-10-23T14:50",
       "2026-10-23T14:55",
       "2026-10-23T15:00",
-      "2026-10-23T15:05"
+      "2026-10-23T15:05",
+      "2026-10-23T15:20",
+      "2026-10-23T15:25",
+      "2026-10-23T15:30",
+      "2026-10-23T15:35",
+      "2026-10-23T15:45",
+      "2026-10-23T15:50",
+      "2026-10-23T15:55",
+      "2026-10-23T16:00"
     ],
-    "input_events": 898,
-    "output_events": 6522,
-    "active_minutes": 5120,
-    "active_slice_count": 1024
+    "input_events": 965,
+    "output_events": 6694,
+    "active_minutes": 5160,
+    "active_slice_count": 1032
   },
   {
     "name": "project-iframe",
@@ -24562,7 +24624,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 68.1,
+        "duration_minutes": 80.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24580,10 +24642,60 @@
           "2026-10-23T14:40",
           "2026-10-23T14:45",
           "2026-10-23T14:50",
-          "2026-10-23T14:55"
+          "2026-10-23T14:55",
+          "2026-10-23T15:05",
+          "2026-10-23T15:10"
         ],
         "input_events": 0,
-        "output_events": 268
+        "output_events": 283
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · b94e5d36",
+        "summary": "提交，然后帮我重装一下",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_1ca1ab11-4e9c-42b3-aa66-040bb94e5d36.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 18.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:35",
+          "2026-10-23T15:40",
+          "2026-10-23T15:45",
+          "2026-10-23T15:50",
+          "2026-10-23T15:55"
+        ],
+        "input_events": 90,
+        "output_events": 102
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · b94e5d36",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 18.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:35",
+          "2026-10-23T15:40",
+          "2026-10-23T15:45",
+          "2026-10-23T15:50",
+          "2026-10-23T15:55"
+        ],
+        "input_events": 0,
+        "output_events": 101
       },
       {
         "day": "2026-10-23",
@@ -24828,6 +24940,47 @@
         ],
         "input_events": 0,
         "output_events": 11
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 79b853b8",
+        "summary": "http://127.0.0.1:8088/api/v1/batchtag/auth/callback?deviceSessionId=btd_otCH_TNBqhjFvQBt3rlmBvC7aPONzp5h&browserNonce=btn_xKOvzvz_Stv_lKtt60bUa-Lty48MaouT batc…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_27ab7ebe-3989-4616-9985-c07879b853b8.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:55",
+          "2026-10-23T16:00"
+        ],
+        "input_events": 1,
+        "output_events": 30
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 79b853b8",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-23T15:55"
+        ],
+        "input_events": 0,
+        "output_events": 29
       },
       {
         "day": "2026-10-23",
@@ -25092,7 +25245,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 381.9,
+        "duration_minutes": 446.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25121,10 +25274,13 @@
           "2026-10-23T14:00",
           "2026-10-23T14:15",
           "2026-10-23T14:40",
-          "2026-10-23T14:45"
+          "2026-10-23T14:45",
+          "2026-10-23T15:05",
+          "2026-10-23T15:15",
+          "2026-10-23T15:50"
         ],
         "input_events": 0,
-        "output_events": 181
+        "output_events": 187
       },
       {
         "day": "2026-10-23",
@@ -55063,7 +55219,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 75752.2,
+    "duration_minutes": 75871.5,
     "tokens": 782441226,
     "additions": 925697,
     "deletions": 300892,
@@ -55982,12 +56138,21 @@
       "2026-10-23T14:40",
       "2026-10-23T14:45",
       "2026-10-23T14:50",
-      "2026-10-23T14:55"
+      "2026-10-23T14:55",
+      "2026-10-23T15:05",
+      "2026-10-23T15:10",
+      "2026-10-23T15:15",
+      "2026-10-23T15:35",
+      "2026-10-23T15:40",
+      "2026-10-23T15:45",
+      "2026-10-23T15:50",
+      "2026-10-23T15:55",
+      "2026-10-23T16:00"
     ],
-    "input_events": 2741,
-    "output_events": 18115,
-    "active_minutes": 4570,
-    "active_slice_count": 914
+    "input_events": 2832,
+    "output_events": 18398,
+    "active_minutes": 4615,
+    "active_slice_count": 923
   },
   {
     "name": "tds-compliance",
