@@ -24588,6 +24588,46 @@
     "path": "/Users/cottondog/Work-projects/tds-studio",
     "events": [
       {
+        "day": "2026-10-24",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · d23ee89d",
+        "summary": "按 /Users/cottondog/Work-projects/tds-studio/docs/gui-smoke-fullchain-task-design-20261023.md 任务书执行 GUI 全链路冒烟测试。已拍板结论：Playwright 驱动、本地栈、流程终点=内审通过、skill 落仓库内 .ag…",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_92033b07-d221-43be-83b5-e3d4d23ee89d.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-24T00:00"
+        ],
+        "input_events": 7,
+        "output_events": 7
+      },
+      {
+        "day": "2026-10-24",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · d23ee89d",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.9,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-24T00:00"
+        ],
+        "input_events": 0,
+        "output_events": 10
+      },
+      {
         "day": "2026-10-23",
         "kind": "session",
         "title": "本机 ZCode 会话 · ff862ffd",
@@ -24737,12 +24777,12 @@
         "day": "2026-10-23",
         "kind": "session",
         "title": "本机 ZCode 会话 · d23ee89d",
-        "summary": "当天有 ZCode 会话活动。",
+        "summary": "按 /Users/cottondog/Work-projects/tds-studio/docs/gui-smoke-fullchain-task-design-20261023.md 任务书执行 GUI 全链路冒烟测试。已拍板结论：Playwright 驱动、本地栈、流程终点=内审通过、skill 落仓库内 .ag…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_92033b07-d221-43be-83b5-e3d4d23ee89d.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 10.8,
+        "duration_minutes": 69.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24750,10 +24790,21 @@
         "active_bucket_keys": [
           "2026-10-23T22:50",
           "2026-10-23T22:55",
-          "2026-10-23T23:00"
+          "2026-10-23T23:00",
+          "2026-10-23T23:05",
+          "2026-10-23T23:10",
+          "2026-10-23T23:15",
+          "2026-10-23T23:20",
+          "2026-10-23T23:25",
+          "2026-10-23T23:30",
+          "2026-10-23T23:35",
+          "2026-10-23T23:40",
+          "2026-10-23T23:45",
+          "2026-10-23T23:50",
+          "2026-10-23T23:55"
         ],
-        "input_events": 0,
-        "output_events": 23
+        "input_events": 205,
+        "output_events": 230
       },
       {
         "day": "2026-10-23",
@@ -24764,7 +24815,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.3,
+        "duration_minutes": 70.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24773,10 +24824,21 @@
           "2026-10-23T22:45",
           "2026-10-23T22:50",
           "2026-10-23T22:55",
-          "2026-10-23T23:00"
+          "2026-10-23T23:00",
+          "2026-10-23T23:05",
+          "2026-10-23T23:10",
+          "2026-10-23T23:15",
+          "2026-10-23T23:20",
+          "2026-10-23T23:25",
+          "2026-10-23T23:30",
+          "2026-10-23T23:35",
+          "2026-10-23T23:40",
+          "2026-10-23T23:45",
+          "2026-10-23T23:50",
+          "2026-10-23T23:55"
         ],
         "input_events": 0,
-        "output_events": 26
+        "output_events": 230
       },
       {
         "day": "2026-10-23",
@@ -24787,7 +24849,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 29.9,
+        "duration_minutes": 69.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24797,10 +24859,14 @@
           "2026-10-23T22:25",
           "2026-10-23T22:30",
           "2026-10-23T22:40",
-          "2026-10-23T22:50"
+          "2026-10-23T22:50",
+          "2026-10-23T23:00",
+          "2026-10-23T23:10",
+          "2026-10-23T23:25",
+          "2026-10-23T23:30"
         ],
-        "input_events": 12,
-        "output_events": 17
+        "input_events": 22,
+        "output_events": 27
       },
       {
         "day": "2026-10-23",
@@ -24811,7 +24877,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 29.0,
+        "duration_minutes": 69.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24820,10 +24886,14 @@
           "2026-10-23T22:20",
           "2026-10-23T22:25",
           "2026-10-23T22:35",
-          "2026-10-23T22:45"
+          "2026-10-23T22:45",
+          "2026-10-23T23:00",
+          "2026-10-23T23:10",
+          "2026-10-23T23:25",
+          "2026-10-23T23:30"
         ],
         "input_events": 0,
-        "output_events": 16
+        "output_events": 26
       },
       {
         "day": "2026-10-23",
@@ -25404,7 +25474,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 82.0,
+        "duration_minutes": 96.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25413,10 +25483,12 @@
           "2026-10-23T21:30",
           "2026-10-23T22:25",
           "2026-10-23T22:40",
-          "2026-10-23T22:50"
+          "2026-10-23T22:50",
+          "2026-10-23T23:00",
+          "2026-10-23T23:05"
         ],
-        "input_events": 14,
-        "output_events": 22
+        "input_events": 27,
+        "output_events": 35
       },
       {
         "day": "2026-10-23",
@@ -25427,7 +25499,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 92.8,
+        "duration_minutes": 97.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25438,10 +25510,11 @@
           "2026-10-23T22:25",
           "2026-10-23T22:40",
           "2026-10-23T22:50",
-          "2026-10-23T23:00"
+          "2026-10-23T23:00",
+          "2026-10-23T23:05"
         ],
         "input_events": 0,
-        "output_events": 22
+        "output_events": 34
       },
       {
         "day": "2026-10-23",
@@ -25508,7 +25581,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 224.0,
+        "duration_minutes": 259.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -25536,10 +25609,15 @@
           "2026-10-23T22:35",
           "2026-10-23T22:40",
           "2026-10-23T22:50",
-          "2026-10-23T22:55"
+          "2026-10-23T22:55",
+          "2026-10-23T23:00",
+          "2026-10-23T23:05",
+          "2026-10-23T23:10",
+          "2026-10-23T23:20",
+          "2026-10-23T23:30"
         ],
         "input_events": 0,
-        "output_events": 424
+        "output_events": 474
       },
       {
         "day": "2026-10-23",
@@ -26032,6 +26110,24 @@
       {
         "day": "2026-10-23",
         "kind": "git",
+        "title": "test(模块提交): 责任角色文案从契约推导",
+        "summary": "提交 6deed77c：test(模块提交): 责任角色文案从契约推导",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 4,
+        "deletions": 1,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "git",
         "title": "test(权限口径): 补责任谓词与复核窗口用例，记录权限系统排查报告",
         "summary": "提交 e6c011c4：test(权限口径): 补责任谓词与复核窗口用例，记录权限系统排查报告",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -26043,6 +26139,42 @@
         "additions": 197,
         "deletions": 33,
         "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "git",
+        "title": "test(控制台): 打开任务详情前等待紧凑任务页头",
+        "summary": "提交 76511876：test(控制台): 打开任务详情前等待紧凑任务页头",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 19,
+        "deletions": 5,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "git",
+        "title": "test(字段权限): 图稿视图夹具改管理员口径，保留两处角色保真",
+        "summary": "提交 7516544d：test(字段权限): 图稿视图夹具改管理员口径，保留两处角色保真",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 9,
+        "deletions": 0,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -26079,6 +26211,24 @@
         "additions": 42,
         "deletions": 9,
         "files_changed": 4,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-23",
+        "kind": "git",
+        "title": "test(任务工作区): 页面夹具角色改真实维护角色，来源抽屉先激活配方组",
+        "summary": "提交 f39dc4df：test(任务工作区): 页面夹具角色改真实维护角色，来源抽屉先激活配方组",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 4,
+        "deletions": 1,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -56523,7 +56673,7 @@
       }
     ],
     "august_event_count": 25,
-    "latest_day": "2026-10-23",
+    "latest_day": "2026-10-24",
     "status": "有历史证据",
     "profile": {
       "introduction": "数字标签研发工作台，承载标签内容、字段历史、评论协作、审核流程和 PackVista 3D 任务等产品能力。",
@@ -56559,11 +56709,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 77320.9,
+    "duration_minutes": 77574.2,
     "tokens": 783277350,
-    "additions": 944919,
-    "deletions": 302724,
-    "files_changed": 14906,
+    "additions": 944955,
+    "deletions": 302731,
+    "files_changed": 14910,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -57563,12 +57713,24 @@
       "2026-10-23T22:45",
       "2026-10-23T22:50",
       "2026-10-23T22:55",
-      "2026-10-23T23:00"
+      "2026-10-23T23:00",
+      "2026-10-23T23:05",
+      "2026-10-23T23:10",
+      "2026-10-23T23:15",
+      "2026-10-23T23:20",
+      "2026-10-23T23:25",
+      "2026-10-23T23:30",
+      "2026-10-23T23:35",
+      "2026-10-23T23:40",
+      "2026-10-23T23:45",
+      "2026-10-23T23:50",
+      "2026-10-23T23:55",
+      "2026-10-24T00:00"
     ],
-    "input_events": 3488,
-    "output_events": 21205,
-    "active_minutes": 4995,
-    "active_slice_count": 999
+    "input_events": 3723,
+    "output_events": 21728,
+    "active_minutes": 5055,
+    "active_slice_count": 1011
   },
   {
     "name": "tds-compliance",
