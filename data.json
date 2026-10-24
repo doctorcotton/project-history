@@ -733,26 +733,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · a62d400c",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_fe18787e-c320-49bf-96b5-0faaa62d400c.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T13:00"
-        ],
-        "input_events": 0,
-        "output_events": 1
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · a62d400c",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -16100,7 +16080,7 @@
       "2026-10-23T16:40"
     ],
     "input_events": 1009,
-    "output_events": 6719,
+    "output_events": 6718,
     "active_minutes": 5125,
     "active_slice_count": 1025
   },
@@ -24565,7 +24545,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 439.8,
+        "duration_minutes": 486.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24596,10 +24576,11 @@
           "2026-10-24T11:50",
           "2026-10-24T12:05",
           "2026-10-24T12:15",
-          "2026-10-24T12:20"
+          "2026-10-24T12:20",
+          "2026-10-24T13:05"
         ],
         "input_events": 0,
-        "output_events": 186
+        "output_events": 189
       },
       {
         "day": "2026-10-24",
@@ -29450,35 +29431,6 @@
         ],
         "input_events": 0,
         "output_events": 21
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 59cd9311",
-        "summary": "不要管plm的项目下的配方接口了，作废了",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_de03a1c1-d673-4187-bc3a-573859cd9311.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 46.4,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T12:25",
-          "2026-10-21T12:30",
-          "2026-10-21T12:35",
-          "2026-10-21T12:40",
-          "2026-10-21T12:45",
-          "2026-10-21T12:50",
-          "2026-10-21T12:55",
-          "2026-10-21T13:00",
-          "2026-10-21T13:05",
-          "2026-10-21T13:10"
-        ],
-        "input_events": 50,
-        "output_events": 86
       },
       {
         "day": "2026-10-21",
@@ -57524,12 +57476,13 @@
       "2026-10-24T12:00",
       "2026-10-24T12:05",
       "2026-10-24T12:15",
-      "2026-10-24T12:20"
+      "2026-10-24T12:20",
+      "2026-10-24T13:05"
     ],
-    "input_events": 3481,
-    "output_events": 21269,
-    "active_minutes": 5050,
-    "active_slice_count": 1010
+    "input_events": 3431,
+    "output_events": 21186,
+    "active_minutes": 5055,
+    "active_slice_count": 1011
   },
   {
     "name": "tds-compliance",
