@@ -29193,31 +29193,6 @@
         "day": "2026-10-21",
         "kind": "session",
         "title": "本机 ZCode 会话 · a6604996",
-        "summary": "改吧 改",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_57114d15-5131-4240-9b23-df09a6604996.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 22.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T22:35",
-          "2026-10-21T22:40",
-          "2026-10-21T22:45",
-          "2026-10-21T22:50",
-          "2026-10-21T22:55",
-          "2026-10-21T23:00"
-        ],
-        "input_events": 55,
-        "output_events": 84
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · a6604996",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -56385,7 +56360,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 75875.9,
+    "duration_minutes": 75853.9,
     "tokens": 783277350,
     "additions": 957504,
     "deletions": 303529,
@@ -57439,8 +57414,8 @@
       "2026-10-24T22:50",
       "2026-10-24T22:55"
     ],
-    "input_events": 3065,
-    "output_events": 21157,
+    "input_events": 3010,
+    "output_events": 21073,
     "active_minutes": 5235,
     "active_slice_count": 1047
   },
