@@ -28863,27 +28863,6 @@
         "day": "2026-10-21",
         "kind": "session",
         "title": "本机 ZCode 会话 · fc6f73e9",
-        "summary": "未提交内容又多了 看看怎么回事",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_c92e4d45-ea40-4366-8013-0dfafc6f73e9.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 29.3,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T17:35",
-          "2026-10-21T18:05"
-        ],
-        "input_events": 11,
-        "output_events": 17
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · fc6f73e9",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -29040,33 +29019,6 @@
         ],
         "input_events": 0,
         "output_events": 57
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · ce279672",
-        "summary": "能不能全面的，整个链路，多代理的全面排查一下？？？改了3遍了。再看看还有没有问题？ 然后页面上这个，不能悬浮吧 [Image: source: /Users/cottondog/.zcode/cli/image-cache/sess_ec41c4ea-6bc0-41c7-9e15-9797ce279672/image…",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_ec41c4ea-6bc0-41c7-9e15-9797ce279672.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 44.7,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T18:00",
-          "2026-10-21T18:05",
-          "2026-10-21T18:10",
-          "2026-10-21T18:25",
-          "2026-10-21T18:30",
-          "2026-10-21T18:35",
-          "2026-10-21T18:40",
-          "2026-10-21T18:45"
-        ],
-        "input_events": 136,
-        "output_events": 240
       },
       {
         "day": "2026-10-21",
@@ -29246,28 +29198,6 @@
         ],
         "input_events": 0,
         "output_events": 99
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · a73f12fb",
-        "summary": "提交",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_85353902-f6e2-459c-a33a-3f06a73f12fb.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 10.6,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T18:20",
-          "2026-10-21T18:25",
-          "2026-10-21T18:30"
-        ],
-        "input_events": 27,
-        "output_events": 101
       },
       {
         "day": "2026-10-21",
@@ -29648,34 +29578,6 @@
         "day": "2026-10-21",
         "kind": "session",
         "title": "本机 ZCode 会话 · 263d6810",
-        "summary": "还是会闪烁，我的意思是，不要在编辑的时候，按钮闪烁",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b47aada2-b950-493d-87f3-7cc3263d6810.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 42.5,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T17:35",
-          "2026-10-21T17:40",
-          "2026-10-21T17:45",
-          "2026-10-21T17:50",
-          "2026-10-21T17:55",
-          "2026-10-21T18:00",
-          "2026-10-21T18:05",
-          "2026-10-21T18:10",
-          "2026-10-21T18:15"
-        ],
-        "input_events": 167,
-        "output_events": 168
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 263d6810",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -29750,28 +29652,6 @@
         ],
         "input_events": 0,
         "output_events": 190
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 18e0a3e5",
-        "summary": "100ml 的和验（营养素含量不得超过食品总质量、三大产能合计上限）只在「每100g」 一致就行了 密度就是1",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_d0e5b880-af23-4b11-913e-c8cf18e0a3e5.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 6.4,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T18:20",
-          "2026-10-21T18:25",
-          "2026-10-21T18:30"
-        ],
-        "input_events": 38,
-        "output_events": 71
       },
       {
         "day": "2026-10-21",
@@ -56537,7 +56417,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 76241.7,
+    "duration_minutes": 76108.2,
     "tokens": 783277350,
     "additions": 957504,
     "deletions": 303529,
@@ -57578,8 +57458,8 @@
       "2026-10-24T17:00",
       "2026-10-24T17:05"
     ],
-    "input_events": 3484,
-    "output_events": 21677,
+    "input_events": 3105,
+    "output_events": 21080,
     "active_minutes": 5170,
     "active_slice_count": 1034
   },
