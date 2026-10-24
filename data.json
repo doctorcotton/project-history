@@ -773,28 +773,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · a3833ed2",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_2989fe82-6330-4709-82b5-144da3833ed2.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 7.6,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T09:20",
-          "2026-10-21T09:25",
-          "2026-10-21T09:30"
-        ],
-        "input_events": 0,
-        "output_events": 13
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · a3833ed2",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -15110,7 +15088,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13307.2,
+    "duration_minutes": 13299.6,
     "tokens": 1500591440,
     "additions": 17954913,
     "deletions": 14651432,
@@ -16143,7 +16121,7 @@
       "2026-10-23T16:40"
     ],
     "input_events": 1015,
-    "output_events": 6738,
+    "output_events": 6725,
     "active_minutes": 5125,
     "active_slice_count": 1025
   },
@@ -24559,12 +24537,12 @@
         "day": "2026-10-24",
         "kind": "session",
         "title": "本机 ZCode 会话 · c807aa67",
-        "summary": "任务还是要把后面的维度分开，一次创建可以创建多个任务，任务只能是按最小单元分的，那就是同用一个svg底稿的是一个任务，和上面说的是一回事吧？",
+        "summary": "总体判断：**主线正确，段 3 最成熟，段 2 值得做但必须单独立项控制迁移风险；段 1 有两处不能按原文执行。** “单一事实源 + 投影 + 门禁”适合这个仓库，但不能把不同业务语义强行归一成同一种解析方式。 ## 一、段 1：统一“解析器”，不要统一成一种权限口径 ### 1c 建议撤回，不能直接改三层解析 以…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_e041ea7a-67c2-4b4f-a9a6-5bc0c807aa67.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 236.0,
+        "duration_minutes": 254.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24577,10 +24555,12 @@
           "2026-10-24T08:40",
           "2026-10-24T08:45",
           "2026-10-24T08:50",
-          "2026-10-24T08:55"
+          "2026-10-24T08:55",
+          "2026-10-24T09:10",
+          "2026-10-24T09:15"
         ],
-        "input_events": 17,
-        "output_events": 17
+        "input_events": 19,
+        "output_events": 19
       },
       {
         "day": "2026-10-24",
@@ -24591,7 +24571,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 235.2,
+        "duration_minutes": 253.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24604,10 +24584,11 @@
           "2026-10-24T08:40",
           "2026-10-24T08:45",
           "2026-10-24T08:50",
-          "2026-10-24T08:55"
+          "2026-10-24T08:55",
+          "2026-10-24T09:10"
         ],
         "input_events": 0,
-        "output_events": 17
+        "output_events": 19
       },
       {
         "day": "2026-10-24",
@@ -24662,16 +24643,17 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.4,
+        "duration_minutes": 5.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-24T09:00"
+          "2026-10-24T09:00",
+          "2026-10-24T09:05"
         ],
-        "input_events": 2,
-        "output_events": 2
+        "input_events": 5,
+        "output_events": 5
       },
       {
         "day": "2026-10-24",
@@ -24682,16 +24664,17 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.6,
+        "duration_minutes": 6.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-24T09:00"
+          "2026-10-24T09:00",
+          "2026-10-24T09:05"
         ],
         "input_events": 0,
-        "output_events": 3
+        "output_events": 5
       },
       {
         "day": "2026-10-23",
@@ -29429,26 +29412,6 @@
         "day": "2026-10-21",
         "kind": "session",
         "title": "本机 ZCode 会话 · 3dc420ff",
-        "summary": "可先做个html，用oiluipro评分一下，优化一下",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_685a0854-48f8-4de2-b080-d6433dc420ff.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 1.7,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T09:45"
-        ],
-        "input_events": 6,
-        "output_events": 6
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 3dc420ff",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -29615,33 +29578,6 @@
         ],
         "input_events": 0,
         "output_events": 70
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 1885e0d6",
-        "summary": "有啊，先把这个搞成非必填，能正常推上去启动，后面我去集团iam设置",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_38d01223-3d06-4baf-9841-5c7e1885e0d6.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 47.1,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T08:50",
-          "2026-10-21T08:55",
-          "2026-10-21T09:00",
-          "2026-10-21T09:15",
-          "2026-10-21T09:20",
-          "2026-10-21T09:25",
-          "2026-10-21T09:30",
-          "2026-10-21T09:35"
-        ],
-        "input_events": 26,
-        "output_events": 33
       },
       {
         "day": "2026-10-21",
@@ -56457,7 +56393,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 76013.1,
+    "duration_minutes": 76010.3,
     "tokens": 783277350,
     "additions": 944955,
     "deletions": 302731,
@@ -57452,12 +57388,15 @@
       "2026-10-24T08:45",
       "2026-10-24T08:50",
       "2026-10-24T08:55",
-      "2026-10-24T09:00"
+      "2026-10-24T09:00",
+      "2026-10-24T09:05",
+      "2026-10-24T09:10",
+      "2026-10-24T09:15"
     ],
-    "input_events": 3544,
-    "output_events": 21233,
-    "active_minutes": 4950,
-    "active_slice_count": 990
+    "input_events": 3517,
+    "output_events": 21203,
+    "active_minutes": 4965,
+    "active_slice_count": 993
   },
   {
     "name": "tds-compliance",
