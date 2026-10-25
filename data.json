@@ -561,26 +561,6 @@
         "day": "2026-10-22",
         "kind": "session",
         "title": "本机 ZCode 会话 · 0766ae65",
-        "summary": "结束了？",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_062fdd65-3f57-45a5-921d-7d2c0766ae65.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 0.6,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-22T07:10"
-        ],
-        "input_events": 3,
-        "output_events": 3
-      },
-      {
-        "day": "2026-10-22",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 0766ae65",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
@@ -1061,39 +1041,6 @@
         ],
         "input_events": 0,
         "output_events": 42
-      },
-      {
-        "day": "2026-10-21",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 0766ae65",
-        "summary": "不做这个",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_062fdd65-3f57-45a5-921d-7d2c0766ae65.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 75.9,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-21T22:15",
-          "2026-10-21T22:20",
-          "2026-10-21T22:25",
-          "2026-10-21T22:30",
-          "2026-10-21T22:35",
-          "2026-10-21T22:40",
-          "2026-10-21T22:45",
-          "2026-10-21T22:50",
-          "2026-10-21T22:55",
-          "2026-10-21T23:10",
-          "2026-10-21T23:15",
-          "2026-10-21T23:20",
-          "2026-10-21T23:25",
-          "2026-10-21T23:30"
-        ],
-        "input_events": 116,
-        "output_events": 124
       },
       {
         "day": "2026-10-21",
@@ -14930,7 +14877,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13019.9,
+    "duration_minutes": 12943.4,
     "tokens": 1500591440,
     "additions": 17954913,
     "deletions": 14651432,
@@ -15962,8 +15909,8 @@
       "2026-10-23T16:35",
       "2026-10-23T16:40"
     ],
-    "input_events": 725,
-    "output_events": 6400,
+    "input_events": 606,
+    "output_events": 6273,
     "active_minutes": 5125,
     "active_slice_count": 1025
   },
