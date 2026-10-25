@@ -24277,6 +24277,32 @@
         "output_events": 35
       },
       {
+        "day": "2026-10-25",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 346d0dd6",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 27.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-25T10:00",
+          "2026-10-25T10:05",
+          "2026-10-25T10:10",
+          "2026-10-25T10:15",
+          "2026-10-25T10:20",
+          "2026-10-25T10:25",
+          "2026-10-25T10:30"
+        ],
+        "input_events": 0,
+        "output_events": 148
+      },
+      {
         "day": "2026-10-24",
         "kind": "session",
         "title": "本机 ZCode 会话 · d23ee89d",
@@ -27636,32 +27662,6 @@
         ],
         "input_events": 0,
         "output_events": 73
-      },
-      {
-        "day": "2026-10-22",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · c8877371",
-        "summary": "启动一下",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_b49ea562-d864-4a21-a848-f2bdc8877371.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 28.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-22T09:40",
-          "2026-10-22T09:45",
-          "2026-10-22T09:50",
-          "2026-10-22T09:55",
-          "2026-10-22T10:00",
-          "2026-10-22T10:05",
-          "2026-10-22T10:10"
-        ],
-        "input_events": 107,
-        "output_events": 122
       },
       {
         "day": "2026-10-22",
@@ -56016,7 +56016,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 73493.3,
+    "duration_minutes": 73492.6,
     "tokens": 783277350,
     "additions": 957504,
     "deletions": 303529,
@@ -57053,12 +57053,19 @@
       "2026-10-25T09:25",
       "2026-10-25T09:30",
       "2026-10-25T09:50",
-      "2026-10-25T09:55"
+      "2026-10-25T09:55",
+      "2026-10-25T10:00",
+      "2026-10-25T10:05",
+      "2026-10-25T10:10",
+      "2026-10-25T10:15",
+      "2026-10-25T10:20",
+      "2026-10-25T10:25",
+      "2026-10-25T10:30"
     ],
-    "input_events": 2875,
-    "output_events": 20467,
-    "active_minutes": 5160,
-    "active_slice_count": 1032
+    "input_events": 2768,
+    "output_events": 20493,
+    "active_minutes": 5195,
+    "active_slice_count": 1039
   },
   {
     "name": "tds-compliance",
