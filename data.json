@@ -9,28 +9,6 @@
         "kind": "session",
         "title": "本机 ZCode 会话 · fa6ed38f",
         "summary": "当天有 ZCode 会话活动。",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_aa82109e-732b-408b-8d5d-4948fa6ed38f.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 7.3,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-25T20:35",
-          "2026-10-25T20:40",
-          "2026-10-25T20:45"
-        ],
-        "input_events": 0,
-        "output_events": 24
-      },
-      {
-        "day": "2026-10-25",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · fa6ed38f",
-        "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
@@ -14961,7 +14939,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 11816.3,
+    "duration_minutes": 11809.0,
     "tokens": 1581862909,
     "additions": 17962872,
     "deletions": 14653573,
@@ -16005,7 +15983,7 @@
       "2026-10-25T20:55"
     ],
     "input_events": 346,
-    "output_events": 5723,
+    "output_events": 5699,
     "active_minutes": 5180,
     "active_slice_count": 1036
   },
@@ -24328,6 +24306,26 @@
       {
         "day": "2026-10-25",
         "kind": "session",
+        "title": "本机 ZCode 会话 · dafcfb88",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.4,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-25T21:40"
+        ],
+        "input_events": 0,
+        "output_events": 25
+      },
+      {
+        "day": "2026-10-25",
+        "kind": "session",
         "title": "本机 ZCode 会话 · cf216bd9",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -24516,7 +24514,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 144.0,
+        "duration_minutes": 189.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24531,10 +24529,18 @@
           "2026-10-25T20:30",
           "2026-10-25T20:35",
           "2026-10-25T20:40",
-          "2026-10-25T20:50"
+          "2026-10-25T20:50",
+          "2026-10-25T21:00",
+          "2026-10-25T21:05",
+          "2026-10-25T21:10",
+          "2026-10-25T21:15",
+          "2026-10-25T21:20",
+          "2026-10-25T21:25",
+          "2026-10-25T21:30",
+          "2026-10-25T21:35"
         ],
         "input_events": 0,
-        "output_events": 109
+        "output_events": 299
       },
       {
         "day": "2026-10-25",
@@ -24638,6 +24644,30 @@
       {
         "day": "2026-10-25",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 01998a23",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 19.4,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-25T21:10",
+          "2026-10-25T21:15",
+          "2026-10-25T21:20",
+          "2026-10-25T21:25",
+          "2026-10-25T21:30"
+        ],
+        "input_events": 0,
+        "output_events": 139
+      },
+      {
+        "day": "2026-10-25",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · d8560b6b",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/10/25/rollout-2026-10-25T13-38-21-01a17191-2999-7670-ab46-c73fd8560b6b.jsonl",
@@ -24702,8 +24732,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 190.3,
-        "tokens": 9907058,
+        "duration_minutes": 260.4,
+        "tokens": 20010296,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -24722,10 +24752,20 @@
           "2026-10-25T20:35",
           "2026-10-25T20:40",
           "2026-10-25T20:50",
-          "2026-10-25T20:55"
+          "2026-10-25T20:55",
+          "2026-10-25T21:05",
+          "2026-10-25T21:10",
+          "2026-10-25T21:20",
+          "2026-10-25T21:25",
+          "2026-10-25T21:30",
+          "2026-10-25T21:35",
+          "2026-10-25T21:40",
+          "2026-10-25T21:45",
+          "2026-10-25T21:50",
+          "2026-10-25T21:55"
         ],
-        "input_events": 8,
-        "output_events": 33
+        "input_events": 13,
+        "output_events": 57
       },
       {
         "day": "2026-10-25",
@@ -55172,8 +55212,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 78961.3,
-    "tokens": 687676783,
+    "duration_minutes": 79098.6,
+    "tokens": 697780021,
     "additions": 957504,
     "deletions": 303529,
     "files_changed": 15101,
@@ -56231,12 +56271,24 @@
       "2026-10-25T20:35",
       "2026-10-25T20:40",
       "2026-10-25T20:50",
-      "2026-10-25T20:55"
+      "2026-10-25T20:55",
+      "2026-10-25T21:00",
+      "2026-10-25T21:05",
+      "2026-10-25T21:10",
+      "2026-10-25T21:15",
+      "2026-10-25T21:20",
+      "2026-10-25T21:25",
+      "2026-10-25T21:30",
+      "2026-10-25T21:35",
+      "2026-10-25T21:40",
+      "2026-10-25T21:45",
+      "2026-10-25T21:50",
+      "2026-10-25T21:55"
     ],
-    "input_events": 249,
-    "output_events": 17515,
-    "active_minutes": 5270,
-    "active_slice_count": 1054
+    "input_events": 254,
+    "output_events": 17893,
+    "active_minutes": 5330,
+    "active_slice_count": 1066
   },
   {
     "name": "tds-compliance",
