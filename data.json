@@ -23562,17 +23562,19 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.5,
+        "duration_minutes": 17.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-27T20:55",
-          "2026-10-27T21:00"
+          "2026-10-27T21:00",
+          "2026-10-27T21:05",
+          "2026-10-27T21:10"
         ],
         "input_events": 0,
-        "output_events": 32
+        "output_events": 68
       },
       {
         "day": "2026-10-27",
@@ -23667,16 +23669,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1.6,
+        "duration_minutes": 168.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-10-27T18:25"
+          "2026-10-27T18:25",
+          "2026-10-27T21:10",
+          "2026-10-27T21:15"
         ],
         "input_events": 0,
-        "output_events": 19
+        "output_events": 32
       },
       {
         "day": "2026-10-27",
@@ -23950,7 +23954,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 184.9,
+        "duration_minutes": 443.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23963,10 +23967,17 @@
           "2026-10-27T14:55",
           "2026-10-27T15:00",
           "2026-10-27T15:20",
-          "2026-10-27T17:40"
+          "2026-10-27T17:40",
+          "2026-10-27T21:00",
+          "2026-10-27T21:05",
+          "2026-10-27T21:20",
+          "2026-10-27T21:35",
+          "2026-10-27T21:40",
+          "2026-10-27T21:55",
+          "2026-10-27T22:00"
         ],
         "input_events": 0,
-        "output_events": 147
+        "output_events": 161
       },
       {
         "day": "2026-10-27",
@@ -24357,7 +24368,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 292.1,
+        "duration_minutes": 352.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24405,10 +24416,22 @@
           "2026-10-27T20:40",
           "2026-10-27T20:45",
           "2026-10-27T20:55",
-          "2026-10-27T21:00"
+          "2026-10-27T21:00",
+          "2026-10-27T21:05",
+          "2026-10-27T21:10",
+          "2026-10-27T21:15",
+          "2026-10-27T21:20",
+          "2026-10-27T21:25",
+          "2026-10-27T21:30",
+          "2026-10-27T21:35",
+          "2026-10-27T21:40",
+          "2026-10-27T21:45",
+          "2026-10-27T21:50",
+          "2026-10-27T21:55",
+          "2026-10-27T22:00"
         ],
         "input_events": 0,
-        "output_events": 614
+        "output_events": 741
       },
       {
         "day": "2026-10-27",
@@ -25171,6 +25194,24 @@
       {
         "day": "2026-10-27",
         "kind": "git",
+        "title": "fix(任务): 任务边界改为图稿组，一张 SVG 一个任务",
+        "summary": "提交 a6404ab6：fix(任务): 任务边界改为图稿组，一张 SVG 一个任务",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 367,
+        "deletions": 363,
+        "files_changed": 25,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-27",
+        "kind": "git",
         "title": "fix(SVG图稿): 退役编辑锁并收敛一次性上传",
         "summary": "提交 a6d40b0b：fix(SVG图稿): 退役编辑锁并收敛一次性上传",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -25362,6 +25403,24 @@
         "additions": 130,
         "deletions": 15,
         "files_changed": 7,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-27",
+        "kind": "git",
+        "title": "feat(任务): 任务按创建批聚合，一条待办一条通知，会签按物料扇出",
+        "summary": "提交 8ef96435：feat(任务): 任务按创建批聚合，一条待办一条通知，会签按物料扇出",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1192,
+        "deletions": 248,
+        "files_changed": 44,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -57126,11 +57185,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88223.2,
+    "duration_minutes": 88721.2,
     "tokens": 930899029,
-    "additions": 1027689,
-    "deletions": 324559,
-    "files_changed": 16758,
+    "additions": 1029248,
+    "deletions": 325170,
+    "files_changed": 16827,
     "active_bucket_keys": [
       "2026-09-02T18:00",
       "2026-09-02T18:10",
@@ -58153,12 +58212,24 @@
       "2026-10-27T20:45",
       "2026-10-27T20:50",
       "2026-10-27T20:55",
-      "2026-10-27T21:00"
+      "2026-10-27T21:00",
+      "2026-10-27T21:05",
+      "2026-10-27T21:10",
+      "2026-10-27T21:15",
+      "2026-10-27T21:20",
+      "2026-10-27T21:25",
+      "2026-10-27T21:30",
+      "2026-10-27T21:35",
+      "2026-10-27T21:40",
+      "2026-10-27T21:45",
+      "2026-10-27T21:50",
+      "2026-10-27T21:55",
+      "2026-10-27T22:00"
     ],
     "input_events": 372,
-    "output_events": 21627,
-    "active_minutes": 5110,
-    "active_slice_count": 1022
+    "output_events": 21817,
+    "active_minutes": 5170,
+    "active_slice_count": 1034
   },
   {
     "name": "tds-compliance",
