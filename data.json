@@ -23062,6 +23062,26 @@
       {
         "day": "2026-10-28",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-28T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 219b7033",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -56895,12 +56915,13 @@
       "2026-10-28T07:35",
       "2026-10-28T07:40",
       "2026-10-28T07:45",
-      "2026-10-28T07:50"
+      "2026-10-28T07:50",
+      "2026-10-28T09:00"
     ],
     "input_events": 354,
-    "output_events": 18992,
-    "active_minutes": 4355,
-    "active_slice_count": 871
+    "output_events": 18993,
+    "active_minutes": 4360,
+    "active_slice_count": 872
   },
   {
     "name": "tds-compliance",
