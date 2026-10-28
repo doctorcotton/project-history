@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 113.7,
+        "duration_minutes": 174.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -34,10 +34,18 @@
           "2026-10-28T11:40",
           "2026-10-28T11:45",
           "2026-10-28T11:50",
-          "2026-10-28T11:55"
+          "2026-10-28T11:55",
+          "2026-10-28T12:00",
+          "2026-10-28T12:05",
+          "2026-10-28T12:10",
+          "2026-10-28T12:15",
+          "2026-10-28T12:20",
+          "2026-10-28T12:45",
+          "2026-10-28T12:50",
+          "2026-10-28T13:00"
         ],
         "input_events": 0,
-        "output_events": 168
+        "output_events": 222
       },
       {
         "day": "2026-10-28",
@@ -13886,7 +13894,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 8219.0,
+    "duration_minutes": 8279.8,
     "tokens": 1721570658,
     "additions": 17962915,
     "deletions": 14653598,
@@ -14767,12 +14775,20 @@
       "2026-10-28T11:40",
       "2026-10-28T11:45",
       "2026-10-28T11:50",
-      "2026-10-28T11:55"
+      "2026-10-28T11:55",
+      "2026-10-28T12:00",
+      "2026-10-28T12:05",
+      "2026-10-28T12:10",
+      "2026-10-28T12:15",
+      "2026-10-28T12:20",
+      "2026-10-28T12:45",
+      "2026-10-28T12:50",
+      "2026-10-28T13:00"
     ],
     "input_events": 327,
-    "output_events": 3935,
-    "active_minutes": 4380,
-    "active_slice_count": 876
+    "output_events": 3989,
+    "active_minutes": 4420,
+    "active_slice_count": 884
   },
   {
     "name": "project-iframe",
@@ -21916,8 +21932,8 @@
           "统计原料与成品清洗、标准化和纠错工作量",
           "整理成领导汇报版清洗工作总结"
         ],
-        "duration_minutes": 18540.3,
-        "tokens": 13514535,
+        "duration_minutes": 18545.7,
+        "tokens": 14327592,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -21930,10 +21946,12 @@
           "2026-10-15T15:20",
           "2026-10-28T11:30",
           "2026-10-28T11:35",
-          "2026-10-28T11:55"
+          "2026-10-28T11:55",
+          "2026-10-28T12:00",
+          "2026-10-28T12:05"
         ],
-        "input_events": 12,
-        "output_events": 32
+        "input_events": 15,
+        "output_events": 42
       },
       {
         "day": "2026-10-09",
@@ -23043,8 +23061,8 @@
       },
       "evidence_note": "准备产物、API 结果和本地测试不能互相替代；当前档案严格区分准备、接受、回读、UAT 和生产状态。"
     },
-    "duration_minutes": 18540.3,
-    "tokens": 13514535,
+    "duration_minutes": 18545.7,
+    "tokens": 14327592,
     "additions": 128306,
     "deletions": 6110,
     "files_changed": 1266,
@@ -23057,12 +23075,14 @@
       "2026-10-15T15:20",
       "2026-10-28T11:30",
       "2026-10-28T11:35",
-      "2026-10-28T11:55"
+      "2026-10-28T11:55",
+      "2026-10-28T12:00",
+      "2026-10-28T12:05"
     ],
-    "input_events": 12,
-    "output_events": 32,
-    "active_minutes": 45,
-    "active_slice_count": 9
+    "input_events": 15,
+    "output_events": 42,
+    "active_minutes": 55,
+    "active_slice_count": 11
   },
   {
     "name": "tds-studio",
@@ -23078,17 +23098,24 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.0,
+        "duration_minutes": 358.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-28T07:00",
-          "2026-10-28T07:05"
+          "2026-10-28T07:05",
+          "2026-10-28T12:30",
+          "2026-10-28T12:35",
+          "2026-10-28T12:40",
+          "2026-10-28T12:45",
+          "2026-10-28T12:50",
+          "2026-10-28T12:55",
+          "2026-10-28T13:00"
         ],
         "input_events": 0,
-        "output_events": 24
+        "output_events": 95
       },
       {
         "day": "2026-10-28",
@@ -23139,6 +23166,50 @@
         ],
         "input_events": 0,
         "output_events": 226
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 985af00a",
+        "summary": "就是出图啊，什么功能呀，可以在这做，然后只是前端不显示，就后端保留这个功能，可以可以记录一下，就前端只显示数字，然后剩下的功能留以后再看要不要做。",
+        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_7b6f1876-0e11-4910-9f68-3848985af00a.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 21.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-28T12:10",
+          "2026-10-28T12:15",
+          "2026-10-28T12:30"
+        ],
+        "input_events": 39,
+        "output_events": 39
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 985af00a",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 21.9,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-28T12:10",
+          "2026-10-28T12:15",
+          "2026-10-28T12:30"
+        ],
+        "input_events": 0,
+        "output_events": 39
       },
       {
         "day": "2026-10-28",
@@ -23207,7 +23278,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 23.3,
+        "duration_minutes": 73.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23217,10 +23288,16 @@
           "2026-10-28T11:40",
           "2026-10-28T11:45",
           "2026-10-28T11:50",
-          "2026-10-28T11:55"
+          "2026-10-28T11:55",
+          "2026-10-28T12:00",
+          "2026-10-28T12:05",
+          "2026-10-28T12:10",
+          "2026-10-28T12:35",
+          "2026-10-28T12:40",
+          "2026-10-28T12:45"
         ],
         "input_events": 0,
-        "output_events": 128
+        "output_events": 244
       },
       {
         "day": "2026-10-28",
@@ -23339,6 +23416,27 @@
       {
         "day": "2026-10-28",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 53781436",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.6,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-28T12:10",
+          "2026-10-28T12:15"
+        ],
+        "input_events": 0,
+        "output_events": 18
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 219b7033",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -23356,6 +23454,26 @@
         ],
         "input_events": 0,
         "output_events": 21
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 1dccfd3e",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-28T12:40"
+        ],
+        "input_events": 0,
+        "output_events": 2
       },
       {
         "day": "2026-10-28",
@@ -23391,6 +23509,24 @@
         ],
         "input_events": 0,
         "output_events": 343
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "git",
+        "title": "revert(图稿): 69 码字段不做条码图，只显示数字",
+        "summary": "提交 c11184d7：revert(图稿): 69 码字段不做条码图，只显示数字",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 207,
+        "files_changed": 6,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-28",
@@ -23622,6 +23758,24 @@
         "additions": 710,
         "deletions": 0,
         "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-28",
+        "kind": "git",
+        "title": "docs(图稿): 固化 69 码字段只显示数字的裁定",
+        "summary": "提交 07617b09：docs(图稿): 固化 69 码字段只显示数字的裁定",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 0,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -56594,11 +56748,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 83047.9,
+    "duration_minutes": 83497.7,
     "tokens": 885062059,
-    "additions": 1035601,
-    "deletions": 326872,
-    "files_changed": 17175,
+    "additions": 1035615,
+    "deletions": 327079,
+    "files_changed": 17183,
     "active_bucket_keys": [
       "2026-09-02T18:00",
       "2026-09-02T18:10",
@@ -57496,12 +57650,23 @@
       "2026-10-28T11:40",
       "2026-10-28T11:45",
       "2026-10-28T11:50",
-      "2026-10-28T11:55"
+      "2026-10-28T11:55",
+      "2026-10-28T12:00",
+      "2026-10-28T12:05",
+      "2026-10-28T12:10",
+      "2026-10-28T12:15",
+      "2026-10-28T12:30",
+      "2026-10-28T12:35",
+      "2026-10-28T12:40",
+      "2026-10-28T12:45",
+      "2026-10-28T12:50",
+      "2026-10-28T12:55",
+      "2026-10-28T13:00"
     ],
-    "input_events": 358,
-    "output_events": 20263,
-    "active_minutes": 4485,
-    "active_slice_count": 897
+    "input_events": 397,
+    "output_events": 20548,
+    "active_minutes": 4540,
+    "active_slice_count": 908
   },
   {
     "name": "tds-compliance",
