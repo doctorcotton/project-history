@@ -22164,6 +22164,29 @@
       {
         "day": "2026-10-29",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 90f68867",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 18.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-29T12:40",
+          "2026-10-29T12:50",
+          "2026-10-29T12:55",
+          "2026-10-29T13:00"
+        ],
+        "input_events": 0,
+        "output_events": 64
+      },
+      {
+        "day": "2026-10-29",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 6e1ffec2",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -22191,17 +22214,25 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 7.2,
+        "duration_minutes": 67.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-29T11:50",
-          "2026-10-29T11:55"
+          "2026-10-29T11:55",
+          "2026-10-29T12:05",
+          "2026-10-29T12:10",
+          "2026-10-29T12:15",
+          "2026-10-29T12:40",
+          "2026-10-29T12:45",
+          "2026-10-29T12:50",
+          "2026-10-29T12:55",
+          "2026-10-29T13:00"
         ],
         "input_events": 0,
-        "output_events": 39
+        "output_events": 137
       },
       {
         "day": "2026-10-29",
@@ -22361,17 +22392,22 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 11.7,
+        "duration_minutes": 66.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-10-29T11:45",
-          "2026-10-29T11:55"
+          "2026-10-29T11:55",
+          "2026-10-29T12:00",
+          "2026-10-29T12:05",
+          "2026-10-29T12:10",
+          "2026-10-29T12:40",
+          "2026-10-29T12:50"
         ],
         "input_events": 0,
-        "output_events": 2
+        "output_events": 12
       },
       {
         "day": "2026-10-29",
@@ -22466,6 +22502,27 @@
         ],
         "input_events": 9,
         "output_events": 22
+      },
+      {
+        "day": "2026-10-29",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 03ec1870",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/29/rollout-2026-10-29T12-43-40-01a185f8-8b89-7191-8804-702f03ec1870.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 6.8,
+        "tokens": 2607139,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-29T12:40",
+          "2026-10-29T12:50"
+        ],
+        "input_events": 3,
+        "output_events": 4
       },
       {
         "day": "2026-10-29",
@@ -57450,8 +57507,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 84944.7,
-    "tokens": 1020841354,
+    "duration_minutes": 85085.4,
+    "tokens": 1023448493,
     "additions": 1054820,
     "deletions": 339693,
     "files_changed": 17875,
@@ -58381,12 +58438,21 @@
       "2026-10-29T11:40",
       "2026-10-29T11:45",
       "2026-10-29T11:50",
-      "2026-10-29T11:55"
+      "2026-10-29T11:55",
+      "2026-10-29T12:00",
+      "2026-10-29T12:05",
+      "2026-10-29T12:10",
+      "2026-10-29T12:15",
+      "2026-10-29T12:40",
+      "2026-10-29T12:45",
+      "2026-10-29T12:50",
+      "2026-10-29T12:55",
+      "2026-10-29T13:00"
     ],
-    "input_events": 302,
-    "output_events": 23502,
-    "active_minutes": 4630,
-    "active_slice_count": 926
+    "input_events": 305,
+    "output_events": 23678,
+    "active_minutes": 4675,
+    "active_slice_count": 935
   },
   {
     "name": "tds-compliance",
