@@ -13,8 +13,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 60.7,
-        "tokens": 7663858,
+        "duration_minutes": 96.7,
+        "tokens": 9630816,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -27,10 +27,12 @@
           "2026-10-30T18:20",
           "2026-10-30T18:25",
           "2026-10-30T18:30",
-          "2026-10-30T18:35"
+          "2026-10-30T18:35",
+          "2026-10-30T19:10",
+          "2026-10-30T19:15"
         ],
-        "input_events": 10,
-        "output_events": 24
+        "input_events": 11,
+        "output_events": 26
       },
       {
         "day": "2026-10-29",
@@ -13367,8 +13369,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 4395.9,
-    "tokens": 796036552,
+    "duration_minutes": 4431.9,
+    "tokens": 798003510,
     "additions": 17987072,
     "deletions": 14662201,
     "files_changed": 27991,
@@ -13783,12 +13785,14 @@
       "2026-10-30T18:20",
       "2026-10-30T18:25",
       "2026-10-30T18:30",
-      "2026-10-30T18:35"
+      "2026-10-30T18:35",
+      "2026-10-30T19:10",
+      "2026-10-30T19:15"
     ],
-    "input_events": 102,
-    "output_events": 2932,
-    "active_minutes": 2055,
-    "active_slice_count": 411
+    "input_events": 103,
+    "output_events": 2934,
+    "active_minutes": 2065,
+    "active_slice_count": 413
   },
   {
     "name": "project-iframe",
@@ -22959,7 +22963,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 16.5,
+        "duration_minutes": 64.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22968,10 +22972,20 @@
           "2026-10-30T18:40",
           "2026-10-30T18:45",
           "2026-10-30T18:50",
-          "2026-10-30T18:55"
+          "2026-10-30T18:55",
+          "2026-10-30T19:00",
+          "2026-10-30T19:05",
+          "2026-10-30T19:10",
+          "2026-10-30T19:15",
+          "2026-10-30T19:20",
+          "2026-10-30T19:25",
+          "2026-10-30T19:30",
+          "2026-10-30T19:35",
+          "2026-10-30T19:40",
+          "2026-10-30T19:45"
         ],
         "input_events": 0,
-        "output_events": 33
+        "output_events": 269
       },
       {
         "day": "2026-10-30",
@@ -23013,6 +23027,28 @@
         ],
         "input_events": 0,
         "output_events": 13
+      },
+      {
+        "day": "2026-10-30",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 0bff040c",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 8.5,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-30T19:05",
+          "2026-10-30T19:10",
+          "2026-10-30T19:15"
+        ],
+        "input_events": 0,
+        "output_events": 44
       },
       {
         "day": "2026-10-30",
@@ -59640,7 +59676,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 88274.9,
+    "duration_minutes": 88331.0,
     "tokens": 1874687188,
     "additions": 1075859,
     "deletions": 345788,
@@ -60679,12 +60715,22 @@
       "2026-10-30T18:40",
       "2026-10-30T18:45",
       "2026-10-30T18:50",
-      "2026-10-30T18:55"
+      "2026-10-30T18:55",
+      "2026-10-30T19:00",
+      "2026-10-30T19:05",
+      "2026-10-30T19:10",
+      "2026-10-30T19:15",
+      "2026-10-30T19:20",
+      "2026-10-30T19:25",
+      "2026-10-30T19:30",
+      "2026-10-30T19:35",
+      "2026-10-30T19:40",
+      "2026-10-30T19:45"
     ],
     "input_events": 393,
-    "output_events": 27691,
-    "active_minutes": 5170,
-    "active_slice_count": 1034
+    "output_events": 27971,
+    "active_minutes": 5220,
+    "active_slice_count": 1044
   },
   {
     "name": "tds-compliance",
