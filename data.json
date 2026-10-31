@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 33.1,
+        "duration_minutes": 91.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24,10 +24,12 @@
           "2026-10-31T11:55",
           "2026-10-31T12:00",
           "2026-10-31T12:10",
-          "2026-10-31T12:15"
+          "2026-10-31T12:15",
+          "2026-10-31T13:10",
+          "2026-10-31T13:15"
         ],
         "input_events": 0,
-        "output_events": 106
+        "output_events": 127
       },
       {
         "day": "2026-10-31",
@@ -38,8 +40,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 41.9,
-        "tokens": 11222424,
+        "duration_minutes": 89.8,
+        "tokens": 51447334,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -48,10 +50,15 @@
           "2026-10-31T12:15",
           "2026-10-31T12:20",
           "2026-10-31T12:25",
-          "2026-10-31T12:45"
+          "2026-10-31T12:45",
+          "2026-10-31T13:15",
+          "2026-10-31T13:35",
+          "2026-10-31T13:40",
+          "2026-10-31T13:45",
+          "2026-10-31T13:55"
         ],
-        "input_events": 8,
-        "output_events": 24
+        "input_events": 12,
+        "output_events": 32
       },
       {
         "day": "2026-10-30",
@@ -13475,8 +13482,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 5488.7,
-    "tokens": 1049904958,
+    "duration_minutes": 5594.5,
+    "tokens": 1090129868,
     "additions": 17987072,
     "deletions": 14662201,
     "files_changed": 27991,
@@ -13957,12 +13964,18 @@
       "2026-10-31T12:15",
       "2026-10-31T12:20",
       "2026-10-31T12:25",
-      "2026-10-31T12:45"
+      "2026-10-31T12:45",
+      "2026-10-31T13:10",
+      "2026-10-31T13:15",
+      "2026-10-31T13:35",
+      "2026-10-31T13:40",
+      "2026-10-31T13:45",
+      "2026-10-31T13:55"
     ],
-    "input_events": 136,
-    "output_events": 3179,
-    "active_minutes": 2385,
-    "active_slice_count": 477
+    "input_events": 140,
+    "output_events": 3208,
+    "active_minutes": 2415,
+    "active_slice_count": 483
   },
   {
     "name": "project-iframe",
