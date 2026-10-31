@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 13.7,
+        "duration_minutes": 33.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -21,10 +21,37 @@
         "active_bucket_keys": [
           "2026-10-31T11:45",
           "2026-10-31T11:50",
-          "2026-10-31T11:55"
+          "2026-10-31T11:55",
+          "2026-10-31T12:00",
+          "2026-10-31T12:10",
+          "2026-10-31T12:15"
         ],
         "input_events": 0,
-        "output_events": 95
+        "output_events": 106
+      },
+      {
+        "day": "2026-10-31",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 1628fa87",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/10/31/rollout-2026-10-31T12-07-43-01a19024-57fa-70e2-86f2-92871628fa87.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 41.9,
+        "tokens": 11222424,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-10-31T12:05",
+          "2026-10-31T12:15",
+          "2026-10-31T12:20",
+          "2026-10-31T12:25",
+          "2026-10-31T12:45"
+        ],
+        "input_events": 8,
+        "output_events": 24
       },
       {
         "day": "2026-10-30",
@@ -13448,8 +13475,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 5427.4,
-    "tokens": 1038682534,
+    "duration_minutes": 5488.7,
+    "tokens": 1049904958,
     "additions": 17987072,
     "deletions": 14662201,
     "files_changed": 27991,
@@ -13923,12 +13950,19 @@
       "2026-10-31T11:35",
       "2026-10-31T11:45",
       "2026-10-31T11:50",
-      "2026-10-31T11:55"
+      "2026-10-31T11:55",
+      "2026-10-31T12:00",
+      "2026-10-31T12:05",
+      "2026-10-31T12:10",
+      "2026-10-31T12:15",
+      "2026-10-31T12:20",
+      "2026-10-31T12:25",
+      "2026-10-31T12:45"
     ],
-    "input_events": 128,
-    "output_events": 3144,
-    "active_minutes": 2350,
-    "active_slice_count": 470
+    "input_events": 136,
+    "output_events": 3179,
+    "active_minutes": 2385,
+    "active_slice_count": 477
   },
   {
     "name": "project-iframe",
@@ -22311,7 +22345,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 25.5,
+        "duration_minutes": 64.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22322,10 +22356,17 @@
           "2026-10-31T11:45",
           "2026-10-31T11:50",
           "2026-10-31T11:55",
-          "2026-10-31T12:00"
+          "2026-10-31T12:00",
+          "2026-10-31T12:05",
+          "2026-10-31T12:10",
+          "2026-10-31T12:15",
+          "2026-10-31T12:20",
+          "2026-10-31T12:30",
+          "2026-10-31T12:35",
+          "2026-10-31T12:40"
         ],
         "input_events": 0,
-        "output_events": 56
+        "output_events": 304
       },
       {
         "day": "2026-10-31",
@@ -60054,7 +60095,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 91200.0,
+    "duration_minutes": 91239.2,
     "tokens": 2020043332,
     "additions": 1082260,
     "deletions": 346068,
@@ -61074,12 +61115,19 @@
       "2026-10-31T11:45",
       "2026-10-31T11:50",
       "2026-10-31T11:55",
-      "2026-10-31T12:00"
+      "2026-10-31T12:00",
+      "2026-10-31T12:05",
+      "2026-10-31T12:10",
+      "2026-10-31T12:15",
+      "2026-10-31T12:20",
+      "2026-10-31T12:30",
+      "2026-10-31T12:35",
+      "2026-10-31T12:40"
     ],
     "input_events": 430,
-    "output_events": 27823,
-    "active_minutes": 5075,
-    "active_slice_count": 1015
+    "output_events": 28071,
+    "active_minutes": 5110,
+    "active_slice_count": 1022
   },
   {
     "name": "tds-compliance",
