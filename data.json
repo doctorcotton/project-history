@@ -87,6 +87,26 @@
       },
       {
         "day": "2026-11-01",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · f349459e",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/01/rollout-2026-11-01T10-48-52-01a19502-83a4-7021-8cf5-15fff349459e.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-01T10:45"
+        ],
+        "input_events": 4,
+        "output_events": 4
+      },
+      {
+        "day": "2026-11-01",
         "kind": "git",
         "title": "feat(审核): 法规寻址优先与关系条款闭集，预载纠正 16/18",
         "summary": "提交 0858dc7b：feat(审核): 法规寻址优先与关系条款闭集，预载纠正 16/18",
@@ -13615,7 +13635,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7016.5,
+    "duration_minutes": 7016.7,
     "tokens": 1154623251,
     "additions": 17989564,
     "deletions": 14662904,
@@ -14200,12 +14220,13 @@
       "2026-11-01T09:40",
       "2026-11-01T09:45",
       "2026-11-01T09:50",
-      "2026-11-01T09:55"
+      "2026-11-01T09:55",
+      "2026-11-01T10:45"
     ],
-    "input_events": 153,
-    "output_events": 4039,
-    "active_minutes": 2900,
-    "active_slice_count": 580
+    "input_events": 157,
+    "output_events": 4043,
+    "active_minutes": 2905,
+    "active_slice_count": 581
   },
   {
     "name": "project-iframe",
