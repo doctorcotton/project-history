@@ -169,6 +169,28 @@
       },
       {
         "day": "2026-11-01",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · c5bf4062",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/01/rollout-2026-11-01T18-15-52-01a1969b-c2d1-79e2-b268-38f8c5bf4062.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 27.2,
+        "tokens": 16736127,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-01T18:15",
+          "2026-11-01T18:35",
+          "2026-11-01T18:40"
+        ],
+        "input_events": 7,
+        "output_events": 12
+      },
+      {
+        "day": "2026-11-01",
         "kind": "git",
         "title": "test(评测): 正例控制导入与 review gap 门禁",
         "summary": "提交 7adecfea：test(评测): 正例控制导入与 review gap 门禁",
@@ -325,6 +347,24 @@
         "additions": 6,
         "deletions": 1,
         "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "fix(regulatory-query): 显式定位未命中禁止词法回退",
+        "summary": "提交 ec3602d8：fix(regulatory-query): 显式定位未命中禁止词法回退",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 17,
+        "deletions": 4,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -13980,11 +14020,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7413.5,
-    "tokens": 1142238933,
-    "additions": 18002061,
-    "deletions": 14665207,
-    "files_changed": 28166,
+    "duration_minutes": 7440.7,
+    "tokens": 1158975060,
+    "additions": 18002078,
+    "deletions": 14665211,
+    "files_changed": 28168,
     "active_bucket_keys": [
       "2026-10-25T13:20",
       "2026-10-25T13:25",
@@ -14609,12 +14649,15 @@
       "2026-11-01T16:10",
       "2026-11-01T16:15",
       "2026-11-01T16:45",
-      "2026-11-01T16:50"
+      "2026-11-01T16:50",
+      "2026-11-01T18:15",
+      "2026-11-01T18:35",
+      "2026-11-01T18:40"
     ],
-    "input_events": 154,
-    "output_events": 4585,
-    "active_minutes": 3120,
-    "active_slice_count": 624
+    "input_events": 161,
+    "output_events": 4597,
+    "active_minutes": 3135,
+    "active_slice_count": 627
   },
   {
     "name": "project-iframe",
@@ -27044,27 +27087,6 @@
         ],
         "input_events": 0,
         "output_events": 5
-      },
-      {
-        "day": "2026-10-29",
-        "kind": "session",
-        "title": "本机 ZCode 会话 · 0b1da218",
-        "summary": "Tool result media from Read:",
-        "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_f606b26b-9586-4bb4-bb08-97360b1da218.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 1.2,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-29T18:35",
-          "2026-10-29T18:40"
-        ],
-        "input_events": 2,
-        "output_events": 2
       },
       {
         "day": "2026-10-29",
@@ -60819,7 +60841,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 91388.4,
+    "duration_minutes": 91387.2,
     "tokens": 1975750303,
     "additions": 1085763,
     "deletions": 346797,
@@ -61881,8 +61903,8 @@
       "2026-11-01T13:20",
       "2026-11-01T13:25"
     ],
-    "input_events": 422,
-    "output_events": 28196,
+    "input_events": 420,
+    "output_events": 28194,
     "active_minutes": 5275,
     "active_slice_count": 1055
   },
