@@ -46,7 +46,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 11.0,
+        "duration_minutes": 133.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -54,10 +54,16 @@
         "active_bucket_keys": [
           "2026-11-01T09:45",
           "2026-11-01T09:50",
-          "2026-11-01T09:55"
+          "2026-11-01T09:55",
+          "2026-11-01T11:25",
+          "2026-11-01T11:30",
+          "2026-11-01T11:35",
+          "2026-11-01T11:40",
+          "2026-11-01T11:55",
+          "2026-11-01T12:00"
         ],
         "input_events": 0,
-        "output_events": 8
+        "output_events": 145
       },
       {
         "day": "2026-11-01",
@@ -104,6 +110,96 @@
         ],
         "input_events": 4,
         "output_events": 4
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "perf(投影): 证据卡剔除重复结构事实与长句柄",
+        "summary": "提交 1fd7cdcc：perf(投影): 证据卡剔除重复结构事实与长句柄",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 96,
+        "deletions": 9,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "perf(投影): retrievalTrace 移出模型投影",
+        "summary": "提交 1ff110e9：perf(投影): retrievalTrace 移出模型投影",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 6,
+        "deletions": 38,
+        "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "fix(测试): 工具面断言对齐已删除的旧节点工具，修复收集期导入错误",
+        "summary": "提交 835c9669：fix(测试): 工具面断言对齐已删除的旧节点工具，修复收集期导入错误",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 7,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "fix(检索): 裸整数条款号与全角/小写字母进直达通道",
+        "summary": "提交 d86faff3：fix(检索): 裸整数条款号与全角/小写字母进直达通道",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 86,
+        "deletions": 21,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "fix(检索): locator 三形态直达与查询侧去噪",
+        "summary": "提交 e02cbe8d：fix(检索): locator 三形态直达与查询侧去噪",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 77,
+        "deletions": 10,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-01",
@@ -13635,11 +13731,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7016.7,
+    "duration_minutes": 7139.1,
     "tokens": 1154623251,
-    "additions": 17989564,
-    "deletions": 14662904,
-    "files_changed": 28015,
+    "additions": 17989836,
+    "deletions": 14662989,
+    "files_changed": 28029,
     "active_bucket_keys": [
       "2026-10-25T13:20",
       "2026-10-25T13:25",
@@ -14221,12 +14317,18 @@
       "2026-11-01T09:45",
       "2026-11-01T09:50",
       "2026-11-01T09:55",
-      "2026-11-01T10:45"
+      "2026-11-01T10:45",
+      "2026-11-01T11:25",
+      "2026-11-01T11:30",
+      "2026-11-01T11:35",
+      "2026-11-01T11:40",
+      "2026-11-01T11:55",
+      "2026-11-01T12:00"
     ],
     "input_events": 157,
-    "output_events": 4043,
-    "active_minutes": 2905,
-    "active_slice_count": 581
+    "output_events": 4180,
+    "active_minutes": 2935,
+    "active_slice_count": 587
   },
   {
     "name": "project-iframe",
@@ -22516,7 +22618,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 28.4,
+        "duration_minutes": 132.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -22527,10 +22629,12 @@
           "2026-11-01T09:40",
           "2026-11-01T09:45",
           "2026-11-01T09:50",
-          "2026-11-01T09:55"
+          "2026-11-01T09:55",
+          "2026-11-01T11:35",
+          "2026-11-01T11:40"
         ],
         "input_events": 0,
-        "output_events": 41
+        "output_events": 86
       },
       {
         "day": "2026-11-01",
@@ -60407,7 +60511,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 91372.9,
+    "duration_minutes": 91477.3,
     "tokens": 2020043332,
     "additions": 1085763,
     "deletions": 346797,
@@ -61472,12 +61576,14 @@
       "2026-11-01T09:40",
       "2026-11-01T09:45",
       "2026-11-01T09:50",
-      "2026-11-01T09:55"
+      "2026-11-01T09:55",
+      "2026-11-01T11:35",
+      "2026-11-01T11:40"
     ],
     "input_events": 435,
-    "output_events": 28178,
-    "active_minutes": 5300,
-    "active_slice_count": 1060
+    "output_events": 28223,
+    "active_minutes": 5310,
+    "active_slice_count": 1062
   },
   {
     "name": "tds-compliance",
