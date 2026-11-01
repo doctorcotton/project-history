@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 121.3,
+        "duration_minutes": 187.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -34,10 +34,16 @@
           "2026-11-01T14:50",
           "2026-11-01T14:55",
           "2026-11-01T15:00",
-          "2026-11-01T15:45"
+          "2026-11-01T15:45",
+          "2026-11-01T16:00",
+          "2026-11-01T16:05",
+          "2026-11-01T16:10",
+          "2026-11-01T16:15",
+          "2026-11-01T16:45",
+          "2026-11-01T16:50"
         ],
         "input_events": 0,
-        "output_events": 146
+        "output_events": 176
       },
       {
         "day": "2026-11-01",
@@ -326,6 +332,24 @@
       {
         "day": "2026-11-01",
         "kind": "git",
+        "title": "feat(问答插件): 检索补 locator 直达通道",
+        "summary": "提交 26fef57d：feat(问答插件): 检索补 locator 直达通道",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 177,
+        "deletions": 9,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
         "title": "feat(运行时): v10 问题优先合同、义务级投影与法规定位统一入口",
         "summary": "提交 a753b62b：feat(运行时): v10 问题优先合同、义务级投影与法规定位统一入口",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -391,6 +415,24 @@
         "additions": 2492,
         "deletions": 703,
         "files_changed": 24,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "feat(审核): 六条确定性规则改由宿主出终局结论",
+        "summary": "提交 c5fb6eef：feat(审核): 六条确定性规则改由宿主出终局结论",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 293,
+        "deletions": 28,
+        "files_changed": 7,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -13938,11 +13980,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 7347.1,
+    "duration_minutes": 7413.5,
     "tokens": 1142238933,
-    "additions": 18001591,
-    "deletions": 14665170,
-    "files_changed": 28157,
+    "additions": 18002061,
+    "deletions": 14665207,
+    "files_changed": 28166,
     "active_bucket_keys": [
       "2026-10-25T13:20",
       "2026-10-25T13:25",
@@ -14561,12 +14603,18 @@
       "2026-11-01T14:50",
       "2026-11-01T14:55",
       "2026-11-01T15:00",
-      "2026-11-01T15:45"
+      "2026-11-01T15:45",
+      "2026-11-01T16:00",
+      "2026-11-01T16:05",
+      "2026-11-01T16:10",
+      "2026-11-01T16:15",
+      "2026-11-01T16:45",
+      "2026-11-01T16:50"
     ],
     "input_events": 154,
-    "output_events": 4555,
-    "active_minutes": 3090,
-    "active_slice_count": 618
+    "output_events": 4585,
+    "active_minutes": 3120,
+    "active_slice_count": 624
   },
   {
     "name": "project-iframe",
