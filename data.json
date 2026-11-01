@@ -23587,7 +23587,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 9.0,
+        "duration_minutes": 78.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23595,10 +23595,14 @@
         "active_bucket_keys": [
           "2026-11-01T22:35",
           "2026-11-01T22:40",
-          "2026-11-01T22:45"
+          "2026-11-01T22:45",
+          "2026-11-01T23:05",
+          "2026-11-01T23:35",
+          "2026-11-01T23:50",
+          "2026-11-01T23:55"
         ],
         "input_events": 0,
-        "output_events": 15
+        "output_events": 21
       },
       {
         "day": "2026-11-01",
@@ -23663,7 +23667,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 67.2,
+        "duration_minutes": 73.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -23679,10 +23683,11 @@
           "2026-11-01T22:45",
           "2026-11-01T22:50",
           "2026-11-01T22:55",
-          "2026-11-01T23:00"
+          "2026-11-01T23:00",
+          "2026-11-01T23:05"
         ],
         "input_events": 0,
-        "output_events": 161
+        "output_events": 171
       },
       {
         "day": "2026-11-01",
@@ -23803,17 +23808,20 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.9,
+        "duration_minutes": 80.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-01T22:35",
-          "2026-11-01T22:40"
+          "2026-11-01T22:40",
+          "2026-11-01T23:00",
+          "2026-11-01T23:35",
+          "2026-11-01T23:55"
         ],
         "input_events": 0,
-        "output_events": 11
+        "output_events": 21
       },
       {
         "day": "2026-11-01",
@@ -23847,6 +23855,24 @@
         "additions": 2,
         "deletions": 1,
         "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-01",
+        "kind": "git",
+        "title": "test(工作台): 按 related 门禁实测放宽两处重负载用例超时",
+        "summary": "提交 f9a7e09c：test(工作台): 按 related 门禁实测放宽两处重负载用例超时",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 3,
+        "deletions": 2,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -61596,11 +61622,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 83483.3,
+    "duration_minutes": 83634.9,
     "tokens": 1974777274,
-    "additions": 1086773,
-    "deletions": 346900,
-    "files_changed": 19021,
+    "additions": 1086776,
+    "deletions": 346902,
+    "files_changed": 19023,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -62638,12 +62664,16 @@
       "2026-11-01T22:45",
       "2026-11-01T22:50",
       "2026-11-01T22:55",
-      "2026-11-01T23:00"
+      "2026-11-01T23:00",
+      "2026-11-01T23:05",
+      "2026-11-01T23:35",
+      "2026-11-01T23:50",
+      "2026-11-01T23:55"
     ],
     "input_events": 399,
-    "output_events": 28314,
-    "active_minutes": 5185,
-    "active_slice_count": 1037
+    "output_events": 28340,
+    "active_minutes": 5205,
+    "active_slice_count": 1041
   },
   {
     "name": "tds-compliance",
