@@ -119,7 +119,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 45.8,
+        "duration_minutes": 88.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -133,10 +133,19 @@
           "2026-11-02T18:40",
           "2026-11-02T18:50",
           "2026-11-02T18:55",
-          "2026-11-02T19:00"
+          "2026-11-02T19:00",
+          "2026-11-02T19:05",
+          "2026-11-02T19:10",
+          "2026-11-02T19:15",
+          "2026-11-02T19:20",
+          "2026-11-02T19:25",
+          "2026-11-02T19:30",
+          "2026-11-02T19:35",
+          "2026-11-02T19:40",
+          "2026-11-02T19:45"
         ],
         "input_events": 0,
-        "output_events": 250
+        "output_events": 382
       },
       {
         "day": "2026-11-02",
@@ -227,6 +236,29 @@
         ],
         "input_events": 0,
         "output_events": 175
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 7699d661",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 14.4,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T19:45",
+          "2026-11-02T19:50",
+          "2026-11-02T19:55",
+          "2026-11-02T20:00"
+        ],
+        "input_events": 0,
+        "output_events": 11
       },
       {
         "day": "2026-11-02",
@@ -421,17 +453,20 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3.8,
-        "tokens": 187901,
+        "duration_minutes": 57.9,
+        "tokens": 675786,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-02T18:20",
-          "2026-11-02T18:25"
+          "2026-11-02T18:25",
+          "2026-11-02T19:05",
+          "2026-11-02T19:15",
+          "2026-11-02T19:20"
         ],
         "input_events": 4,
-        "output_events": 4
+        "output_events": 9
       },
       {
         "day": "2026-11-02",
@@ -2799,20 +2834,14 @@
           "检查未提交内容与推送条件",
           "按用户授权推送 dev"
         ],
-        "duration_minutes": 20.4,
-        "tokens": 5336111,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-25T20:35",
-          "2026-10-25T20:40",
-          "2026-10-25T20:45",
-          "2026-10-25T20:50",
-          "2026-10-25T20:55"
-        ],
-        "input_events": 5,
-        "output_events": 21
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-25",
@@ -15078,17 +15107,12 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 9232.7,
-    "tokens": 1287973416,
+    "duration_minutes": 9323.2,
+    "tokens": 1283125190,
     "additions": 18006768,
     "deletions": 14665724,
     "files_changed": 28278,
     "active_bucket_keys": [
-      "2026-10-25T20:35",
-      "2026-10-25T20:40",
-      "2026-10-25T20:45",
-      "2026-10-25T20:50",
-      "2026-10-25T20:55",
       "2026-10-26T15:55",
       "2026-10-26T16:00",
       "2026-10-26T16:05",
@@ -15834,12 +15858,24 @@
       "2026-11-02T18:40",
       "2026-11-02T18:50",
       "2026-11-02T18:55",
-      "2026-11-02T19:00"
+      "2026-11-02T19:00",
+      "2026-11-02T19:05",
+      "2026-11-02T19:10",
+      "2026-11-02T19:15",
+      "2026-11-02T19:20",
+      "2026-11-02T19:25",
+      "2026-11-02T19:30",
+      "2026-11-02T19:35",
+      "2026-11-02T19:40",
+      "2026-11-02T19:45",
+      "2026-11-02T19:50",
+      "2026-11-02T19:55",
+      "2026-11-02T20:00"
     ],
-    "input_events": 195,
-    "output_events": 7252,
-    "active_minutes": 3755,
-    "active_slice_count": 751
+    "input_events": 190,
+    "output_events": 7379,
+    "active_minutes": 3790,
+    "active_slice_count": 758
   },
   {
     "name": "project-iframe",
@@ -35407,18 +35443,14 @@
           "统一多行输入框自适应高度",
           "仅提交本次调整"
         ],
-        "duration_minutes": 13.3,
-        "tokens": 2021045,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T18:15",
-          "2026-10-26T18:20",
-          "2026-10-26T18:30"
-        ],
-        "input_events": 5,
-        "output_events": 9
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35516,18 +35548,14 @@
           "调整任务工作台页头布局",
           "受控本地提交"
         ],
-        "duration_minutes": 7.9,
-        "tokens": 3853999,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T18:20",
-          "2026-10-26T18:25",
-          "2026-10-26T18:30"
-        ],
-        "input_events": 5,
-        "output_events": 13
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35560,17 +35588,14 @@
         "tasks": [
           "排查本地服务启动异常"
         ],
-        "duration_minutes": 3.4,
-        "tokens": 2168090,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T14:50",
-          "2026-10-26T14:55"
-        ],
-        "input_events": 3,
-        "output_events": 8
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35661,20 +35686,14 @@
         "tasks": [
           "旧字段引用、运行时和存储迁移"
         ],
-        "duration_minutes": 20.0,
-        "tokens": 11738347,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T14:40",
-          "2026-10-26T14:45",
-          "2026-10-26T14:50",
-          "2026-10-26T14:55",
-          "2026-10-26T15:00"
-        ],
-        "input_events": 6,
-        "output_events": 21
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35687,16 +35706,14 @@
         "tasks": [
           "核查委托方从创建表单到内容字段的链路"
         ],
-        "duration_minutes": 2.6,
-        "tokens": 1587390,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T14:05"
-        ],
-        "input_events": 3,
-        "output_events": 4
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35740,30 +35757,14 @@
           "数字标签落地页边界与素材交接",
           "自动化验证与交付状态"
         ],
-        "duration_minutes": 82.6,
-        "tokens": 56489152,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T16:50",
-          "2026-10-26T16:55",
-          "2026-10-26T17:00",
-          "2026-10-26T17:05",
-          "2026-10-26T17:10",
-          "2026-10-26T17:15",
-          "2026-10-26T17:20",
-          "2026-10-26T17:25",
-          "2026-10-26T17:30",
-          "2026-10-26T17:35",
-          "2026-10-26T17:45",
-          "2026-10-26T17:50",
-          "2026-10-26T18:00",
-          "2026-10-26T18:05",
-          "2026-10-26T18:15"
-        ],
-        "input_events": 10,
-        "output_events": 29
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35814,42 +35815,14 @@
           "审查并分批提交本地改动",
           "检查远端、合并分叉并准备推送"
         ],
-        "duration_minutes": 123.8,
-        "tokens": 61460517,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T13:15",
-          "2026-10-26T13:20",
-          "2026-10-26T13:25",
-          "2026-10-26T13:30",
-          "2026-10-26T13:35",
-          "2026-10-26T13:40",
-          "2026-10-26T13:45",
-          "2026-10-26T13:50",
-          "2026-10-26T13:55",
-          "2026-10-26T14:00",
-          "2026-10-26T14:10",
-          "2026-10-26T14:15",
-          "2026-10-26T14:20",
-          "2026-10-26T14:25",
-          "2026-10-26T14:30",
-          "2026-10-26T14:35",
-          "2026-10-26T14:40",
-          "2026-10-26T15:00",
-          "2026-10-26T15:05",
-          "2026-10-26T15:10",
-          "2026-10-26T15:15",
-          "2026-10-26T15:20",
-          "2026-10-26T15:25",
-          "2026-10-26T15:30",
-          "2026-10-26T15:35",
-          "2026-10-26T15:40",
-          "2026-10-26T15:45"
-        ],
-        "input_events": 11,
-        "output_events": 57
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35862,22 +35835,14 @@
         "tasks": [
           "统一任务创建物料占用规则"
         ],
-        "duration_minutes": 46.6,
-        "tokens": 27531886,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T18:15",
-          "2026-10-26T18:20",
-          "2026-10-26T18:25",
-          "2026-10-26T18:30",
-          "2026-10-26T18:35",
-          "2026-10-26T18:55",
-          "2026-10-26T19:00"
-        ],
-        "input_events": 6,
-        "output_events": 21
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35890,18 +35855,14 @@
         "tasks": [
           "定位配方版本编码校验误报"
         ],
-        "duration_minutes": 9.1,
-        "tokens": 3694485,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T16:25",
-          "2026-10-26T16:30",
-          "2026-10-26T16:35"
-        ],
-        "input_events": 5,
-        "output_events": 15
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -35915,16 +35876,14 @@
           "定位并修复本地 API 不可用",
           "恢复 worker 并验证页面"
         ],
-        "duration_minutes": 1.9,
-        "tokens": 1911341,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T18:10"
-        ],
-        "input_events": 3,
-        "output_events": 7
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -36008,25 +35967,14 @@
           "SVG 上传/替换入口和状态文案",
           "按用户授权隔离并提交本地改动"
         ],
-        "duration_minutes": 57.3,
-        "tokens": 28157176,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T17:10",
-          "2026-10-26T17:20",
-          "2026-10-26T17:25",
-          "2026-10-26T17:30",
-          "2026-10-26T17:40",
-          "2026-10-26T17:45",
-          "2026-10-26T17:50",
-          "2026-10-26T17:55",
-          "2026-10-26T18:00",
-          "2026-10-26T18:05"
-        ],
-        "input_events": 8,
-        "output_events": 28
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -62240,8 +62188,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 83683.4,
-    "tokens": 1870571620,
+    "duration_minutes": 83314.9,
+    "tokens": 1669958192,
     "additions": 1110245,
     "deletions": 349074,
     "files_changed": 19540,
@@ -62268,27 +62216,6 @@
       "2026-10-25T14:35",
       "2026-10-25T14:45",
       "2026-10-25T14:50",
-      "2026-10-26T13:15",
-      "2026-10-26T13:20",
-      "2026-10-26T13:25",
-      "2026-10-26T13:30",
-      "2026-10-26T13:35",
-      "2026-10-26T13:40",
-      "2026-10-26T13:45",
-      "2026-10-26T13:50",
-      "2026-10-26T13:55",
-      "2026-10-26T14:00",
-      "2026-10-26T14:05",
-      "2026-10-26T14:10",
-      "2026-10-26T14:15",
-      "2026-10-26T14:20",
-      "2026-10-26T14:25",
-      "2026-10-26T14:30",
-      "2026-10-26T14:35",
-      "2026-10-26T14:40",
-      "2026-10-26T14:45",
-      "2026-10-26T14:50",
-      "2026-10-26T14:55",
       "2026-10-26T15:00",
       "2026-10-26T15:05",
       "2026-10-26T15:10",
@@ -62297,37 +62224,11 @@
       "2026-10-26T15:25",
       "2026-10-26T15:30",
       "2026-10-26T15:35",
-      "2026-10-26T15:40",
-      "2026-10-26T15:45",
-      "2026-10-26T16:25",
-      "2026-10-26T16:30",
-      "2026-10-26T16:35",
-      "2026-10-26T16:50",
-      "2026-10-26T16:55",
-      "2026-10-26T17:00",
-      "2026-10-26T17:05",
-      "2026-10-26T17:10",
-      "2026-10-26T17:15",
-      "2026-10-26T17:20",
-      "2026-10-26T17:25",
-      "2026-10-26T17:30",
-      "2026-10-26T17:35",
-      "2026-10-26T17:40",
-      "2026-10-26T17:45",
-      "2026-10-26T17:50",
-      "2026-10-26T17:55",
-      "2026-10-26T18:00",
-      "2026-10-26T18:05",
-      "2026-10-26T18:10",
-      "2026-10-26T18:15",
-      "2026-10-26T18:20",
       "2026-10-26T18:25",
       "2026-10-26T18:30",
       "2026-10-26T18:35",
       "2026-10-26T18:40",
       "2026-10-26T18:45",
-      "2026-10-26T18:55",
-      "2026-10-26T19:00",
       "2026-10-26T19:10",
       "2026-10-26T19:15",
       "2026-10-26T19:20",
@@ -63271,10 +63172,10 @@
       "2026-11-02T18:40",
       "2026-11-02T18:45"
     ],
-    "input_events": 387,
-    "output_events": 28226,
-    "active_minutes": 5120,
-    "active_slice_count": 1024
+    "input_events": 322,
+    "output_events": 28014,
+    "active_minutes": 4885,
+    "active_slice_count": 977
   },
   {
     "name": "tds-compliance",
