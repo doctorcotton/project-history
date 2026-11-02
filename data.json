@@ -267,7 +267,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 191.5,
+        "duration_minutes": 228.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -302,10 +302,14 @@
           "2026-11-02T22:40",
           "2026-11-02T22:45",
           "2026-11-02T22:50",
-          "2026-11-02T22:55"
+          "2026-11-02T22:55",
+          "2026-11-02T23:00",
+          "2026-11-02T23:25",
+          "2026-11-02T23:30",
+          "2026-11-02T23:35"
         ],
         "input_events": 0,
-        "output_events": 310
+        "output_events": 324
       },
       {
         "day": "2026-11-02",
@@ -729,6 +733,42 @@
       {
         "day": "2026-11-02",
         "kind": "git",
+        "title": "feat(诊断): 检索轨迹与召回池账本落盘，解释工具层投影损耗",
+        "summary": "提交 70b6c9f3：feat(诊断): 检索轨迹与召回池账本落盘，解释工具层投影损耗",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1268,
+        "deletions": 11,
+        "files_changed": 14,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "git",
+        "title": "feat(观测): QA 证据服务补齐时延/并发/池/身份指标",
+        "summary": "提交 4a486aea：feat(观测): QA 证据服务补齐时延/并发/池/身份指标",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 542,
+        "deletions": 52,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "git",
         "title": "feat(法规查询): 新增受控 parity 基准",
         "summary": "提交 028a2ea3：feat(法规查询): 新增受控 parity 基准",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -812,6 +852,24 @@
         "additions": 1613,
         "deletions": 235,
         "files_changed": 20,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "git",
+        "title": "docs(验收): 记录五案验收结果与两项待决口径",
+        "summary": "提交 db440d09：docs(验收): 记录五案验收结果与两项待决口径",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 79,
+        "deletions": 0,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -15478,11 +15536,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 9700.0,
+    "duration_minutes": 9737.4,
     "tokens": 1298466984,
-    "additions": 18017311,
-    "deletions": 14667573,
-    "files_changed": 28435,
+    "additions": 18019200,
+    "deletions": 14667636,
+    "files_changed": 28452,
     "active_bucket_keys": [
       "2026-10-26T15:55",
       "2026-10-26T16:00",
@@ -16270,12 +16328,16 @@
       "2026-11-02T22:40",
       "2026-11-02T22:45",
       "2026-11-02T22:50",
-      "2026-11-02T22:55"
+      "2026-11-02T22:55",
+      "2026-11-02T23:00",
+      "2026-11-02T23:25",
+      "2026-11-02T23:30",
+      "2026-11-02T23:35"
     ],
     "input_events": 200,
-    "output_events": 7802,
-    "active_minutes": 3935,
-    "active_slice_count": 787
+    "output_events": 7816,
+    "active_minutes": 3955,
+    "active_slice_count": 791
   },
   {
     "name": "project-iframe",
