@@ -7,6 +7,51 @@
       {
         "day": "2026-11-02",
         "kind": "session",
+        "title": "本机 ZCode 会话 · c0cf8955",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 22.5,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:45",
+          "2026-11-02T09:55",
+          "2026-11-02T10:00",
+          "2026-11-02T10:05",
+          "2026-11-02T10:10"
+        ],
+        "input_events": 0,
+        "output_events": 94
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · b644cd08",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/02/rollout-2026-11-02T09-35-12-01a199e5-6d9e-7f52-8c02-380cb644cd08.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 13.7,
+        "tokens": 4002292,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:35",
+          "2026-11-02T09:45"
+        ],
+        "input_events": 6,
+        "output_events": 8
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · 8e60867b",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/11/02/rollout-2026-11-02T06-18-09-01a19931-0563-7ad1-9821-7aba8e60867b.jsonl",
@@ -76,8 +121,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 24.7,
-        "tokens": 39093329,
+        "duration_minutes": 100.1,
+        "tokens": 87058433,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -86,10 +131,16 @@
           "2026-11-02T08:15",
           "2026-11-02T08:20",
           "2026-11-02T08:30",
-          "2026-11-02T08:35"
+          "2026-11-02T08:35",
+          "2026-11-02T09:15",
+          "2026-11-02T09:30",
+          "2026-11-02T09:35",
+          "2026-11-02T09:40",
+          "2026-11-02T09:45",
+          "2026-11-02T09:50"
         ],
-        "input_events": 5,
-        "output_events": 11
+        "input_events": 7,
+        "output_events": 26
       },
       {
         "day": "2026-11-02",
@@ -14705,8 +14756,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 8207.4,
-    "tokens": 1217482463,
+    "duration_minutes": 8319.0,
+    "tokens": 1269449859,
     "additions": 18006768,
     "deletions": 14665724,
     "files_changed": 28278,
@@ -15359,12 +15410,22 @@
       "2026-11-02T08:15",
       "2026-11-02T08:20",
       "2026-11-02T08:30",
-      "2026-11-02T08:35"
+      "2026-11-02T08:35",
+      "2026-11-02T09:15",
+      "2026-11-02T09:30",
+      "2026-11-02T09:35",
+      "2026-11-02T09:40",
+      "2026-11-02T09:45",
+      "2026-11-02T09:50",
+      "2026-11-02T09:55",
+      "2026-11-02T10:00",
+      "2026-11-02T10:05",
+      "2026-11-02T10:10"
     ],
-    "input_events": 175,
-    "output_events": 5454,
-    "active_minutes": 3245,
-    "active_slice_count": 649
+    "input_events": 183,
+    "output_events": 5571,
+    "active_minutes": 3295,
+    "active_slice_count": 659
   },
   {
     "name": "project-iframe",
@@ -23648,6 +23709,31 @@
       {
         "day": "2026-11-02",
         "kind": "session",
+        "title": "本机 ZCode 会话 · fc65ce58",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 24.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:45",
+          "2026-11-02T09:50",
+          "2026-11-02T09:55",
+          "2026-11-02T10:00",
+          "2026-11-02T10:05",
+          "2026-11-02T10:10"
+        ],
+        "input_events": 0,
+        "output_events": 149
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
         "title": "本机 ZCode 会话 · a68a2705",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -23669,22 +23755,44 @@
       {
         "day": "2026-11-02",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 8d063d7d",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 7.2,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:55",
+          "2026-11-02T10:00"
+        ],
+        "input_events": 0,
+        "output_events": 45
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 539db754",
         "summary": "每天运行每日开发日志发布:执行 /Users/cottondog/Work-projects/2026任务项目TODO管理/scripts/publish_project_history.sh,把每日开发日历静态站发布到 GitHub Pages(https://doctorcotton.github.io/proj…",
         "source": "/Users/cottondog/.zcode/cli/rollout/model-io-sess_bdab9324-2815-4c5c-9488-3819539db754.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.9,
+        "duration_minutes": 6.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-02T09:00"
+          "2026-11-02T09:00",
+          "2026-11-02T09:05"
         ],
-        "input_events": 2,
-        "output_events": 2
+        "input_events": 5,
+        "output_events": 5
       },
       {
         "day": "2026-11-02",
@@ -23695,16 +23803,83 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.9,
+        "duration_minutes": 6.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-02T09:00"
+          "2026-11-02T09:00",
+          "2026-11-02T09:05"
         ],
         "input_events": 0,
-        "output_events": 3
+        "output_events": 5
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 38468ee9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 7.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:20",
+          "2026-11-02T09:25"
+        ],
+        "input_events": 0,
+        "output_events": 12
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 3c3f736c",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/02/rollout-2026-11-02T09-54-27-01a199f7-0cdf-7bc1-b1ca-d7223c3f736c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.2,
+        "tokens": 456137,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:50",
+          "2026-11-02T09:55"
+        ],
+        "input_events": 5,
+        "output_events": 4
+      },
+      {
+        "day": "2026-11-02",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 06b2ffde",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/02/rollout-2026-11-02T09-39-17-01a199e9-2c14-7151-8451-ffd206b2ffde.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 18.6,
+        "tokens": 4522330,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-02T09:35",
+          "2026-11-02T09:40",
+          "2026-11-02T09:45",
+          "2026-11-02T09:50",
+          "2026-11-02T09:55"
+        ],
+        "input_events": 10,
+        "output_events": 21
       },
       {
         "day": "2026-11-01",
@@ -60559,8 +60734,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 82131.1,
-    "tokens": 1892692714,
+    "duration_minutes": 82197.1,
+    "tokens": 1897671181,
     "additions": 1086776,
     "deletions": 346902,
     "files_changed": 19023,
@@ -61501,12 +61676,23 @@
       "2026-11-01T23:55",
       "2026-11-02T06:20",
       "2026-11-02T06:25",
-      "2026-11-02T09:00"
+      "2026-11-02T09:00",
+      "2026-11-02T09:05",
+      "2026-11-02T09:20",
+      "2026-11-02T09:25",
+      "2026-11-02T09:35",
+      "2026-11-02T09:40",
+      "2026-11-02T09:45",
+      "2026-11-02T09:50",
+      "2026-11-02T09:55",
+      "2026-11-02T10:00",
+      "2026-11-02T10:05",
+      "2026-11-02T10:10"
     ],
-    "input_events": 377,
-    "output_events": 25019,
-    "active_minutes": 4685,
-    "active_slice_count": 937
+    "input_events": 395,
+    "output_events": 25255,
+    "active_minutes": 4740,
+    "active_slice_count": 948
   },
   {
     "name": "tds-compliance",
