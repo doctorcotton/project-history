@@ -128,16 +128,20 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4.0,
+        "duration_minutes": 94.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-03T22:20"
+          "2026-11-03T22:20",
+          "2026-11-03T23:40",
+          "2026-11-03T23:45",
+          "2026-11-03T23:50",
+          "2026-11-03T23:55"
         ],
         "input_events": 0,
-        "output_events": 6
+        "output_events": 15
       },
       {
         "day": "2026-11-03",
@@ -15656,7 +15660,7 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 10548.7,
+    "duration_minutes": 10639.5,
     "tokens": 1147066723,
     "additions": 18019470,
     "deletions": 14667637,
@@ -16457,12 +16461,16 @@
       "2026-11-03T22:35",
       "2026-11-03T22:40",
       "2026-11-03T22:45",
-      "2026-11-03T22:50"
+      "2026-11-03T22:50",
+      "2026-11-03T23:40",
+      "2026-11-03T23:45",
+      "2026-11-03T23:50",
+      "2026-11-03T23:55"
     ],
     "input_events": 198,
-    "output_events": 8758,
-    "active_minutes": 3980,
-    "active_slice_count": 796
+    "output_events": 8767,
+    "active_minutes": 4000,
+    "active_slice_count": 800
   },
   {
     "name": "project-iframe",
