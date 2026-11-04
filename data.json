@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 106.0,
+        "duration_minutes": 132.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -34,10 +34,15 @@
           "2026-11-04T22:45",
           "2026-11-04T22:50",
           "2026-11-04T22:55",
-          "2026-11-04T23:00"
+          "2026-11-04T23:00",
+          "2026-11-04T23:05",
+          "2026-11-04T23:10",
+          "2026-11-04T23:20",
+          "2026-11-04T23:25",
+          "2026-11-04T23:30"
         ],
         "input_events": 0,
-        "output_events": 147
+        "output_events": 191
       },
       {
         "day": "2026-11-04",
@@ -745,6 +750,24 @@
         "additions": 326,
         "deletions": 74,
         "files_changed": 20,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "git",
+        "title": "fix(合同): adaptive 零读取回执门与显式引用适用性剥除降级",
+        "summary": "提交 d2963b3f：fix(合同): adaptive 零读取回执门与显式引用适用性剥除降级",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 622,
+        "deletions": 23,
+        "files_changed": 9,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -16385,11 +16408,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12359.0,
+    "duration_minutes": 12385.5,
     "tokens": 1458969152,
-    "additions": 18031248,
-    "deletions": 14675728,
-    "files_changed": 28669,
+    "additions": 18031870,
+    "deletions": 14675751,
+    "files_changed": 28678,
     "active_bucket_keys": [
       "2026-10-29T08:00",
       "2026-10-29T10:15",
@@ -17325,12 +17348,17 @@
       "2026-11-04T22:45",
       "2026-11-04T22:50",
       "2026-11-04T22:55",
-      "2026-11-04T23:00"
+      "2026-11-04T23:00",
+      "2026-11-04T23:05",
+      "2026-11-04T23:10",
+      "2026-11-04T23:20",
+      "2026-11-04T23:25",
+      "2026-11-04T23:30"
     ],
     "input_events": 271,
-    "output_events": 10573,
-    "active_minutes": 4675,
-    "active_slice_count": 935
+    "output_events": 10617,
+    "active_minutes": 4700,
+    "active_slice_count": 940
   },
   {
     "name": "project-iframe",
