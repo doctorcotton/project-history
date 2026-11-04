@@ -81,7 +81,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 142.2,
+        "duration_minutes": 163.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -112,10 +112,14 @@
           "2026-11-04T14:45",
           "2026-11-04T14:50",
           "2026-11-04T14:55",
-          "2026-11-04T15:00"
+          "2026-11-04T15:00",
+          "2026-11-04T15:05",
+          "2026-11-04T15:10",
+          "2026-11-04T15:15",
+          "2026-11-04T15:20"
         ],
         "input_events": 0,
-        "output_events": 265
+        "output_events": 308
       },
       {
         "day": "2026-11-04",
@@ -257,6 +261,30 @@
       {
         "day": "2026-11-04",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 03d41ef7",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 29.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-04T15:20",
+          "2026-11-04T15:25",
+          "2026-11-04T15:35",
+          "2026-11-04T15:45",
+          "2026-11-04T15:50"
+        ],
+        "input_events": 0,
+        "output_events": 26
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · cfff8507",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/11/04/rollout-2026-11-04T10-28-27-01a1a462-e641-71b1-82e0-4616cfff8507.jsonl",
@@ -273,6 +301,28 @@
         ],
         "input_events": 3,
         "output_events": 3
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · b42b47b7",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/04/rollout-2026-11-04T15-19-41-01a1a56d-86e9-7a70-a60c-236eb42b47b7.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 19.5,
+        "tokens": 170207,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-04T15:15",
+          "2026-11-04T15:20",
+          "2026-11-04T15:35"
+        ],
+        "input_events": 4,
+        "output_events": 7
       },
       {
         "day": "2026-11-04",
@@ -452,6 +502,24 @@
         "additions": 326,
         "deletions": 74,
         "files_changed": 20,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "git",
+        "title": "feat(运行时): 宿主词表候选作为阶段 A 中性线索透出",
+        "summary": "提交 2b596473：feat(运行时): 宿主词表候选作为阶段 A 中性线索透出",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 86,
+        "deletions": 1,
+        "files_changed": 3,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -16074,11 +16142,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 11836.4,
-    "tokens": 1157741230,
-    "additions": 18028039,
-    "deletions": 14668900,
-    "files_changed": 28623,
+    "duration_minutes": 11906.9,
+    "tokens": 1157911437,
+    "additions": 18028125,
+    "deletions": 14668901,
+    "files_changed": 28626,
     "active_bucket_keys": [
       "2026-10-29T08:00",
       "2026-10-29T10:15",
@@ -16943,12 +17011,20 @@
       "2026-11-04T14:45",
       "2026-11-04T14:50",
       "2026-11-04T14:55",
-      "2026-11-04T15:00"
+      "2026-11-04T15:00",
+      "2026-11-04T15:05",
+      "2026-11-04T15:10",
+      "2026-11-04T15:15",
+      "2026-11-04T15:20",
+      "2026-11-04T15:25",
+      "2026-11-04T15:35",
+      "2026-11-04T15:45",
+      "2026-11-04T15:50"
     ],
-    "input_events": 224,
-    "output_events": 9909,
-    "active_minutes": 4320,
-    "active_slice_count": 864
+    "input_events": 228,
+    "output_events": 9985,
+    "active_minutes": 4360,
+    "active_slice_count": 872
   },
   {
     "name": "project-iframe",
@@ -24030,26 +24106,14 @@
           "原料与成品标准清洗工作量统计",
           "合并 QMS 二期过程文档中的标准制定模块成果"
         ],
-        "duration_minutes": 18545.7,
-        "tokens": 14327592,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-15T14:55",
-          "2026-10-15T15:00",
-          "2026-10-15T15:05",
-          "2026-10-15T15:10",
-          "2026-10-15T15:15",
-          "2026-10-15T15:20",
-          "2026-10-28T11:30",
-          "2026-10-28T11:35",
-          "2026-10-28T11:55",
-          "2026-10-28T12:00",
-          "2026-10-28T12:05"
-        ],
-        "input_events": 15,
-        "output_events": 42
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-09",
@@ -25159,28 +25223,16 @@
       },
       "evidence_note": "准备产物、API 结果和本地测试不能互相替代；当前档案严格区分准备、接受、回读、UAT 和生产状态。"
     },
-    "duration_minutes": 18545.7,
-    "tokens": 14327592,
+    "duration_minutes": 0.0,
+    "tokens": 0,
     "additions": 128306,
     "deletions": 6110,
     "files_changed": 1266,
-    "active_bucket_keys": [
-      "2026-10-15T14:55",
-      "2026-10-15T15:00",
-      "2026-10-15T15:05",
-      "2026-10-15T15:10",
-      "2026-10-15T15:15",
-      "2026-10-15T15:20",
-      "2026-10-28T11:30",
-      "2026-10-28T11:35",
-      "2026-10-28T11:55",
-      "2026-10-28T12:00",
-      "2026-10-28T12:05"
-    ],
-    "input_events": 15,
-    "output_events": 42,
-    "active_minutes": 55,
-    "active_slice_count": 11
+    "active_bucket_keys": [],
+    "input_events": 0,
+    "output_events": 0,
+    "active_minutes": 0,
+    "active_slice_count": 0
   },
   {
     "name": "tds-studio",
@@ -25421,6 +25473,76 @@
         ],
         "input_events": 0,
         "output_events": 12
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 4222cac9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 22.6,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-04T15:40",
+          "2026-11-04T15:45",
+          "2026-11-04T15:50",
+          "2026-11-04T15:55",
+          "2026-11-04T16:00"
+        ],
+        "input_events": 0,
+        "output_events": 95
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 3464b104",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 7.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-04T15:50",
+          "2026-11-04T15:55"
+        ],
+        "input_events": 0,
+        "output_events": 65
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 12d1a1b9",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 25.7,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-04T15:10",
+          "2026-11-04T15:15",
+          "2026-11-04T15:20",
+          "2026-11-04T15:25",
+          "2026-11-04T15:30",
+          "2026-11-04T15:35"
+        ],
+        "input_events": 0,
+        "output_events": 110
       },
       {
         "day": "2026-11-04",
@@ -36943,21 +37065,14 @@
           "清理 UAT 假任务及关联数据",
           "旧模型退役结论与收尾"
         ],
-        "duration_minutes": 24.0,
-        "tokens": 6593170,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-10-26T21:40",
-          "2026-10-26T21:45",
-          "2026-10-26T21:50",
-          "2026-10-26T21:55",
-          "2026-10-26T22:00",
-          "2026-10-26T22:05"
-        ],
-        "input_events": 5,
-        "output_events": 18
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-10-26",
@@ -63133,8 +63248,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 20901.7,
-    "tokens": 1356758760,
+    "duration_minutes": 20933.7,
+    "tokens": 1350165590,
     "additions": 1128365,
     "deletions": 351402,
     "files_changed": 20145,
@@ -63148,9 +63263,6 @@
       "2026-10-26T21:40",
       "2026-10-26T21:45",
       "2026-10-26T21:50",
-      "2026-10-26T21:55",
-      "2026-10-26T22:00",
-      "2026-10-26T22:05",
       "2026-10-28T14:35",
       "2026-10-28T14:40",
       "2026-10-28T14:45",
@@ -63984,12 +64096,23 @@
       "2026-11-04T14:45",
       "2026-11-04T14:50",
       "2026-11-04T14:55",
-      "2026-11-04T15:00"
+      "2026-11-04T15:00",
+      "2026-11-04T15:10",
+      "2026-11-04T15:15",
+      "2026-11-04T15:20",
+      "2026-11-04T15:25",
+      "2026-11-04T15:30",
+      "2026-11-04T15:35",
+      "2026-11-04T15:40",
+      "2026-11-04T15:45",
+      "2026-11-04T15:50",
+      "2026-11-04T15:55",
+      "2026-11-04T16:00"
     ],
-    "input_events": 302,
-    "output_events": 24212,
-    "active_minutes": 4230,
-    "active_slice_count": 846
+    "input_events": 297,
+    "output_events": 24464,
+    "active_minutes": 4270,
+    "active_slice_count": 854
   },
   {
     "name": "tds-compliance",
