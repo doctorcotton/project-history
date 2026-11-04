@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 42.6,
+        "duration_minutes": 106.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -24,10 +24,20 @@
           "2026-11-04T21:25",
           "2026-11-04T21:45",
           "2026-11-04T21:55",
-          "2026-11-04T22:00"
+          "2026-11-04T22:00",
+          "2026-11-04T22:15",
+          "2026-11-04T22:20",
+          "2026-11-04T22:25",
+          "2026-11-04T22:30",
+          "2026-11-04T22:35",
+          "2026-11-04T22:40",
+          "2026-11-04T22:45",
+          "2026-11-04T22:50",
+          "2026-11-04T22:55",
+          "2026-11-04T23:00"
         ],
         "input_events": 0,
-        "output_events": 12
+        "output_events": 147
       },
       {
         "day": "2026-11-04",
@@ -540,6 +550,42 @@
         ],
         "input_events": 4,
         "output_events": 13
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "git",
+        "title": "refactor(运行时): adaptive v2 单 Agent 自主工具循环与提交账本收口",
+        "summary": "提交 937f5779：refactor(运行时): adaptive v2 单 Agent 自主工具循环与提交账本收口",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 2548,
+        "deletions": 6765,
+        "files_changed": 33,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-04",
+        "kind": "git",
+        "title": "fix(运行时): 工具失败处置表单源化与单次缺证降级接线",
+        "summary": "提交 c68f6491：fix(运行时): 工具失败处置表单源化与单次缺证降级接线",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 575,
+        "deletions": 62,
+        "files_changed": 10,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-04",
@@ -16339,11 +16385,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12295.6,
+    "duration_minutes": 12359.0,
     "tokens": 1458969152,
-    "additions": 18028125,
-    "deletions": 14668901,
-    "files_changed": 28626,
+    "additions": 18031248,
+    "deletions": 14675728,
+    "files_changed": 28669,
     "active_bucket_keys": [
       "2026-10-29T08:00",
       "2026-10-29T10:15",
@@ -17269,12 +17315,22 @@
       "2026-11-04T21:25",
       "2026-11-04T21:45",
       "2026-11-04T21:55",
-      "2026-11-04T22:00"
+      "2026-11-04T22:00",
+      "2026-11-04T22:15",
+      "2026-11-04T22:20",
+      "2026-11-04T22:25",
+      "2026-11-04T22:30",
+      "2026-11-04T22:35",
+      "2026-11-04T22:40",
+      "2026-11-04T22:45",
+      "2026-11-04T22:50",
+      "2026-11-04T22:55",
+      "2026-11-04T23:00"
     ],
     "input_events": 271,
-    "output_events": 10438,
-    "active_minutes": 4625,
-    "active_slice_count": 925
+    "output_events": 10573,
+    "active_minutes": 4675,
+    "active_slice_count": 935
   },
   {
     "name": "project-iframe",
