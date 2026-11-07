@@ -51,6 +51,28 @@
       {
         "day": "2026-11-07",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 3c903fab",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 16.9,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-07T19:10",
+          "2026-11-07T19:15",
+          "2026-11-07T19:25"
+        ],
+        "input_events": 0,
+        "output_events": 31
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 34640d18",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -414,8 +436,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 323.5,
-        "tokens": 101222256,
+        "duration_minutes": 399.4,
+        "tokens": 122276750,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -460,10 +482,16 @@
           "2026-11-07T17:55",
           "2026-11-07T18:25",
           "2026-11-07T18:30",
-          "2026-11-07T18:35"
+          "2026-11-07T18:35",
+          "2026-11-07T19:05",
+          "2026-11-07T19:10",
+          "2026-11-07T19:20",
+          "2026-11-07T19:30",
+          "2026-11-07T19:40",
+          "2026-11-07T19:50"
         ],
-        "input_events": 34,
-        "output_events": 70
+        "input_events": 36,
+        "output_events": 80
       },
       {
         "day": "2026-11-07",
@@ -17595,8 +17623,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12211.4,
-    "tokens": 1607124348,
+    "duration_minutes": 12304.2,
+    "tokens": 1628178842,
     "additions": 18034719,
     "deletions": 14677162,
     "files_changed": 28839,
@@ -18552,12 +18580,20 @@
       "2026-11-07T17:55",
       "2026-11-07T18:25",
       "2026-11-07T18:30",
-      "2026-11-07T18:35"
+      "2026-11-07T18:35",
+      "2026-11-07T19:05",
+      "2026-11-07T19:10",
+      "2026-11-07T19:15",
+      "2026-11-07T19:20",
+      "2026-11-07T19:25",
+      "2026-11-07T19:30",
+      "2026-11-07T19:40",
+      "2026-11-07T19:50"
     ],
-    "input_events": 484,
-    "output_events": 11371,
-    "active_minutes": 4760,
-    "active_slice_count": 952
+    "input_events": 486,
+    "output_events": 11412,
+    "active_minutes": 4800,
+    "active_slice_count": 960
   },
   {
     "name": "project-iframe",
@@ -27098,7 +27134,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 9.9,
+        "duration_minutes": 95.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -27106,10 +27142,14 @@
         "active_bucket_keys": [
           "2026-11-07T18:05",
           "2026-11-07T18:10",
-          "2026-11-07T18:15"
+          "2026-11-07T18:15",
+          "2026-11-07T19:10",
+          "2026-11-07T19:30",
+          "2026-11-07T19:35",
+          "2026-11-07T19:40"
         ],
         "input_events": 0,
-        "output_events": 41
+        "output_events": 88
       },
       {
         "day": "2026-11-07",
@@ -27396,6 +27436,24 @@
       {
         "day": "2026-11-07",
         "kind": "git",
+        "title": "fix(门禁): 模型收敛豁免 bootstrap 基线，事实源锚点对齐真实消费点",
+        "summary": "提交 b95136d6：fix(门禁): 模型收敛豁免 bootstrap 基线，事实源锚点对齐真实消费点",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 1,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "git",
         "title": "fix(记录锁): 字段职责不相交改为共享授权，不再抢占他人租约行",
         "summary": "提交 ad82b7b8：fix(记录锁): 字段职责不相交改为共享授权，不再抢占他人租约行",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -27641,6 +27699,24 @@
         "additions": 921,
         "deletions": 34,
         "files_changed": 33,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "git",
+        "title": "docs: 修正跨仓与过期本地链接",
+        "summary": "提交 4343b95a：docs: 修正跨仓与过期本地链接",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 37,
+        "deletions": 37,
+        "files_changed": 4,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -68592,11 +68668,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87343.8,
+    "duration_minutes": 87429.5,
     "tokens": 633814250,
-    "additions": 1158091,
-    "deletions": 358258,
-    "files_changed": 21424,
+    "additions": 1158135,
+    "deletions": 358296,
+    "files_changed": 21430,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -69488,12 +69564,16 @@
       "2026-11-07T18:00",
       "2026-11-07T18:05",
       "2026-11-07T18:10",
-      "2026-11-07T18:15"
+      "2026-11-07T18:15",
+      "2026-11-07T19:10",
+      "2026-11-07T19:30",
+      "2026-11-07T19:35",
+      "2026-11-07T19:40"
     ],
     "input_events": 323,
-    "output_events": 26939,
-    "active_minutes": 4455,
-    "active_slice_count": 891
+    "output_events": 26986,
+    "active_minutes": 4475,
+    "active_slice_count": 895
   },
   {
     "name": "tds-compliance",
@@ -69976,8 +70056,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 197.3,
-        "tokens": 58557084,
+        "duration_minutes": 287.1,
+        "tokens": 71105475,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -70006,10 +70086,14 @@
           "2026-11-07T18:35",
           "2026-11-07T18:45",
           "2026-11-07T18:50",
-          "2026-11-07T18:55"
+          "2026-11-07T18:55",
+          "2026-11-07T19:05",
+          "2026-11-07T19:35",
+          "2026-11-07T19:45",
+          "2026-11-07T19:55"
         ],
-        "input_events": 18,
-        "output_events": 35
+        "input_events": 19,
+        "output_events": 43
       },
       {
         "day": "2026-09-06",
@@ -74662,8 +74746,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 2129.3,
-    "tokens": 59572620,
+    "duration_minutes": 2219.1,
+    "tokens": 72121011,
     "additions": 173625,
     "deletions": 43194,
     "files_changed": 2443,
@@ -74713,12 +74797,16 @@
       "2026-11-07T18:35",
       "2026-11-07T18:45",
       "2026-11-07T18:50",
-      "2026-11-07T18:55"
+      "2026-11-07T18:55",
+      "2026-11-07T19:05",
+      "2026-11-07T19:35",
+      "2026-11-07T19:45",
+      "2026-11-07T19:55"
     ],
-    "input_events": 35,
-    "output_events": 92,
-    "active_minutes": 230,
-    "active_slice_count": 46
+    "input_events": 36,
+    "output_events": 100,
+    "active_minutes": 250,
+    "active_slice_count": 50
   },
   {
     "name": "track-insight-miniapp",
