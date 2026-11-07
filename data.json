@@ -13,7 +13,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 261.9,
+        "duration_minutes": 294.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -51,10 +51,16 @@
           "2026-11-07T12:45",
           "2026-11-07T12:50",
           "2026-11-07T12:55",
-          "2026-11-07T13:00"
+          "2026-11-07T13:00",
+          "2026-11-07T13:05",
+          "2026-11-07T13:10",
+          "2026-11-07T13:15",
+          "2026-11-07T13:20",
+          "2026-11-07T13:25",
+          "2026-11-07T13:30"
         ],
         "input_events": 0,
-        "output_events": 523
+        "output_events": 595
       },
       {
         "day": "2026-11-07",
@@ -88,18 +94,19 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 17.3,
-        "tokens": 4759759,
+        "duration_minutes": 17.8,
+        "tokens": 4914947,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-07T12:40",
           "2026-11-07T12:50",
-          "2026-11-07T12:55"
+          "2026-11-07T12:55",
+          "2026-11-07T13:00"
         ],
         "input_events": 6,
-        "output_events": 2
+        "output_events": 4
       },
       {
         "day": "2026-11-07",
@@ -133,6 +140,26 @@
         ],
         "input_events": 18,
         "output_events": 26
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · b6a9314c",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/07/rollout-2026-11-07T13-59-22-01a1b497-12db-7393-9489-ac60b6a9314c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 1.6,
+        "tokens": 110499,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-07T13:55"
+        ],
+        "input_events": 4,
+        "output_events": 2
       },
       {
         "day": "2026-11-07",
@@ -306,6 +333,56 @@
         ],
         "input_events": 12,
         "output_events": 33
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 4ad74a39",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/07/rollout-2026-11-07T13-13-08-01a1b46c-c04d-74f0-ab33-39874ad74a39.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 45.1,
+        "tokens": 15335279,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-07T13:10",
+          "2026-11-07T13:15",
+          "2026-11-07T13:20",
+          "2026-11-07T13:30",
+          "2026-11-07T13:35",
+          "2026-11-07T13:40",
+          "2026-11-07T13:45",
+          "2026-11-07T13:50",
+          "2026-11-07T13:55",
+          "2026-11-07T14:00"
+        ],
+        "input_events": 8,
+        "output_events": 23
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 436a6b13",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/07/rollout-2026-11-07T13-58-19-01a1b496-1e52-7be3-9859-672f436a6b13.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.8,
+        "tokens": 160175,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-07T13:55",
+          "2026-11-07T14:00"
+        ],
+        "input_events": 4,
+        "output_events": 3
       },
       {
         "day": "2026-11-07",
@@ -17453,8 +17530,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 11979.6,
-    "tokens": 1584167238,
+    "duration_minutes": 12062.2,
+    "tokens": 1599928379,
     "additions": 18034719,
     "deletions": 14677162,
     "files_changed": 28839,
@@ -18387,12 +18464,24 @@
       "2026-11-07T12:45",
       "2026-11-07T12:50",
       "2026-11-07T12:55",
-      "2026-11-07T13:00"
+      "2026-11-07T13:00",
+      "2026-11-07T13:05",
+      "2026-11-07T13:10",
+      "2026-11-07T13:15",
+      "2026-11-07T13:20",
+      "2026-11-07T13:25",
+      "2026-11-07T13:30",
+      "2026-11-07T13:35",
+      "2026-11-07T13:40",
+      "2026-11-07T13:45",
+      "2026-11-07T13:50",
+      "2026-11-07T13:55",
+      "2026-11-07T14:00"
     ],
-    "input_events": 450,
-    "output_events": 11230,
-    "active_minutes": 4645,
-    "active_slice_count": 929
+    "input_events": 466,
+    "output_events": 11332,
+    "active_minutes": 4705,
+    "active_slice_count": 941
   },
   {
     "name": "project-iframe",
@@ -26616,7 +26705,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 16.1,
+        "duration_minutes": 78.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -26625,10 +26714,22 @@
           "2026-11-07T12:40",
           "2026-11-07T12:45",
           "2026-11-07T12:50",
-          "2026-11-07T12:55"
+          "2026-11-07T12:55",
+          "2026-11-07T13:00",
+          "2026-11-07T13:05",
+          "2026-11-07T13:15",
+          "2026-11-07T13:20",
+          "2026-11-07T13:25",
+          "2026-11-07T13:30",
+          "2026-11-07T13:35",
+          "2026-11-07T13:40",
+          "2026-11-07T13:45",
+          "2026-11-07T13:50",
+          "2026-11-07T13:55",
+          "2026-11-07T14:00"
         ],
         "input_events": 0,
-        "output_events": 48
+        "output_events": 126
       },
       {
         "day": "2026-11-07",
@@ -26671,6 +26772,26 @@
         ],
         "input_events": 0,
         "output_events": 5
+      },
+      {
+        "day": "2026-11-07",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 2085973e",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.9,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-07T13:10"
+        ],
+        "input_events": 0,
+        "output_events": 18
       },
       {
         "day": "2026-11-07",
@@ -67927,7 +68048,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 86659.9,
+    "duration_minutes": 86726.1,
     "tokens": 633814250,
     "additions": 1154923,
     "deletions": 357912,
@@ -68773,12 +68894,25 @@
       "2026-11-07T12:40",
       "2026-11-07T12:45",
       "2026-11-07T12:50",
-      "2026-11-07T12:55"
+      "2026-11-07T12:55",
+      "2026-11-07T13:00",
+      "2026-11-07T13:05",
+      "2026-11-07T13:10",
+      "2026-11-07T13:15",
+      "2026-11-07T13:20",
+      "2026-11-07T13:25",
+      "2026-11-07T13:30",
+      "2026-11-07T13:35",
+      "2026-11-07T13:40",
+      "2026-11-07T13:45",
+      "2026-11-07T13:50",
+      "2026-11-07T13:55",
+      "2026-11-07T14:00"
     ],
     "input_events": 323,
-    "output_events": 25494,
-    "active_minutes": 4205,
-    "active_slice_count": 841
+    "output_events": 25590,
+    "active_minutes": 4270,
+    "active_slice_count": 854
   },
   {
     "name": "tds-compliance",
