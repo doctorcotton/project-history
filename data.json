@@ -7,6 +7,29 @@
       {
         "day": "2026-11-08",
         "kind": "session",
+        "title": "本机 ZCode 会话 · f6f01cc2",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 14.6,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-08T23:00",
+          "2026-11-08T23:05",
+          "2026-11-08T23:10",
+          "2026-11-08T23:15"
+        ],
+        "input_events": 0,
+        "output_events": 39
+      },
+      {
+        "day": "2026-11-08",
+        "kind": "session",
         "title": "本机 ZCode 会话 · e10fb800",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -602,6 +625,24 @@
       {
         "day": "2026-11-08",
         "kind": "git",
+        "title": "fix(运行时): 隔离工具回执去重与失败候选",
+        "summary": "提交 e49f05d4：fix(运行时): 隔离工具回执去重与失败候选",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 137,
+        "deletions": 6,
+        "files_changed": 5,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-08",
+        "kind": "git",
         "title": "fix(评测): 将 known-gap 豁免收紧到关系级",
         "summary": "提交 06f25870：fix(评测): 将 known-gap 豁免收紧到关系级",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -685,6 +726,24 @@
         "additions": 36,
         "deletions": 1,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-08",
+        "kind": "git",
+        "title": "fix(eval): 修正 Gold 评分与诊断边界",
+        "summary": "提交 d334f369：fix(eval): 修正 Gold 评分与诊断边界",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 259,
+        "deletions": 17,
+        "files_changed": 7,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -1313,8 +1372,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2000.2,
-        "tokens": 832396901,
+        "duration_minutes": 2084.1,
+        "tokens": 859446992,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1609,10 +1668,20 @@
           "2026-11-08T22:45",
           "2026-11-08T22:50",
           "2026-11-08T22:55",
-          "2026-11-08T23:00"
+          "2026-11-08T23:00",
+          "2026-11-08T23:05",
+          "2026-11-08T23:10",
+          "2026-11-08T23:20",
+          "2026-11-08T23:25",
+          "2026-11-08T23:30",
+          "2026-11-08T23:40",
+          "2026-11-08T23:45",
+          "2026-11-08T23:50",
+          "2026-11-08T23:55",
+          "2026-11-09T00:00"
         ],
-        "input_events": 215,
-        "output_events": 563
+        "input_events": 227,
+        "output_events": 579
       },
       {
         "day": "2026-11-07",
@@ -18267,11 +18336,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13914.0,
-    "tokens": 2425738103,
-    "additions": 18049437,
-    "deletions": 14678548,
-    "files_changed": 29029,
+    "duration_minutes": 14012.5,
+    "tokens": 2452788194,
+    "additions": 18049833,
+    "deletions": 14678571,
+    "files_changed": 29041,
     "active_bucket_keys": [
       "2026-11-01T18:15",
       "2026-11-01T18:35",
@@ -19415,12 +19484,23 @@
       "2026-11-08T22:45",
       "2026-11-08T22:50",
       "2026-11-08T22:55",
-      "2026-11-08T23:00"
+      "2026-11-08T23:00",
+      "2026-11-08T23:05",
+      "2026-11-08T23:10",
+      "2026-11-08T23:15",
+      "2026-11-08T23:20",
+      "2026-11-08T23:25",
+      "2026-11-08T23:30",
+      "2026-11-08T23:40",
+      "2026-11-08T23:45",
+      "2026-11-08T23:50",
+      "2026-11-08T23:55",
+      "2026-11-09T00:00"
     ],
-    "input_events": 692,
-    "output_events": 11153,
-    "active_minutes": 5715,
-    "active_slice_count": 1143
+    "input_events": 704,
+    "output_events": 11208,
+    "active_minutes": 5770,
+    "active_slice_count": 1154
   },
   {
     "name": "project-iframe",
@@ -27714,7 +27794,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 114.5,
+        "duration_minutes": 120.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -27740,10 +27820,12 @@
           "2026-11-08T22:40",
           "2026-11-08T22:45",
           "2026-11-08T22:50",
-          "2026-11-08T22:55"
+          "2026-11-08T22:55",
+          "2026-11-08T23:00",
+          "2026-11-08T23:05"
         ],
         "input_events": 0,
-        "output_events": 447
+        "output_events": 461
       },
       {
         "day": "2026-11-08",
@@ -28500,6 +28582,24 @@
         "additions": 1537,
         "deletions": 120,
         "files_changed": 26,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-08",
+        "kind": "git",
+        "title": "chore(推送通知): 增加 --replay 按提交区间补发",
+        "summary": "提交 6a9c7d64：chore(推送通知): 增加 --replay 按提交区间补发",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 28,
+        "deletions": 0,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -70045,11 +70145,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87898.9,
+    "duration_minutes": 87904.5,
     "tokens": 678167943,
-    "additions": 1163029,
+    "additions": 1163057,
     "deletions": 359240,
-    "files_changed": 21698,
+    "files_changed": 21699,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -71007,12 +71107,14 @@
       "2026-11-08T22:40",
       "2026-11-08T22:45",
       "2026-11-08T22:50",
-      "2026-11-08T22:55"
+      "2026-11-08T22:55",
+      "2026-11-08T23:00",
+      "2026-11-08T23:05"
     ],
     "input_events": 335,
-    "output_events": 28410,
-    "active_minutes": 4785,
-    "active_slice_count": 957
+    "output_events": 28424,
+    "active_minutes": 4795,
+    "active_slice_count": 959
   },
   {
     "name": "tds-compliance",
