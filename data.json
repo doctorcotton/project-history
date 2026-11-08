@@ -894,8 +894,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1587.2,
-        "tokens": 696720773,
+        "duration_minutes": 1683.5,
+        "tokens": 712822100,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1141,10 +1141,17 @@
           "2026-11-08T16:40",
           "2026-11-08T16:45",
           "2026-11-08T16:50",
-          "2026-11-08T16:55"
+          "2026-11-08T16:55",
+          "2026-11-08T17:00",
+          "2026-11-08T17:05",
+          "2026-11-08T17:15",
+          "2026-11-08T17:20",
+          "2026-11-08T17:35",
+          "2026-11-08T17:40",
+          "2026-11-08T17:55"
         ],
-        "input_events": 177,
-        "output_events": 467
+        "input_events": 180,
+        "output_events": 477
       },
       {
         "day": "2026-11-07",
@@ -18033,8 +18040,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12766.3,
-    "tokens": 2225276101,
+    "duration_minutes": 12862.6,
+    "tokens": 2241377428,
     "additions": 18046161,
     "deletions": 14678183,
     "files_changed": 28976,
@@ -19125,12 +19132,19 @@
       "2026-11-08T16:40",
       "2026-11-08T16:45",
       "2026-11-08T16:50",
-      "2026-11-08T16:55"
+      "2026-11-08T16:55",
+      "2026-11-08T17:00",
+      "2026-11-08T17:05",
+      "2026-11-08T17:15",
+      "2026-11-08T17:20",
+      "2026-11-08T17:35",
+      "2026-11-08T17:40",
+      "2026-11-08T17:55"
     ],
-    "input_events": 644,
-    "output_events": 10744,
-    "active_minutes": 5435,
-    "active_slice_count": 1087
+    "input_events": 647,
+    "output_events": 10754,
+    "active_minutes": 5470,
+    "active_slice_count": 1094
   },
   {
     "name": "project-iframe",
@@ -27354,7 +27368,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 84.6,
+        "duration_minutes": 125.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -27375,10 +27389,12 @@
           "2026-11-08T16:45",
           "2026-11-08T16:50",
           "2026-11-08T16:55",
-          "2026-11-08T17:00"
+          "2026-11-08T17:00",
+          "2026-11-08T17:35",
+          "2026-11-08T17:40"
         ],
         "input_events": 0,
-        "output_events": 325
+        "output_events": 334
       },
       {
         "day": "2026-11-08",
@@ -27555,6 +27571,26 @@
         ],
         "input_events": 0,
         "output_events": 5
+      },
+      {
+        "day": "2026-11-08",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 25ca2f85",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-08T17:45"
+        ],
+        "input_events": 0,
+        "output_events": 12
       },
       {
         "day": "2026-11-08",
@@ -69437,7 +69473,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87187.6,
+    "duration_minutes": 87229.0,
     "tokens": 633814250,
     "additions": 1158416,
     "deletions": 358539,
@@ -70354,12 +70390,15 @@
       "2026-11-08T16:45",
       "2026-11-08T16:50",
       "2026-11-08T16:55",
-      "2026-11-08T17:00"
+      "2026-11-08T17:00",
+      "2026-11-08T17:35",
+      "2026-11-08T17:40",
+      "2026-11-08T17:45"
     ],
     "input_events": 323,
-    "output_events": 27307,
-    "active_minutes": 4560,
-    "active_slice_count": 912
+    "output_events": 27328,
+    "active_minutes": 4575,
+    "active_slice_count": 915
   },
   {
     "name": "tds-compliance",
