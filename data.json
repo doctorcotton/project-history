@@ -894,8 +894,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1538.9,
-        "tokens": 645327640,
+        "duration_minutes": 1587.2,
+        "tokens": 673620265,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -1121,10 +1121,19 @@
           "2026-11-08T14:30",
           "2026-11-08T14:45",
           "2026-11-08T14:50",
-          "2026-11-08T14:55"
+          "2026-11-08T14:55",
+          "2026-11-08T15:00",
+          "2026-11-08T15:05",
+          "2026-11-08T15:10",
+          "2026-11-08T15:20",
+          "2026-11-08T15:25",
+          "2026-11-08T15:30",
+          "2026-11-08T15:40",
+          "2026-11-08T15:45",
+          "2026-11-08T15:50"
         ],
-        "input_events": 171,
-        "output_events": 440
+        "input_events": 173,
+        "output_events": 457
       },
       {
         "day": "2026-11-07",
@@ -18013,8 +18022,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 12718.0,
-    "tokens": 2173882968,
+    "duration_minutes": 12766.3,
+    "tokens": 2202175593,
     "additions": 18046161,
     "deletions": 14678183,
     "files_changed": 28976,
@@ -19085,12 +19094,21 @@
       "2026-11-08T14:30",
       "2026-11-08T14:45",
       "2026-11-08T14:50",
-      "2026-11-08T14:55"
+      "2026-11-08T14:55",
+      "2026-11-08T15:00",
+      "2026-11-08T15:05",
+      "2026-11-08T15:10",
+      "2026-11-08T15:20",
+      "2026-11-08T15:25",
+      "2026-11-08T15:30",
+      "2026-11-08T15:40",
+      "2026-11-08T15:45",
+      "2026-11-08T15:50"
     ],
-    "input_events": 638,
-    "output_events": 10717,
-    "active_minutes": 5335,
-    "active_slice_count": 1067
+    "input_events": 640,
+    "output_events": 10734,
+    "active_minutes": 5380,
+    "active_slice_count": 1076
   },
   {
     "name": "project-iframe",
@@ -27305,6 +27323,31 @@
     "slug": "tds-studio",
     "path": "/Users/cottondog/Work-projects/tds-studio",
     "events": [
+      {
+        "day": "2026-11-08",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · f5f6d421",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 24.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-08T15:35",
+          "2026-11-08T15:40",
+          "2026-11-08T15:45",
+          "2026-11-08T15:50",
+          "2026-11-08T15:55",
+          "2026-11-08T16:00"
+        ],
+        "input_events": 0,
+        "output_events": 129
+      },
       {
         "day": "2026-11-08",
         "kind": "session",
@@ -69292,7 +69335,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87053.0,
+    "duration_minutes": 87077.0,
     "tokens": 633814250,
     "additions": 1158416,
     "deletions": 358539,
@@ -70191,12 +70234,18 @@
       "2026-11-08T13:30",
       "2026-11-08T13:35",
       "2026-11-08T13:40",
-      "2026-11-08T14:55"
+      "2026-11-08T14:55",
+      "2026-11-08T15:35",
+      "2026-11-08T15:40",
+      "2026-11-08T15:45",
+      "2026-11-08T15:50",
+      "2026-11-08T15:55",
+      "2026-11-08T16:00"
     ],
     "input_events": 323,
-    "output_events": 26814,
-    "active_minutes": 4470,
-    "active_slice_count": 894
+    "output_events": 26943,
+    "active_minutes": 4500,
+    "active_slice_count": 900
   },
   {
     "name": "tds-compliance",
