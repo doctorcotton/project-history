@@ -187,7 +187,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 67.5,
+        "duration_minutes": 72.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -204,10 +204,11 @@
           "2026-11-09T18:40",
           "2026-11-09T18:45",
           "2026-11-09T18:50",
-          "2026-11-09T18:55"
+          "2026-11-09T18:55",
+          "2026-11-09T19:00"
         ],
         "input_events": 0,
-        "output_events": 184
+        "output_events": 187
       },
       {
         "day": "2026-11-09",
@@ -1079,6 +1080,42 @@
       {
         "day": "2026-11-09",
         "kind": "git",
+        "title": "fix(agent-runtime): 收紧法规证据交付边界",
+        "summary": "提交 2f30997e：fix(agent-runtime): 收紧法规证据交付边界",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 95,
+        "deletions": 12,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
+        "title": "fix(agent-runtime): 收回 adaptive 候选业务判定",
+        "summary": "提交 6250423b：fix(agent-runtime): 收回 adaptive 候选业务判定",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 3,
+        "deletions": 94,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
         "title": "fix(agent-runtime): 对齐 adaptive 候选回执边界",
         "summary": "提交 25bfff60：fix(agent-runtime): 对齐 adaptive 候选回执边界",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -1108,6 +1145,24 @@
         "additions": 67,
         "deletions": 5,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
+        "title": "feat(compliance): 增加版本化候选回执",
+        "summary": "提交 0fd71cef：feat(compliance): 增加版本化候选回执",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 52,
+        "deletions": 4,
+        "files_changed": 4,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -2243,8 +2298,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3175.3,
-        "tokens": 1324898465,
+        "duration_minutes": 3272.1,
+        "tokens": 1343027931,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -2711,10 +2766,19 @@
           "2026-11-09T18:35",
           "2026-11-09T18:45",
           "2026-11-09T18:50",
-          "2026-11-09T18:55"
+          "2026-11-09T18:55",
+          "2026-11-09T19:00",
+          "2026-11-09T19:05",
+          "2026-11-09T19:10",
+          "2026-11-09T19:15",
+          "2026-11-09T19:20",
+          "2026-11-09T19:35",
+          "2026-11-09T19:45",
+          "2026-11-09T19:50",
+          "2026-11-09T19:55"
         ],
-        "input_events": 319,
-        "output_events": 817
+        "input_events": 322,
+        "output_events": 834
       },
       {
         "day": "2026-11-07",
@@ -19278,11 +19342,11 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14866.2,
-    "tokens": 6474968852,
-    "additions": 18073812,
-    "deletions": 14679958,
-    "files_changed": 29330,
+    "duration_minutes": 14968.3,
+    "tokens": 6493098318,
+    "additions": 18073962,
+    "deletions": 14680068,
+    "files_changed": 29338,
     "active_bucket_keys": [
       "2026-11-02T18:20",
       "2026-11-02T18:25",
@@ -20480,12 +20544,21 @@
       "2026-11-09T18:40",
       "2026-11-09T18:45",
       "2026-11-09T18:50",
-      "2026-11-09T18:55"
+      "2026-11-09T18:55",
+      "2026-11-09T19:00",
+      "2026-11-09T19:05",
+      "2026-11-09T19:10",
+      "2026-11-09T19:15",
+      "2026-11-09T19:20",
+      "2026-11-09T19:35",
+      "2026-11-09T19:45",
+      "2026-11-09T19:50",
+      "2026-11-09T19:55"
     ],
-    "input_events": 802,
-    "output_events": 10353,
-    "active_minutes": 5985,
-    "active_slice_count": 1197
+    "input_events": 805,
+    "output_events": 10373,
+    "active_minutes": 6030,
+    "active_slice_count": 1206
   },
   {
     "name": "project-iframe",
@@ -28799,7 +28872,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 49.6,
+        "duration_minutes": 76.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28813,10 +28886,13 @@
           "2026-11-09T18:40",
           "2026-11-09T18:45",
           "2026-11-09T18:50",
-          "2026-11-09T18:55"
+          "2026-11-09T18:55",
+          "2026-11-09T19:15",
+          "2026-11-09T19:20",
+          "2026-11-09T19:25"
         ],
         "input_events": 0,
-        "output_events": 166
+        "output_events": 172
       },
       {
         "day": "2026-11-09",
@@ -28874,7 +28950,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 58.6,
+        "duration_minutes": 103.7,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28890,10 +28966,12 @@
           "2026-11-09T18:40",
           "2026-11-09T18:50",
           "2026-11-09T18:55",
-          "2026-11-09T19:00"
+          "2026-11-09T19:00",
+          "2026-11-09T19:15",
+          "2026-11-09T19:45"
         ],
         "input_events": 0,
-        "output_events": 154
+        "output_events": 175
       },
       {
         "day": "2026-11-09",
@@ -71711,7 +71789,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87533.4,
+    "duration_minutes": 87605.3,
     "tokens": 687450641,
     "additions": 1166086,
     "deletions": 359750,
@@ -72686,12 +72764,16 @@
       "2026-11-09T18:45",
       "2026-11-09T18:50",
       "2026-11-09T18:55",
-      "2026-11-09T19:00"
+      "2026-11-09T19:00",
+      "2026-11-09T19:15",
+      "2026-11-09T19:20",
+      "2026-11-09T19:25",
+      "2026-11-09T19:45"
     ],
     "input_events": 332,
-    "output_events": 28302,
-    "active_minutes": 4850,
-    "active_slice_count": 970
+    "output_events": 28329,
+    "active_minutes": 4870,
+    "active_slice_count": 974
   },
   {
     "name": "tds-compliance",
