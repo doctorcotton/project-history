@@ -38,7 +38,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 140.0,
+        "duration_minutes": 192.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -71,10 +71,20 @@
           "2026-11-09T12:45",
           "2026-11-09T12:50",
           "2026-11-09T12:55",
-          "2026-11-09T13:00"
+          "2026-11-09T13:00",
+          "2026-11-09T13:05",
+          "2026-11-09T13:10",
+          "2026-11-09T13:15",
+          "2026-11-09T13:20",
+          "2026-11-09T13:25",
+          "2026-11-09T13:30",
+          "2026-11-09T13:35",
+          "2026-11-09T13:40",
+          "2026-11-09T13:45",
+          "2026-11-09T13:50"
         ],
         "input_events": 0,
-        "output_events": 281
+        "output_events": 402
       },
       {
         "day": "2026-11-09",
@@ -117,6 +127,27 @@
         ],
         "input_events": 0,
         "output_events": 37
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · ee317323",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/09/rollout-2026-11-09T13-47-44-01a1bed9-26aa-7763-bc0d-3d1fee317323.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 2.4,
+        "tokens": 106093,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-09T13:45",
+          "2026-11-09T13:50"
+        ],
+        "input_events": 3,
+        "output_events": 7
       },
       {
         "day": "2026-11-09",
@@ -177,8 +208,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 211.6,
-        "tokens": 55621715,
+        "duration_minutes": 241.9,
+        "tokens": 57304146,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -205,10 +236,37 @@
           "2026-11-09T11:50",
           "2026-11-09T12:10",
           "2026-11-09T12:25",
-          "2026-11-09T12:55"
+          "2026-11-09T12:55",
+          "2026-11-09T13:25",
+          "2026-11-09T13:55"
         ],
-        "input_events": 18,
-        "output_events": 48
+        "input_events": 20,
+        "output_events": 52
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 3381002c",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/09/rollout-2026-11-09T13-07-04-01a1beb3-e8d0-7c22-b32d-08e33381002c.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 53.3,
+        "tokens": 1234906621,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-09T13:05",
+          "2026-11-09T13:10",
+          "2026-11-09T13:30",
+          "2026-11-09T13:35",
+          "2026-11-09T13:50",
+          "2026-11-09T14:00"
+        ],
+        "input_events": 6,
+        "output_events": 14
       },
       {
         "day": "2026-11-09",
@@ -2251,7 +2309,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 2854.9,
-        "tokens": 1225909940,
+        "tokens": 1245872865,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -2677,10 +2735,18 @@
           "2026-11-09T12:40",
           "2026-11-09T12:45",
           "2026-11-09T12:50",
-          "2026-11-09T12:55"
+          "2026-11-09T12:55",
+          "2026-11-09T13:05",
+          "2026-11-09T13:10",
+          "2026-11-09T13:30",
+          "2026-11-09T13:35",
+          "2026-11-09T13:40",
+          "2026-11-09T13:45",
+          "2026-11-09T13:50",
+          "2026-11-09T13:55"
         ],
-        "input_events": 292,
-        "output_events": 758
+        "input_events": 298,
+        "output_events": 771
       },
       {
         "day": "2026-11-07",
@@ -19056,8 +19122,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14055.5,
-    "tokens": 4002011519,
+    "duration_minutes": 14193.8,
+    "tokens": 5258669589,
     "additions": 18073133,
     "deletions": 14679842,
     "files_changed": 29311,
@@ -20236,12 +20302,24 @@
       "2026-11-09T12:45",
       "2026-11-09T12:50",
       "2026-11-09T12:55",
-      "2026-11-09T13:00"
+      "2026-11-09T13:00",
+      "2026-11-09T13:05",
+      "2026-11-09T13:10",
+      "2026-11-09T13:15",
+      "2026-11-09T13:20",
+      "2026-11-09T13:25",
+      "2026-11-09T13:30",
+      "2026-11-09T13:35",
+      "2026-11-09T13:40",
+      "2026-11-09T13:45",
+      "2026-11-09T13:50",
+      "2026-11-09T13:55",
+      "2026-11-09T14:00"
     ],
-    "input_events": 784,
-    "output_events": 9547,
-    "active_minutes": 5875,
-    "active_slice_count": 1175
+    "input_events": 801,
+    "output_events": 9706,
+    "active_minutes": 5935,
+    "active_slice_count": 1187
   },
   {
     "name": "project-iframe",
@@ -28421,7 +28499,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 11.7,
+        "duration_minutes": 20.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28430,10 +28508,11 @@
           "2026-11-09T12:45",
           "2026-11-09T12:50",
           "2026-11-09T12:55",
-          "2026-11-09T13:00"
+          "2026-11-09T13:00",
+          "2026-11-09T13:05"
         ],
         "input_events": 0,
-        "output_events": 58
+        "output_events": 86
       },
       {
         "day": "2026-11-09",
@@ -28711,23 +28790,61 @@
       {
         "day": "2026-11-09",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 20afd4c5",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 58.1,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-09T13:00",
+          "2026-11-09T13:05",
+          "2026-11-09T13:10",
+          "2026-11-09T13:15",
+          "2026-11-09T13:20",
+          "2026-11-09T13:25",
+          "2026-11-09T13:30",
+          "2026-11-09T13:35",
+          "2026-11-09T13:40",
+          "2026-11-09T13:45",
+          "2026-11-09T13:50",
+          "2026-11-09T13:55",
+          "2026-11-09T14:00"
+        ],
+        "input_events": 0,
+        "output_events": 273
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "session",
         "title": "本机 Codex 会话补录 · c243aee2",
         "summary": "当天有 Codex 会话活动。",
         "source": "/Users/cottondog/.codex/sessions/2026/11/09/rollout-2026-11-09T12-59-40-01a1bead-2410-7123-867b-9836c243aee2.jsonl",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.8,
-        "tokens": 72502,
+        "duration_minutes": 43.7,
+        "tokens": 10998525,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-09T12:55",
-          "2026-11-09T13:00"
+          "2026-11-09T13:00",
+          "2026-11-09T13:05",
+          "2026-11-09T13:15",
+          "2026-11-09T13:20",
+          "2026-11-09T13:25",
+          "2026-11-09T13:35",
+          "2026-11-09T13:40"
         ],
-        "input_events": 2,
-        "output_events": 2
+        "input_events": 8,
+        "output_events": 24
       },
       {
         "day": "2026-11-09",
@@ -28779,6 +28896,24 @@
         "additions": 66,
         "deletions": 7,
         "files_changed": 6,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
+        "title": "fix(加载): 消除图稿交接闪动",
+        "summary": "提交 eb0ac594：fix(加载): 消除图稿交接闪动",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 73,
+        "deletions": 19,
+        "files_changed": 8,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -70716,11 +70851,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 86838.3,
-    "tokens": 678240445,
-    "additions": 1164456,
-    "deletions": 359383,
-    "files_changed": 21771,
+    "duration_minutes": 86947.6,
+    "tokens": 689166468,
+    "additions": 1164529,
+    "deletions": 359402,
+    "files_changed": 21779,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -71622,12 +71757,24 @@
       "2026-11-09T12:45",
       "2026-11-09T12:50",
       "2026-11-09T12:55",
-      "2026-11-09T13:00"
+      "2026-11-09T13:00",
+      "2026-11-09T13:05",
+      "2026-11-09T13:10",
+      "2026-11-09T13:15",
+      "2026-11-09T13:20",
+      "2026-11-09T13:25",
+      "2026-11-09T13:30",
+      "2026-11-09T13:35",
+      "2026-11-09T13:40",
+      "2026-11-09T13:45",
+      "2026-11-09T13:50",
+      "2026-11-09T13:55",
+      "2026-11-09T14:00"
     ],
-    "input_events": 337,
-    "output_events": 26048,
-    "active_minutes": 4505,
-    "active_slice_count": 901
+    "input_events": 343,
+    "output_events": 26371,
+    "active_minutes": 4565,
+    "active_slice_count": 913
   },
   {
     "name": "tds-compliance",
