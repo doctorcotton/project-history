@@ -2026,8 +2026,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2532.6,
-        "tokens": 1113137888,
+        "duration_minutes": 2591.2,
+        "tokens": 1146787064,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -2411,10 +2411,22 @@
           "2026-11-09T07:35",
           "2026-11-09T07:40",
           "2026-11-09T07:45",
-          "2026-11-09T07:55"
+          "2026-11-09T07:55",
+          "2026-11-09T08:00",
+          "2026-11-09T08:05",
+          "2026-11-09T08:10",
+          "2026-11-09T08:15",
+          "2026-11-09T08:20",
+          "2026-11-09T08:25",
+          "2026-11-09T08:30",
+          "2026-11-09T08:35",
+          "2026-11-09T08:40",
+          "2026-11-09T08:45",
+          "2026-11-09T08:50",
+          "2026-11-09T08:55"
         ],
-        "input_events": 283,
-        "output_events": 691
+        "input_events": 287,
+        "output_events": 712
       },
       {
         "day": "2026-11-07",
@@ -5665,17 +5677,14 @@
           "实现宿主驱动 bootstrap",
           "交付状态与边界"
         ],
-        "duration_minutes": 12.1,
-        "tokens": 22423159,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-02T06:15",
-          "2026-11-02T06:25"
-        ],
-        "input_events": 3,
-        "output_events": 4
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-01",
@@ -5690,26 +5699,14 @@
           "解释 Agent 不调用 query/find 与插件正常调用的根因",
           "后续推进决策"
         ],
-        "duration_minutes": 257.0,
-        "tokens": 34644259,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-01T18:15",
-          "2026-11-01T18:35",
-          "2026-11-01T18:40",
-          "2026-11-01T19:10",
-          "2026-11-01T19:25",
-          "2026-11-01T19:30",
-          "2026-11-01T19:35",
-          "2026-11-01T21:35",
-          "2026-11-01T21:45",
-          "2026-11-01T22:25",
-          "2026-11-01T22:30"
-        ],
-        "input_events": 12,
-        "output_events": 30
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-01",
@@ -18715,32 +18712,22 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13360.5,
-    "tokens": 2706479090,
+    "duration_minutes": 13150.0,
+    "tokens": 2683060848,
     "additions": 18060282,
     "deletions": 14679498,
     "files_changed": 29189,
     "active_bucket_keys": [
-      "2026-11-01T18:15",
-      "2026-11-01T18:35",
-      "2026-11-01T18:40",
-      "2026-11-01T19:10",
-      "2026-11-01T19:25",
-      "2026-11-01T19:30",
-      "2026-11-01T19:35",
       "2026-11-01T19:45",
       "2026-11-01T19:50",
       "2026-11-01T20:10",
       "2026-11-01T20:55",
       "2026-11-01T21:05",
-      "2026-11-01T21:35",
-      "2026-11-01T21:45",
       "2026-11-01T22:25",
       "2026-11-01T22:30",
       "2026-11-01T22:35",
       "2026-11-01T22:55",
       "2026-11-02T06:15",
-      "2026-11-02T06:25",
       "2026-11-02T06:30",
       "2026-11-02T06:35",
       "2026-11-02T06:45",
@@ -19846,12 +19833,24 @@
       "2026-11-09T07:35",
       "2026-11-09T07:40",
       "2026-11-09T07:45",
-      "2026-11-09T07:55"
+      "2026-11-09T07:55",
+      "2026-11-09T08:00",
+      "2026-11-09T08:05",
+      "2026-11-09T08:10",
+      "2026-11-09T08:15",
+      "2026-11-09T08:20",
+      "2026-11-09T08:25",
+      "2026-11-09T08:30",
+      "2026-11-09T08:35",
+      "2026-11-09T08:40",
+      "2026-11-09T08:45",
+      "2026-11-09T08:50",
+      "2026-11-09T08:55"
     ],
-    "input_events": 760,
-    "output_events": 9119,
-    "active_minutes": 5630,
-    "active_slice_count": 1126
+    "input_events": 749,
+    "output_events": 9106,
+    "active_minutes": 5640,
+    "active_slice_count": 1128
   },
   {
     "name": "project-iframe",
@@ -28022,6 +28021,26 @@
     "slug": "tds-studio",
     "path": "/Users/cottondog/Work-projects/tds-studio",
     "events": [
+      {
+        "day": "2026-11-09",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-09T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 1
+      },
       {
         "day": "2026-11-08",
         "kind": "session",
@@ -69739,7 +69758,7 @@
       }
     ],
     "august_event_count": 24,
-    "latest_day": "2026-11-08",
+    "latest_day": "2026-11-09",
     "status": "有历史证据",
     "profile": {
       "introduction": "数字标签研发工作台，承载标签内容、字段历史、评论协作、审核流程和 PackVista 3D 任务等产品能力。",
@@ -70649,12 +70668,13 @@
       "2026-11-08T22:50",
       "2026-11-08T22:55",
       "2026-11-08T23:00",
-      "2026-11-08T23:05"
+      "2026-11-08T23:05",
+      "2026-11-09T09:00"
     ],
     "input_events": 335,
-    "output_events": 25182,
-    "active_minutes": 4345,
-    "active_slice_count": 869
+    "output_events": 25183,
+    "active_minutes": 4350,
+    "active_slice_count": 870
   },
   {
     "name": "tds-compliance",
