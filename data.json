@@ -1203,6 +1203,24 @@
       {
         "day": "2026-11-09",
         "kind": "git",
+        "title": "feat(compliance): 接入 runtime v1 transport 入口",
+        "summary": "提交 728f8d69：feat(compliance): 接入 runtime v1 transport 入口",
+        "source": "/Users/cottondog/Work-projects/tds-review/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 766,
+        "deletions": 5,
+        "files_changed": 8,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
         "title": "feat(compliance): 增加版本化候选回执",
         "summary": "提交 0fd71cef：feat(compliance): 增加版本化候选回执",
         "source": "/Users/cottondog/Work-projects/tds-review/.git",
@@ -2335,7 +2353,7 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 3459.6,
-        "tokens": 1392083736,
+        "tokens": 1414698000,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -2836,10 +2854,19 @@
           "2026-11-09T22:40",
           "2026-11-09T22:45",
           "2026-11-09T22:50",
-          "2026-11-09T22:55"
+          "2026-11-09T22:55",
+          "2026-11-09T23:05",
+          "2026-11-09T23:10",
+          "2026-11-09T23:15",
+          "2026-11-09T23:20",
+          "2026-11-09T23:30",
+          "2026-11-09T23:40",
+          "2026-11-09T23:45",
+          "2026-11-09T23:50",
+          "2026-11-10T00:00"
         ],
-        "input_events": 336,
-        "output_events": 880
+        "input_events": 339,
+        "output_events": 887
       },
       {
         "day": "2026-11-07",
@@ -19447,10 +19474,10 @@
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
     "duration_minutes": 15430.0,
-    "tokens": 6542154123,
-    "additions": 18078286,
-    "deletions": 14680091,
-    "files_changed": 29383,
+    "tokens": 6564768387,
+    "additions": 18079052,
+    "deletions": 14680096,
+    "files_changed": 29391,
     "active_bucket_keys": [
       "2026-11-02T18:20",
       "2026-11-02T18:25",
@@ -20683,12 +20710,21 @@
       "2026-11-09T22:40",
       "2026-11-09T22:45",
       "2026-11-09T22:50",
-      "2026-11-09T22:55"
+      "2026-11-09T22:55",
+      "2026-11-09T23:05",
+      "2026-11-09T23:10",
+      "2026-11-09T23:15",
+      "2026-11-09T23:20",
+      "2026-11-09T23:30",
+      "2026-11-09T23:40",
+      "2026-11-09T23:45",
+      "2026-11-09T23:50",
+      "2026-11-10T00:00"
     ],
-    "input_events": 819,
-    "output_events": 10476,
-    "active_minutes": 6160,
-    "active_slice_count": 1232
+    "input_events": 822,
+    "output_events": 10483,
+    "active_minutes": 6205,
+    "active_slice_count": 1241
   },
   {
     "name": "project-iframe",
@@ -28979,7 +29015,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 17.4,
+        "duration_minutes": 18.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28991,7 +29027,7 @@
           "2026-11-09T23:00"
         ],
         "input_events": 0,
-        "output_events": 83
+        "output_events": 92
       },
       {
         "day": "2026-11-09",
@@ -29762,7 +29798,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 36.8,
+        "duration_minutes": 37.6,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29775,7 +29811,7 @@
           "2026-11-09T23:00"
         ],
         "input_events": 0,
-        "output_events": 109
+        "output_events": 114
       },
       {
         "day": "2026-11-09",
@@ -29807,16 +29843,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1.5,
-        "tokens": 295003,
+        "duration_minutes": 17.1,
+        "tokens": 6190387,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-09T22:55"
+          "2026-11-09T22:55",
+          "2026-11-09T23:10",
+          "2026-11-09T23:15"
         ],
-        "input_events": 2,
-        "output_events": 2
+        "input_events": 3,
+        "output_events": 3
       },
       {
         "day": "2026-11-09",
@@ -30455,6 +30493,24 @@
         "additions": 78,
         "deletions": 61,
         "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-09",
+        "kind": "git",
+        "title": "feat(审核): 提交 AI 文字审核复用内审必填引擎硬阻断",
+        "summary": "提交 085f5a50：feat(审核): 提交 AI 文字审核复用内审必填引擎硬阻断",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 65,
+        "deletions": 51,
+        "files_changed": 8,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -71961,11 +72017,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 87903.8,
-    "tokens": 687745644,
-    "additions": 1168260,
-    "deletions": 360422,
-    "files_changed": 21939,
+    "duration_minutes": 87921.1,
+    "tokens": 693641028,
+    "additions": 1168325,
+    "deletions": 360473,
+    "files_changed": 21947,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -72967,12 +73023,14 @@
       "2026-11-09T22:45",
       "2026-11-09T22:50",
       "2026-11-09T22:55",
-      "2026-11-09T23:00"
+      "2026-11-09T23:00",
+      "2026-11-09T23:10",
+      "2026-11-09T23:15"
     ],
-    "input_events": 334,
-    "output_events": 28899,
-    "active_minutes": 5005,
-    "active_slice_count": 1001
+    "input_events": 335,
+    "output_events": 28914,
+    "active_minutes": 5015,
+    "active_slice_count": 1003
   },
   {
     "name": "tds-compliance",
