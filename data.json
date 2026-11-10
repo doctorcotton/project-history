@@ -301,17 +301,19 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 11.3,
-        "tokens": 1568997,
+        "duration_minutes": 80.3,
+        "tokens": 1942650,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-10T20:35",
-          "2026-11-10T20:45"
+          "2026-11-10T20:45",
+          "2026-11-10T21:50",
+          "2026-11-10T21:55"
         ],
-        "input_events": 6,
-        "output_events": 5
+        "input_events": 8,
+        "output_events": 8
       },
       {
         "day": "2026-11-10",
@@ -19455,8 +19457,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14555.6,
-    "tokens": 8338879525,
+    "duration_minutes": 14624.6,
+    "tokens": 8339253178,
     "additions": 18081204,
     "deletions": 14680298,
     "files_changed": 29445,
@@ -20687,12 +20689,14 @@
       "2026-11-10T19:10",
       "2026-11-10T19:15",
       "2026-11-10T20:35",
-      "2026-11-10T20:45"
+      "2026-11-10T20:45",
+      "2026-11-10T21:50",
+      "2026-11-10T21:55"
     ],
-    "input_events": 844,
-    "output_events": 9673,
-    "active_minutes": 6135,
-    "active_slice_count": 1227
+    "input_events": 846,
+    "output_events": 9676,
+    "active_minutes": 6145,
+    "active_slice_count": 1229
   },
   {
     "name": "project-iframe",
@@ -30125,6 +30129,24 @@
         "additions": 172,
         "deletions": 70,
         "files_changed": 13,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-10",
+        "kind": "git",
+        "title": "feat(任务摘要): 组锚行透出工厂组代码，供绑定面板按 ZHA/ZHB 检索",
+        "summary": "提交 a3d88958：feat(任务摘要): 组锚行透出工厂组代码，供绑定面板按 ZHA/ZHB 检索",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 70,
+        "deletions": 2,
+        "files_changed": 7,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -71171,9 +71193,9 @@
     },
     "duration_minutes": 85442.7,
     "tokens": 711645079,
-    "additions": 1173867,
-    "deletions": 362146,
-    "files_changed": 22199,
+    "additions": 1173937,
+    "deletions": 362148,
+    "files_changed": 22206,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
