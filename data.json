@@ -2717,8 +2717,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 4423.3,
-        "tokens": 1724398203,
+        "duration_minutes": 4683.1,
+        "tokens": 1730318382,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -3348,10 +3348,13 @@
           "2026-11-10T18:40",
           "2026-11-10T18:45",
           "2026-11-10T18:50",
-          "2026-11-10T18:55"
+          "2026-11-10T18:55",
+          "2026-11-10T19:05",
+          "2026-11-10T19:10",
+          "2026-11-10T19:15"
         ],
-        "input_events": 391,
-        "output_events": 1098
+        "input_events": 392,
+        "output_events": 1103
       },
       {
         "day": "2026-11-07",
@@ -19431,8 +19434,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14284.5,
-    "tokens": 8331390349,
+    "duration_minutes": 14544.3,
+    "tokens": 8337310528,
     "additions": 18081204,
     "deletions": 14680298,
     "files_changed": 29445,
@@ -20658,12 +20661,15 @@
       "2026-11-10T18:40",
       "2026-11-10T18:45",
       "2026-11-10T18:50",
-      "2026-11-10T18:55"
+      "2026-11-10T18:55",
+      "2026-11-10T19:05",
+      "2026-11-10T19:10",
+      "2026-11-10T19:15"
     ],
-    "input_events": 837,
-    "output_events": 9663,
-    "active_minutes": 6110,
-    "active_slice_count": 1222
+    "input_events": 838,
+    "output_events": 9668,
+    "active_minutes": 6125,
+    "active_slice_count": 1225
   },
   {
     "name": "project-iframe",
@@ -29169,7 +29175,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 76.0,
+        "duration_minutes": 83.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29187,10 +29193,11 @@
           "2026-11-10T18:30",
           "2026-11-10T18:35",
           "2026-11-10T18:40",
-          "2026-11-10T19:00"
+          "2026-11-10T19:00",
+          "2026-11-10T19:05"
         ],
         "input_events": 0,
-        "output_events": 235
+        "output_events": 263
       },
       {
         "day": "2026-11-10",
@@ -29483,8 +29490,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 31.4,
-        "tokens": 12167435,
+        "duration_minutes": 177.3,
+        "tokens": 22778918,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -29493,10 +29500,13 @@
           "2026-11-10T16:20",
           "2026-11-10T16:25",
           "2026-11-10T16:35",
-          "2026-11-10T16:45"
+          "2026-11-10T16:45",
+          "2026-11-10T19:00",
+          "2026-11-10T19:05",
+          "2026-11-10T19:10"
         ],
-        "input_events": 5,
-        "output_events": 9
+        "input_events": 7,
+        "output_events": 19
       },
       {
         "day": "2026-11-10",
@@ -29577,6 +29587,24 @@
       {
         "day": "2026-11-10",
         "kind": "git",
+        "title": "style(字段): 宽档工具层放不下时换行，原因单行省略",
+        "summary": "提交 9b6c4d30：style(字段): 宽档工具层放不下时换行，原因单行省略",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 4,
+        "deletions": 0,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-10",
+        "kind": "git",
         "title": "refactor(文案): 待办内容入口统一为「修改内容」",
         "summary": "提交 c1a30837：refactor(文案): 待办内容入口统一为「修改内容」",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -29624,6 +29652,24 @@
         "additions": 14,
         "deletions": 34,
         "files_changed": 10,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-10",
+        "kind": "git",
+        "title": "fix(项目): 草稿块的续办入口只留块头一份",
+        "summary": "提交 22bae9ad：fix(项目): 草稿块的续办入口只留块头一份",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 1,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -29750,6 +29796,24 @@
         "additions": 6,
         "deletions": 6,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-10",
+        "kind": "git",
+        "title": "fix(组合): 内审流转动作留在物料行，只把图稿单次操作上提块头",
+        "summary": "提交 2c8a6149：fix(组合): 内审流转动作留在物料行，只把图稿单次操作上提块头",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 2,
+        "files_changed": 1,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -71082,11 +71146,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 85288.9,
-    "tokens": 701033596,
-    "additions": 1173849,
-    "deletions": 362143,
-    "files_changed": 22195,
+    "duration_minutes": 85442.7,
+    "tokens": 711645079,
+    "additions": 1173867,
+    "deletions": 362146,
+    "files_changed": 22199,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -71995,12 +72059,14 @@
       "2026-11-10T18:30",
       "2026-11-10T18:35",
       "2026-11-10T18:40",
-      "2026-11-10T19:00"
+      "2026-11-10T19:00",
+      "2026-11-10T19:05",
+      "2026-11-10T19:10"
     ],
-    "input_events": 343,
-    "output_events": 23418,
-    "active_minutes": 4540,
-    "active_slice_count": 908
+    "input_events": 345,
+    "output_events": 23456,
+    "active_minutes": 4550,
+    "active_slice_count": 910
   },
   {
     "name": "tds-compliance",
