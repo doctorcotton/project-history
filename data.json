@@ -294,6 +294,27 @@
       },
       {
         "day": "2026-11-10",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 787eb1ed",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/10/rollout-2026-11-10T20-35-40-01a1c574-fbc6-7f72-9b15-0611787eb1ed.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 11.3,
+        "tokens": 1568997,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-10T20:35",
+          "2026-11-10T20:45"
+        ],
+        "input_events": 6,
+        "output_events": 5
+      },
+      {
+        "day": "2026-11-10",
         "kind": "git",
         "title": "refactor(compliance): 评测入口切换 runtime v1",
         "summary": "提交 3ad9e5fb：refactor(compliance): 评测入口切换 runtime v1",
@@ -19434,8 +19455,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 14544.3,
-    "tokens": 8337310528,
+    "duration_minutes": 14555.6,
+    "tokens": 8338879525,
     "additions": 18081204,
     "deletions": 14680298,
     "files_changed": 29445,
@@ -20664,12 +20685,14 @@
       "2026-11-10T18:55",
       "2026-11-10T19:05",
       "2026-11-10T19:10",
-      "2026-11-10T19:15"
+      "2026-11-10T19:15",
+      "2026-11-10T20:35",
+      "2026-11-10T20:45"
     ],
-    "input_events": 838,
-    "output_events": 9668,
-    "active_minutes": 6125,
-    "active_slice_count": 1225
+    "input_events": 844,
+    "output_events": 9673,
+    "active_minutes": 6135,
+    "active_slice_count": 1227
   },
   {
     "name": "project-iframe",
