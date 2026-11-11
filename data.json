@@ -27351,14 +27351,36 @@
         "tasks": [
           "规划并完成三表同步"
         ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
+        "duration_minutes": 37617.8,
+        "tokens": 33644237,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
+        "active_bucket_keys": [
+          "2026-10-16T16:30",
+          "2026-10-16T16:35",
+          "2026-10-16T16:40",
+          "2026-10-16T16:45",
+          "2026-10-16T16:50",
+          "2026-10-16T16:55",
+          "2026-10-16T17:00",
+          "2026-10-16T17:05",
+          "2026-10-16T17:10",
+          "2026-10-16T17:15",
+          "2026-10-16T17:20",
+          "2026-10-16T17:25",
+          "2026-10-16T17:30",
+          "2026-10-16T17:35",
+          "2026-10-16T17:40",
+          "2026-10-16T17:45",
+          "2026-10-16T17:50",
+          "2026-10-16T17:55",
+          "2026-10-16T18:15",
+          "2026-10-16T18:20",
+          "2026-11-11T19:25"
+        ],
+        "input_events": 9,
+        "output_events": 51
       },
       {
         "day": "2026-10-15",
@@ -28468,16 +28490,38 @@
       },
       "evidence_note": "准备产物、API 结果和本地测试不能互相替代；当前档案严格区分准备、接受、回读、UAT 和生产状态。"
     },
-    "duration_minutes": 0.0,
-    "tokens": 0,
+    "duration_minutes": 37617.8,
+    "tokens": 33644237,
     "additions": 128306,
     "deletions": 6110,
     "files_changed": 1266,
-    "active_bucket_keys": [],
-    "input_events": 0,
-    "output_events": 0,
-    "active_minutes": 0,
-    "active_slice_count": 0
+    "active_bucket_keys": [
+      "2026-10-16T16:30",
+      "2026-10-16T16:35",
+      "2026-10-16T16:40",
+      "2026-10-16T16:45",
+      "2026-10-16T16:50",
+      "2026-10-16T16:55",
+      "2026-10-16T17:00",
+      "2026-10-16T17:05",
+      "2026-10-16T17:10",
+      "2026-10-16T17:15",
+      "2026-10-16T17:20",
+      "2026-10-16T17:25",
+      "2026-10-16T17:30",
+      "2026-10-16T17:35",
+      "2026-10-16T17:40",
+      "2026-10-16T17:45",
+      "2026-10-16T17:50",
+      "2026-10-16T17:55",
+      "2026-10-16T18:15",
+      "2026-10-16T18:20",
+      "2026-11-11T19:25"
+    ],
+    "input_events": 9,
+    "output_events": 51,
+    "active_minutes": 105,
+    "active_slice_count": 21
   },
   {
     "name": "tds-studio",
@@ -29069,17 +29113,18 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 30.3,
+        "duration_minutes": 64.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-11T18:15",
-          "2026-11-11T18:45"
+          "2026-11-11T18:45",
+          "2026-11-11T19:20"
         ],
         "input_events": 0,
-        "output_events": 14
+        "output_events": 18
       },
       {
         "day": "2026-11-11",
@@ -71247,7 +71292,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 86686.9,
+    "duration_minutes": 86720.8,
     "tokens": 707230448,
     "additions": 1177628,
     "deletions": 363396,
@@ -72182,12 +72227,13 @@
       "2026-11-11T18:20",
       "2026-11-11T18:25",
       "2026-11-11T18:30",
-      "2026-11-11T18:45"
+      "2026-11-11T18:45",
+      "2026-11-11T19:20"
     ],
     "input_events": 323,
-    "output_events": 25036,
-    "active_minutes": 4650,
-    "active_slice_count": 930
+    "output_events": 25040,
+    "active_minutes": 4655,
+    "active_slice_count": 931
   },
   {
     "name": "tds-compliance",
