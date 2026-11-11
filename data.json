@@ -301,8 +301,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 676.8,
-        "tokens": 154384260,
+        "duration_minutes": 688.9,
+        "tokens": 158827882,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -335,10 +335,11 @@
           "2026-11-11T00:00",
           "2026-11-11T00:45",
           "2026-11-11T07:45",
-          "2026-11-11T07:50"
+          "2026-11-11T07:50",
+          "2026-11-11T08:00"
         ],
-        "input_events": 19,
-        "output_events": 46
+        "input_events": 20,
+        "output_events": 51
       },
       {
         "day": "2026-11-10",
@@ -19028,8 +19029,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 13827.2,
-    "tokens": 8491694788,
+    "duration_minutes": 13839.3,
+    "tokens": 8496138410,
     "additions": 18081204,
     "deletions": 14680298,
     "files_changed": 29445,
@@ -20149,12 +20150,13 @@
       "2026-11-11T00:00",
       "2026-11-11T00:45",
       "2026-11-11T07:45",
-      "2026-11-11T07:50"
+      "2026-11-11T07:50",
+      "2026-11-11T08:00"
     ],
-    "input_events": 857,
-    "output_events": 7621,
-    "active_minutes": 5580,
-    "active_slice_count": 1116
+    "input_events": 858,
+    "output_events": 7626,
+    "active_minutes": 5585,
+    "active_slice_count": 1117
   },
   {
     "name": "project-iframe",
@@ -28325,6 +28327,26 @@
     "slug": "tds-studio",
     "path": "/Users/cottondog/Work-projects/tds-studio",
     "events": [
+      {
+        "day": "2026-11-11",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 539db754",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 0.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-11T09:00"
+        ],
+        "input_events": 0,
+        "output_events": 2
+      },
       {
         "day": "2026-11-10",
         "kind": "session",
@@ -70084,7 +70106,7 @@
       }
     ],
     "august_event_count": 24,
-    "latest_day": "2026-11-10",
+    "latest_day": "2026-11-11",
     "status": "有历史证据",
     "profile": {
       "introduction": "数字标签研发工作台，承载标签内容、字段历史、评论协作、审核流程和 PackVista 3D 任务等产品能力。",
@@ -70120,7 +70142,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 85486.3,
+    "duration_minutes": 85486.6,
     "tokens": 718078265,
     "additions": 1173937,
     "deletions": 362148,
@@ -70968,12 +70990,13 @@
       "2026-11-10T23:05",
       "2026-11-10T23:10",
       "2026-11-10T23:15",
-      "2026-11-10T23:20"
+      "2026-11-10T23:20",
+      "2026-11-11T09:00"
     ],
     "input_events": 355,
-    "output_events": 22078,
-    "active_minutes": 4215,
-    "active_slice_count": 843
+    "output_events": 22080,
+    "active_minutes": 4220,
+    "active_slice_count": 844
   },
   {
     "name": "tds-compliance",
