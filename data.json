@@ -120,8 +120,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 203.1,
-        "tokens": 44470092,
+        "duration_minutes": 254.8,
+        "tokens": 49427813,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -145,10 +145,11 @@
           "2026-11-12T17:35",
           "2026-11-12T17:40",
           "2026-11-12T17:50",
-          "2026-11-12T17:55"
+          "2026-11-12T17:55",
+          "2026-11-12T18:40"
         ],
         "input_events": 12,
-        "output_events": 30
+        "output_events": 33
       },
       {
         "day": "2026-11-12",
@@ -19559,8 +19560,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 16086.8,
-    "tokens": 8716977281,
+    "duration_minutes": 16138.5,
+    "tokens": 8721935002,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20714,12 +20715,13 @@
       "2026-11-12T17:35",
       "2026-11-12T17:40",
       "2026-11-12T17:50",
-      "2026-11-12T17:55"
+      "2026-11-12T17:55",
+      "2026-11-12T18:40"
     ],
     "input_events": 865,
-    "output_events": 6646,
-    "active_minutes": 5750,
-    "active_slice_count": 1150
+    "output_events": 6649,
+    "active_minutes": 5755,
+    "active_slice_count": 1151
   },
   {
     "name": "project-iframe",
@@ -29146,7 +29148,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 39.3,
+        "duration_minutes": 121.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29155,10 +29157,22 @@
           "2026-11-12T17:00",
           "2026-11-12T17:25",
           "2026-11-12T17:30",
-          "2026-11-12T17:35"
+          "2026-11-12T17:35",
+          "2026-11-12T18:05",
+          "2026-11-12T18:10",
+          "2026-11-12T18:15",
+          "2026-11-12T18:20",
+          "2026-11-12T18:25",
+          "2026-11-12T18:30",
+          "2026-11-12T18:35",
+          "2026-11-12T18:40",
+          "2026-11-12T18:45",
+          "2026-11-12T18:50",
+          "2026-11-12T18:55",
+          "2026-11-12T19:00"
         ],
         "input_events": 0,
-        "output_events": 13
+        "output_events": 141
       },
       {
         "day": "2026-11-12",
@@ -29169,7 +29183,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 14.0,
+        "duration_minutes": 100.5,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29177,10 +29191,19 @@
         "active_bucket_keys": [
           "2026-11-12T17:05",
           "2026-11-12T17:15",
-          "2026-11-12T17:20"
+          "2026-11-12T17:20",
+          "2026-11-12T18:05",
+          "2026-11-12T18:10",
+          "2026-11-12T18:15",
+          "2026-11-12T18:20",
+          "2026-11-12T18:25",
+          "2026-11-12T18:30",
+          "2026-11-12T18:35",
+          "2026-11-12T18:40",
+          "2026-11-12T18:45"
         ],
         "input_events": 0,
-        "output_events": 10
+        "output_events": 87
       },
       {
         "day": "2026-11-12",
@@ -29588,7 +29611,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 39.8,
+        "duration_minutes": 92.2,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29602,10 +29625,21 @@
           "2026-11-12T17:45",
           "2026-11-12T17:50",
           "2026-11-12T17:55",
-          "2026-11-12T18:00"
+          "2026-11-12T18:00",
+          "2026-11-12T18:05",
+          "2026-11-12T18:10",
+          "2026-11-12T18:15",
+          "2026-11-12T18:20",
+          "2026-11-12T18:25",
+          "2026-11-12T18:30",
+          "2026-11-12T18:35",
+          "2026-11-12T18:40",
+          "2026-11-12T18:45",
+          "2026-11-12T18:50",
+          "2026-11-12T18:55"
         ],
         "input_events": 0,
-        "output_events": 72
+        "output_events": 136
       },
       {
         "day": "2026-11-12",
@@ -29752,6 +29786,24 @@
       {
         "day": "2026-11-12",
         "kind": "git",
+        "title": "fix(营养表): 弹窗说明与标准收进标题行",
+        "summary": "提交 4c174013：fix(营养表): 弹窗说明与标准收进标题行",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 21,
+        "deletions": 9,
+        "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
         "title": "fix(营养表): 弹窗头部与表格行收紧，竖向不再浪费一屏",
         "summary": "提交 63222827：fix(营养表): 弹窗头部与表格行收紧，竖向不再浪费一屏",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -29853,6 +29905,24 @@
         "additions": 53,
         "deletions": 1,
         "files_changed": 2,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "fix(架构门禁): 快照读取剥离钩子 Git 上下文",
+        "summary": "提交 d82654b6：fix(架构门禁): 快照读取剥离钩子 Git 上下文",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 30,
+        "deletions": 16,
+        "files_changed": 3,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -71520,11 +71590,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 85630.6,
+    "duration_minutes": 85851.7,
     "tokens": 515362817,
-    "additions": 1189798,
-    "deletions": 363994,
-    "files_changed": 22628,
+    "additions": 1189849,
+    "deletions": 364019,
+    "files_changed": 22633,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -72418,12 +72488,24 @@
       "2026-11-12T17:45",
       "2026-11-12T17:50",
       "2026-11-12T17:55",
-      "2026-11-12T18:00"
+      "2026-11-12T18:00",
+      "2026-11-12T18:05",
+      "2026-11-12T18:10",
+      "2026-11-12T18:15",
+      "2026-11-12T18:20",
+      "2026-11-12T18:25",
+      "2026-11-12T18:30",
+      "2026-11-12T18:35",
+      "2026-11-12T18:40",
+      "2026-11-12T18:45",
+      "2026-11-12T18:50",
+      "2026-11-12T18:55",
+      "2026-11-12T19:00"
     ],
     "input_events": 261,
-    "output_events": 22158,
-    "active_minutes": 4465,
-    "active_slice_count": 893
+    "output_events": 22427,
+    "active_minutes": 4525,
+    "active_slice_count": 905
   },
   {
     "name": "tds-compliance",
@@ -73043,7 +73125,7 @@
           "Add paper-fiber material treatment and render a final-quality sample"
         ],
         "duration_minutes": 7361.7,
-        "tokens": 356442820,
+        "tokens": 365413452,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -73192,10 +73274,13 @@
           "2026-11-12T17:30",
           "2026-11-12T17:35",
           "2026-11-12T17:50",
-          "2026-11-12T17:55"
+          "2026-11-12T17:55",
+          "2026-11-12T18:15",
+          "2026-11-12T18:20",
+          "2026-11-12T18:45"
         ],
-        "input_events": 99,
-        "output_events": 269
+        "input_events": 100,
+        "output_events": 272
       },
       {
         "day": "2026-09-06",
@@ -77855,7 +77940,7 @@
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
     "duration_minutes": 9510.7,
-    "tokens": 557613424,
+    "tokens": 566584056,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -78060,12 +78145,15 @@
       "2026-11-12T17:30",
       "2026-11-12T17:35",
       "2026-11-12T17:50",
-      "2026-11-12T17:55"
+      "2026-11-12T17:55",
+      "2026-11-12T18:15",
+      "2026-11-12T18:20",
+      "2026-11-12T18:45"
     ],
-    "input_events": 143,
-    "output_events": 429,
-    "active_minutes": 1005,
-    "active_slice_count": 201
+    "input_events": 144,
+    "output_events": 432,
+    "active_minutes": 1020,
+    "active_slice_count": 204
   },
   {
     "name": "track-insight-miniapp",
