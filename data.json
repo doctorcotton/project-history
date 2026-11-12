@@ -120,8 +120,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 107.0,
-        "tokens": 41646853,
+        "duration_minutes": 203.1,
+        "tokens": 44470092,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -139,10 +139,37 @@
           "2026-11-12T16:40",
           "2026-11-12T16:45",
           "2026-11-12T16:50",
-          "2026-11-12T16:55"
+          "2026-11-12T16:55",
+          "2026-11-12T17:00",
+          "2026-11-12T17:05",
+          "2026-11-12T17:35",
+          "2026-11-12T17:40",
+          "2026-11-12T17:50",
+          "2026-11-12T17:55"
         ],
-        "input_events": 8,
-        "output_events": 16
+        "input_events": 12,
+        "output_events": 30
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · 41265647",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/12/rollout-2026-11-12T17-19-26-01a1c830-b558-7fc1-a1b9-d66c41265647_01a1cf0e-0d12-7f43-bbb1-6c42e677a362.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 4.1,
+        "tokens": 6780859,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-12T17:15",
+          "2026-11-12T17:20"
+        ],
+        "input_events": 2,
+        "output_events": 4
       },
       {
         "day": "2026-11-12",
@@ -5271,18 +5298,14 @@
           "修复 review_scope 输入契约与证据读取成本",
           "修复 GB 24154 适用范围检索闭包和观测口径"
         ],
-        "duration_minutes": 22.1,
-        "tokens": 2224008,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T12:10",
-          "2026-11-05T12:20",
-          "2026-11-05T12:30"
-        ],
-        "input_events": 5,
-        "output_events": 5
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -5317,19 +5340,14 @@
           "评估跨案记忆 PoC 方案",
           "实现 ADR-0020 与 mem0 跨案记忆 PoC"
         ],
-        "duration_minutes": 42.6,
-        "tokens": 9397775,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T13:15",
-          "2026-11-05T13:25",
-          "2026-11-05T13:30",
-          "2026-11-05T13:55"
-        ],
-        "input_events": 7,
-        "output_events": 9
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -5391,23 +5409,14 @@
           "修复绑定族压缩回归",
           "审计其他法规是否存在类似压缩风险"
         ],
-        "duration_minutes": 53.8,
-        "tokens": 10347449,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T12:05",
-          "2026-11-05T12:10",
-          "2026-11-05T12:20",
-          "2026-11-05T12:25",
-          "2026-11-05T12:30",
-          "2026-11-05T12:35",
-          "2026-11-05T12:55",
-          "2026-11-05T13:00"
-        ],
-        "input_events": 4,
-        "output_events": 13
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -5451,17 +5460,14 @@
         "tasks": [
           "Report implementation progress"
         ],
-        "duration_minutes": 1.4,
-        "tokens": 26978667,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T16:20",
-          "2026-11-05T16:25"
-        ],
-        "input_events": 3,
-        "output_events": 3
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -19553,23 +19559,12 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 16106.5,
-    "tokens": 8756321082,
+    "duration_minutes": 16086.8,
+    "tokens": 8716977281,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
     "active_bucket_keys": [
-      "2026-11-05T12:05",
-      "2026-11-05T12:10",
-      "2026-11-05T12:20",
-      "2026-11-05T12:25",
-      "2026-11-05T12:30",
-      "2026-11-05T12:35",
-      "2026-11-05T12:55",
-      "2026-11-05T13:00",
-      "2026-11-05T13:15",
-      "2026-11-05T13:25",
-      "2026-11-05T13:30",
       "2026-11-05T13:55",
       "2026-11-05T14:00",
       "2026-11-05T14:05",
@@ -19579,7 +19574,6 @@
       "2026-11-05T15:20",
       "2026-11-05T16:00",
       "2026-11-05T16:15",
-      "2026-11-05T16:20",
       "2026-11-05T16:25",
       "2026-11-05T16:35",
       "2026-11-05T16:45",
@@ -20712,12 +20706,20 @@
       "2026-11-12T16:40",
       "2026-11-12T16:45",
       "2026-11-12T16:50",
-      "2026-11-12T16:55"
+      "2026-11-12T16:55",
+      "2026-11-12T17:00",
+      "2026-11-12T17:05",
+      "2026-11-12T17:15",
+      "2026-11-12T17:20",
+      "2026-11-12T17:35",
+      "2026-11-12T17:40",
+      "2026-11-12T17:50",
+      "2026-11-12T17:55"
     ],
-    "input_events": 878,
-    "output_events": 6658,
-    "active_minutes": 5770,
-    "active_slice_count": 1154
+    "input_events": 865,
+    "output_events": 6646,
+    "active_minutes": 5750,
+    "active_slice_count": 1150
   },
   {
     "name": "project-iframe",
@@ -28941,7 +28943,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 152.8,
+        "duration_minutes": 175.8,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28975,10 +28977,14 @@
           "2026-11-12T16:40",
           "2026-11-12T16:45",
           "2026-11-12T16:50",
-          "2026-11-12T16:55"
+          "2026-11-12T16:55",
+          "2026-11-12T17:05",
+          "2026-11-12T17:10",
+          "2026-11-12T17:15",
+          "2026-11-12T17:20"
         ],
         "input_events": 0,
-        "output_events": 423
+        "output_events": 451
       },
       {
         "day": "2026-11-12",
@@ -29024,6 +29030,27 @@
         ],
         "input_events": 0,
         "output_events": 7
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · d21a59db",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 3.4,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-12T17:15",
+          "2026-11-12T17:20"
+        ],
+        "input_events": 0,
+        "output_events": 12
       },
       {
         "day": "2026-11-12",
@@ -29119,16 +29146,41 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1.1,
+        "duration_minutes": 39.3,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-12T17:00"
+          "2026-11-12T17:00",
+          "2026-11-12T17:25",
+          "2026-11-12T17:30",
+          "2026-11-12T17:35"
         ],
         "input_events": 0,
-        "output_events": 4
+        "output_events": 13
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · ad7f7683",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 14.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-12T17:05",
+          "2026-11-12T17:15",
+          "2026-11-12T17:20"
+        ],
+        "input_events": 0,
+        "output_events": 10
       },
       {
         "day": "2026-11-12",
@@ -29263,6 +29315,28 @@
         ],
         "input_events": 0,
         "output_events": 113
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 76f871e2",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 8.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-12T17:25",
+          "2026-11-12T17:30",
+          "2026-11-12T17:35"
+        ],
+        "input_events": 0,
+        "output_events": 13
       },
       {
         "day": "2026-11-12",
@@ -29508,6 +29582,34 @@
       {
         "day": "2026-11-12",
         "kind": "session",
+        "title": "本机 ZCode 会话 · 1c43a26f",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 39.8,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-12T17:20",
+          "2026-11-12T17:25",
+          "2026-11-12T17:30",
+          "2026-11-12T17:35",
+          "2026-11-12T17:40",
+          "2026-11-12T17:45",
+          "2026-11-12T17:50",
+          "2026-11-12T17:55",
+          "2026-11-12T18:00"
+        ],
+        "input_events": 0,
+        "output_events": 72
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 0ae97295",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
@@ -29536,7 +29638,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 3.3,
+        "duration_minutes": 3.4,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -29546,7 +29648,7 @@
           "2026-11-12T17:00"
         ],
         "input_events": 0,
-        "output_events": 23
+        "output_events": 24
       },
       {
         "day": "2026-11-12",
@@ -29574,6 +29676,42 @@
         ],
         "input_events": 8,
         "output_events": 29
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "test(营养表): 对齐共享配方只读回退文案",
+        "summary": "提交 b116f78e：test(营养表): 对齐共享配方只读回退文案",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1,
+        "deletions": 1,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "test(快捷入口): 对齐审核报告与看板候选数量",
+        "summary": "提交 1f876d05：test(快捷入口): 对齐审核报告与看板候选数量",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 2,
+        "deletions": 1,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-12",
@@ -29668,6 +29806,24 @@
       {
         "day": "2026-11-12",
         "kind": "git",
+        "title": "fix(组合任务): 物料切换优先显示工厂组代码",
+        "summary": "提交 a408656b：fix(组合任务): 物料切换优先显示工厂组代码",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 7,
+        "deletions": 9,
+        "files_changed": 4,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
         "title": "fix(码图): 前端默认不生成 69 码条码图形",
         "summary": "提交 3947dbf0：fix(码图): 前端默认不生成 69 码条码图形",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -29679,6 +29835,24 @@
         "additions": 83,
         "deletions": 31,
         "files_changed": 7,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "fix(消费者页): 活动时间按北京时间显示并保留秒级时刻",
+        "summary": "提交 e69fdffe：fix(消费者页): 活动时间按北京时间显示并保留秒级时刻",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 53,
+        "deletions": 1,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -29715,6 +29889,24 @@
         "additions": 31,
         "deletions": 15,
         "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "fix(字段面板): 窄档分组标题跟随滚动与字段定位",
+        "summary": "提交 2113d673：fix(字段面板): 窄档分组标题跟随滚动与字段定位",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 31,
+        "deletions": 10,
+        "files_changed": 2,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -29776,6 +29968,24 @@
       {
         "day": "2026-11-12",
         "kind": "git",
+        "title": "fix(任务工作台): 活动绑定与字段行列对齐",
+        "summary": "提交 5dbf85bc：fix(任务工作台): 活动绑定与字段行列对齐",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 51,
+        "deletions": 17,
+        "files_changed": 3,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
         "title": "fix(上游调用): 4xx 不再折叠为成功响应，PackVista 支持服务身份签名",
         "summary": "提交 458eb58b：fix(上游调用): 4xx 不再折叠为成功响应，PackVista 支持服务身份签名",
         "source": "/Users/cottondog/Work-projects/tds-studio/.git",
@@ -29787,6 +29997,24 @@
         "additions": 181,
         "deletions": 12,
         "files_changed": 4,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "feat(营养表): 受控目录支持合规名称集合并升级 v5",
+        "summary": "提交 6094b54c：feat(营养表): 受控目录支持合规名称集合并升级 v5",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 470,
+        "deletions": 83,
+        "files_changed": 26,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -29823,6 +30051,24 @@
         "additions": 4382,
         "deletions": 14,
         "files_changed": 44,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-12",
+        "kind": "git",
+        "title": "feat(字段注释): 目录下发填写说明并接入字段悬浮与详情",
+        "summary": "提交 b69932d6：feat(字段注释): 目录下发填写说明并接入字段悬浮与详情",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 113,
+        "deletions": 5,
+        "files_changed": 11,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -39310,18 +39556,14 @@
         "tasks": [
           "任务页面包屑视觉优化"
         ],
-        "duration_minutes": 5.9,
-        "tokens": 1103281,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T12:00",
-          "2026-11-05T12:05",
-          "2026-11-05T12:10"
-        ],
-        "input_events": 4,
-        "output_events": 3
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -39428,24 +39670,14 @@
         "tasks": [
           "实时刷新链路与最小失效改造"
         ],
-        "duration_minutes": 70.9,
-        "tokens": 40101523,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T12:00",
-          "2026-11-05T12:05",
-          "2026-11-05T12:15",
-          "2026-11-05T12:25",
-          "2026-11-05T12:45",
-          "2026-11-05T12:50",
-          "2026-11-05T12:55",
-          "2026-11-05T13:00",
-          "2026-11-05T13:15"
-        ],
-        "input_events": 8,
-        "output_events": 14
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -39668,23 +39900,14 @@
         "tasks": [
           "重构页面信息架构与视觉布局"
         ],
-        "duration_minutes": 72.3,
-        "tokens": 12128844,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-05T10:30",
-          "2026-11-05T11:15",
-          "2026-11-05T11:20",
-          "2026-11-05T11:30",
-          "2026-11-05T11:35",
-          "2026-11-05T11:40",
-          "2026-11-05T11:50",
-          "2026-11-05T12:00"
-        ],
-        "input_events": 10,
-        "output_events": 9
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-05",
@@ -71297,11 +71520,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 85653.2,
-    "tokens": 568696465,
-    "additions": 1189070,
-    "deletions": 363867,
-    "files_changed": 22578,
+    "duration_minutes": 85630.6,
+    "tokens": 515362817,
+    "additions": 1189798,
+    "deletions": 363994,
+    "files_changed": 22628,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -71313,23 +71536,6 @@
       "2026-10-13T11:30",
       "2026-10-20T03:25",
       "2026-10-26T19:20",
-      "2026-11-05T10:30",
-      "2026-11-05T11:15",
-      "2026-11-05T11:20",
-      "2026-11-05T11:30",
-      "2026-11-05T11:35",
-      "2026-11-05T11:40",
-      "2026-11-05T11:50",
-      "2026-11-05T12:00",
-      "2026-11-05T12:05",
-      "2026-11-05T12:10",
-      "2026-11-05T12:15",
-      "2026-11-05T12:25",
-      "2026-11-05T12:45",
-      "2026-11-05T12:50",
-      "2026-11-05T12:55",
-      "2026-11-05T13:00",
-      "2026-11-05T13:15",
       "2026-11-05T21:05",
       "2026-11-05T21:25",
       "2026-11-05T21:40",
@@ -72200,12 +72406,24 @@
       "2026-11-12T16:45",
       "2026-11-12T16:50",
       "2026-11-12T16:55",
-      "2026-11-12T17:00"
+      "2026-11-12T17:00",
+      "2026-11-12T17:05",
+      "2026-11-12T17:10",
+      "2026-11-12T17:15",
+      "2026-11-12T17:20",
+      "2026-11-12T17:25",
+      "2026-11-12T17:30",
+      "2026-11-12T17:35",
+      "2026-11-12T17:40",
+      "2026-11-12T17:45",
+      "2026-11-12T17:50",
+      "2026-11-12T17:55",
+      "2026-11-12T18:00"
     ],
-    "input_events": 283,
-    "output_events": 22039,
-    "active_minutes": 4490,
-    "active_slice_count": 898
+    "input_events": 261,
+    "output_events": 22158,
+    "active_minutes": 4465,
+    "active_slice_count": 893
   },
   {
     "name": "tds-compliance",
@@ -72824,8 +73042,8 @@
           "Correct UV orientation and prioritize face mapping",
           "Add paper-fiber material treatment and render a final-quality sample"
         ],
-        "duration_minutes": 7243.4,
-        "tokens": 340215323,
+        "duration_minutes": 7361.7,
+        "tokens": 356442820,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -72968,10 +73186,16 @@
           "2026-11-12T16:15",
           "2026-11-12T16:25",
           "2026-11-12T16:55",
-          "2026-11-12T17:00"
+          "2026-11-12T17:00",
+          "2026-11-12T17:10",
+          "2026-11-12T17:25",
+          "2026-11-12T17:30",
+          "2026-11-12T17:35",
+          "2026-11-12T17:50",
+          "2026-11-12T17:55"
         ],
-        "input_events": 94,
-        "output_events": 254
+        "input_events": 99,
+        "output_events": 269
       },
       {
         "day": "2026-09-06",
@@ -77630,8 +77854,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 9392.4,
-    "tokens": 541385927,
+    "duration_minutes": 9510.7,
+    "tokens": 557613424,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -77830,12 +78054,18 @@
       "2026-11-12T16:15",
       "2026-11-12T16:25",
       "2026-11-12T16:55",
-      "2026-11-12T17:00"
+      "2026-11-12T17:00",
+      "2026-11-12T17:10",
+      "2026-11-12T17:25",
+      "2026-11-12T17:30",
+      "2026-11-12T17:35",
+      "2026-11-12T17:50",
+      "2026-11-12T17:55"
     ],
-    "input_events": 138,
-    "output_events": 414,
-    "active_minutes": 975,
-    "active_slice_count": 195
+    "input_events": 143,
+    "output_events": 429,
+    "active_minutes": 1005,
+    "active_slice_count": 201
   },
   {
     "name": "track-insight-miniapp",
