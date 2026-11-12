@@ -8424,7 +8424,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 152.9,
+        "duration_minutes": 302.9,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -8451,10 +8451,12 @@
           "2026-11-12T19:15",
           "2026-11-12T19:20",
           "2026-11-12T19:25",
-          "2026-11-12T19:30"
+          "2026-11-12T19:30",
+          "2026-11-12T21:35",
+          "2026-11-12T22:00"
         ],
         "input_events": 0,
-        "output_events": 224
+        "output_events": 231
       },
       {
         "day": "2026-11-12",
@@ -8465,7 +8467,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 100.5,
+        "duration_minutes": 297.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -8482,10 +8484,16 @@
           "2026-11-12T18:30",
           "2026-11-12T18:35",
           "2026-11-12T18:40",
-          "2026-11-12T18:45"
+          "2026-11-12T18:45",
+          "2026-11-12T21:35",
+          "2026-11-12T21:40",
+          "2026-11-12T21:45",
+          "2026-11-12T21:50",
+          "2026-11-12T21:55",
+          "2026-11-12T22:00"
         ],
         "input_events": 0,
-        "output_events": 87
+        "output_events": 118
       },
       {
         "day": "2026-11-12",
@@ -48919,8 +48927,8 @@
           "建立每周版本检查自动化",
           "周期版本检查结果"
         ],
-        "duration_minutes": 73279.2,
-        "tokens": 2267532,
+        "duration_minutes": 82876.4,
+        "tokens": 2535824,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -48935,10 +48943,11 @@
           "2026-10-13T11:30",
           "2026-10-20T03:25",
           "2026-10-26T19:20",
-          "2026-11-06T05:40"
+          "2026-11-06T05:40",
+          "2026-11-12T21:35"
         ],
-        "input_events": 26,
-        "output_events": 41
+        "input_events": 28,
+        "output_events": 44
       },
       {
         "day": "2026-09-16",
@@ -50872,8 +50881,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 85883.1,
-    "tokens": 515362817,
+    "duration_minutes": 95826.8,
+    "tokens": 515631109,
     "additions": 1189849,
     "deletions": 364019,
     "files_changed": 22633,
@@ -51788,12 +51797,18 @@
       "2026-11-12T19:15",
       "2026-11-12T19:20",
       "2026-11-12T19:25",
-      "2026-11-12T19:30"
+      "2026-11-12T19:30",
+      "2026-11-12T21:35",
+      "2026-11-12T21:40",
+      "2026-11-12T21:45",
+      "2026-11-12T21:50",
+      "2026-11-12T21:55",
+      "2026-11-12T22:00"
     ],
-    "input_events": 261,
-    "output_events": 22510,
-    "active_minutes": 4555,
-    "active_slice_count": 911
+    "input_events": 263,
+    "output_events": 22551,
+    "active_minutes": 4585,
+    "active_slice_count": 917
   },
   {
     "name": "tds-compliance",
@@ -52412,8 +52427,8 @@
           "Correct UV orientation and prioritize face mapping",
           "Add paper-fiber material treatment and render a final-quality sample"
         ],
-        "duration_minutes": 7433.7,
-        "tokens": 382989305,
+        "duration_minutes": 7603.5,
+        "tokens": 394681267,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -52572,10 +52587,15 @@
           "2026-11-12T19:25",
           "2026-11-12T20:05",
           "2026-11-12T20:30",
-          "2026-11-12T20:35"
+          "2026-11-12T20:35",
+          "2026-11-12T21:00",
+          "2026-11-12T21:15",
+          "2026-11-12T21:20",
+          "2026-11-12T21:30",
+          "2026-11-12T21:50"
         ],
-        "input_events": 102,
-        "output_events": 281
+        "input_events": 104,
+        "output_events": 292
       },
       {
         "day": "2026-09-06",
@@ -57234,8 +57254,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 9582.7,
-    "tokens": 584159909,
+    "duration_minutes": 9752.5,
+    "tokens": 595851871,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -57450,12 +57470,17 @@
       "2026-11-12T19:25",
       "2026-11-12T20:05",
       "2026-11-12T20:30",
-      "2026-11-12T20:35"
+      "2026-11-12T20:35",
+      "2026-11-12T21:00",
+      "2026-11-12T21:15",
+      "2026-11-12T21:20",
+      "2026-11-12T21:30",
+      "2026-11-12T21:50"
     ],
-    "input_events": 146,
-    "output_events": 441,
-    "active_minutes": 1055,
-    "active_slice_count": 211
+    "input_events": 148,
+    "output_events": 452,
+    "active_minutes": 1080,
+    "active_slice_count": 216
   },
   {
     "name": "track-insight-miniapp",
@@ -61790,8 +61815,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 254.8,
-        "tokens": 49427813,
+        "duration_minutes": 445.9,
+        "tokens": 51795503,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -61816,10 +61841,13 @@
           "2026-11-12T17:40",
           "2026-11-12T17:50",
           "2026-11-12T17:55",
-          "2026-11-12T18:40"
+          "2026-11-12T18:40",
+          "2026-11-12T21:35",
+          "2026-11-12T21:50",
+          "2026-11-12T21:55"
         ],
-        "input_events": 12,
-        "output_events": 33
+        "input_events": 15,
+        "output_events": 37
       },
       {
         "day": "2026-11-12",
@@ -66416,8 +66444,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 16138.5,
-    "tokens": 8721935002,
+    "duration_minutes": 16329.6,
+    "tokens": 8724302692,
     "additions": 0,
     "deletions": 0,
     "files_changed": 0,
@@ -67572,12 +67600,15 @@
       "2026-11-12T17:40",
       "2026-11-12T17:50",
       "2026-11-12T17:55",
-      "2026-11-12T18:40"
+      "2026-11-12T18:40",
+      "2026-11-12T21:35",
+      "2026-11-12T21:50",
+      "2026-11-12T21:55"
     ],
-    "input_events": 865,
-    "output_events": 6649,
-    "active_minutes": 5755,
-    "active_slice_count": 1151
+    "input_events": 868,
+    "output_events": 6653,
+    "active_minutes": 5770,
+    "active_slice_count": 1154
   },
   {
     "name": "zen-m",
