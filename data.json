@@ -120,8 +120,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 445.9,
-        "tokens": 51795503,
+        "duration_minutes": 1165.7,
+        "tokens": 57565044,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -149,10 +149,14 @@
           "2026-11-12T18:40",
           "2026-11-12T21:35",
           "2026-11-12T21:50",
-          "2026-11-12T21:55"
+          "2026-11-12T21:55",
+          "2026-11-13T09:40",
+          "2026-11-13T09:45",
+          "2026-11-13T09:50",
+          "2026-11-13T09:55"
         ],
-        "input_events": 15,
-        "output_events": 37
+        "input_events": 21,
+        "output_events": 42
       },
       {
         "day": "2026-11-12",
@@ -19237,8 +19241,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 15158.0,
-    "tokens": 8565367590,
+    "duration_minutes": 15877.8,
+    "tokens": 8571137131,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20305,12 +20309,16 @@
       "2026-11-12T18:40",
       "2026-11-12T21:35",
       "2026-11-12T21:50",
-      "2026-11-12T21:55"
+      "2026-11-12T21:55",
+      "2026-11-13T09:40",
+      "2026-11-13T09:45",
+      "2026-11-13T09:50",
+      "2026-11-13T09:55"
     ],
-    "input_events": 817,
-    "output_events": 5710,
-    "active_minutes": 5315,
-    "active_slice_count": 1063
+    "input_events": 823,
+    "output_events": 5715,
+    "active_minutes": 5335,
+    "active_slice_count": 1067
   },
   {
     "name": "project-iframe",
@@ -28528,22 +28536,66 @@
       {
         "day": "2026-11-13",
         "kind": "session",
+        "title": "本机 ZCode 会话 · ca6284c1",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 4.3,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T10:00",
+          "2026-11-13T10:05"
+        ],
+        "input_events": 0,
+        "output_events": 9
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · ad7f7683",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 12.6,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T09:15",
+          "2026-11-13T09:20",
+          "2026-11-13T09:25"
+        ],
+        "input_events": 0,
+        "output_events": 34
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "session",
         "title": "本机 ZCode 会话 · 539db754",
         "summary": "当天有 ZCode 会话活动。",
         "source": "/Users/cottondog/.zcode/cli/log",
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 2.2,
+        "duration_minutes": 8.1,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-13T09:00"
+          "2026-11-13T09:00",
+          "2026-11-13T09:05"
         ],
         "input_events": 0,
-        "output_events": 3
+        "output_events": 5
       },
       {
         "day": "2026-11-12",
@@ -69679,7 +69731,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 93706.1,
+    "duration_minutes": 93728.9,
     "tokens": 463692052,
     "additions": 1191004,
     "deletions": 364302,
@@ -70485,12 +70537,18 @@
       "2026-11-12T22:05",
       "2026-11-12T22:10",
       "2026-11-12T22:15",
-      "2026-11-13T09:00"
+      "2026-11-13T09:00",
+      "2026-11-13T09:05",
+      "2026-11-13T09:15",
+      "2026-11-13T09:20",
+      "2026-11-13T09:25",
+      "2026-11-13T10:00",
+      "2026-11-13T10:05"
     ],
     "input_events": 240,
-    "output_events": 16787,
-    "active_minutes": 4005,
-    "active_slice_count": 801
+    "output_events": 16832,
+    "active_minutes": 4035,
+    "active_slice_count": 807
   },
   {
     "name": "tds-compliance",
@@ -71109,8 +71167,8 @@
           "Correct UV orientation and prioritize face mapping",
           "Add paper-fiber material treatment and render a final-quality sample"
         ],
-        "duration_minutes": 8249.7,
-        "tokens": 612478609,
+        "duration_minutes": 8318.5,
+        "tokens": 625210522,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -71351,10 +71409,20 @@
           "2026-11-13T08:35",
           "2026-11-13T08:40",
           "2026-11-13T08:45",
-          "2026-11-13T08:50"
+          "2026-11-13T08:50",
+          "2026-11-13T09:00",
+          "2026-11-13T09:05",
+          "2026-11-13T09:10",
+          "2026-11-13T09:15",
+          "2026-11-13T09:20",
+          "2026-11-13T09:25",
+          "2026-11-13T09:30",
+          "2026-11-13T09:35",
+          "2026-11-13T09:40",
+          "2026-11-13T09:45"
         ],
-        "input_events": 128,
-        "output_events": 457
+        "input_events": 131,
+        "output_events": 475
       },
       {
         "day": "2026-09-06",
@@ -76013,8 +76081,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 10398.7,
-    "tokens": 813649213,
+    "duration_minutes": 10467.5,
+    "tokens": 826381126,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -76311,12 +76379,22 @@
       "2026-11-13T08:35",
       "2026-11-13T08:40",
       "2026-11-13T08:45",
-      "2026-11-13T08:50"
+      "2026-11-13T08:50",
+      "2026-11-13T09:00",
+      "2026-11-13T09:05",
+      "2026-11-13T09:10",
+      "2026-11-13T09:15",
+      "2026-11-13T09:20",
+      "2026-11-13T09:25",
+      "2026-11-13T09:30",
+      "2026-11-13T09:35",
+      "2026-11-13T09:40",
+      "2026-11-13T09:45"
     ],
-    "input_events": 172,
-    "output_events": 617,
-    "active_minutes": 1465,
-    "active_slice_count": 293
+    "input_events": 175,
+    "output_events": 635,
+    "active_minutes": 1515,
+    "active_slice_count": 303
   },
   {
     "name": "track-insight-miniapp",
