@@ -120,8 +120,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1267.7,
-        "tokens": 127526282,
+        "duration_minutes": 1305.8,
+        "tokens": 148008666,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -170,10 +170,15 @@
           "2026-11-13T11:40",
           "2026-11-13T11:50",
           "2026-11-13T11:55",
-          "2026-11-13T12:00"
+          "2026-11-13T12:00",
+          "2026-11-13T12:05",
+          "2026-11-13T12:15",
+          "2026-11-13T12:45",
+          "2026-11-13T12:50",
+          "2026-11-13T13:00"
         ],
-        "input_events": 29,
-        "output_events": 76
+        "input_events": 30,
+        "output_events": 85
       },
       {
         "day": "2026-11-12",
@@ -19258,8 +19263,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 15979.8,
-    "tokens": 8641098369,
+    "duration_minutes": 16017.9,
+    "tokens": 8661580753,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20347,12 +20352,17 @@
       "2026-11-13T11:40",
       "2026-11-13T11:50",
       "2026-11-13T11:55",
-      "2026-11-13T12:00"
+      "2026-11-13T12:00",
+      "2026-11-13T12:05",
+      "2026-11-13T12:15",
+      "2026-11-13T12:45",
+      "2026-11-13T12:50",
+      "2026-11-13T13:00"
     ],
-    "input_events": 831,
-    "output_events": 5749,
-    "active_minutes": 5420,
-    "active_slice_count": 1084
+    "input_events": 832,
+    "output_events": 5758,
+    "active_minutes": 5445,
+    "active_slice_count": 1089
   },
   {
     "name": "project-iframe",
@@ -28660,7 +28670,7 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 47.7,
+        "duration_minutes": 73.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
@@ -28674,10 +28684,41 @@
           "2026-11-13T11:50",
           "2026-11-13T11:55",
           "2026-11-13T12:00",
-          "2026-11-13T12:05"
+          "2026-11-13T12:05",
+          "2026-11-13T12:10",
+          "2026-11-13T12:15",
+          "2026-11-13T12:20",
+          "2026-11-13T12:25",
+          "2026-11-13T12:30",
+          "2026-11-13T12:35"
         ],
         "input_events": 0,
-        "output_events": 132
+        "output_events": 165
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "session",
+        "title": "本机 ZCode 会话 · 88616961",
+        "summary": "当天有 ZCode 会话活动。",
+        "source": "/Users/cottondog/.zcode/cli/log",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 34.4,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T12:30",
+          "2026-11-13T12:35",
+          "2026-11-13T12:45",
+          "2026-11-13T12:55",
+          "2026-11-13T13:00",
+          "2026-11-13T13:05"
+        ],
+        "input_events": 0,
+        "output_events": 118
       },
       {
         "day": "2026-11-13",
@@ -28719,6 +28760,64 @@
         ],
         "input_events": 0,
         "output_events": 5
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "session",
+        "title": "本机 Codex 会话补录 · ebf0aa9a",
+        "summary": "当天有 Codex 会话活动。",
+        "source": "/Users/cottondog/.codex/sessions/2026/11/13/rollout-2026-11-13T12-51-02-01a1d33e-ab29-7f62-a444-5b40ebf0aa9a.jsonl",
+        "status": "有历史证据",
+        "branch": "",
+        "tasks": [],
+        "duration_minutes": 12.2,
+        "tokens": 7984770,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T12:50",
+          "2026-11-13T12:55",
+          "2026-11-13T13:00"
+        ],
+        "input_events": 3,
+        "output_events": 3
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "git",
+        "title": "test(工作台): 消除配方回读失败用例的时序偶发",
+        "summary": "提交 518c47d1：test(工作台): 消除配方回读失败用例的时序偶发",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 9,
+        "deletions": 4,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "git",
+        "title": "test(内审): 冻结营养块断言跟随字段名统一",
+        "summary": "提交 205912a9：test(内审): 冻结营养块断言跟随字段名统一",
+        "source": "/Users/cottondog/Work-projects/tds-studio/.git",
+        "status": "已推进",
+        "branch": "当前项目分支",
+        "tasks": [],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 1,
+        "deletions": 1,
+        "files_changed": 1,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-13",
@@ -70034,11 +70133,11 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 93896.8,
-    "tokens": 463692052,
-    "additions": 1194287,
-    "deletions": 364780,
-    "files_changed": 22717,
+    "duration_minutes": 93968.7,
+    "tokens": 471676822,
+    "additions": 1194297,
+    "deletions": 364785,
+    "files_changed": 22719,
     "active_bucket_keys": [
       "2026-09-16T08:20",
       "2026-09-16T08:25",
@@ -70869,12 +70968,23 @@
       "2026-11-13T11:50",
       "2026-11-13T11:55",
       "2026-11-13T12:00",
-      "2026-11-13T12:05"
+      "2026-11-13T12:05",
+      "2026-11-13T12:10",
+      "2026-11-13T12:15",
+      "2026-11-13T12:20",
+      "2026-11-13T12:25",
+      "2026-11-13T12:30",
+      "2026-11-13T12:35",
+      "2026-11-13T12:45",
+      "2026-11-13T12:50",
+      "2026-11-13T12:55",
+      "2026-11-13T13:00",
+      "2026-11-13T13:05"
     ],
-    "input_events": 240,
-    "output_events": 17289,
-    "active_minutes": 4150,
-    "active_slice_count": 830
+    "input_events": 243,
+    "output_events": 17443,
+    "active_minutes": 4205,
+    "active_slice_count": 841
   },
   {
     "name": "tds-compliance",
