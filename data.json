@@ -13,8 +13,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 271.6,
-        "tokens": 278252137,
+        "duration_minutes": 346.2,
+        "tokens": 344792218,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -47,10 +47,15 @@
           "2026-11-14T12:45",
           "2026-11-14T12:50",
           "2026-11-14T12:55",
-          "2026-11-14T13:00"
+          "2026-11-14T13:00",
+          "2026-11-14T13:05",
+          "2026-11-14T13:10",
+          "2026-11-14T13:15",
+          "2026-11-14T13:55",
+          "2026-11-14T14:00"
         ],
-        "input_events": 18,
-        "output_events": 55
+        "input_events": 23,
+        "output_events": 64
       },
       {
         "day": "2026-11-13",
@@ -3609,24 +3614,14 @@
           "恢复架构门禁并收口结构缺陷",
           "线上 TS/Python 迁移计划"
         ],
-        "duration_minutes": 52.4,
-        "tokens": 23695521,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T11:15",
-          "2026-11-07T11:20",
-          "2026-11-07T11:30",
-          "2026-11-07T11:35",
-          "2026-11-07T11:45",
-          "2026-11-07T11:50",
-          "2026-11-07T11:55",
-          "2026-11-07T12:00",
-          "2026-11-07T12:10"
-        ],
-        "input_events": 5,
-        "output_events": 14
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -3640,26 +3635,14 @@
           "TS/Python 结构审计",
           "线上 TS/Python 混合迁移计划"
         ],
-        "duration_minutes": 61.7,
-        "tokens": 7951003,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T10:05",
-          "2026-11-07T10:10",
-          "2026-11-07T10:15",
-          "2026-11-07T10:20",
-          "2026-11-07T10:25",
-          "2026-11-07T10:30",
-          "2026-11-07T10:35",
-          "2026-11-07T10:45",
-          "2026-11-07T10:50",
-          "2026-11-07T11:00",
-          "2026-11-07T11:05"
-        ],
-        "input_events": 10,
-        "output_events": 22
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4348,36 +4331,14 @@
           "检索工具与 Agent 链路归因",
           "检索排序单变量对照"
         ],
-        "duration_minutes": 177.7,
-        "tokens": 54099984,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T09:25",
-          "2026-11-07T09:30",
-          "2026-11-07T09:40",
-          "2026-11-07T09:45",
-          "2026-11-07T10:00",
-          "2026-11-07T10:05",
-          "2026-11-07T10:10",
-          "2026-11-07T10:15",
-          "2026-11-07T10:20",
-          "2026-11-07T10:30",
-          "2026-11-07T10:35",
-          "2026-11-07T10:40",
-          "2026-11-07T10:45",
-          "2026-11-07T11:25",
-          "2026-11-07T11:30",
-          "2026-11-07T11:40",
-          "2026-11-07T11:50",
-          "2026-11-07T12:00",
-          "2026-11-07T12:05",
-          "2026-11-07T12:10",
-          "2026-11-07T12:25"
-        ],
-        "input_events": 11,
-        "output_events": 36
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4390,17 +4351,14 @@
         "tasks": [
           "NRV 批量业务失败结构化透传"
         ],
-        "duration_minutes": 8.4,
-        "tokens": 3619920,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T08:30",
-          "2026-11-07T08:35"
-        ],
-        "input_events": 4,
-        "output_events": 7
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4414,19 +4372,14 @@
           "死代码与未使用代码审计",
           "最终建议"
         ],
-        "duration_minutes": 17.8,
-        "tokens": 4914947,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T12:40",
-          "2026-11-07T12:50",
-          "2026-11-07T12:55",
-          "2026-11-07T13:00"
-        ],
-        "input_events": 6,
-        "output_events": 4
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4439,17 +4392,14 @@
         "tasks": [
           "证据去重回执修复"
         ],
-        "duration_minutes": 6.8,
-        "tokens": 2756653,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T08:30",
-          "2026-11-07T08:35"
-        ],
-        "input_events": 4,
-        "output_events": 8
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4493,24 +4443,14 @@
         "tasks": [
           "诊断主动审核 Skill 优化效果"
         ],
-        "duration_minutes": 93.6,
-        "tokens": 30183809,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T08:35",
-          "2026-11-07T08:40",
-          "2026-11-07T08:50",
-          "2026-11-07T08:55",
-          "2026-11-07T09:05",
-          "2026-11-07T09:15",
-          "2026-11-07T09:30",
-          "2026-11-07T09:45",
-          "2026-11-07T10:05"
-        ],
-        "input_events": 10,
-        "output_events": 21
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4575,31 +4515,14 @@
           "全量 prompt/skill 库审计与结构问题定位",
           "修复 Prompt/Skill 身份与发布契约问题"
         ],
-        "duration_minutes": 173.5,
-        "tokens": 57182664,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T09:30",
-          "2026-11-07T09:35",
-          "2026-11-07T09:40",
-          "2026-11-07T09:45",
-          "2026-11-07T10:05",
-          "2026-11-07T10:10",
-          "2026-11-07T10:15",
-          "2026-11-07T10:30",
-          "2026-11-07T10:35",
-          "2026-11-07T11:05",
-          "2026-11-07T11:35",
-          "2026-11-07T11:40",
-          "2026-11-07T11:55",
-          "2026-11-07T12:10",
-          "2026-11-07T12:15",
-          "2026-11-07T12:20"
-        ],
-        "input_events": 12,
-        "output_events": 33
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4612,20 +4535,14 @@
         "tasks": [
           "统一特膳范围判据与候选准入"
         ],
-        "duration_minutes": 21.8,
-        "tokens": 11430072,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T08:30",
-          "2026-11-07T08:35",
-          "2026-11-07T08:40",
-          "2026-11-07T08:45",
-          "2026-11-07T08:50"
-        ],
-        "input_events": 5,
-        "output_events": 11
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-06",
@@ -19086,57 +19003,12 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 16076.5,
-    "tokens": 8849321289,
+    "duration_minutes": 15537.4,
+    "tokens": 8720026797,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
     "active_bucket_keys": [
-      "2026-11-07T08:30",
-      "2026-11-07T08:35",
-      "2026-11-07T08:40",
-      "2026-11-07T08:45",
-      "2026-11-07T08:50",
-      "2026-11-07T08:55",
-      "2026-11-07T09:05",
-      "2026-11-07T09:15",
-      "2026-11-07T09:25",
-      "2026-11-07T09:30",
-      "2026-11-07T09:35",
-      "2026-11-07T09:40",
-      "2026-11-07T09:45",
-      "2026-11-07T10:00",
-      "2026-11-07T10:05",
-      "2026-11-07T10:10",
-      "2026-11-07T10:15",
-      "2026-11-07T10:20",
-      "2026-11-07T10:25",
-      "2026-11-07T10:30",
-      "2026-11-07T10:35",
-      "2026-11-07T10:40",
-      "2026-11-07T10:45",
-      "2026-11-07T10:50",
-      "2026-11-07T11:00",
-      "2026-11-07T11:05",
-      "2026-11-07T11:15",
-      "2026-11-07T11:20",
-      "2026-11-07T11:25",
-      "2026-11-07T11:30",
-      "2026-11-07T11:35",
-      "2026-11-07T11:40",
-      "2026-11-07T11:45",
-      "2026-11-07T11:50",
-      "2026-11-07T11:55",
-      "2026-11-07T12:00",
-      "2026-11-07T12:05",
-      "2026-11-07T12:10",
-      "2026-11-07T12:15",
-      "2026-11-07T12:20",
-      "2026-11-07T12:25",
-      "2026-11-07T12:40",
-      "2026-11-07T12:50",
-      "2026-11-07T12:55",
-      "2026-11-07T13:00",
       "2026-11-07T13:10",
       "2026-11-07T13:15",
       "2026-11-07T13:20",
@@ -20130,12 +20002,17 @@
       "2026-11-14T12:45",
       "2026-11-14T12:50",
       "2026-11-14T12:55",
-      "2026-11-14T13:00"
+      "2026-11-14T13:00",
+      "2026-11-14T13:05",
+      "2026-11-14T13:10",
+      "2026-11-14T13:15",
+      "2026-11-14T13:55",
+      "2026-11-14T14:00"
     ],
-    "input_events": 761,
-    "output_events": 4844,
-    "active_minutes": 5195,
-    "active_slice_count": 1039
+    "input_events": 699,
+    "output_events": 4697,
+    "active_minutes": 4995,
+    "active_slice_count": 999
   },
   {
     "name": "project-iframe",
@@ -36730,22 +36607,14 @@
         "tasks": [
           "权限模型审计与修复"
         ],
-        "duration_minutes": 50.5,
-        "tokens": 10081223,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T09:40",
-          "2026-11-07T09:45",
-          "2026-11-07T09:50",
-          "2026-11-07T10:10",
-          "2026-11-07T10:20",
-          "2026-11-07T10:25",
-          "2026-11-07T10:30"
-        ],
-        "input_events": 8,
-        "output_events": 14
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -37193,20 +37062,14 @@
           "本地环境与 Gold 案例准备",
           "mock tds-review AI 审核冒烟与 Studio 展示验证"
         ],
-        "duration_minutes": 39.5,
-        "tokens": 24036000,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T06:00",
-          "2026-11-07T06:05",
-          "2026-11-07T06:25",
-          "2026-11-07T06:30",
-          "2026-11-07T06:40"
-        ],
-        "input_events": 7,
-        "output_events": 10
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-06",
@@ -37299,29 +37162,14 @@
         "tasks": [
           "内审职能完成状态与通知"
         ],
-        "duration_minutes": 183.0,
-        "tokens": 38214722,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T06:25",
-          "2026-11-07T06:30",
-          "2026-11-07T06:35",
-          "2026-11-07T06:40",
-          "2026-11-07T06:45",
-          "2026-11-07T06:55",
-          "2026-11-07T07:10",
-          "2026-11-07T08:50",
-          "2026-11-07T09:00",
-          "2026-11-07T09:05",
-          "2026-11-07T09:10",
-          "2026-11-07T09:15",
-          "2026-11-07T09:25",
-          "2026-11-07T09:30"
-        ],
-        "input_events": 15,
-        "output_events": 31
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-06",
@@ -70216,8 +70064,8 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 93748.0,
-    "tokens": 470309824,
+    "duration_minutes": 93475.0,
+    "tokens": 397977879,
     "additions": 1196751,
     "deletions": 365324,
     "files_changed": 22881,
@@ -70233,29 +70081,6 @@
       "2026-10-20T03:25",
       "2026-10-26T19:20",
       "2026-11-06T05:40",
-      "2026-11-07T06:00",
-      "2026-11-07T06:05",
-      "2026-11-07T06:25",
-      "2026-11-07T06:30",
-      "2026-11-07T06:35",
-      "2026-11-07T06:40",
-      "2026-11-07T06:45",
-      "2026-11-07T06:55",
-      "2026-11-07T07:10",
-      "2026-11-07T08:50",
-      "2026-11-07T09:00",
-      "2026-11-07T09:05",
-      "2026-11-07T09:10",
-      "2026-11-07T09:15",
-      "2026-11-07T09:25",
-      "2026-11-07T09:30",
-      "2026-11-07T09:40",
-      "2026-11-07T09:45",
-      "2026-11-07T09:50",
-      "2026-11-07T10:10",
-      "2026-11-07T10:20",
-      "2026-11-07T10:25",
-      "2026-11-07T10:30",
       "2026-11-08T06:10",
       "2026-11-08T08:15",
       "2026-11-08T08:20",
@@ -70993,10 +70818,10 @@
       "2026-11-14T09:00",
       "2026-11-14T09:05"
     ],
-    "input_events": 207,
-    "output_events": 17262,
-    "active_minutes": 3850,
-    "active_slice_count": 770
+    "input_events": 177,
+    "output_events": 17207,
+    "active_minutes": 3735,
+    "active_slice_count": 747
   },
   {
     "name": "tds-compliance",
@@ -71479,8 +71304,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1184.6,
-        "tokens": 170511198,
+        "duration_minutes": 1355.8,
+        "tokens": 193084074,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -71537,10 +71362,15 @@
           "2026-11-14T10:40",
           "2026-11-14T10:45",
           "2026-11-14T10:50",
-          "2026-11-14T10:55"
+          "2026-11-14T10:55",
+          "2026-11-14T13:40",
+          "2026-11-14T13:45",
+          "2026-11-14T13:50",
+          "2026-11-14T13:55",
+          "2026-11-14T14:00"
         ],
-        "input_events": 55,
-        "output_events": 163
+        "input_events": 58,
+        "output_events": 174
       },
       {
         "day": "2026-11-12",
@@ -76602,8 +76432,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 11652.1,
-    "tokens": 996892324,
+    "duration_minutes": 11823.3,
+    "tokens": 1019465200,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -76963,12 +76793,17 @@
       "2026-11-14T10:40",
       "2026-11-14T10:45",
       "2026-11-14T10:50",
-      "2026-11-14T10:55"
+      "2026-11-14T10:55",
+      "2026-11-14T13:40",
+      "2026-11-14T13:45",
+      "2026-11-14T13:50",
+      "2026-11-14T13:55",
+      "2026-11-14T14:00"
     ],
-    "input_events": 230,
-    "output_events": 798,
-    "active_minutes": 1780,
-    "active_slice_count": 356
+    "input_events": 233,
+    "output_events": 809,
+    "active_minutes": 1805,
+    "active_slice_count": 361
   },
   {
     "name": "track-insight-miniapp",
