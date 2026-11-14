@@ -13,8 +13,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 398.9,
-        "tokens": 410311377,
+        "duration_minutes": 420.1,
+        "tokens": 467734481,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -59,10 +59,16 @@
           "2026-11-14T14:25",
           "2026-11-14T14:35",
           "2026-11-14T14:40",
-          "2026-11-14T14:50"
+          "2026-11-14T14:50",
+          "2026-11-14T15:05",
+          "2026-11-14T15:10",
+          "2026-11-14T15:15",
+          "2026-11-14T15:20",
+          "2026-11-14T15:50",
+          "2026-11-14T15:55"
         ],
-        "input_events": 27,
-        "output_events": 86
+        "input_events": 30,
+        "output_events": 106
       },
       {
         "day": "2026-11-13",
@@ -19010,8 +19016,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 15590.1,
-    "tokens": 8785545956,
+    "duration_minutes": 15611.3,
+    "tokens": 8842969060,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20021,12 +20027,18 @@
       "2026-11-14T14:25",
       "2026-11-14T14:35",
       "2026-11-14T14:40",
-      "2026-11-14T14:50"
+      "2026-11-14T14:50",
+      "2026-11-14T15:05",
+      "2026-11-14T15:10",
+      "2026-11-14T15:15",
+      "2026-11-14T15:20",
+      "2026-11-14T15:50",
+      "2026-11-14T15:55"
     ],
-    "input_events": 703,
-    "output_events": 4719,
-    "active_minutes": 5030,
-    "active_slice_count": 1006
+    "input_events": 706,
+    "output_events": 4739,
+    "active_minutes": 5060,
+    "active_slice_count": 1012
   },
   {
     "name": "project-iframe",
@@ -71318,8 +71330,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1377.1,
-        "tokens": 197765769,
+        "duration_minutes": 1458.5,
+        "tokens": 211035790,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -71383,10 +71395,15 @@
           "2026-11-14T13:55",
           "2026-11-14T14:00",
           "2026-11-14T14:05",
-          "2026-11-14T14:10"
+          "2026-11-14T14:10",
+          "2026-11-14T15:10",
+          "2026-11-14T15:15",
+          "2026-11-14T15:20",
+          "2026-11-14T15:25",
+          "2026-11-14T15:30"
         ],
-        "input_events": 59,
-        "output_events": 179
+        "input_events": 62,
+        "output_events": 185
       },
       {
         "day": "2026-11-12",
@@ -76448,8 +76465,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 11844.6,
-    "tokens": 1024146895,
+    "duration_minutes": 11926.0,
+    "tokens": 1037416916,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -76816,12 +76833,17 @@
       "2026-11-14T13:55",
       "2026-11-14T14:00",
       "2026-11-14T14:05",
-      "2026-11-14T14:10"
+      "2026-11-14T14:10",
+      "2026-11-14T15:10",
+      "2026-11-14T15:15",
+      "2026-11-14T15:20",
+      "2026-11-14T15:25",
+      "2026-11-14T15:30"
     ],
-    "input_events": 234,
-    "output_events": 814,
-    "active_minutes": 1815,
-    "active_slice_count": 363
+    "input_events": 237,
+    "output_events": 820,
+    "active_minutes": 1840,
+    "active_slice_count": 368
   },
   {
     "name": "track-insight-miniapp",
