@@ -14,17 +14,22 @@
         "branch": "",
         "tasks": [],
         "duration_minutes": 11.2,
-        "tokens": 25105353,
+        "tokens": 72620282,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
           "2026-11-14T08:10",
           "2026-11-14T08:15",
-          "2026-11-14T08:20"
+          "2026-11-14T08:20",
+          "2026-11-14T09:20",
+          "2026-11-14T09:25",
+          "2026-11-14T09:30",
+          "2026-11-14T09:35",
+          "2026-11-14T09:40"
         ],
-        "input_events": 5,
-        "output_events": 8
+        "input_events": 9,
+        "output_events": 17
       },
       {
         "day": "2026-11-13",
@@ -19061,7 +19066,7 @@
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
     "duration_minutes": 15816.1,
-    "tokens": 8596174505,
+    "tokens": 8643689434,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20078,12 +20083,17 @@
       "2026-11-14T07:35",
       "2026-11-14T08:10",
       "2026-11-14T08:15",
-      "2026-11-14T08:20"
+      "2026-11-14T08:20",
+      "2026-11-14T09:20",
+      "2026-11-14T09:25",
+      "2026-11-14T09:30",
+      "2026-11-14T09:35",
+      "2026-11-14T09:40"
     ],
-    "input_events": 748,
-    "output_events": 4797,
-    "active_minutes": 5065,
-    "active_slice_count": 1013
+    "input_events": 752,
+    "output_events": 4806,
+    "active_minutes": 5090,
+    "active_slice_count": 1018
   },
   {
     "name": "project-iframe",
@@ -28312,16 +28322,17 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 0.4,
+        "duration_minutes": 5.0,
         "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
         "active_bucket_keys": [
-          "2026-11-14T09:00"
+          "2026-11-14T09:00",
+          "2026-11-14T09:05"
         ],
         "input_events": 0,
-        "output_events": 2
+        "output_events": 5
       },
       {
         "day": "2026-11-13",
@@ -70163,7 +70174,7 @@
       },
       "evidence_note": "本地测试和构建门禁不能替代真实 PostgreSQL/Redis/OSS/Gateway、部署容量和多副本 UAT。"
     },
-    "duration_minutes": 93743.4,
+    "duration_minutes": 93748.0,
     "tokens": 470309824,
     "additions": 1196751,
     "deletions": 365324,
@@ -70937,12 +70948,13 @@
       "2026-11-13T18:05",
       "2026-11-13T18:10",
       "2026-11-13T18:15",
-      "2026-11-14T09:00"
+      "2026-11-14T09:00",
+      "2026-11-14T09:05"
     ],
     "input_events": 207,
-    "output_events": 17259,
-    "active_minutes": 3845,
-    "active_slice_count": 769
+    "output_events": 17262,
+    "active_minutes": 3850,
+    "active_slice_count": 770
   },
   {
     "name": "tds-compliance",
@@ -71425,8 +71437,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1027.5,
-        "tokens": 91039121,
+        "duration_minutes": 1120.1,
+        "tokens": 119281452,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -71466,10 +71478,15 @@
           "2026-11-14T07:50",
           "2026-11-14T08:00",
           "2026-11-14T08:15",
-          "2026-11-14T08:20"
+          "2026-11-14T08:20",
+          "2026-11-14T09:35",
+          "2026-11-14T09:40",
+          "2026-11-14T09:45",
+          "2026-11-14T09:50",
+          "2026-11-14T09:55"
         ],
-        "input_events": 34,
-        "output_events": 70
+        "input_events": 39,
+        "output_events": 87
       },
       {
         "day": "2026-11-12",
@@ -76531,8 +76548,8 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 11495.0,
-    "tokens": 917420247,
+    "duration_minutes": 11587.6,
+    "tokens": 945662578,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
@@ -76875,12 +76892,17 @@
       "2026-11-14T07:50",
       "2026-11-14T08:00",
       "2026-11-14T08:15",
-      "2026-11-14T08:20"
+      "2026-11-14T08:20",
+      "2026-11-14T09:35",
+      "2026-11-14T09:40",
+      "2026-11-14T09:45",
+      "2026-11-14T09:50",
+      "2026-11-14T09:55"
     ],
-    "input_events": 209,
-    "output_events": 705,
-    "active_minutes": 1695,
-    "active_slice_count": 339
+    "input_events": 214,
+    "output_events": 722,
+    "active_minutes": 1720,
+    "active_slice_count": 344
   },
   {
     "name": "track-insight-miniapp",
