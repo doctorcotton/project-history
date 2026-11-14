@@ -13,8 +13,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 821.8,
-        "tokens": 860537862,
+        "duration_minutes": 834.4,
+        "tokens": 865545173,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -125,10 +125,12 @@
           "2026-11-14T21:25",
           "2026-11-14T21:40",
           "2026-11-14T21:50",
-          "2026-11-14T21:55"
+          "2026-11-14T21:55",
+          "2026-11-14T22:00",
+          "2026-11-14T22:05"
         ],
-        "input_events": 57,
-        "output_events": 223
+        "input_events": 63,
+        "output_events": 225
       },
       {
         "day": "2026-11-13",
@@ -19058,8 +19060,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 15890.5,
-    "tokens": 9205123702,
+    "duration_minutes": 15903.1,
+    "tokens": 9210131013,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -20130,12 +20132,14 @@
       "2026-11-14T21:25",
       "2026-11-14T21:40",
       "2026-11-14T21:50",
-      "2026-11-14T21:55"
+      "2026-11-14T21:55",
+      "2026-11-14T22:00",
+      "2026-11-14T22:05"
     ],
-    "input_events": 714,
-    "output_events": 4831,
-    "active_minutes": 5335,
-    "active_slice_count": 1067
+    "input_events": 720,
+    "output_events": 4833,
+    "active_minutes": 5345,
+    "active_slice_count": 1069
   },
   {
     "name": "project-iframe",
