@@ -13,8 +13,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 761.5,
-        "tokens": 814992774,
+        "duration_minutes": 821.8,
+        "tokens": 860537862,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -117,10 +117,18 @@
           "2026-11-14T20:40",
           "2026-11-14T20:50",
           "2026-11-14T20:55",
-          "2026-11-14T21:00"
+          "2026-11-14T21:00",
+          "2026-11-14T21:05",
+          "2026-11-14T21:10",
+          "2026-11-14T21:15",
+          "2026-11-14T21:20",
+          "2026-11-14T21:25",
+          "2026-11-14T21:40",
+          "2026-11-14T21:50",
+          "2026-11-14T21:55"
         ],
-        "input_events": 50,
-        "output_events": 205
+        "input_events": 57,
+        "output_events": 223
       },
       {
         "day": "2026-11-13",
@@ -4478,24 +4486,14 @@
           "TS/Python 架构审计",
           "QA Runtime P1 合同与并发改造"
         ],
-        "duration_minutes": 59.8,
-        "tokens": 15059886,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T13:55",
-          "2026-11-07T14:00",
-          "2026-11-07T14:05",
-          "2026-11-07T14:20",
-          "2026-11-07T14:25",
-          "2026-11-07T14:35",
-          "2026-11-07T14:45",
-          "2026-11-07T14:50",
-          "2026-11-07T14:55"
-        ],
-        "input_events": 10,
-        "output_events": 15
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -4551,22 +4549,14 @@
         "tasks": [
           "全库 Prompt/Skill 结构审计与合同收敛"
         ],
-        "duration_minutes": 62.7,
-        "tokens": 15588853,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-07T13:55",
-          "2026-11-07T14:15",
-          "2026-11-07T14:20",
-          "2026-11-07T14:30",
-          "2026-11-07T14:35",
-          "2026-11-07T14:50",
-          "2026-11-07T15:00"
-        ],
-        "input_events": 9,
-        "output_events": 10
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-11-07",
@@ -19068,8 +19058,8 @@
       },
       "evidence_note": "当前高质量本地门禁不等于真实 Provider/Gateway/数据库/队列和生产容量已验证；签核状态必须绑定源文件和证据摘要。"
     },
-    "duration_minutes": 15952.7,
-    "tokens": 9190227353,
+    "duration_minutes": 15890.5,
+    "tokens": 9205123702,
     "additions": 18107885,
     "deletions": 14719266,
     "files_changed": 29896,
@@ -19084,15 +19074,10 @@
       "2026-11-07T13:50",
       "2026-11-07T13:55",
       "2026-11-07T14:00",
-      "2026-11-07T14:05",
       "2026-11-07T14:10",
       "2026-11-07T14:15",
-      "2026-11-07T14:20",
-      "2026-11-07T14:25",
       "2026-11-07T14:30",
-      "2026-11-07T14:35",
       "2026-11-07T14:40",
-      "2026-11-07T14:45",
       "2026-11-07T14:50",
       "2026-11-07T14:55",
       "2026-11-07T15:00",
@@ -20137,12 +20122,20 @@
       "2026-11-14T20:40",
       "2026-11-14T20:50",
       "2026-11-14T20:55",
-      "2026-11-14T21:00"
+      "2026-11-14T21:00",
+      "2026-11-14T21:05",
+      "2026-11-14T21:10",
+      "2026-11-14T21:15",
+      "2026-11-14T21:20",
+      "2026-11-14T21:25",
+      "2026-11-14T21:40",
+      "2026-11-14T21:50",
+      "2026-11-14T21:55"
     ],
-    "input_events": 726,
-    "output_events": 4838,
-    "active_minutes": 5320,
-    "active_slice_count": 1064
+    "input_events": 714,
+    "output_events": 4831,
+    "active_minutes": 5335,
+    "active_slice_count": 1067
   },
   {
     "name": "project-iframe",
@@ -29126,13 +29119,64 @@
       },
       {
         "day": "2026-11-13",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · ebf0aa9a",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/11/13/rollout-2026-11-13T12-51-02-01a1d33e-ab29-7f62-a444-5b40ebf0aa9a.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
+        "kind": "rollout",
+        "title": "对齐研发区三个入口模块的宽度",
+        "summary": "success；任务：统一提示条、配方版本和营养成分表的列宽",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-11-13T07-26-30-KGBZ-align_task_workspace_recipe_panels.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "统一提示条、配方版本和营养成分表的列宽"
+        ],
+        "duration_minutes": 26.9,
+        "tokens": 10362479,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T15:25",
+          "2026-11-13T15:40",
+          "2026-11-13T15:45",
+          "2026-11-13T15:50"
+        ],
+        "input_events": 4,
+        "output_events": 12
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "rollout",
+        "title": "审核看板迁移统计口径与状态收口完成",
+        "summary": "success；任务：审核看板事实源与统计口径收口",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-11-13T07-14-13-YXv1-review_dashboard_analytics_fact_source_and_kpi_closure.md",
+        "status": "已推进",
+        "branch": "dev",
+        "tasks": [
+          "审核看板事实源与统计口径收口"
+        ],
+        "duration_minutes": 29.7,
+        "tokens": 12109004,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [
+          "2026-11-13T15:10",
+          "2026-11-13T15:40"
+        ],
+        "input_events": 2,
+        "output_events": 4
+      },
+      {
+        "day": "2026-11-13",
+        "kind": "rollout",
+        "title": "SVG 加载/闪烁体系完成结构化改造，但独立审查未产出结论",
+        "summary": "partial；uncertain；任务：定位并实施 SVG 加载体系收敛；子代理独立审查",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-11-13T04-51-02-T7mO-svg_loading_flicker_root_cause_and_atomic_preview_rework.md",
+        "status": "部分完成 / 待验证",
+        "branch": "dev",
+        "tasks": [
+          "定位并实施 SVG 加载体系收敛",
+          "子代理独立审查"
+        ],
         "duration_minutes": 162.4,
         "tokens": 84777938,
         "additions": 0,
@@ -29167,50 +29211,6 @@
         ],
         "input_events": 16,
         "output_events": 48
-      },
-      {
-        "day": "2026-11-13",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · e418afaf",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/11/13/rollout-2026-11-13T15-14-13-01a1d3c1-c49b-79b2-b838-c14de418afaf.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 29.7,
-        "tokens": 12109004,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-13T15:10",
-          "2026-11-13T15:40"
-        ],
-        "input_events": 2,
-        "output_events": 4
-      },
-      {
-        "day": "2026-11-13",
-        "kind": "session",
-        "title": "本机 Codex 会话补录 · a3998bfb",
-        "summary": "当天有 Codex 会话活动。",
-        "source": "/Users/cottondog/.codex/sessions/2026/11/13/rollout-2026-11-13T15-26-30-01a1d3cd-0340-7102-87f4-de6ba3998bfb.jsonl",
-        "status": "有历史证据",
-        "branch": "",
-        "tasks": [],
-        "duration_minutes": 26.9,
-        "tokens": 10362479,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-11-13T15:25",
-          "2026-11-13T15:40",
-          "2026-11-13T15:45",
-          "2026-11-13T15:50"
-        ],
-        "input_events": 4,
-        "output_events": 12
       },
       {
         "day": "2026-11-13",
@@ -45822,6 +45822,28 @@
       {
         "day": "2026-10-26",
         "kind": "rollout",
+        "title": "分析工作台中“模板与版本”及编辑锁、版本与交付页面的真实职责",
+        "summary": "success；partial；任务：判断“模板与版本”按钮是否有用；解释 SVG 编辑锁的逻辑和范围；分析“版本与交付”页面截图及实现",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-26T23-42-27-1zUT-tds_studio_template_version_edit_lock_analysis.md",
+        "status": "部分完成 / 待验证",
+        "branch": "dev",
+        "tasks": [
+          "判断“模板与版本”按钮是否有用",
+          "解释 SVG 编辑锁的逻辑和范围",
+          "分析“版本与交付”页面截图及实现"
+        ],
+        "duration_minutes": 0.0,
+        "tokens": 0,
+        "additions": 0,
+        "deletions": 0,
+        "files_changed": 0,
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
+      },
+      {
+        "day": "2026-10-26",
+        "kind": "rollout",
         "title": "优化任务详情页并统一人员组件",
         "summary": "success；uncertain；任务：任务详情页重构与验证；评估“提交内审”入口层级",
         "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-26T10-28-04-5O9W-task_detail_modal_global_personnel_and_submit_review_discove.md",
@@ -53027,28 +53049,6 @@
       {
         "day": "2026-10-14",
         "kind": "rollout",
-        "title": "项目总览/项目详情页面重构与验证",
-        "summary": "success；partial；任务：项目详情页 UI/UX 与业务结构重构；返回项目总览、筛选和路由上下文修复；测试、类型、Lint 与架构门禁",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-14T05-24-38-rHKD-tds_project_overview_detail_redesign_validation.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "项目详情页 UI/UX 与业务结构重构",
-          "返回项目总览、筛选和路由上下文修复",
-          "测试、类型、Lint 与架构门禁"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-10-14",
-        "kind": "rollout",
         "title": "营养成分表编辑与 SVG 工作台职责重构已实现并提交，但全量回归仍有与本次改动无关或未完全收敛的失败",
         "summary": "partial；success；任务：营养成分表弹窗编辑与保存语义；分离 SVG 底稿、绑定、预览和内容保存；审核/发布冻结内容与会签身份边界；验证、文档和提交",
         "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-14T01-38-10-fzx3-nutrition_modal_svg_boundary_refactor.md",
@@ -54091,26 +54091,6 @@
       {
         "day": "2026-10-13",
         "kind": "rollout",
-        "title": "项目详情页业务模型与页面组织分析",
-        "summary": "partial；任务：梳理项目、SPU、物料与任务的业务层级",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-13T04-27-06-c5rN-tds_project_detail_business_model_analysis.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "梳理项目、SPU、物料与任务的业务层级"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-10-13",
-        "kind": "rollout",
         "title": "评论服务审计并修复后续缺项",
         "summary": "success；任务：评论服务全栈审计与一致性修复；修复访问控制类型缺项与品牌图片 OpenAPI 漏声明",
         "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-13T14-23-16-Hw5T-tds_comment_audit_and_access_media_contract_fixes.md",
@@ -55130,26 +55110,6 @@
       },
       {
         "day": "2026-10-12",
-        "kind": "rollout",
-        "title": "UI layout regression investigation",
-        "summary": "partial；任务：Restore page structure and comments sidebar",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-12T09-28-38-5irG-tds_studio_layout_regression_investigation.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "Restore page structure and comments sidebar"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-10-12",
         "kind": "git",
         "title": "test(workbench): 转曲上传用例单独放宽超时至 30s",
         "summary": "提交 badd1df8：test(workbench): 转曲上传用例单独放宽超时至 30s",
@@ -55626,27 +55586,6 @@
         "branch": "dev",
         "tasks": [
           "服务端权威角色桥接"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-10-11",
-        "kind": "rollout",
-        "title": "TDS 原型业务主线梳理及图稿/会签锚点修订",
-        "summary": "success；partial；任务：原型页面层级与主业务流程分析；图稿身份与会签来源分流验证、规划修订",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-10-11T03-59-40-iocu-tds_prototype_material_artwork_and_countersign_source_audit.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "原型页面层级与主业务流程分析",
-          "图稿身份与会签来源分流验证、规划修订"
         ],
         "duration_minutes": 0.0,
         "tokens": 0,
@@ -63687,26 +63626,6 @@
       },
       {
         "day": "2026-09-24",
-        "kind": "rollout",
-        "title": "对 PMO 创建任务页面与 PRD/UX 进行核对，形成重做方案",
-        "summary": "partial；任务：核对 PMO 创建任务阶段",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-24T13-55-00-LKW5-pmo_task_creation_prd_ux_review.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "核对 PMO 创建任务阶段"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-09-24",
         "kind": "git",
         "title": "style(工作台): 清理 task-workspace.css 中旧版拼接编辑器样式",
         "summary": "提交 ae14fc48：style(工作台): 清理 task-workspace.css 中旧版拼接编辑器样式",
@@ -68226,15 +68145,15 @@
       {
         "day": "2026-09-16",
         "kind": "rollout",
-        "title": "codebase-memory-mcp 全局修复、升级与周期检查",
-        "summary": "success；任务：检查并升级 codebase-memory-mcp；建立每周版本检查自动化；周期版本检查结果",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-16T00-23-21-Gt4p-codebase_memory_mcp_upgrade_weekly_check.md",
+        "title": "codebase-memory-mcp 全局升级、定期检查与项目索引重建",
+        "summary": "success；任务：全局 MCP 配置核查与升级；设置并执行每周版本检查；重建 tds-studio codebase-memory 索引并验证 MCP",
+        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-16T00-23-21-Gt4p-codebase_memory_mcp_upgrade_weekly_check_index_rebuild.md",
         "status": "已推进",
         "branch": "dev",
         "tasks": [
-          "检查并升级 codebase-memory-mcp",
-          "建立每周版本检查自动化",
-          "周期版本检查结果"
+          "全局 MCP 配置核查与升级",
+          "设置并执行每周版本检查",
+          "重建 tds-studio codebase-memory 索引并验证 MCP"
         ],
         "duration_minutes": 83958.2,
         "tokens": 4803280,
@@ -69520,26 +69439,6 @@
         "additions": 351,
         "deletions": 14071,
         "files_changed": 138,
-        "active_bucket_keys": [],
-        "input_events": 0,
-        "output_events": 0
-      },
-      {
-        "day": "2026-09-02",
-        "kind": "rollout",
-        "title": "将 TDS 原型界面从“编辑/评论切换”演进为固定三栏协作工作台",
-        "summary": "uncertain；任务：TDS 图稿编辑与全局评论协作界面重构",
-        "source": "/Users/cottondog/.codex/memories/rollout_summaries/2026-09-02T10-01-59-ibBx-tds_fixed_three_column_global_comments_workbench.md",
-        "status": "部分完成 / 待验证",
-        "branch": "dev",
-        "tasks": [
-          "TDS 图稿编辑与全局评论协作界面重构"
-        ],
-        "duration_minutes": 0.0,
-        "tokens": 0,
-        "additions": 0,
-        "deletions": 0,
-        "files_changed": 0,
         "active_bucket_keys": [],
         "input_events": 0,
         "output_events": 0
@@ -71434,8 +71333,8 @@
         "status": "有历史证据",
         "branch": "",
         "tasks": [],
-        "duration_minutes": 1600.2,
-        "tokens": 226418093,
+        "duration_minutes": 1847.2,
+        "tokens": 246306609,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
@@ -71510,10 +71409,15 @@
           "2026-11-14T17:35",
           "2026-11-14T17:40",
           "2026-11-14T17:45",
-          "2026-11-14T17:50"
+          "2026-11-14T17:50",
+          "2026-11-14T21:15",
+          "2026-11-14T21:25",
+          "2026-11-14T21:35",
+          "2026-11-14T21:55",
+          "2026-11-14T22:00"
         ],
-        "input_events": 67,
-        "output_events": 197
+        "input_events": 70,
+        "output_events": 206
       },
       {
         "day": "2026-11-12",
@@ -71929,29 +71833,14 @@
         "tasks": [
           "重写 Blender 模型测评任务文档并重打包 ZIP"
         ],
-        "duration_minutes": 942.2,
-        "tokens": 186254,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-06T20:30",
-          "2026-09-06T20:35",
-          "2026-09-06T20:40",
-          "2026-09-06T20:45",
-          "2026-09-06T20:50",
-          "2026-09-06T20:55",
-          "2026-09-06T21:00",
-          "2026-09-06T21:05",
-          "2026-09-06T22:00",
-          "2026-09-06T22:05",
-          "2026-09-06T22:10",
-          "2026-09-06T22:15",
-          "2026-09-07T12:10",
-          "2026-09-07T12:15"
-        ],
-        "input_events": 10,
-        "output_events": 38
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-09-06",
@@ -71966,22 +71855,14 @@
           "Three.js 迁移到 Blender 的方案分析",
           "判断远程终端状态"
         ],
-        "duration_minutes": 989.8,
-        "tokens": 829282,
+        "duration_minutes": 0.0,
+        "tokens": 0,
         "additions": 0,
         "deletions": 0,
         "files_changed": 0,
-        "active_bucket_keys": [
-          "2026-09-06T17:20",
-          "2026-09-06T17:50",
-          "2026-09-06T17:55",
-          "2026-09-06T18:00",
-          "2026-09-06T18:05",
-          "2026-09-06T18:15",
-          "2026-09-07T09:50"
-        ],
-        "input_events": 7,
-        "output_events": 19
+        "active_bucket_keys": [],
+        "input_events": 0,
+        "output_events": 0
       },
       {
         "day": "2026-08-31",
@@ -76575,33 +76456,12 @@
       },
       "evidence_note": "本地渲染测试和分仓门禁不等于真实 Provider、OSS、Gateway、容量和生产发布已验收。"
     },
-    "duration_minutes": 12067.7,
-    "tokens": 1052799219,
+    "duration_minutes": 10382.7,
+    "tokens": 1071672199,
     "additions": 174050,
     "deletions": 43243,
     "files_changed": 2464,
     "active_bucket_keys": [
-      "2026-09-06T17:20",
-      "2026-09-06T17:50",
-      "2026-09-06T17:55",
-      "2026-09-06T18:00",
-      "2026-09-06T18:05",
-      "2026-09-06T18:15",
-      "2026-09-06T20:30",
-      "2026-09-06T20:35",
-      "2026-09-06T20:40",
-      "2026-09-06T20:45",
-      "2026-09-06T20:50",
-      "2026-09-06T20:55",
-      "2026-09-06T21:00",
-      "2026-09-06T21:05",
-      "2026-09-06T22:00",
-      "2026-09-06T22:05",
-      "2026-09-06T22:10",
-      "2026-09-06T22:15",
-      "2026-09-07T09:50",
-      "2026-09-07T12:10",
-      "2026-09-07T12:15",
       "2026-11-07T15:05",
       "2026-11-07T15:10",
       "2026-11-07T15:15",
@@ -76954,12 +76814,17 @@
       "2026-11-14T17:35",
       "2026-11-14T17:40",
       "2026-11-14T17:45",
-      "2026-11-14T17:50"
+      "2026-11-14T17:50",
+      "2026-11-14T21:15",
+      "2026-11-14T21:25",
+      "2026-11-14T21:35",
+      "2026-11-14T21:55",
+      "2026-11-14T22:00"
     ],
-    "input_events": 242,
-    "output_events": 832,
-    "active_minutes": 1870,
-    "active_slice_count": 374
+    "input_events": 228,
+    "output_events": 784,
+    "active_minutes": 1790,
+    "active_slice_count": 358
   },
   {
     "name": "track-insight-miniapp",
